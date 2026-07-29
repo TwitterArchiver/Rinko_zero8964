@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2041947908862570948",
+    "created_at": "2026-04-08T18:34:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T19:34:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041947908862570948"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "469933928",
+          "start": 3,
+          "username": "N552AA7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041947908862570948",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041813683484160045",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @N552AA7: 所有人好，我是新入圈的M-T-F，今天终于开始HRT了😭😭😭我是年龄家长天赋术后党，欢迎关注哦～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2041947908862570948",
+        "created_at": "2026-04-08T18:34:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T19:34:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041947908862570948"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "469933928",
+              "start": 3,
+              "username": "N552AA7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041947908862570948",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041813683484160045",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @N552AA7: 所有人好，我是新入圈的M-T-F，今天终于开始HRT了😭😭😭我是年龄家长天赋术后党，欢迎关注哦～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "469933928",
+        "conversation_id": "2041813683484160045",
+        "created_at": "2026-04-08T09:41:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T10:41:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041813683484160045"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Ayanami_rin0/s…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/Ayanami_rin0/status/2041700921185620155",
+              "start": 49,
+              "url": "https://t.co/vaDg7ZU3Gj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041813683484160045",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 627,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041700921185620155",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所有人好，我是新入圈的M-T-F，今天终于开始HRT了😭😭😭我是年龄家长天赋术后党，欢迎关注哦～ https://t.co/vaDg7ZU3Gj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思う、ゆえに我あり｜ 我是林子｜性别为无、｜寒くなってきたね……もう少しだけ、いい？｜intp-t｜asd/焦虑障碍｜🧬今日也想成为biohacker｜好妈妈们@asabakasaiko @loveforeversfy|bro @BelovedUren8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 81,
+                "username": "asabakasaiko"
+              },
+              {
+                "end": 110,
+                "start": 95,
+                "username": "loveforeversfy"
+              },
+              {
+                "end": 131,
+                "start": 115,
+                "username": "BelovedUren8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wakaba_rinko",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wakaba_rinko",
+                "start": 0,
+                "url": "https://t.co/zWqK1n9RJg"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "Ask me any u want→",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 655,
+          "following_count": 638,
+          "like_count": 17138,
+          "listed_count": 1,
+          "media_count": 166,
+          "tweet_count": 8245
+        },
+        "url": "https://t.co/zWqK1n9RJg",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2012-01-21T04:35:27.000Z",
+        "description": "08/MTX（f?/ENTP-T/ADHD/BPD/ASD（？/家长不稳定党/hrt：2024-8-25/ 小证：2025-11-14/坐标上海/oder/长在春风中，活在药效里。/上海市贴贴微信群前群主现群管/ 🚪25（同类免费，过门私信）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "n552aa.github.io",
+                "end": 23,
+                "expanded_url": "http://n552aa.github.io",
+                "start": 0,
+                "url": "https://t.co/NrRSmyWC6K"
+              }
+            ]
+          }
+        },
+        "id": "469933928",
+        "location": "参宿四",
+        "name": "N552AA🍥🍜🍣🍕💊🍫（七代目）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041797825961586692/wc9PBx2u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 35,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 6
+        },
+        "url": "https://t.co/NrRSmyWC6K",
+        "username": "N552AA7",
+        "verified": false
+      }
+    ]
+  }
+}
