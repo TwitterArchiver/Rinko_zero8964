@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2015299878596063666",
+    "created_at": "2026-01-25T08:48:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T09:48:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015346108516745273"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1437034228768595977",
+          "start": 0,
+          "username": "Kumamushi2021"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015346108516745273",
+    "in_reply_to_user_id": "1437034228768595977",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015299878596063666",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kumamushi2021 抱抱…你没做错什么，你做的很好了，抱抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2015299878596063666",
+        "created_at": "2026-01-25T08:48:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T09:48:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015346108516745273"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1437034228768595977",
+              "start": 0,
+              "username": "Kumamushi2021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015346108516745273",
+        "in_reply_to_user_id": "1437034228768595977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015299878596063666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kumamushi2021 抱抱…你没做错什么，你做的很好了，抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "conversation_id": "2015299878596063666",
+        "created_at": "2026-01-25T05:45:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T06:45:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015299878596063666"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2015299878596063666",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么从小到大都有人对我的玩伴说“离那个人远一点”“你不要和那个人玩”，对我说“你不要去打扰别人”“你别跟他玩”，我到底做了什么直到现在19岁了都搞不清楚。小孩子想要朋友是正常的吧？即使不是小孩了我的本能也会告诉我什么对我好什么对我坏。\n到底是我做了什么，为什么大家都离开了我？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜如果没有回关请私信提醒我！｜我不吸毒！！！｜性别为无、｜輪郭の定まらない位置にいた人@Psych_Angel_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 53,
+                "username": "Psych_Angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNh89"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 528,
+          "following_count": 492,
+          "like_count": 12889,
+          "listed_count": 1,
+          "media_count": 143,
+          "tweet_count": 6824
+        },
+        "url": "https://t.co/rCvc9RNh89",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、幽灵、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/患有双相注意避雷/废话很多",
+        "id": "1437034228768595977",
+        "location": "你的身旁",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008872173084229632/7RVhFGtF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 96,
+          "like_count": 3407,
+          "listed_count": 1,
+          "media_count": 177,
+          "tweet_count": 1735
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      }
+    ]
+  }
+}

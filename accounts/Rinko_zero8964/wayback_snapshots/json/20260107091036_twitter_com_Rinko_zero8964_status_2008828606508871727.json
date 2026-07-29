@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2008768168345637312",
+    "created_at": "2026-01-07T09:10:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T10:10:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008828606508871727"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1810962908987396096",
+          "start": 0,
+          "username": "SakurazakiAiko"
+        },
+        {
+          "end": 26,
+          "id": "1943704460813041665",
+          "start": 16,
+          "username": "misakixyg"
+        },
+        {
+          "end": 36,
+          "id": "1520998756392570883",
+          "start": 27,
+          "username": "muxi_pur"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008828606508871727",
+    "in_reply_to_user_id": "1810962908987396096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008828362937217122",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SakurazakiAiko @misakixyg @muxi_pur 卖药 媚药"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [misakixyg].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "misakixyg",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "misakixyg"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2008768168345637312",
+        "created_at": "2026-01-07T09:10:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T10:10:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008828606508871727"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1810962908987396096",
+              "start": 0,
+              "username": "SakurazakiAiko"
+            },
+            {
+              "end": 26,
+              "id": "1943704460813041665",
+              "start": 16,
+              "username": "misakixyg"
+            },
+            {
+              "end": 36,
+              "id": "1520998756392570883",
+              "start": 27,
+              "username": "muxi_pur"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008828606508871727",
+        "in_reply_to_user_id": "1810962908987396096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008828362937217122",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SakurazakiAiko @misakixyg @muxi_pur 卖药 媚药"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810962908987396096",
+        "conversation_id": "2008768168345637312",
+        "created_at": "2026-01-07T09:09:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T10:09:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008828362937217122"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1849043039496617984",
+              "start": 0,
+              "username": "Rinko_zero8964"
+            },
+            {
+              "end": 26,
+              "id": "1943704460813041665",
+              "start": 16,
+              "username": "misakixyg"
+            },
+            {
+              "end": 36,
+              "id": "1520998756392570883",
+              "start": 27,
+              "username": "muxi_pur"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008828362937217122",
+        "in_reply_to_user_id": "1849043039496617984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008821849703272655",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rinko_zero8964 @misakixyg @muxi_pur 三崎号咋没了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜如果没有回关请私信提醒我！｜我不吸毒！！！｜小猫我喜欢你超喜欢我爱你@psych_angel_｜性别为无、",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 45,
+                "username": "psych_angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNh89"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 492,
+          "following_count": 465,
+          "like_count": 10425,
+          "listed_count": 1,
+          "media_count": 130,
+          "tweet_count": 6209
+        },
+        "url": "https://t.co/rCvc9RNh89",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-10T09:03:21.000Z",
+        "description": "主人：@Poetry_Luna 妹妹： @HuliCaijia\n持證HRT🏳️‍⚧️重鬱中焦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Poetry_Luna"
+              },
+              {
+                "end": 31,
+                "start": 20,
+                "username": "HuliCaijia"
+              }
+            ]
+          }
+        },
+        "id": "1810962908987396096",
+        "location": "Silverymoon",
+        "name": "SakurazakiAiko🌸🍥",
+        "pinned_tweet_id": "1880247872270283012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971430315177680896/PgfmLle4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 374,
+          "following_count": 101,
+          "like_count": 12886,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 3575
+        },
+        "username": "SakurazakiAiko",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-02T05:29:04.000Z",
+        "description": "",
+        "id": "1520998756392570883",
+        "name": "木兮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924934937209352192/k2hVIFel_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 995,
+          "following_count": 520,
+          "like_count": 852,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 18
+        },
+        "username": "muxi_pur",
+        "verified": false
+      }
+    ]
+  }
+}

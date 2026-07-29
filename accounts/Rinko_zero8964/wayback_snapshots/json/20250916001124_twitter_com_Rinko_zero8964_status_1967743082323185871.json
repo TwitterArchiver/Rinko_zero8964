@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1967586018691002536",
+    "created_at": "2025-09-16T00:11:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T01:11:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967743082323185871"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1757256163564118016",
+          "start": 0,
+          "username": "AiLan95909"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967743082323185871",
+    "in_reply_to_user_id": "1757256163564118016",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967586018691002536",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AiLan95909 节哀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1967586008977022976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G05FDOoaoAADt4V.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1967586018691002536",
+        "created_at": "2025-09-16T00:11:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T01:11:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967743082323185871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1757256163564118016",
+              "start": 0,
+              "username": "AiLan95909"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967743082323185871",
+        "in_reply_to_user_id": "1757256163564118016",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967586018691002536",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AiLan95909 节哀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967586008977022976"
+          ]
+        },
+        "author_id": "1757256163564118016",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Pets such as pet food, toys, cleaning",
+              "id": "1557697078762958848",
+              "name": "Pet Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Pets",
+              "id": "852262932607926273",
+              "name": "Pets"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129086092202860544",
+              "name": "Marine life"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543325212319744",
+              "name": "Animals"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129086092202860544",
+              "name": "Marine life"
+            }
+          }
+        ],
+        "conversation_id": "1967586018691002536",
+        "created_at": "2025-09-15T13:47:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T14:47:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967586018691002536"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/u5gVy5hOfB",
+              "end": 169,
+              "expanded_url": "https://x.com/AiLan95909/status/1967586018691002536/photo/1",
+              "media_key": "3_1967586008977022976",
+              "start": 146,
+              "url": "https://t.co/u5gVy5hOfB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967586018691002536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 443,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "海月姐姐 聽到妳離去的消息我的眼淚真的忍不住掉了下來，明明昨天我們還在一起玩一起歐一起抽煙妳還幫我點煙......我不知道這一切來的那麽快，我們好像好像剛認識沒多久你就離開我了，小魚說你在醫院的時候我還在想著明天要去看望你，結果等來的是搶救無效......\n海月姐姐希望你不要再痛苦了\n節哀 https://t.co/u5gVy5hOfB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 271,
+          "like_count": 2861,
+          "listed_count": 2,
+          "media_count": 68,
+          "tweet_count": 3881
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-13T04:11:56.000Z",
+        "description": "靠近你就靠近了痛苦 遠離你卻遠離了幸福",
+        "id": "1757256163564118016",
+        "name": "沉黎",
+        "pinned_tweet_id": "1959975981072216189",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961784676366041088/5hbZH_ZF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 682,
+          "following_count": 85,
+          "like_count": 913,
+          "listed_count": 2,
+          "media_count": 47,
+          "tweet_count": 236
+        },
+        "username": "AiLan95909",
+        "verified": false
+      }
+    ]
+  }
+}

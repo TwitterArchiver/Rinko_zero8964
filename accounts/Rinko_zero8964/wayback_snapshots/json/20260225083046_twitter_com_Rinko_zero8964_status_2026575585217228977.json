@@ -1,0 +1,356 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2026497541794312374",
+    "created_at": "2026-02-25T08:30:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T09:30:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026575585217228977"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1879395690230738944",
+          "start": 0,
+          "username": "Psych_Angel_"
+        },
+        {
+          "end": 24,
+          "id": "1641968587102621696",
+          "start": 14,
+          "username": "0voki33Me"
+        },
+        {
+          "end": 30,
+          "id": "1720665183188922368",
+          "start": 25,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026575585217228977",
+    "in_reply_to_user_id": "1879395690230738944",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026536963080327658",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Psych_Angel_ @0voki33Me @grok 我有渠道"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2026536963080327658].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2026536963080327658",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2026536963080327658"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2026497541794312374",
+        "created_at": "2026-02-25T08:30:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T09:30:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026575585217228977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1879395690230738944",
+              "start": 0,
+              "username": "Psych_Angel_"
+            },
+            {
+              "end": 24,
+              "id": "1641968587102621696",
+              "start": 14,
+              "username": "0voki33Me"
+            },
+            {
+              "end": 30,
+              "id": "1720665183188922368",
+              "start": 25,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026575585217228977",
+        "in_reply_to_user_id": "1879395690230738944",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026536963080327658",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Psych_Angel_ @0voki33Me @grok 我有渠道"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思う、ゆえに我あり｜ 我是林子｜性别为无、｜寒くなってきたね……もう少しだけ、いい？｜intp-t｜asd/焦虑障碍｜🧬今日也想成为biohacker｜静态变量@Psych_Angel_｜好妈妈们@asabakasaiko @loveforeversfy|bro @BelovedUren8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 81,
+                "username": "Psych_Angel_"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "asabakasaiko"
+              },
+              {
+                "end": 128,
+                "start": 113,
+                "username": "loveforeversfy"
+              },
+              {
+                "end": 149,
+                "start": 133,
+                "username": "BelovedUren8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wakaba_rinko",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wakaba_rinko",
+                "start": 0,
+                "url": "https://t.co/zWqK1n9RJg"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "Ask me any u want→",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 597,
+          "following_count": 561,
+          "like_count": 15930,
+          "listed_count": 1,
+          "media_count": 153,
+          "tweet_count": 7722
+        },
+        "url": "https://t.co/zWqK1n9RJg",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-15T05:10:34.000Z",
+        "description": "Scientist | Philosopher | Lab Rat｜💊#Drugtwt｜BD/DPDR｜Lover💕Rinko:@Rinko_zero8964｜Soulmate:@BelovedUren8964｜🍜:@shungleemain｜👩:@DXM8964LXM｜🍊:@citrus_amara｜",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 43,
+                "start": 35,
+                "tag": "Drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 79,
+                "start": 64,
+                "username": "Rinko_zero8964"
+              },
+              {
+                "end": 105,
+                "start": 89,
+                "username": "BelovedUren8964"
+              },
+              {
+                "end": 121,
+                "start": 108,
+                "username": "shungleemain"
+              },
+              {
+                "end": 135,
+                "start": 124,
+                "username": "DXM8964LXM"
+              },
+              {
+                "end": 151,
+                "start": 138,
+                "username": "citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cutekitteno3o",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cutekitteno3o",
+                "start": 0,
+                "url": "https://t.co/OpK0Aryf51"
+              }
+            ]
+          }
+        },
+        "id": "1879395690230738944",
+        "location": "Ask me any u want→",
+        "name": "Mercy",
+        "pinned_tweet_id": "2017031778201194624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984317319691243521/rbczbPan_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 714,
+          "following_count": 803,
+          "like_count": 31865,
+          "listed_count": 1,
+          "media_count": 912,
+          "tweet_count": 14029
+        },
+        "url": "https://t.co/OpK0Aryf51",
+        "username": "Psych_Angel_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "=静｜提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4cJpl"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "外太空",
+        "name": "4w4y",
+        "pinned_tweet_id": "2024513212876767280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 526,
+          "following_count": 1127,
+          "like_count": 5339,
+          "listed_count": 0,
+          "media_count": 184,
+          "tweet_count": 3766
+        },
+        "url": "https://t.co/Dhfap4cJpl",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "pinned_tweet_id": "1955006865332638036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8080390,
+          "following_count": 3,
+          "like_count": 85,
+          "listed_count": 6194,
+          "media_count": 8451197,
+          "tweet_count": 108177746
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

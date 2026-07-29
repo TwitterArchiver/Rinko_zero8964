@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1989314290327732519",
+    "created_at": "2025-11-14T12:58:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T13:58:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989316899247890520"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1866458229527764992",
+          "start": 0,
+          "username": "Citrus_amara"
+        },
+        {
+          "end": 22,
+          "id": "1779921577213337601",
+          "start": 14,
+          "username": "TROWGGG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989316899247890520",
+    "in_reply_to_user_id": "1866458229527764992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989315300320264227",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Citrus_amara @TROWGGG 应激的时候可以试试先调暗灯光然后慢慢来，一旦有更激烈的动作就停下来过一段时间再接触，慢慢来（虽然我的耗子也没养多好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1989314290327732519",
+        "created_at": "2025-11-14T12:58:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T13:58:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989316899247890520"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            },
+            {
+              "end": 22,
+              "id": "1779921577213337601",
+              "start": 14,
+              "username": "TROWGGG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989316899247890520",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989315300320264227",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara @TROWGGG 应激的时候可以试试先调暗灯光然后慢慢来，一旦有更激烈的动作就停下来过一段时间再接触，慢慢来（虽然我的耗子也没养多好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866458229527764992",
+        "conversation_id": "1989314290327732519",
+        "created_at": "2025-11-14T12:51:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T13:51:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989315300320264227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1779921577213337601",
+              "start": 0,
+              "username": "TROWGGG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989315300320264227",
+        "in_reply_to_user_id": "1779921577213337601",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989314648588329315",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TROWGGG 应该没啥事，我换垫料它应激了可能"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜🥺@NashiMoe233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "NashiMoe233"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1967335109767692560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 300,
+          "like_count": 3697,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 4334
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相（bpd？）。od。enby🏳️‍⚧️（跨性别认同，请不要询问指派性别），HRT：2025.8.28。od的请陪我玩 #odtwt  #drugtwt 目标是吃遍一切独品。\n查成分回fo。忘记回fo请私聊。\n包含跨性别内容/滥用药物/暴论\n主人@zqtlovekris99 妹妹@shsh548866",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 66,
+                "tag": "odtwt"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 143,
+                "start": 129,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 157,
+                "start": 146,
+                "username": "shsh548866"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984473918544003072/vnuToRzP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 921,
+          "following_count": 741,
+          "like_count": 11702,
+          "listed_count": 4,
+          "media_count": 170,
+          "tweet_count": 4853
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-15T17:16:12.000Z",
+        "description": "我无处不在✟                                                                     \n✟不要攻击只是一个不存在的实体                                     只对药物科研有兴趣",
+        "id": "1779921577213337601",
+        "name": "我叫某小花",
+        "pinned_tweet_id": "1987699494419640557",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779922488182583296/kIMH2qk__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 92,
+          "like_count": 3713,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 245
+        },
+        "username": "TROWGGG",
+        "verified": false
+      }
+    ]
+  }
+}

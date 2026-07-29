@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2018555333720125797",
+    "created_at": "2026-02-04T09:17:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T10:17:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018977280421466396"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1678425548673150976",
+          "start": 0,
+          "username": "nhnhOv0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018977280421466396",
+    "in_reply_to_user_id": "1678425548673150976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018976017298149631",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nhnhOv0 我也是…但是我是不安焦虑难受呕吐反应，我一天大概要发作个两三次，多了就知道大概什么时候，泡在药效里就不会这样了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2018555333720125797",
+        "created_at": "2026-02-04T09:17:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T10:17:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018977280421466396"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1678425548673150976",
+              "start": 0,
+              "username": "nhnhOv0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018977280421466396",
+        "in_reply_to_user_id": "1678425548673150976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018976017298149631",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nhnhOv0 我也是…但是我是不安焦虑难受呕吐反应，我一天大概要发作个两三次，多了就知道大概什么时候，泡在药效里就不会这样了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1678425548673150976",
+        "conversation_id": "2018555333720125797",
+        "created_at": "2026-02-04T09:12:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T10:12:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018976017298149631"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1849043039496617984",
+              "start": 0,
+              "username": "Rinko_zero8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018976017298149631",
+        "in_reply_to_user_id": "1849043039496617984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018975516368437279",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rinko_zero8964 我都是突然发作浑身抖成傻逼     说话都抖    只能靠阿普拯救我了   早上两片   中午两片     玩上两片"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜如果没有回关请私信提醒我！｜我不吸毒！！！｜性别为无、｜輪郭の定まらない位置にいた人@Psych_Angel_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 53,
+                "username": "Psych_Angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNh89"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 547,
+          "following_count": 507,
+          "like_count": 13405,
+          "listed_count": 1,
+          "media_count": 144,
+          "tweet_count": 6998
+        },
+        "url": "https://t.co/rCvc9RNh89",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-10T15:26:55.000Z",
+        "description": "1907/日语学习中……/等待肉体的死亡中……/滥用安眠药od /可互fo/\n无能/可以叫我小n",
+        "id": "1678425548673150976",
+        "location": "天堂和地狱之间—人间",
+        "name": "(●_●)",
+        "pinned_tweet_id": "1728435544533999812",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009974293330046979/HgRXAajP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 317,
+          "following_count": 318,
+          "like_count": 5697,
+          "listed_count": 3,
+          "media_count": 80,
+          "tweet_count": 3434
+        },
+        "username": "nhnhOv0",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2020685801567502747",
+    "created_at": "2026-02-09T02:26:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T03:26:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020685801567502747"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1919090536180600832",
+          "start": 3,
+          "username": "dokigirlluv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020685801567502747",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020283770742665375",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dokigirlluv: 你们这群嗑药的傻逼 我爱你们"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2020685801567502747",
+        "created_at": "2026-02-09T02:26:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T03:26:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020685801567502747"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1919090536180600832",
+              "start": 3,
+              "username": "dokigirlluv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020685801567502747",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020283770742665375",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dokigirlluv: 你们这群嗑药的傻逼 我爱你们"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919090536180600832",
+        "conversation_id": "2020283770742665375",
+        "created_at": "2026-02-07T23:49:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T00:49:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020283770742665375"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2020283770742665375",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4739,
+          "like_count": 94,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "你们这群嗑药的傻逼 我爱你们"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ZA",
+              "full_name": "South Africa",
+              "geo": {
+                "coordinates": [
+                  24.0,
+                  -29.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我思即我在｜我是林子｜如果没有回关请私信提醒我！｜我不吸毒！！！｜性别为无、｜輪郭の定まらない位置にいた人@Psych_Angel_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 53,
+                "username": "Psych_Angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNh89"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 556,
+          "following_count": 512,
+          "like_count": 13710,
+          "listed_count": 1,
+          "media_count": 146,
+          "tweet_count": 7098
+        },
+        "url": "https://t.co/rCvc9RNh89",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-04T18:03:42.000Z",
+        "description": "https://t.co/k2PgJQzyvq",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/sophiasssophia1",
+                "end": 23,
+                "expanded_url": "https://t.me/sophiasssophia1",
+                "start": 0,
+                "url": "https://t.co/k2PgJQzyvq"
+              }
+            ]
+          }
+        },
+        "id": "1919090536180600832",
+        "name": "Childwaiting2009",
+        "pinned_tweet_id": "2008169564006146531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009227260839002112/PcgVwkJ2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11648,
+          "following_count": 51,
+          "like_count": 665,
+          "listed_count": 3,
+          "media_count": 141,
+          "tweet_count": 362
+        },
+        "username": "dokigirlluv",
+        "verified": false
+      }
+    ]
+  }
+}

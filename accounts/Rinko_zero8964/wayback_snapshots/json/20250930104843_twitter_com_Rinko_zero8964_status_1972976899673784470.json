@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1972976899673784470",
+    "created_at": "2025-09-30T10:48:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-30T11:48:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1972976899673784470"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/edward_8964/st…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/edward_8964/status/1972953223599370566",
+          "start": 14,
+          "url": "https://t.co/qawo9pfmQ6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972976899673784470",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972953223599370566",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "就是你们做局让我螺丝刀变贵 https://t.co/qawo9pfmQ6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1251,
+        "media_key": "3_1972953213537312768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2FWfptbYAAMdUZ.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1972976899673784470",
+        "created_at": "2025-09-30T10:48:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T11:48:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972976899673784470"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/edward_8964/st…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/edward_8964/status/1972953223599370566",
+              "start": 14,
+              "url": "https://t.co/qawo9pfmQ6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972976899673784470",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972953223599370566",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "就是你们做局让我螺丝刀变贵 https://t.co/qawo9pfmQ6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972953213537312768"
+          ]
+        },
+        "author_id": "1911828872334831616",
+        "conversation_id": "1972953223599370566",
+        "created_at": "2025-09-30T09:14:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T10:14:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972953223599370566"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jXIGH2KM7w",
+              "end": 37,
+              "expanded_url": "https://x.com/Edward_8964/status/1972953223599370566/photo/1",
+              "media_key": "3_1972953213537312768",
+              "start": 14,
+              "url": "https://t.co/jXIGH2KM7w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972953223599370566",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 110,
+          "like_count": 8,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "就是你们做局让我做不了能材 https://t.co/jXIGH2KM7w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1970904695813329260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 282,
+          "like_count": 3376,
+          "listed_count": 2,
+          "media_count": 74,
+          "tweet_count": 4126
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-14T17:08:26.000Z",
+        "description": "第4次转生 生理男｜退役OIer｜OD｜重精神病｜ADHD｜右美沙芬 ｜freeODwiki参与者｜NEwiki维护员｜自由、梦想、进取｜没有任何盈利",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nonexistent.wiki",
+                "end": 23,
+                "expanded_url": "http://nonexistent.wiki",
+                "start": 0,
+                "url": "https://t.co/l3ALBiEbNl"
+              }
+            ]
+          }
+        },
+        "id": "1911828872334831616",
+        "location": "NE",
+        "name": "💊爱德华",
+        "pinned_tweet_id": "1970742984984654222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968709578079764480/7M5DfbwN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 587,
+          "following_count": 469,
+          "like_count": 4339,
+          "listed_count": 3,
+          "media_count": 156,
+          "tweet_count": 2580
+        },
+        "url": "https://t.co/l3ALBiEbNl",
+        "username": "Edward_8964",
+        "verified": false
+      }
+    ]
+  }
+}

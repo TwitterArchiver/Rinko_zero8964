@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1966609897706946561"
+      ],
+      "media_source_tweet_id": [
+        "1966609960202035561"
+      ]
+    },
+    "author_id": "1849043039496617984",
+    "conversation_id": "1966823706975760739",
+    "created_at": "2025-09-13T11:18:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-13T12:18:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966823706975760739"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1111061683500445698",
+          "start": 3,
+          "username": "Lughostin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PfdNwBxOub",
+          "end": 57,
+          "expanded_url": "https://x.com/Lughostin/status/1966609960202035561/photo/1",
+          "media_key": "3_1966609897706946561",
+          "start": 34,
+          "url": "https://t.co/PfdNwBxOub"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966823706975760739",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3974
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966609960202035561",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Lughostin: Stocking posting ! https://t.co/PfdNwBxOub"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2160,
+        "media_key": "3_1966609897706946561",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0rNSEyXAAEpg2_.jpg",
+        "width": 3120
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966609897706946561"
+          ],
+          "media_source_tweet_id": [
+            "1966609960202035561"
+          ]
+        },
+        "author_id": "1849043039496617984",
+        "conversation_id": "1966823706975760739",
+        "created_at": "2025-09-13T11:18:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T12:18:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966823706975760739"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1111061683500445698",
+              "start": 3,
+              "username": "Lughostin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PfdNwBxOub",
+              "end": 57,
+              "expanded_url": "https://x.com/Lughostin/status/1966609960202035561/photo/1",
+              "media_key": "3_1966609897706946561",
+              "start": 34,
+              "url": "https://t.co/PfdNwBxOub"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966823706975760739",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3974
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966609960202035561",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Lughostin: Stocking posting ! https://t.co/PfdNwBxOub"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966609897706946561"
+          ]
+        },
+        "author_id": "1111061683500445698",
+        "conversation_id": "1966609960202035561",
+        "created_at": "2025-09-12T21:08:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T22:08:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966609960202035561"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PfdNwBxOub",
+              "end": 42,
+              "expanded_url": "https://x.com/Lughostin/status/1966609960202035561/photo/1",
+              "media_key": "3_1966609897706946561",
+              "start": 19,
+              "url": "https://t.co/PfdNwBxOub"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966609960202035561",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9278,
+          "impression_count": 464002,
+          "like_count": 49112,
+          "quote_count": 24,
+          "reply_count": 66,
+          "retweet_count": 3974
+        },
+        "reply_settings": "everyone",
+        "text": "Stocking posting ! https://t.co/PfdNwBxOub"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 265,
+          "like_count": 2678,
+          "listed_count": 2,
+          "media_count": 66,
+          "tweet_count": 3791
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-28T00:25:22.000Z",
+        "description": "On the lewd arc....\nAn individual who likes to draw and pun-ish others huah! Ghosts are best!\ncan support and find more art here :\nhttps://t.co/I9LdefJREh",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "patreon.com/lughost",
+                "end": 154,
+                "expanded_url": "http://patreon.com/lughost",
+                "start": 131,
+                "url": "https://t.co/I9LdefJREh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/lughostinart",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/lughostinart",
+                "start": 0,
+                "url": "https://t.co/cgKDhnCVn5"
+              }
+            ]
+          }
+        },
+        "id": "1111061683500445698",
+        "name": "Lughost 🔞",
+        "pinned_tweet_id": "1941946973013037409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834360724589547520/sEuQXq65_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85767,
+          "following_count": 728,
+          "like_count": 39282,
+          "listed_count": 280,
+          "media_count": 631,
+          "tweet_count": 6209
+        },
+        "url": "https://t.co/cgKDhnCVn5",
+        "username": "Lughostin",
+        "verified": false
+      }
+    ]
+  }
+}

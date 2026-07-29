@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1965984753599037673",
+    "created_at": "2025-09-12T18:37:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-12T19:37:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966571894804783234"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1235201727323705346",
+          "start": 0,
+          "username": "SAKURA09389828"
+        },
+        {
+          "end": 26,
+          "id": "1659962043460354050",
+          "start": 16,
+          "username": "SalviaSWC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966571894804783234",
+    "in_reply_to_user_id": "1235201727323705346",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966051170243477766",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SAKURA09389828 @SalviaSWC ？谁消费死者了鼠尾草的意思是这死法很痛苦而且对仍在现世的人影响深远，你反驳也找准点好不好没有人说死者决定死亡是不应该的是被苛责的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1965984753599037673",
+        "created_at": "2025-09-12T18:37:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T19:37:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966571894804783234"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1235201727323705346",
+              "start": 0,
+              "username": "SAKURA09389828"
+            },
+            {
+              "end": 26,
+              "id": "1659962043460354050",
+              "start": 16,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966571894804783234",
+        "in_reply_to_user_id": "1235201727323705346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966051170243477766",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SAKURA09389828 @SalviaSWC ？谁消费死者了鼠尾草的意思是这死法很痛苦而且对仍在现世的人影响深远，你反驳也找准点好不好没有人说死者决定死亡是不应该的是被苛责的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1235201727323705346",
+        "conversation_id": "1965984753599037673",
+        "created_at": "2025-09-11T08:08:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T09:08:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966051170243477766"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1659962043460354050",
+              "start": 0,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966051170243477766",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 210,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965984753599037673",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SalviaSWC 是不是真的想死从买药到吃药人家的心理活动思想挣扎比你一辈子都多，既然已经决定了那还要你来教我做什么事？恶意揣测动机和消费死者才是最给别人添麻烦的家伙"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 263,
+          "like_count": 2602,
+          "listed_count": 2,
+          "media_count": 66,
+          "tweet_count": 3734
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-04T13:53:46.000Z",
+        "description": "EN/ZH\nINFP–T/Pessimism/Affective Fragility\n互聯網人類行為觀測員\nProfessionalism:Scene Design\nAmateurism:Analytic Psychology /Pharmacology/Literature",
+        "id": "1235201727323705346",
+        "location": "宛平南路600号",
+        "name": "Yuki❄️🎐",
+        "pinned_tweet_id": "1966225862703067338",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1732478045880283137/78K9iLEQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2793,
+          "following_count": 914,
+          "like_count": 17182,
+          "listed_count": 4,
+          "media_count": 720,
+          "tweet_count": 5448
+        },
+        "username": "SAKURA09389828",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1158,
+          "following_count": 436,
+          "like_count": 6368,
+          "listed_count": 4,
+          "media_count": 92,
+          "tweet_count": 2244
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

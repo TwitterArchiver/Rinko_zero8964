@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1966574368588526029",
+    "created_at": "2025-09-12T18:50:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-12T19:50:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966575097575338463"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1960026902418321408",
+          "start": 0,
+          "username": "Drugs_Kitten"
+        },
+        {
+          "end": 27,
+          "id": "1956722348935221248",
+          "start": 14,
+          "username": "overdose_dxm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966575097575338463",
+    "in_reply_to_user_id": "1960026902418321408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966574368588526029",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Drugs_Kitten @overdose_dxm 这号现在又上新弱智了吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1966574354814365696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0qs9NMacAATmbu.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1966574368588526029",
+        "created_at": "2025-09-12T18:50:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T19:50:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966575097575338463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1960026902418321408",
+              "start": 0,
+              "username": "Drugs_Kitten"
+            },
+            {
+              "end": 27,
+              "id": "1956722348935221248",
+              "start": 14,
+              "username": "overdose_dxm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966575097575338463",
+        "in_reply_to_user_id": "1960026902418321408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966574368588526029",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Drugs_Kitten @overdose_dxm 这号现在又上新弱智了吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966574354814365696"
+          ]
+        },
+        "author_id": "1960026902418321408",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1966574368588526029",
+        "created_at": "2025-09-12T18:47:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T19:47:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966574368588526029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 51,
+              "id": "1956722348935221248",
+              "start": 38,
+              "username": "overdose_dxm"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RCEM5d8knu",
+              "end": 75,
+              "expanded_url": "https://x.com/Drugs_Kitten/status/1966574368588526029/photo/1",
+              "media_key": "3_1966574354814365696",
+              "start": 52,
+              "url": "https://t.co/RCEM5d8knu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966574368588526029",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不是很想aoe 但你们化学极乐百科里有正常人吗 还是说你们都被董晗感染了😅@overdose_dxm https://t.co/RCEM5d8knu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 263,
+          "like_count": 2628,
+          "listed_count": 2,
+          "media_count": 66,
+          "tweet_count": 3747
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-25T17:10:16.000Z",
+        "description": "💖你好，这里是小猫。｜药物百科副Wiki主｜有任何药物相关问题都可以私信免费咨询哦💕｜ 私信回fo｜谨慎关注里推:@CuteKittenO3O会有大量负能/药物使用",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 57,
+                "username": "CuteKittenO3O"
+              }
+            ]
+          }
+        },
+        "id": "1960026902418321408",
+        "name": "💊MediKitty🌌",
+        "pinned_tweet_id": "1960031991401005577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960036096215224320/DqeocQbY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 525,
+          "following_count": 144,
+          "like_count": 527,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 237
+        },
+        "username": "Drugs_Kitten",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-16T14:19:05.000Z",
+        "description": "本账号为科普账号，娱乐账号请看: @N_N_DET\n百科:https://t.co/da881UCykR\n关注我们的TG频道: @overdose_dxm",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 17,
+                "username": "N_N_DET"
+              },
+              {
+                "end": 77,
+                "start": 64,
+                "username": "overdose_dxm"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 52,
+                "expanded_url": "https://www.overdose.day/",
+                "start": 29,
+                "url": "https://t.co/da881UCykR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "https://www.overdose.day/",
+                "start": 0,
+                "url": "https://t.co/da881UCykR"
+              }
+            ]
+          }
+        },
+        "id": "1956722348935221248",
+        "name": "化学极乐百科🔯",
+        "pinned_tweet_id": "1956728430600532348",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956726791072329728/Ch_T98m-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 651,
+          "following_count": 425,
+          "like_count": 385,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 342
+        },
+        "url": "https://t.co/da881UCykR",
+        "username": "overdose_dxm",
+        "verified": false
+      }
+    ]
+  }
+}

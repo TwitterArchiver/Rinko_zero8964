@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2029559954865328228",
+    "created_at": "2026-03-06T08:31:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T09:31:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029837161940516980"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1900779126245769216",
+          "start": 0,
+          "username": "fawpv25"
+        },
+        {
+          "end": 22,
+          "id": "1866458229527764992",
+          "start": 9,
+          "username": "Citrus_amara"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029837161940516980",
+    "in_reply_to_user_id": "1900779126245769216",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029569554339557710",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fawpv25 @Citrus_amara 好像是谵妄！"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2029569554339557710].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2029569554339557710",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2029569554339557710"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2029559954865328228",
+        "created_at": "2026-03-06T08:31:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T09:31:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029837161940516980"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1900779126245769216",
+              "start": 0,
+              "username": "fawpv25"
+            },
+            {
+              "end": 22,
+              "id": "1866458229527764992",
+              "start": 9,
+              "username": "Citrus_amara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029837161940516980",
+        "in_reply_to_user_id": "1900779126245769216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029569554339557710",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fawpv25 @Citrus_amara 好像是谵妄！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思う、ゆえに我あり｜ 我是林子｜性别为无、｜寒くなってきたね……もう少しだけ、いい？｜intp-t｜asd/焦虑障碍｜🧬今日也想成为biohacker｜好妈妈们@asabakasaiko @loveforeversfy|bro @BelovedUren8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 81,
+                "username": "asabakasaiko"
+              },
+              {
+                "end": 110,
+                "start": 95,
+                "username": "loveforeversfy"
+              },
+              {
+                "end": 131,
+                "start": 115,
+                "username": "BelovedUren8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wakaba_rinko",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wakaba_rinko",
+                "start": 0,
+                "url": "https://t.co/zWqK1n9RJg"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "Ask me any u want→",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 591,
+          "following_count": 565,
+          "like_count": 16042,
+          "listed_count": 1,
+          "media_count": 154,
+          "tweet_count": 7796
+        },
+        "url": "https://t.co/zWqK1n9RJg",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-15T05:20:44.000Z",
+        "description": "如果你知道怎么变成一只乌鸦，请告诉我/匿名提问箱：https://t.co/k5wuyYhVxZ致力于成为你们的互联网好朋鸦/艺术就是生命/我们的诞生不是为了被疼痛感束缚/学习像人类一样地活下去。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiyujin1/",
+                "end": 48,
+                "expanded_url": "https://ngl.link/jiyujin1/",
+                "start": 25,
+                "url": "https://t.co/k5wuyYhVxZ"
+              }
+            ]
+          }
+        },
+        "id": "1900779126245769216",
+        "name": "Anoko",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006613154210721792/8FPJv03i_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 221,
+          "like_count": 13927,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 3794
+        },
+        "username": "fawpv25",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "FOR RESEARCH USE ONLY.\n妹妹 @shsh548866｜主人@zqtlovekris99丨🐱@psych_angel_丨@alcoholism19953",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 26,
+                "username": "shsh548866"
+              },
+              {
+                "end": 54,
+                "start": 40,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 69,
+                "start": 56,
+                "username": "psych_angel_"
+              },
+              {
+                "end": 86,
+                "start": 70,
+                "username": "alcoholism19953"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/dk3VYjA2Iv"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "2029577822264598770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021957931843948544/ZmLGYkSr_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1280,
+          "following_count": 1028,
+          "like_count": 17529,
+          "listed_count": 6,
+          "media_count": 368,
+          "tweet_count": 9557
+        },
+        "url": "https://t.co/dk3VYjA2Iv",
+        "username": "Citrus_amara",
+        "verified": false
+      }
+    ]
+  }
+}

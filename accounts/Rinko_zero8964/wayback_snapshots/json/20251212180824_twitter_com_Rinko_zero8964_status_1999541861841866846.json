@@ -1,0 +1,352 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1998875427067265437",
+    "created_at": "2025-12-12T18:08:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T19:08:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999541861841866846"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1911828872334831616",
+          "start": 0,
+          "username": "Edward_8964"
+        },
+        {
+          "end": 26,
+          "id": "1879395690230738944",
+          "start": 13,
+          "username": "Psych_Angel_"
+        },
+        {
+          "end": 41,
+          "id": "1924162938526654464",
+          "start": 27,
+          "username": "xongthangthoo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999541861841866846",
+    "in_reply_to_user_id": "1911828872334831616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999541451013624000",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Edward_8964 @Psych_Angel_ @xongthangthoo 你吃dpt打字不会变成错别字大王o.0？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1998875427067265437",
+        "created_at": "2025-12-12T18:08:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T19:08:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999541861841866846"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1911828872334831616",
+              "start": 0,
+              "username": "Edward_8964"
+            },
+            {
+              "end": 26,
+              "id": "1879395690230738944",
+              "start": 13,
+              "username": "Psych_Angel_"
+            },
+            {
+              "end": 41,
+              "id": "1924162938526654464",
+              "start": 27,
+              "username": "xongthangthoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999541861841866846",
+        "in_reply_to_user_id": "1911828872334831616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999541451013624000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Edward_8964 @Psych_Angel_ @xongthangthoo 你吃dpt打字不会变成错别字大王o.0？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1911828872334831616",
+        "conversation_id": "1998875427067265437",
+        "created_at": "2025-12-12T18:06:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T19:06:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999541451013624000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1879395690230738944",
+              "start": 0,
+              "username": "Psych_Angel_"
+            },
+            {
+              "end": 29,
+              "id": "1849043039496617984",
+              "start": 14,
+              "username": "Rinko_zero8964"
+            },
+            {
+              "end": 44,
+              "id": "1924162938526654464",
+              "start": 30,
+              "username": "xongthangthoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999541451013624000",
+        "in_reply_to_user_id": "1879395690230738944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999538267436548258",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Psych_Angel_ @Rinko_zero8964 @xongthangthoo 你现在打字状态让我很难确信这一点"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜🥺@NashiMoe233｜如果没有回关请私信提醒我！｜我不吸毒！！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "NashiMoe233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNOXH"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1999352315241988490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 414,
+          "following_count": 376,
+          "like_count": 5795,
+          "listed_count": 1,
+          "media_count": 98,
+          "tweet_count": 5098
+        },
+        "url": "https://t.co/rCvc9RNOXH",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-14T17:08:26.000Z",
+        "description": "南湖之虎｜第4次转生｜ MTX ｜退役OIer｜OD｜重精神病｜ADHD｜右美沙芬 ｜freeODwiki参与者｜NEwiki维护员｜自由、梦想、进取｜不盈利方针中断",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nonexistent.wiki",
+                "end": 23,
+                "expanded_url": "http://nonexistent.wiki",
+                "start": 0,
+                "url": "https://t.co/l3ALBiEbNl"
+              }
+            ]
+          }
+        },
+        "id": "1911828872334831616",
+        "location": "NE",
+        "name": "💊爱德华",
+        "pinned_tweet_id": "1994524465359982832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983915986710667264/18Wn7FvD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 752,
+          "following_count": 623,
+          "like_count": 6465,
+          "listed_count": 2,
+          "media_count": 273,
+          "tweet_count": 4214
+        },
+        "url": "https://t.co/l3ALBiEbNl",
+        "username": "Edward_8964",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-15T05:10:34.000Z",
+        "description": "𝓢𝓬𝓲𝓮𝓷𝓽𝓲𝓼𝓽 | 𝓟𝓱𝓲𝓵𝓸𝓼𝓸𝓹𝓱𝓮𝓻 | 𝓛𝓪𝓫 𝓡𝓪𝓽｜💊#Drugtwt｜BD/DPDR｜Soulmate:@BelovedUren8964｜🍧:@Chufeinya 🍜:@sanmiguelnoodle👩:@DXM8964LXM",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 43,
+                "start": 35,
+                "tag": "Drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 77,
+                "start": 61,
+                "username": "BelovedUren8964"
+              },
+              {
+                "end": 90,
+                "start": 80,
+                "username": "Chufeinya"
+              },
+              {
+                "end": 109,
+                "start": 93,
+                "username": "sanmiguelnoodle"
+              },
+              {
+                "end": 122,
+                "start": 111,
+                "username": "DXM8964LXM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cutekitteno3o",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cutekitteno3o",
+                "start": 0,
+                "url": "https://t.co/OpK0Aryf51"
+              }
+            ]
+          }
+        },
+        "id": "1879395690230738944",
+        "location": "Ask me any u want→",
+        "name": "Merciless",
+        "pinned_tweet_id": "1997345380972052793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984317319691243521/rbczbPan_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 639,
+          "following_count": 692,
+          "like_count": 22439,
+          "listed_count": 1,
+          "media_count": 687,
+          "tweet_count": 10204
+        },
+        "url": "https://t.co/OpK0Aryf51",
+        "username": "Psych_Angel_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-18T18:00:28.000Z",
+        "description": "已去\n至/之/制/致/衹\n未来",
+        "id": "1924162938526654464",
+        "name": "芭蓓蕗",
+        "pinned_tweet_id": "1929610504085164174",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924165233473454080/iBjt9LV4_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 20,
+          "like_count": 202,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 309
+        },
+        "username": "xongthangthoo",
+        "verified": false
+      }
+    ]
+  }
+}

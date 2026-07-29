@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2006041648715747442",
+    "created_at": "2025-12-31T05:55:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-31T06:55:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006242764254765516"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1879395690230738944",
+          "start": 0,
+          "username": "Psych_Angel_"
+        },
+        {
+          "end": 25,
+          "id": "1799795163843436544",
+          "start": 14,
+          "username": "BeetiIsDog"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006242764254765516",
+    "in_reply_to_user_id": "1879395690230738944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006069088569942418",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Psych_Angel_ @BeetiIsDog 支那咖啡因算毒品抗生素随便开这一点已经超过大部分国家了😅可见你支人民身上是有点异于其他国家人民的这都没养出什么变异体来"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2006069088569942418].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2006069088569942418",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2006069088569942418"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2006041648715747442",
+        "created_at": "2025-12-31T05:55:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T06:55:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006242764254765516"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1879395690230738944",
+              "start": 0,
+              "username": "Psych_Angel_"
+            },
+            {
+              "end": 25,
+              "id": "1799795163843436544",
+              "start": 14,
+              "username": "BeetiIsDog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006242764254765516",
+        "in_reply_to_user_id": "1879395690230738944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006069088569942418",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Psych_Angel_ @BeetiIsDog 支那咖啡因算毒品抗生素随便开这一点已经超过大部分国家了😅可见你支人民身上是有点异于其他国家人民的这都没养出什么变异体来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜如果没有回关请私信提醒我！｜我不吸毒！！！｜小猫我喜欢你超喜欢我爱你@psych_angel_｜性别为无、",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 45,
+                "username": "psych_angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNh89"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1999352315241988490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 488,
+          "following_count": 453,
+          "like_count": 8627,
+          "listed_count": 1,
+          "media_count": 124,
+          "tweet_count": 5868
+        },
+        "url": "https://t.co/rCvc9RNh89",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-15T05:10:34.000Z",
+        "description": "Scientist | Philosopher | Lab Rat｜💊#Drugtwt｜BD/DPDR｜BestLove🫶Rinko:@Rinko_zero8964｜Soulmate:@BelovedUren8964｜🍜:@shungleemain｜👩:@DXM8964LXM｜🍊:@citrus_amara",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 43,
+                "start": 35,
+                "tag": "Drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 82,
+                "start": 67,
+                "username": "Rinko_zero8964"
+              },
+              {
+                "end": 108,
+                "start": 92,
+                "username": "BelovedUren8964"
+              },
+              {
+                "end": 124,
+                "start": 111,
+                "username": "shungleemain"
+              },
+              {
+                "end": 138,
+                "start": 127,
+                "username": "DXM8964LXM"
+              },
+              {
+                "end": 154,
+                "start": 141,
+                "username": "citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cutekitteno3o",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cutekitteno3o",
+                "start": 0,
+                "url": "https://t.co/OpK0ArxHft"
+              }
+            ]
+          }
+        },
+        "id": "1879395690230738944",
+        "location": "Ask me any u want→",
+        "name": "Mercy",
+        "pinned_tweet_id": "2005036045461811517",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984317319691243521/rbczbPan_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 670,
+          "following_count": 723,
+          "like_count": 26020,
+          "listed_count": 1,
+          "media_count": 789,
+          "tweet_count": 11870
+        },
+        "url": "https://t.co/OpK0ArxHft",
+        "username": "Psych_Angel_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-09T13:26:33.000Z",
+        "description": "这是一个只会碎碎念的无脑物化生高三仓鼠多面手的账号,请不要和我讨论争议话题or吵架|| 成分有：藤井风/神经科学/精品神药/科普/oc/入机(依)恋 -⁠ᄒ⁠ᴥ⁠ᄒ⁠- 我写科普,知乎名是BEETI小小犬 || 另一个我：@5_HTIsUsagi   我老大：@sysjf0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 111,
+                "username": "5_HTIsUsagi"
+              },
+              {
+                "end": 137,
+                "start": 130,
+                "username": "sysjf0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+vOQWVMQTr0Y2O…",
+                "end": 23,
+                "expanded_url": "https://t.me/+vOQWVMQTr0Y2OGI1",
+                "start": 0,
+                "url": "https://t.co/n7w34dGfVN"
+              }
+            ]
+          }
+        },
+        "id": "1799795163843436544",
+        "location": "藤井風的钢琴",
+        "name": "ビーチイ小犬智商低",
+        "pinned_tweet_id": "1936770496970006587",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004246156466180103/gzhYtK4u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 439,
+          "following_count": 790,
+          "like_count": 30005,
+          "listed_count": 2,
+          "media_count": 437,
+          "tweet_count": 6990
+        },
+        "url": "https://t.co/n7w34dGfVN",
+        "username": "BeetiIsDog",
+        "verified": false
+      }
+    ]
+  }
+}

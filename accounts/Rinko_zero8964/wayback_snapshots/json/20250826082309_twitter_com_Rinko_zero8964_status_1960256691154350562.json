@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1959893136286838854",
+    "created_at": "2025-08-26T08:23:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-26T09:23:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960256691154350562"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1732356232290222080",
+          "start": 0,
+          "username": "8964_Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960256691154350562",
+    "in_reply_to_user_id": "1732356232290222080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959893136286838854",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8964_Y 我觉得吵架也挺好的，毕竟有些人是真蠢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 248,
+        "media_key": "3_1959893129320169472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzLwasrbgAA9fY4.jpg",
+        "width": 219
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1959893136286838854",
+        "created_at": "2025-08-26T08:23:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T09:23:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960256691154350562"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1732356232290222080",
+              "start": 0,
+              "username": "8964_Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960256691154350562",
+        "in_reply_to_user_id": "1732356232290222080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959893136286838854",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964_Y 我觉得吵架也挺好的，毕竟有些人是真蠢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959893129320169472"
+          ]
+        },
+        "author_id": "1732356232290222080",
+        "conversation_id": "1959893136286838854",
+        "created_at": "2025-08-25T08:18:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T09:18:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959893136286838854"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eTieTo4SZZ",
+              "end": 59,
+              "expanded_url": "https://x.com/8964_Y/status/1959893136286838854/photo/1",
+              "media_key": "3_1959893129320169472",
+              "start": 36,
+              "url": "https://t.co/eTieTo4SZZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959893136286838854",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 758,
+          "like_count": 26,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "希望我的性格能再沉稳一点，我太容易跟人家发生争吵了，要怎么做才可以呢？ https://t.co/eTieTo4SZZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849043147487420416/0nrEqJTK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 245,
+          "like_count": 2104,
+          "listed_count": 2,
+          "media_count": 46,
+          "tweet_count": 3291
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "全身心投入去演绎吧 全力以赴就这点程度？ ｜闺：@yeye828282｜只过信任的人：@LLYY221113｜专门发画的：@QY_art7 ｜偶尔看推  用来堆照片.ᐟ.ᐟ｜🚪100/188/520无区别⁖✦ ˖ ⊹ ｡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 24,
+                "username": "yeye828282"
+              },
+              {
+                "end": 54,
+                "start": 43,
+                "username": "LLYY221113"
+              },
+              {
+                "end": 69,
+                "start": 61,
+                "username": "QY_art7"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "1950397607399837990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937433822024597505/Se9_jaWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5749,
+          "following_count": 876,
+          "like_count": 15537,
+          "listed_count": 17,
+          "media_count": 822,
+          "tweet_count": 12119
+        },
+        "username": "8964_Y",
+        "verified": false
+      }
+    ]
+  }
+}

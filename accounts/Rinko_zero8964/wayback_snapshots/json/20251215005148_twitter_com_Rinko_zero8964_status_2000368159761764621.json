@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1988692315053993985"
+      ],
+      "media_source_tweet_id": [
+        "1988692385610744096"
+      ]
+    },
+    "author_id": "1849043039496617984",
+    "conversation_id": "2000368159761764621",
+    "created_at": "2025-12-15T00:51:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T01:51:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000368159761764621"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 21,
+          "start": 16,
+          "tag": "lain"
+        },
+        {
+          "end": 44,
+          "start": 22,
+          "tag": "SerialExperimentsLain"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "702776877765754880",
+          "start": 3,
+          "username": "real_dosed"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hQ5Nuh6VYh",
+          "end": 68,
+          "expanded_url": "https://x.com/real_dosed/status/1988692385610744096/photo/1",
+          "media_key": "3_1988692315053993985",
+          "start": 45,
+          "url": "https://t.co/hQ5Nuh6VYh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000368159761764621",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 133
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988692385610744096",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @real_dosed: #lain #SerialExperimentsLain https://t.co/hQ5Nuh6VYh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1988692315053993985",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5lBH75XsAER-0x.png",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988692315053993985"
+          ],
+          "media_source_tweet_id": [
+            "1988692385610744096"
+          ]
+        },
+        "author_id": "1849043039496617984",
+        "conversation_id": "2000368159761764621",
+        "created_at": "2025-12-15T00:51:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T01:51:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000368159761764621"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 16,
+              "tag": "lain"
+            },
+            {
+              "end": 44,
+              "start": 22,
+              "tag": "SerialExperimentsLain"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "702776877765754880",
+              "start": 3,
+              "username": "real_dosed"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hQ5Nuh6VYh",
+              "end": 68,
+              "expanded_url": "https://x.com/real_dosed/status/1988692385610744096/photo/1",
+              "media_key": "3_1988692315053993985",
+              "start": 45,
+              "url": "https://t.co/hQ5Nuh6VYh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000368159761764621",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 133
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988692385610744096",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @real_dosed: #lain #SerialExperimentsLain https://t.co/hQ5Nuh6VYh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988692315053993985"
+          ]
+        },
+        "author_id": "702776877765754880",
+        "conversation_id": "1988692385610744096",
+        "created_at": "2025-11-12T19:36:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T20:36:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988692385610744096"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "lain"
+            },
+            {
+              "end": 28,
+              "start": 6,
+              "tag": "SerialExperimentsLain"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hQ5Nuh6VYh",
+              "end": 52,
+              "expanded_url": "https://x.com/real_dosed/status/1988692385610744096/photo/1",
+              "media_key": "3_1988692315053993985",
+              "start": 29,
+              "url": "https://t.co/hQ5Nuh6VYh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988692385610744096",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 76,
+          "impression_count": 9708,
+          "like_count": 1054,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 133
+        },
+        "reply_settings": "everyone",
+        "text": "#lain #SerialExperimentsLain https://t.co/hQ5Nuh6VYh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜🥺@NashiMoe233｜如果没有回关请私信提醒我！｜我不吸毒！！！｜小猫我喜欢你超喜欢我爱你@psych_angel_｜性别为无、",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "NashiMoe233"
+              },
+              {
+                "end": 72,
+                "start": 59,
+                "username": "psych_angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNh89"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1999352315241988490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 420,
+          "following_count": 384,
+          "like_count": 6147,
+          "listed_count": 1,
+          "media_count": 101,
+          "tweet_count": 5192
+        },
+        "url": "https://t.co/rCvc9RNh89",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2016-02-25T08:47:19.000Z",
+        "description": "posting anime pics",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/reallydosed",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/reallydosed",
+                "start": 0,
+                "url": "https://t.co/36J5EPLZS0"
+              }
+            ]
+          }
+        },
+        "id": "702776877765754880",
+        "name": "dosed",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996859408676990976/u1Lk_jZ0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 724,
+          "following_count": 270,
+          "like_count": 6533,
+          "listed_count": 3,
+          "media_count": 267,
+          "tweet_count": 375
+        },
+        "url": "https://t.co/36J5EPLZS0",
+        "username": "real_dosed",
+        "verified": false
+      }
+    ]
+  }
+}

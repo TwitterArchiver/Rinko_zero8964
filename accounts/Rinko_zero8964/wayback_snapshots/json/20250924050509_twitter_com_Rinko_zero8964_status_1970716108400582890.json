@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1970716108400582890",
+    "created_at": "2025-09-24T05:05:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-24T06:05:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970716108400582890"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1607388730914140160",
+          "start": 3,
+          "username": "popcat1234566"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970716108400582890",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970693734800220621",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @popcat1234566: 香槟🍾🍾🍾🍾\n让我们庆祝wiki圈的大混战终于在大伙都熬不住夜对喷下结束了！！\n让我们迎接一个wiki贼几把多的多元，开放和民主（在哪）的时代！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1970716108400582890",
+        "created_at": "2025-09-24T05:05:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T06:05:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970716108400582890"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1607388730914140160",
+              "start": 3,
+              "username": "popcat1234566"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970716108400582890",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970693734800220621",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @popcat1234566: 香槟🍾🍾🍾🍾\n让我们庆祝wiki圈的大混战终于在大伙都熬不住夜对喷下结束了！！\n让我们迎接一个wiki贼几把多的多元，开放和民主（在哪）的时代！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1607388730914140160",
+        "conversation_id": "1970693734800220621",
+        "created_at": "2025-09-24T03:36:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T04:36:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970693734800220621"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1970693734800220621",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 121,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "香槟🍾🍾🍾🍾\n让我们庆祝wiki圈的大混战终于在大伙都熬不住夜对喷下结束了！！\n让我们迎接一个wiki贼几把多的多元，开放和民主（在哪）的时代！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1970229192852971663",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 282,
+          "like_count": 3310,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 4208
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-26T14:52:00.000Z",
+        "description": "被嫉妒吞噬的人\n\nN2O/笑气 3r低价批发  私信解锁不神秘菜单",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/popcat1234566",
+                "end": 23,
+                "expanded_url": "https://ngl.link/popcat1234566",
+                "start": 0,
+                "url": "https://t.co/vYlpd7xmaY"
+              }
+            ]
+          }
+        },
+        "id": "1607388730914140160",
+        "name": "popcat1234566",
+        "pinned_tweet_id": "1960642947600228419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812786235565314048/g2vuCrcL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 657,
+          "following_count": 674,
+          "like_count": 36366,
+          "listed_count": 0,
+          "media_count": 345,
+          "tweet_count": 1878
+        },
+        "url": "https://t.co/vYlpd7xmaY",
+        "username": "popcat1234566",
+        "verified": false
+      }
+    ]
+  }
+}

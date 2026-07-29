@@ -1,0 +1,369 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1988434765381279744",
+        "3_1988434781596532736",
+        "3_1988434781600727043",
+        "3_1988434774688444416"
+      ],
+      "media_source_tweet_id": [
+        "1988435025436581902",
+        "1988435025436581902",
+        "1988435025436581902",
+        "1988435025436581902"
+      ]
+    },
+    "author_id": "1849043039496617984",
+    "conversation_id": "2009032394234544401",
+    "created_at": "2026-01-07T22:40:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T23:40:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009032394234544401"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 23,
+          "start": 15,
+          "tag": "drugtwt"
+        },
+        {
+          "end": 33,
+          "start": 24,
+          "tag": "drugstwt"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1836276354041495553",
+          "start": 3,
+          "username": "CABR_Lies"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/304KhZI77C",
+          "end": 57,
+          "expanded_url": "https://x.com/CABR_Lies/status/1988435025436581902/video/1",
+          "media_key": "7_1988434765381279744",
+          "start": 34,
+          "url": "https://t.co/304KhZI77C"
+        },
+        {
+          "display_url": "pic.x.com/304KhZI77C",
+          "end": 57,
+          "expanded_url": "https://x.com/CABR_Lies/status/1988435025436581902/video/1",
+          "media_key": "3_1988434781596532736",
+          "start": 34,
+          "url": "https://t.co/304KhZI77C"
+        },
+        {
+          "display_url": "pic.x.com/304KhZI77C",
+          "end": 57,
+          "expanded_url": "https://x.com/CABR_Lies/status/1988435025436581902/video/1",
+          "media_key": "3_1988434781600727043",
+          "start": 34,
+          "url": "https://t.co/304KhZI77C"
+        },
+        {
+          "display_url": "pic.x.com/304KhZI77C",
+          "end": 57,
+          "expanded_url": "https://x.com/CABR_Lies/status/1988435025436581902/video/1",
+          "media_key": "3_1988434774688444416",
+          "start": 34,
+          "url": "https://t.co/304KhZI77C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009032394234544401",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988435025436581902",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CABR_Lies: #drugtwt #drugstwt https://t.co/304KhZI77C"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2009032394234544401].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2009032394234544401",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2009032394234544401"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10134,
+        "height": 1280,
+        "media_key": "7_1988434765381279744",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1988434765381279744/pu/img/aMX8U2VoM1wYqBgh.jpg",
+        "public_metrics": {
+          "view_count": 4813
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1988434765381279744/pu/vid/avc1/320x568/iH-ZP5PEhzsfOg72.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1988434765381279744/pu/vid/avc1/480x852/L-GeL_Xf0F-Zzn0r.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1988434765381279744/pu/vid/avc1/720x1280/nxLFS_komgBiLaEF.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1988434765381279744/pu/pl/lxwoK_GwgBDTjnOr.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1152,
+        "media_key": "3_1988434781596532736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5hW5hAXwAAn0Sq.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1988434781600727043",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5hW5hBXwAM_gNI.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1988434774688444416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5hW5HRWsAAV4pp.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1988434765381279744",
+            "3_1988434781596532736",
+            "3_1988434781600727043",
+            "3_1988434774688444416"
+          ]
+        },
+        "author_id": "1836276354041495553",
+        "conversation_id": "1988435025436581902",
+        "created_at": "2025-11-12T02:33:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T03:33:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988435025436581902"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "drugtwt"
+            },
+            {
+              "end": 18,
+              "start": 9,
+              "tag": "drugstwt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/304KhZI77C",
+              "end": 42,
+              "expanded_url": "https://x.com/CABR_Lies/status/1988435025436581902/video/1",
+              "media_key": "7_1988434765381279744",
+              "start": 19,
+              "url": "https://t.co/304KhZI77C"
+            },
+            {
+              "display_url": "pic.x.com/304KhZI77C",
+              "end": 42,
+              "expanded_url": "https://x.com/CABR_Lies/status/1988435025436581902/video/1",
+              "media_key": "3_1988434781596532736",
+              "start": 19,
+              "url": "https://t.co/304KhZI77C"
+            },
+            {
+              "display_url": "pic.x.com/304KhZI77C",
+              "end": 42,
+              "expanded_url": "https://x.com/CABR_Lies/status/1988435025436581902/video/1",
+              "media_key": "3_1988434781600727043",
+              "start": 19,
+              "url": "https://t.co/304KhZI77C"
+            },
+            {
+              "display_url": "pic.x.com/304KhZI77C",
+              "end": 42,
+              "expanded_url": "https://x.com/CABR_Lies/status/1988435025436581902/video/1",
+              "media_key": "3_1988434774688444416",
+              "start": 19,
+              "url": "https://t.co/304KhZI77C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988435025436581902",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9738,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "#drugtwt #drugstwt https://t.co/304KhZI77C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜如果没有回关请私信提醒我！｜我不吸毒！！！｜小猫我喜欢你超喜欢我爱你@psych_angel_｜性别为无、",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 45,
+                "username": "psych_angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNh89"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 493,
+          "following_count": 468,
+          "like_count": 10565,
+          "listed_count": 1,
+          "media_count": 130,
+          "tweet_count": 6251
+        },
+        "url": "https://t.co/rCvc9RNh89",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-18T05:29:42.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️营业右上角搜索 #shtwt #drugtwt｜我是DizzyRichter可以叫我枭儿｜he/them｜你说我的爱如石滚𝕷𝖚𝖛 𝖑𝖎𝖐𝖊 𝖗𝖔𝖈𝖐 𝖗𝖔𝖑𝖑 @Pardon_Love_",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 64,
+                "start": 58,
+                "tag": "shtwt"
+              },
+              {
+                "end": 73,
+                "start": 65,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 143,
+                "start": 130,
+                "username": "Pardon_Love_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitter.com/i/communities/…",
+                "end": 23,
+                "expanded_url": "https://twitter.com/i/communities/2002034506979750304",
+                "start": 0,
+                "url": "https://t.co/NzgTJgrTtB"
+              }
+            ]
+          }
+        },
+        "id": "1836276354041495553",
+        "location": "𝟐𝟕𝐂𝐥𝐮𝐛",
+        "name": "新中国第一春风𝐒𝐩𝐫𝐢𝐧𝐠#参宿四",
+        "pinned_tweet_id": "2008514256225055072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008850049200164864/EsooGKhM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4908,
+          "following_count": 180,
+          "like_count": 26030,
+          "listed_count": 8,
+          "media_count": 1129,
+          "tweet_count": 14211
+        },
+        "url": "https://t.co/NzgTJgrTtB",
+        "username": "CABR_Lies",
+        "verified": false
+      }
+    ]
+  }
+}

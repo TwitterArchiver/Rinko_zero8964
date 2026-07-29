@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1992193009585205633",
+    "created_at": "2025-11-23T02:14:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T03:14:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992416418571456926"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1735700650472955904",
+          "start": 0,
+          "username": "ErQiu8013"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992416418571456926",
+    "in_reply_to_user_id": "1735700650472955904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992193009585205633",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ErQiu8013 会幸福的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1387,
+        "media_key": "3_1992192486924574720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6WwgwNXYAAKQXH.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1992193009585205633",
+        "created_at": "2025-11-23T02:14:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T03:14:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992416418571456926"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1735700650472955904",
+              "start": 0,
+              "username": "ErQiu8013"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992416418571456926",
+        "in_reply_to_user_id": "1735700650472955904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992193009585205633",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ErQiu8013 会幸福的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992192486924574720"
+          ]
+        },
+        "author_id": "1735700650472955904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1992193009585205633",
+        "created_at": "2025-11-22T11:26:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T12:26:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992193009585205633"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/k9N2xTxizO",
+              "end": 145,
+              "expanded_url": "https://x.com/ErQiu8013/status/1992193009585205633/photo/1",
+              "media_key": "3_1992192486924574720",
+              "start": 122,
+              "url": "https://t.co/k9N2xTxizO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992193009585205633",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 619,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "孩子们我可能要隐退od圈了，药物滥用什么的\n\n美好梦幻，但是我更宁肯沉浸在自我的漩涡，而不是一次次的逃离后接触到更多所谓的“真相”“真理”\n\n世界确实很烂，但我还是想要带着经济泡沫的欣欣向荣，去接触，去体验，\n\n好好爱自己，\n\n看啊，这是世界 https://t.co/k9N2xTxizO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜🥺@NashiMoe233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "NashiMoe233"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1967335109767692560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 332,
+          "like_count": 4678,
+          "listed_count": 1,
+          "media_count": 90,
+          "tweet_count": 4581
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-15T16:37:52.000Z",
+        "description": "初音ミク/後藤 ひとり/葬送のフリーレン/Cyberpunk: Edgerunners/よふかしのうた/進撃の巨人/86，eva，……/genshin，hsr\n   薬物⚠️，低能量⚠️，日常/欢迎互fo\n拿空投投shi致歉",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/Iri023r",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/Iri023r",
+                "start": 0,
+                "url": "https://t.co/Azm3By4Bns"
+              }
+            ]
+          }
+        },
+        "id": "1735700650472955904",
+        "location": "垃圾场",
+        "name": "𝓦𝓪𝓷𝓰 𝓠𝓲𝓾𝓮𝓻（秋儿）降临派",
+        "pinned_tweet_id": "1986479994483449871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967985654865989634/AOuJ3T6N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1161,
+          "following_count": 1715,
+          "like_count": 22937,
+          "listed_count": 5,
+          "media_count": 570,
+          "tweet_count": 4531
+        },
+        "url": "https://t.co/Azm3By4Bns",
+        "username": "ErQiu8013",
+        "verified": false
+      }
+    ]
+  }
+}

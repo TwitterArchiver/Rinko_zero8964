@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1968119524462407680"
+      ],
+      "media_source_tweet_id": [
+        "1968119526844969301"
+      ]
+    },
+    "author_id": "1849043039496617984",
+    "conversation_id": "1969541765817647402",
+    "created_at": "2025-09-20T23:18:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-21T00:18:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969541765817647402"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1825138253629943810",
+          "start": 3,
+          "username": "vamp_starbat"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tHZPIz6Uh9",
+          "end": 69,
+          "expanded_url": "https://x.com/vamp_starbat/status/1968119526844969301/photo/1",
+          "media_key": "3_1968119524462407680",
+          "start": 46,
+          "url": "https://t.co/tHZPIz6Uh9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969541765817647402",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 707
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968119526844969301",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @vamp_starbat: PLEASE PLEASE PLEASE PLEASE https://t.co/tHZPIz6Uh9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 494,
+        "media_key": "3_1968119524462407680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1AqR6sXsAAqs__.jpg",
+        "width": 682
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968119524462407680"
+          ],
+          "media_source_tweet_id": [
+            "1968119526844969301"
+          ]
+        },
+        "author_id": "1849043039496617984",
+        "conversation_id": "1969541765817647402",
+        "created_at": "2025-09-20T23:18:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T00:18:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969541765817647402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1825138253629943810",
+              "start": 3,
+              "username": "vamp_starbat"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tHZPIz6Uh9",
+              "end": 69,
+              "expanded_url": "https://x.com/vamp_starbat/status/1968119526844969301/photo/1",
+              "media_key": "3_1968119524462407680",
+              "start": 46,
+              "url": "https://t.co/tHZPIz6Uh9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969541765817647402",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 707
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968119526844969301",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @vamp_starbat: PLEASE PLEASE PLEASE PLEASE https://t.co/tHZPIz6Uh9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968119524462407680"
+          ]
+        },
+        "author_id": "1825138253629943810",
+        "conversation_id": "1968119526844969301",
+        "created_at": "2025-09-17T01:07:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T02:07:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968119526844969301"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tHZPIz6Uh9",
+              "end": 51,
+              "expanded_url": "https://x.com/vamp_starbat/status/1968119526844969301/photo/1",
+              "media_key": "3_1968119524462407680",
+              "start": 28,
+              "url": "https://t.co/tHZPIz6Uh9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968119526844969301",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 801,
+          "impression_count": 85443,
+          "like_count": 6991,
+          "quote_count": 166,
+          "reply_count": 564,
+          "retweet_count": 707
+        },
+        "reply_settings": "everyone",
+        "text": "PLEASE PLEASE PLEASE PLEASE https://t.co/tHZPIz6Uh9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 317,
+          "following_count": 271,
+          "like_count": 3035,
+          "listed_count": 2,
+          "media_count": 70,
+          "tweet_count": 3965
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-18T11:51:08.000Z",
+        "description": "⭐ , i got that dog in me ,    cw 47,9kg ,    pro-recovery || not fatphobic ,\n#shedtwt #obslovetwt || BOYFRIEND OF @BluekiwiiXD",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 85,
+                "start": 77,
+                "tag": "shedtwt"
+              },
+              {
+                "end": 97,
+                "start": 86,
+                "tag": "obslovetwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 126,
+                "start": 114,
+                "username": "BluekiwiiXD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mirstar.straw.page",
+                "end": 23,
+                "expanded_url": "https://mirstar.straw.page",
+                "start": 0,
+                "url": "https://t.co/jal3FlFy8i"
+              }
+            ]
+          }
+        },
+        "id": "1825138253629943810",
+        "location": "cama do meu amor | bmi 17 jail",
+        "name": "☆ micro ☆",
+        "pinned_tweet_id": "1961217330253271422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960576924893290496/rOcP8sVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3151,
+          "following_count": 2583,
+          "like_count": 31005,
+          "listed_count": 34,
+          "media_count": 1463,
+          "tweet_count": 12681
+        },
+        "url": "https://t.co/jal3FlFy8i",
+        "username": "vamp_starbat",
+        "verified": false
+      }
+    ]
+  }
+}

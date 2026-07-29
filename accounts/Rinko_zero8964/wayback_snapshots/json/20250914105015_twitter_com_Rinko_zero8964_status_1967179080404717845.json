@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1966974923517157376"
+      ],
+      "media_source_tweet_id": [
+        "1966974925333557591"
+      ]
+    },
+    "author_id": "1849043039496617984",
+    "conversation_id": "1967179080404717845",
+    "created_at": "2025-09-14T10:50:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T11:50:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967179080404717845"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1922614760589131776",
+          "start": 3,
+          "username": "PSGarchive"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jw08OhIDlt",
+          "end": 57,
+          "expanded_url": "https://x.com/PSGarchive/status/1966974925333557591/photo/1",
+          "media_key": "3_1966974923517157376",
+          "start": 34,
+          "url": "https://t.co/jw08OhIDlt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967179080404717845",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 472
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966974925333557591",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PSGarchive: Official artwork. https://t.co/jw08OhIDlt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 723,
+        "media_key": "3_1966974923517157376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0wZRX5XYAA5gTD.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966974923517157376"
+          ],
+          "media_source_tweet_id": [
+            "1966974925333557591"
+          ]
+        },
+        "author_id": "1849043039496617984",
+        "conversation_id": "1967179080404717845",
+        "created_at": "2025-09-14T10:50:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T11:50:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967179080404717845"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1922614760589131776",
+              "start": 3,
+              "username": "PSGarchive"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jw08OhIDlt",
+              "end": 57,
+              "expanded_url": "https://x.com/PSGarchive/status/1966974925333557591/photo/1",
+              "media_key": "3_1966974923517157376",
+              "start": 34,
+              "url": "https://t.co/jw08OhIDlt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967179080404717845",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 472
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966974925333557591",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PSGarchive: Official artwork. https://t.co/jw08OhIDlt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966974923517157376"
+          ]
+        },
+        "author_id": "1922614760589131776",
+        "conversation_id": "1966974925333557591",
+        "created_at": "2025-09-13T21:19:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T22:19:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966974925333557591"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jw08OhIDlt",
+              "end": 41,
+              "expanded_url": "https://x.com/PSGarchive/status/1966974925333557591/photo/1",
+              "media_key": "3_1966974923517157376",
+              "start": 18,
+              "url": "https://t.co/jw08OhIDlt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966974925333557591",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 505,
+          "impression_count": 43068,
+          "like_count": 5552,
+          "quote_count": 4,
+          "reply_count": 3,
+          "retweet_count": 472
+        },
+        "reply_settings": "everyone",
+        "text": "Official artwork. https://t.co/jw08OhIDlt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 267,
+          "like_count": 2720,
+          "listed_count": 2,
+          "media_count": 66,
+          "tweet_count": 3813
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-14T11:27:47.000Z",
+        "description": "Repent, motherf*****!",
+        "id": "1922614760589131776",
+        "location": "Daten City",
+        "name": "Panty & Stocking Archive",
+        "pinned_tweet_id": "1966581219342098848",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934638207762587648/Myc8iOlo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35178,
+          "following_count": 95,
+          "like_count": 9521,
+          "listed_count": 25,
+          "media_count": 303,
+          "tweet_count": 403
+        },
+        "username": "PSGarchive",
+        "verified": true
+      }
+    ]
+  }
+}

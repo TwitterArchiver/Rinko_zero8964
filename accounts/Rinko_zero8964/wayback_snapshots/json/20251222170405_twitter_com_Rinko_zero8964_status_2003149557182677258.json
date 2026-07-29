@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2003100987251405028",
+    "created_at": "2025-12-22T17:04:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-22T18:04:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003149557182677258"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1607388730914140160",
+          "start": 0,
+          "username": "popcat1234566"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003149557182677258",
+    "in_reply_to_user_id": "1607388730914140160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003100987251405028",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@popcat1234566 那为什么不im"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2003100987251405028",
+        "created_at": "2025-12-22T17:04:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T18:04:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003149557182677258"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1607388730914140160",
+              "start": 0,
+              "username": "popcat1234566"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003149557182677258",
+        "in_reply_to_user_id": "1607388730914140160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003100987251405028",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@popcat1234566 那为什么不im"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1607388730914140160",
+        "conversation_id": "2003100987251405028",
+        "created_at": "2025-12-22T13:51:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T14:51:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003100987251405028"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2003100987251405028",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 248,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "鼻吸dpt（或者其他盐），可以溶于水，然后用鼻吸喷壶吸20左右喷。\n好处有：\n1.吸收更快，起效更快，这意味着可以更快麻痹咽喉。\n2.损耗更小，对鼻中隔伤害更小。\n3.可定量。吸粉末差点让我变成传奇。\n4.根本就不贵的！怕变质可以买个茶色的瓶子。\n5.鸡哥是区"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜如果没有回关请私信提醒我！｜我不吸毒！！！｜小猫我喜欢你超喜欢我爱你@psych_angel_｜性别为无、",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 45,
+                "username": "psych_angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNh89"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1999352315241988490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 440,
+          "following_count": 403,
+          "like_count": 7064,
+          "listed_count": 1,
+          "media_count": 106,
+          "tweet_count": 5462
+        },
+        "url": "https://t.co/rCvc9RNh89",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-26T14:52:00.000Z",
+        "description": "被嫉妒吞噬的人\n\nN2O/笑气 3.25r低价批发\n\ndpt 550/1g  2000/5g   4200/25g pea 噻萘普汀 麦斯卡林 随剂量问价 /普瑞巴林处方持有者 可合法代购\n没有警察的义务！\n私信不回，联系https://t.co/si90IVq3wj",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/opodoge",
+                "end": 134,
+                "expanded_url": "https://t.me/opodoge",
+                "start": 111,
+                "url": "https://t.co/si90IVq3wj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/popcat1234566",
+                "end": 23,
+                "expanded_url": "https://ngl.link/popcat1234566",
+                "start": 0,
+                "url": "https://t.co/vYlpd7wOlq"
+              }
+            ]
+          }
+        },
+        "id": "1607388730914140160",
+        "name": "popcat1234566",
+        "pinned_tweet_id": "1996964226662027662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997609291507998720/J7qv1WAE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1096,
+          "following_count": 652,
+          "like_count": 36387,
+          "listed_count": 0,
+          "media_count": 379,
+          "tweet_count": 2104
+        },
+        "url": "https://t.co/vYlpd7wOlq",
+        "username": "popcat1234566",
+        "verified": false
+      }
+    ]
+  }
+}

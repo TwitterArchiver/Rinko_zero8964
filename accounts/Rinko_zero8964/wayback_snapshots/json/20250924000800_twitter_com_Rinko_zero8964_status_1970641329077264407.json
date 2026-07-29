@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1970461304948400629",
+    "created_at": "2025-09-24T00:08:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-24T01:08:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970641329077264407"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1846704473751560192",
+          "start": 0,
+          "username": "xiaowusama55555"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970641329077264407",
+    "in_reply_to_user_id": "1846704473751560192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970461304948400629",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaowusama55555 还他妈不删这条推等着把你眼里那位“能替你伸张正义的人”的真实模样全抖出来吗，你这条推根本无法证明你的任何清白还诬赖了彼岸镜，彼岸镜全程没参与到攻击你的事情中吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1563,
+        "media_key": "3_1970461296983449600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1h8HBJaoAAd5Xg.jpg",
+        "width": 854
+      },
+      {
+        "height": 725,
+        "media_key": "3_1970461296731791362",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1h8HANaoAI84HD.jpg",
+        "width": 1065
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1970461304948400629",
+        "created_at": "2025-09-24T00:08:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T01:08:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970641329077264407"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1846704473751560192",
+              "start": 0,
+              "username": "xiaowusama55555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970641329077264407",
+        "in_reply_to_user_id": "1846704473751560192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970461304948400629",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaowusama55555 还他妈不删这条推等着把你眼里那位“能替你伸张正义的人”的真实模样全抖出来吗，你这条推根本无法证明你的任何清白还诬赖了彼岸镜，彼岸镜全程没参与到攻击你的事情中吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970461296983449600",
+            "3_1970461296731791362"
+          ]
+        },
+        "author_id": "1846704473751560192",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1970461304948400629",
+        "created_at": "2025-09-23T12:12:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T13:12:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970461304948400629"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UpKrzmvfH7",
+              "end": 155,
+              "expanded_url": "https://x.com/xiaowusama55555/status/1970461304948400629/photo/1",
+              "media_key": "3_1970461296983449600",
+              "start": 132,
+              "url": "https://t.co/UpKrzmvfH7"
+            },
+            {
+              "display_url": "pic.x.com/UpKrzmvfH7",
+              "end": 155,
+              "expanded_url": "https://x.com/xiaowusama55555/status/1970461304948400629/photo/1",
+              "media_key": "3_1970461296731791362",
+              "start": 132,
+              "url": "https://t.co/UpKrzmvfH7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970461304948400629",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1393,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果你说的证据是我拿别人合成策划药的事情拿来跟你装逼的事情当真的话，那我完全可以嘲笑你了，真的有点天真了\n你搞余晖让人吃几十t的舍曲林的现在就忘了？\n毕竟我可没上过学啊，我也是合成贩卖化学品了？就算我贩卖的话为什么还要搞退圈？\n如果真的要卖我为什么又要复活后藤？ https://t.co/UpKrzmvfH7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1970229192852971663",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 283,
+          "like_count": 3293,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 4197
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-17T00:08:06.000Z",
+        "description": "希望世界上再也没有痛苦，无论任何形式",
+        "id": "1846704473751560192",
+        "name": "55555",
+        "pinned_tweet_id": "1921759475200860164",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952308156433866752/c9CkfHpl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 8,
+          "like_count": 407,
+          "listed_count": 4,
+          "media_count": 27,
+          "tweet_count": 191
+        },
+        "username": "xiaowusama55555",
+        "verified": false
+      }
+    ]
+  }
+}

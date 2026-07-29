@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2005503931234017280"
+      ],
+      "media_source_tweet_id": [
+        "2005503955862991267"
+      ]
+    },
+    "author_id": "1849043039496617984",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2005552236118872198",
+    "created_at": "2025-12-29T08:11:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-29T09:11:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005552236118872198"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1922256655275982848",
+          "start": 3,
+          "username": "nian_wen94471"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2QjGOUCMDI",
+          "end": 54,
+          "expanded_url": "https://x.com/nian_wen94471/status/2005503955862991267/video/1",
+          "media_key": "7_2005503931234017280",
+          "start": 31,
+          "url": "https://t.co/2QjGOUCMDI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005552236118872198",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005503955862991267",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nian_wen94471: 我擅长创造视觉色彩垃圾 https://t.co/2QjGOUCMDI"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2005552236118872198].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2005552236118872198",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2005552236118872198"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10400,
+        "height": 952,
+        "media_key": "7_2005503931234017280",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2005503931234017280/pu/img/3gx1NyGL-pQbZU41.jpg",
+        "public_metrics": {
+          "view_count": 1
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2005503931234017280/pu/vid/avc1/320x422/42mZEVxc-LhPmroQ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2005503931234017280/pu/vid/avc1/480x634/NXH7aJf4RStDjC0z.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2005503931234017280/pu/vid/avc1/720x952/ilATcfR5gxXxaAPy.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2005503931234017280/pu/pl/zZi78gH-milAHcUx.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2005503931234017280"
+          ]
+        },
+        "author_id": "1922256655275982848",
+        "conversation_id": "2005503955862991267",
+        "created_at": "2025-12-29T04:59:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T05:59:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005503955862991267"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2QjGOUCMDI",
+              "end": 35,
+              "expanded_url": "https://x.com/nian_wen94471/status/2005503955862991267/video/1",
+              "media_key": "7_2005503931234017280",
+              "start": 12,
+              "url": "https://t.co/2QjGOUCMDI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005503955862991267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我擅长创造视觉色彩垃圾 https://t.co/2QjGOUCMDI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜如果没有回关请私信提醒我！｜我不吸毒！！！｜小猫我喜欢你超喜欢我爱你@psych_angel_｜性别为无、",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 45,
+                "username": "psych_angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNh89"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1999352315241988490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 464,
+          "following_count": 424,
+          "like_count": 8286,
+          "listed_count": 1,
+          "media_count": 117,
+          "tweet_count": 5794
+        },
+        "url": "https://t.co/rCvc9RNh89",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-13T11:45:28.000Z",
+        "description": "算卦占卜私我 188不准包退。这个推只用来发泄情绪",
+        "id": "1922256655275982848",
+        "name": "求无痛自杀人生痛苦却没有死的勇气",
+        "pinned_tweet_id": "1962726799911330242",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979370630031044608/ycXWs8xz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 389,
+          "like_count": 3081,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 210
+        },
+        "username": "nian_wen94471",
+        "verified": false
+      }
+    ]
+  }
+}

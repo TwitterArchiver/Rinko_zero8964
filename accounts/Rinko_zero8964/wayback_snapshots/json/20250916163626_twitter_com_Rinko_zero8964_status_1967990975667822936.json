@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1967990975667822936",
+    "created_at": "2025-09-16T16:36:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T17:36:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1967990975667822936"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zai090106/stat…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/zai090106/status/1967613570721734945",
+          "start": 30,
+          "url": "https://t.co/LjcZE6INjL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967990975667822936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967613570721734945",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "一口o掉21t玉米，如果明早醒不来，那就是道别了，晚安.. https://t.co/LjcZE6INjL"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1967990975667822936",
+        "created_at": "2025-09-16T16:36:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T17:36:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967990975667822936"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zai090106/stat…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/zai090106/status/1967613570721734945",
+              "start": 30,
+              "url": "https://t.co/LjcZE6INjL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967990975667822936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967613570721734945",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一口o掉21t玉米，如果明早醒不来，那就是道别了，晚安.. https://t.co/LjcZE6INjL"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1772535125517246464",
+        "conversation_id": "1967613570721734945",
+        "created_at": "2025-09-15T15:36:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T16:36:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967613570721734945"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1967613570721734945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 12319,
+          "like_count": 93,
+          "quote_count": 9,
+          "reply_count": 44,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一口o掉21t玉米，如果明早醒不来，那就是道别了，晚安.."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 273,
+          "like_count": 2915,
+          "listed_count": 2,
+          "media_count": 68,
+          "tweet_count": 3894
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-26T08:04:52.000Z",
+        "description": "也可以叫咱晚柠！｜09初中生｜无证含糖｜MtF｜喜欢xnn或者xyn｜被毁了旗子想自杀｜家人管控严｜已彻底炸柜｜家在陕西西安｜留学生｜新加坡｜🍥：2025.7.10｜在断糖｜结果已出｜我很无能，对不起@Chiyuyu520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 100,
+                "username": "Chiyuyu520"
+              }
+            ]
+          }
+        },
+        "id": "1772535125517246464",
+        "location": "亚海悬城",
+        "name": "月月饱饱咪🍥",
+        "pinned_tweet_id": "1962762706630385670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959910378760196096/Ni1G4JJI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 634,
+          "following_count": 367,
+          "like_count": 324,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 447
+        },
+        "username": "zai090106",
+        "verified": false
+      }
+    ]
+  }
+}

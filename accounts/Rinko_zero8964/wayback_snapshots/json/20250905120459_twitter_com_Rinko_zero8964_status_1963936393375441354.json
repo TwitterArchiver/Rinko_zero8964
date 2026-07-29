@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1963936393375441354",
+    "created_at": "2025-09-05T12:04:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-05T13:04:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963936393375441354"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1484072544009347072",
+          "start": 3,
+          "username": "BelovedUren8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963936393375441354",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963920443837976922",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BelovedUren8964: 现在住址\n\n现住址:上海市直辖长宁区江桥镇海川路177号8460室\n\n欢迎礼貌拜访"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1963936393375441354",
+        "created_at": "2025-09-05T12:04:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T13:04:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963936393375441354"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1484072544009347072",
+              "start": 3,
+              "username": "BelovedUren8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963936393375441354",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963920443837976922",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BelovedUren8964: 现在住址\n\n现住址:上海市直辖长宁区江桥镇海川路177号8460室\n\n欢迎礼貌拜访"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1484072544009347072",
+        "conversation_id": "1963920443837976922",
+        "created_at": "2025-09-05T11:01:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T12:01:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963920443837976922"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sesamesama/sta…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/sesamesama/status/1963875201839493285",
+              "start": 42,
+              "url": "https://t.co/g8xym0OQC1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963920443837976922",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 139,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963875201839493285",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "现在住址\n\n现住址:上海市直辖长宁区江桥镇海川路177号8460室\n\n欢迎礼貌拜访 https://t.co/g8xym0OQC1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849043147487420416/0nrEqJTK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 259,
+          "like_count": 2386,
+          "listed_count": 2,
+          "media_count": 64,
+          "tweet_count": 3583
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-20T07:57:36.000Z",
+        "description": "叫我雨怜，我是善良猫猫。 无性别者/💊oder 我支持为OD正名/这还用说吗，我是汉奸哪🇯🇵 / #台湾は国です🇹🇼 / 反男反女反跨反人类反一切/支那人没有一个无辜的",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 56,
+                "start": 49,
+                "tag": "台湾は国です"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "http://overdose.day",
+                "start": 0,
+                "url": "https://t.co/RMci0J1xvd"
+              }
+            ]
+          }
+        },
+        "id": "1484072544009347072",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "滨边雨怜会成为真正的传奇",
+        "pinned_tweet_id": "1808346704829468916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940854805343125504/iG-giSXO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 465,
+          "like_count": 4213,
+          "listed_count": 1,
+          "media_count": 312,
+          "tweet_count": 3097
+        },
+        "url": "https://t.co/RMci0J1xvd",
+        "username": "BelovedUren8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,694 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1964641315410633088",
+    "created_at": "2025-09-07T10:48:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-07T11:48:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964641814998323530"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1597257668313260033",
+          "start": 0,
+          "username": "Minokakay"
+        },
+        {
+          "end": 24,
+          "id": "1720819011057840128",
+          "start": 11,
+          "username": "Pissenlit_AH"
+        },
+        {
+          "end": 40,
+          "id": "1664948430920359936",
+          "start": 25,
+          "username": "Snowcomics9452"
+        },
+        {
+          "end": 52,
+          "id": "1930929865789931520",
+          "start": 41,
+          "username": "mi_huan030"
+        },
+        {
+          "end": 62,
+          "id": "1840055457756610560",
+          "start": 53,
+          "username": "hood8964"
+        },
+        {
+          "end": 79,
+          "id": "1763381254035251200",
+          "start": 63,
+          "username": "yowamushi120720"
+        },
+        {
+          "end": 96,
+          "id": "1692136120027320320",
+          "start": 80,
+          "username": "AlbertIsCypress"
+        },
+        {
+          "end": 106,
+          "id": "1552339082889789446",
+          "start": 97,
+          "username": "SnAuFlat"
+        },
+        {
+          "end": 120,
+          "id": "1741878236139909120",
+          "start": 107,
+          "username": "MuzA23400157"
+        },
+        {
+          "end": 132,
+          "id": "1959688702088945664",
+          "start": 121,
+          "username": "SPYDER_AIO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964641814998323530",
+    "in_reply_to_user_id": "1597257668313260033",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964641315410633088",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Minokakay @Pissenlit_AH @Snowcomics9452 @mi_huan030 @hood8964 @yowamushi120720 @AlbertIsCypress @SnAuFlat @MuzA23400157 @SPYDER_AIO 噫!我中了!"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1964641315410633088",
+        "created_at": "2025-09-07T10:48:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T11:48:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964641814998323530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1597257668313260033",
+              "start": 0,
+              "username": "Minokakay"
+            },
+            {
+              "end": 24,
+              "id": "1720819011057840128",
+              "start": 11,
+              "username": "Pissenlit_AH"
+            },
+            {
+              "end": 40,
+              "id": "1664948430920359936",
+              "start": 25,
+              "username": "Snowcomics9452"
+            },
+            {
+              "end": 52,
+              "id": "1930929865789931520",
+              "start": 41,
+              "username": "mi_huan030"
+            },
+            {
+              "end": 62,
+              "id": "1840055457756610560",
+              "start": 53,
+              "username": "hood8964"
+            },
+            {
+              "end": 79,
+              "id": "1763381254035251200",
+              "start": 63,
+              "username": "yowamushi120720"
+            },
+            {
+              "end": 96,
+              "id": "1692136120027320320",
+              "start": 80,
+              "username": "AlbertIsCypress"
+            },
+            {
+              "end": 106,
+              "id": "1552339082889789446",
+              "start": 97,
+              "username": "SnAuFlat"
+            },
+            {
+              "end": 120,
+              "id": "1741878236139909120",
+              "start": 107,
+              "username": "MuzA23400157"
+            },
+            {
+              "end": 132,
+              "id": "1959688702088945664",
+              "start": 121,
+              "username": "SPYDER_AIO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964641814998323530",
+        "in_reply_to_user_id": "1597257668313260033",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964641315410633088",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minokakay @Pissenlit_AH @Snowcomics9452 @mi_huan030 @hood8964 @yowamushi120720 @AlbertIsCypress @SnAuFlat @MuzA23400157 @SPYDER_AIO 噫!我中了!"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1964641315410633088",
+        "created_at": "2025-09-07T10:46:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T11:46:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964641315410633088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 21,
+              "id": "1720819011057840128",
+              "start": 8,
+              "username": "Pissenlit_AH"
+            },
+            {
+              "end": 37,
+              "id": "1664948430920359936",
+              "start": 22,
+              "username": "Snowcomics9452"
+            },
+            {
+              "end": 49,
+              "id": "1930929865789931520",
+              "start": 38,
+              "username": "mi_huan030"
+            },
+            {
+              "end": 59,
+              "id": "1840055457756610560",
+              "start": 50,
+              "username": "hood8964"
+            },
+            {
+              "end": 76,
+              "id": "1763381254035251200",
+              "start": 60,
+              "username": "yowamushi120720"
+            },
+            {
+              "end": 93,
+              "id": "1692136120027320320",
+              "start": 77,
+              "username": "AlbertIsCypress"
+            },
+            {
+              "end": 103,
+              "id": "1552339082889789446",
+              "start": 94,
+              "username": "SnAuFlat"
+            },
+            {
+              "end": 117,
+              "id": "1741878236139909120",
+              "start": 104,
+              "username": "MuzA23400157"
+            },
+            {
+              "end": 133,
+              "id": "1849043039496617984",
+              "start": 118,
+              "username": "Rinko_zero8964"
+            },
+            {
+              "end": 145,
+              "id": "1959688702088945664",
+              "start": 134,
+              "username": "SPYDER_AIO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964641315410633088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "8月抽奖开奖\n @Pissenlit_AH @Snowcomics9452 @mi_huan030 @hood8964 @yowamushi120720 @AlbertIsCypress @SnAuFlat @MuzA23400157 @Rinko_zero8964 @SPYDER_AIO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849043147487420416/0nrEqJTK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 262,
+          "like_count": 2487,
+          "listed_count": 2,
+          "media_count": 64,
+          "tweet_count": 3660
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら， ずっと一人で笑えよ。阿斯ADHD精分抑鬱焦慮 Pansexual MtX🏳️‍⚧️🏳️‍🌈买HRT补佳乐色普龙诺坤复/美白/减肥/促智找 @ChosekiNoraneko，我在做客服 买电子烟找@weita2024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 86,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 124,
+                "start": 114,
+                "username": "weita2024"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（泰补色诺",
+        "pinned_tweet_id": "1951463657336086693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9428,
+          "following_count": 934,
+          "like_count": 44647,
+          "listed_count": 33,
+          "media_count": 1398,
+          "tweet_count": 20787
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T15:03:25.000Z",
+        "description": "祂、他、她、它/可爱阿斯怪：@gayamichi0721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 14,
+                "username": "gayamichi0721"
+              }
+            ]
+          }
+        },
+        "id": "1720819011057840128",
+        "location": "？",
+        "name": "真左要乐奈",
+        "pinned_tweet_id": "1949385212015571222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954443949109907456/feDj3qKM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 283,
+          "like_count": 10529,
+          "listed_count": 3,
+          "media_count": 394,
+          "tweet_count": 3131
+        },
+        "username": "Pissenlit_AH",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-03T10:53:52.000Z",
+        "description": "雪花手機新聞的中文版 /🏳️‍⚧️斷續含糖MtX/F🍥/\n這裡是雪花新聞中心，追蹤各大品牌最新手機、平板等移動裝置的資訊與爆料平台。致力於為您第一時間帶來消息、掌握科技圈的最新動態。\n另類雪花: @RusndageSNF English: @Snowcomics 小貓窩: @SchneeSchmit 可線下面基",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 98,
+                "username": "RusndageSNF"
+              },
+              {
+                "end": 131,
+                "start": 120,
+                "username": "Snowcomics"
+              },
+              {
+                "end": 150,
+                "start": 137,
+                "username": "SchneeSchmit"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "transky.mtf.wiki",
+                "end": 23,
+                "expanded_url": "https://transky.mtf.wiki/",
+                "start": 0,
+                "url": "https://t.co/z3o74Bauki"
+              }
+            ]
+          }
+        },
+        "id": "1664948430920359936",
+        "location": "香港 | Hong Kong",
+        "name": "雪花 (中文) ❄️",
+        "pinned_tweet_id": "1930283656918249583",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939666470113280000/TkkDO3rn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1890,
+          "following_count": 3379,
+          "like_count": 37592,
+          "listed_count": 5,
+          "media_count": 947,
+          "tweet_count": 7705
+        },
+        "url": "https://t.co/z3o74Bauki",
+        "username": "Snowcomics9452",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-06T10:09:01.000Z",
+        "description": "🐈‍⬛｜🎮｜🎵｜🍋｜INTP- T｜社恐｜03年mtx｜阴暗b｜brat｜日常｜不建政｜情感模块修复中｜不知名营业大号（狒狒和r18）@sleepmihuan｜🐱@sanmiguelnoodle喵喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 67,
+                "username": "sleepmihuan"
+              },
+              {
+                "end": 97,
+                "start": 81,
+                "username": "sanmiguelnoodle"
+              }
+            ]
+          }
+        },
+        "id": "1930929865789931520",
+        "name": "mi huan😺",
+        "pinned_tweet_id": "1958710390109741427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935782534383628288/3ONnKKBE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 307,
+          "like_count": 6998,
+          "listed_count": 1,
+          "media_count": 206,
+          "tweet_count": 1695
+        },
+        "username": "mi_huan030",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-28T15:46:52.000Z",
+        "description": "此号已废弃",
+        "id": "1840055457756610560",
+        "location": "London, England",
+        "name": "红希儿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961363653736689664/mFgFzP3q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1223,
+          "following_count": 1807,
+          "like_count": 85625,
+          "listed_count": 9,
+          "media_count": 1000,
+          "tweet_count": 19286
+        },
+        "username": "hood8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-01T01:50:39.000Z",
+        "description": "我是弱虫，补药点我发的链接！ 若要通行，必须通过创口｜奋斗百年，我是禁毒宣传大使🤓️ ｜当前现充，偶尔发日常，无攻击性｜双a，神经质症不安desu｜性格差，精神洁癖的理想主义者，小孩不想长大（？以淡推，以黑化",
+        "id": "1763381254035251200",
+        "location": "掌声存在之地",
+        "name": "弱虫モンブラン",
+        "pinned_tweet_id": "1784505372524638218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953663774495584258/aLd1fosg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 408,
+          "like_count": 31228,
+          "listed_count": 2,
+          "media_count": 106,
+          "tweet_count": 2516
+        },
+        "username": "yowamushi120720",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-17T11:27:49.000Z",
+        "description": "不是人类不说人话&精神(不是情绪)状态是量子叠加态|成分复杂关注请谨慎|INFJ sp/so5w6|Median系统|分裂情感性精神病&阿斯伯格|无性恋&泛浪漫|误block致歉|看我不爽建议您去死捏|🩸@theLostCypress ✝️@Kashiwagi_7593",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 102,
+                "username": "theLostCypress"
+              },
+              {
+                "end": 135,
+                "start": 120,
+                "username": "Kashiwagi_7593"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/OyZXUu3",
+                "end": 23,
+                "expanded_url": "https://b23.tv/OyZXUu3",
+                "start": 0,
+                "url": "https://t.co/oROirNnIey"
+              }
+            ]
+          }
+        },
+        "id": "1692136120027320320",
+        "location": "星期八",
+        "name": "住在星期八的柏树7.0【#INSANE】",
+        "pinned_tweet_id": "1964366288496840796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962043921133076480/C58e2bLQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1416,
+          "following_count": 1133,
+          "like_count": 30705,
+          "listed_count": 7,
+          "media_count": 1283,
+          "tweet_count": 8934
+        },
+        "url": "https://t.co/oROirNnIey",
+        "username": "AlbertIsCypress",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-27T17:04:32.000Z",
+        "description": "要注：本人言論僅代表本人，與我bio上任何事物無關\n/CLZ服管理\n/fumo @miyuki_114 \n/窩的好朋朋 @CoolJX4 \n/limSir @liminfin\n/卡滋大手 @H1nako_4ever",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 40,
+                "username": "miyuki_114"
+              },
+              {
+                "end": 68,
+                "start": 60,
+                "username": "CoolJX4"
+              },
+              {
+                "end": 87,
+                "start": 78,
+                "username": "liminfin"
+              },
+              {
+                "end": 107,
+                "start": 94,
+                "username": "H1nako_4ever"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "steamcommunity.com/id/SnAuFlat",
+                "end": 23,
+                "expanded_url": "https://steamcommunity.com/id/SnAuFlat",
+                "start": 0,
+                "url": "https://t.co/wCURv76XCP"
+              }
+            ]
+          }
+        },
+        "id": "1552339082889789446",
+        "location": "南極自由地區",
+        "name": "SnAuFlat•Bräutigam",
+        "pinned_tweet_id": "1956077745504706948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873806130264051712/07FI5ZSf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 553,
+          "following_count": 645,
+          "like_count": 102135,
+          "listed_count": 2,
+          "media_count": 3541,
+          "tweet_count": 14790
+        },
+        "url": "https://t.co/wCURv76XCP",
+        "username": "SnAuFlat",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-01T17:45:17.000Z",
+        "description": "最爱@HeronMocki了，愿望是和爱的人温和地从容地生活。观测者花组。🍥",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "HeronMocki"
+              }
+            ]
+          }
+        },
+        "id": "1741878236139909120",
+        "location": "鹭，爱你~",
+        "name": "可兮去学数理统计|x-x'|≤ξ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933336147926949888/p7bsP0-0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 342,
+          "following_count": 457,
+          "like_count": 6104,
+          "listed_count": 1,
+          "media_count": 422,
+          "tweet_count": 7392
+        },
+        "username": "MuzA23400157",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-24T18:46:20.000Z",
+        "description": "以色列SPYDER AIO防空系统是以色列拉斐尔先进防御系统公司与以色列航空工业公司联合研制的机动防空平台。\n配备exMHR雷达，该雷达工作在F波段，由四个非旋转雷达组成，每个覆盖90度扇区，可提供360度全向覆盖，最大射程达110公里，且具备自动识别大多数 飞机的能力\n可发射怪蛇-5、I-DERBY SR等制导飞弹.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "rafael.co.il",
+                "end": 23,
+                "expanded_url": "http://www.rafael.co.il/",
+                "start": 0,
+                "url": "https://t.co/7B2Q6w7p87"
+              }
+            ]
+          }
+        },
+        "id": "1959688702088945664",
+        "location": "רפאל-מערכות לחימה מתקדמות בע",
+        "name": "SPYDER AIO SPAA SYSTEM🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1962582230045466673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959988780779405312/ISyppMCs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 466,
+          "like_count": 989,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 79
+        },
+        "url": "https://t.co/7B2Q6w7p87",
+        "username": "SPYDER_AIO",
+        "verified": false
+      }
+    ]
+  }
+}

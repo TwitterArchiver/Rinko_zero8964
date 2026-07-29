@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1971860405372047875",
+    "created_at": "2025-09-27T10:21:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-27T11:21:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971882981674701219"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1944351426827735040",
+          "start": 0,
+          "username": "kiss_u_back"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971882981674701219",
+    "in_reply_to_user_id": "1944351426827735040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971860405372047875",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kiss_u_back gay吗？！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1971860405372047875",
+        "created_at": "2025-09-27T10:21:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T11:21:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971882981674701219"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1944351426827735040",
+              "start": 0,
+              "username": "kiss_u_back"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971882981674701219",
+        "in_reply_to_user_id": "1944351426827735040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971860405372047875",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kiss_u_back gay吗？！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944351426827735040",
+        "conversation_id": "1971860405372047875",
+        "created_at": "2025-09-27T08:52:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T09:52:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971860405372047875"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1971860405372047875",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 156,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "vvv看我洗澡都没硬…想到巫师三的杰洛特硬了😆\n很好祝他梦里有他"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1970904695813329260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 282,
+          "like_count": 3370,
+          "listed_count": 2,
+          "media_count": 74,
+          "tweet_count": 4142
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-13T11:01:50.000Z",
+        "description": "已死勿call 我不稳定 我是疯狗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ccccindy11",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ccccindy11",
+                "start": 0,
+                "url": "https://t.co/5cwDcyH0re"
+              }
+            ]
+          }
+        },
+        "id": "1944351426827735040",
+        "location": "火星",
+        "name": "我的泪口是心非",
+        "pinned_tweet_id": "1957691726635888962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950024167241502722/DbHwNpOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 91,
+          "like_count": 560,
+          "listed_count": 1,
+          "media_count": 175,
+          "tweet_count": 600
+        },
+        "url": "https://t.co/5cwDcyH0re",
+        "username": "kiss_u_back",
+        "verified": false
+      }
+    ]
+  }
+}

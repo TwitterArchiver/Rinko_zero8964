@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1992497282147864867",
+    "created_at": "2025-11-23T15:22:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T16:22:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992614712417407019"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1600148543125090305",
+          "start": 0,
+          "username": "NakaharaBulbel"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992614712417407019",
+    "in_reply_to_user_id": "1600148543125090305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992537690269741217",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NakaharaBulbel 我给他买rc，他接受了以后又说不喜欢rc，好生气……我买了不少因为他说想要"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1992497282147864867",
+        "created_at": "2025-11-23T15:22:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T16:22:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992614712417407019"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1600148543125090305",
+              "start": 0,
+              "username": "NakaharaBulbel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992614712417407019",
+        "in_reply_to_user_id": "1600148543125090305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992537690269741217",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NakaharaBulbel 我给他买rc，他接受了以后又说不喜欢rc，好生气……我买了不少因为他说想要"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600148543125090305",
+        "conversation_id": "1992497282147864867",
+        "created_at": "2025-11-23T10:16:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T11:16:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992537690269741217"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1849043039496617984",
+              "start": 0,
+              "username": "Rinko_zero8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992537690269741217",
+        "in_reply_to_user_id": "1849043039496617984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992497282147864867",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rinko_zero8964 梨子怎么了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜🥺@NashiMoe233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "NashiMoe233"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1967335109767692560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 332,
+          "like_count": 4737,
+          "listed_count": 1,
+          "media_count": 90,
+          "tweet_count": 4597
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-06T15:22:19.000Z",
+        "description": "目前在向第二人格发展。",
+        "id": "1600148543125090305",
+        "location": "🚪38，但是我很废",
+        "name": "珠芽",
+        "pinned_tweet_id": "1919210984415363220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985967335484899328/p1aw0IoQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 935,
+          "following_count": 401,
+          "like_count": 8676,
+          "listed_count": 4,
+          "media_count": 109,
+          "tweet_count": 1057
+        },
+        "username": "NakaharaBulbel",
+        "verified": false
+      }
+    ]
+  }
+}

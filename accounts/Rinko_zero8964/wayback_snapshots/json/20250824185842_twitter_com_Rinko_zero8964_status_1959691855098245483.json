@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1959286483249934631",
+    "created_at": "2025-08-24T18:58:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-24T19:58:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959691855098245483"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1836276354041495553",
+          "start": 0,
+          "username": "CABR_Lies"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959691855098245483",
+    "in_reply_to_user_id": "1836276354041495553",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959286483249934631",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CABR_Lies 妈妈我可以抱你腿吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1959286476346163201",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzDIq2PXAAE8dPV.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1959286483249934631",
+        "created_at": "2025-08-24T18:58:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T19:58:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959691855098245483"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1836276354041495553",
+              "start": 0,
+              "username": "CABR_Lies"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959691855098245483",
+        "in_reply_to_user_id": "1836276354041495553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959286483249934631",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CABR_Lies 妈妈我可以抱你腿吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959286476346163201"
+          ]
+        },
+        "author_id": "1836276354041495553",
+        "conversation_id": "1959286483249934631",
+        "created_at": "2025-08-23T16:07:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T17:07:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959286483249934631"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gJu7Su3Yp6",
+              "end": 28,
+              "expanded_url": "https://x.com/CABR_Lies/status/1959286483249934631/photo/1",
+              "media_key": "3_1959286476346163201",
+              "start": 5,
+              "url": "https://t.co/gJu7Su3Yp6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959286483249934631",
+        "lang": "tl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1949,
+          "like_count": 62,
+          "quote_count": 2,
+          "reply_count": 11,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "oodd https://t.co/gJu7Su3Yp6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849043147487420416/0nrEqJTK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 242,
+          "like_count": 2034,
+          "listed_count": 2,
+          "media_count": 46,
+          "tweet_count": 3244
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-18T05:29:42.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸｜⚠️ #shtwt #drugtwt 我是DizzyRichter可以叫我毒枭｜he/them｜𝕷𝖚𝖛 𝖘𝖎𝖈 𝖑𝖎𝖐𝖊 𝖆 𝖉𝖔𝖌 𝖜𝖎𝖙𝖍 𝖈𝖆𝖓𝖎𝖓𝖊 𝖘𝖊𝖓𝖘𝖎𝖙𝖎𝖛𝖎𝖙𝖞",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 38,
+                "start": 32,
+                "tag": "shtwt"
+              },
+              {
+                "end": 47,
+                "start": 39,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/Esh7BcF",
+                "end": 23,
+                "expanded_url": "http://163cn.tv/Esh7BcF",
+                "start": 0,
+                "url": "https://t.co/sFJNxGT4fs"
+              }
+            ]
+          }
+        },
+        "id": "1836276354041495553",
+        "location": "𝟐𝟕𝐂𝐥𝐮𝐛",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "1869201059912282381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956777393965735936/-IHUgS4t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1923,
+          "following_count": 125,
+          "like_count": 21402,
+          "listed_count": 2,
+          "media_count": 685,
+          "tweet_count": 11150
+        },
+        "url": "https://t.co/sFJNxGT4fs",
+        "username": "CABR_Lies",
+        "verified": false
+      }
+    ]
+  }
+}

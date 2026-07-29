@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2020572388363321344"
+      ],
+      "media_source_tweet_id": [
+        "2020572391395778636"
+      ]
+    },
+    "author_id": "1849043039496617984",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2020854908749037848",
+    "created_at": "2026-02-09T13:38:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T14:38:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020854908749037848"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 22,
+          "start": 19,
+          "tag": "自伤"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1676082098073923585",
+          "start": 3,
+          "username": "sevnisnow_umi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Q3XfYgjAec",
+          "end": 46,
+          "expanded_url": "https://x.com/sevnisnow_umi/status/2020572391395778636/photo/1",
+          "media_key": "3_2020572388363321344",
+          "start": 23,
+          "url": "https://t.co/Q3XfYgjAec"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020854908749037848",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020572391395778636",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sevnisnow_umi: #自伤 https://t.co/Q3XfYgjAec"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2020854908749037848].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2020854908749037848",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2020854908749037848"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2133,
+        "media_key": "3_2020572388363321344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAqD4btbwAALiD4.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020572388363321344"
+          ]
+        },
+        "author_id": "1676082098073923585",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2020572391395778636",
+        "created_at": "2026-02-08T18:56:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T19:56:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020572391395778636"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "自伤"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q3XfYgjAec",
+              "end": 27,
+              "expanded_url": "https://x.com/sevnisnow_umi/status/2020572391395778636/photo/1",
+              "media_key": "3_2020572388363321344",
+              "start": 4,
+              "url": "https://t.co/Q3XfYgjAec"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020572391395778636",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 388,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "#自伤 https://t.co/Q3XfYgjAec"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ZA",
+              "full_name": "South Africa",
+              "geo": {
+                "coordinates": [
+                  24.0,
+                  -29.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我思即我在｜我是林子｜如果没有回关请私信提醒我！｜我不吸毒！！！｜性别为无、｜輪郭の定まらない位置にいた人@Psych_Angel_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 53,
+                "username": "Psych_Angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNh89"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 556,
+          "following_count": 513,
+          "like_count": 13787,
+          "listed_count": 1,
+          "media_count": 146,
+          "tweet_count": 7127
+        },
+        "url": "https://t.co/rCvc9RNh89",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-04T04:15:00.000Z",
+        "description": "反弹一切",
+        "id": "1676082098073923585",
+        "location": "加里敦公司",
+        "name": "礼貌申请安乐死",
+        "pinned_tweet_id": "2020189162830471589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017216892818317312/Jgglg1XP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 406,
+          "like_count": 2876,
+          "listed_count": 0,
+          "media_count": 404,
+          "tweet_count": 2960
+        },
+        "username": "sevnisnow_umi",
+        "verified": false
+      }
+    ]
+  }
+}

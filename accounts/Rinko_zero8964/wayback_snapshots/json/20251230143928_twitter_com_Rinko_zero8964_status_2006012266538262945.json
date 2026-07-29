@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2006012260985319424"
+      ]
+    },
+    "author_id": "1849043039496617984",
+    "conversation_id": "2006012266538262945",
+    "created_at": "2025-12-30T14:39:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-30T15:39:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2006012266538262945"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/EvFZy371Wj",
+          "end": 117,
+          "expanded_url": "https://x.com/Rinko_zero8964/status/2006012266538262945/photo/1",
+          "media_key": "3_2006012260985319424",
+          "start": 94,
+          "url": "https://t.co/EvFZy371Wj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006012266538262945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我不想让大家都没有药吃……但是我已经非常精神失常了，我的身体状态也很差，我不想牵扯任何一个药物任何一个大家导致加速，我只是想说出实话并自己离开，。我已经活得很累了，而且是真的要活不下去了 https://t.co/EvFZy371Wj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1539,
+        "media_key": "3_2006012260985319424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9bJhecbsAAXWJo.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006012260985319424"
+          ]
+        },
+        "author_id": "1849043039496617984",
+        "conversation_id": "2006012266538262945",
+        "created_at": "2025-12-30T14:39:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T15:39:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006012266538262945"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EvFZy371Wj",
+              "end": 117,
+              "expanded_url": "https://x.com/Rinko_zero8964/status/2006012266538262945/photo/1",
+              "media_key": "3_2006012260985319424",
+              "start": 94,
+              "url": "https://t.co/EvFZy371Wj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006012266538262945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不想让大家都没有药吃……但是我已经非常精神失常了，我的身体状态也很差，我不想牵扯任何一个药物任何一个大家导致加速，我只是想说出实话并自己离开，。我已经活得很累了，而且是真的要活不下去了 https://t.co/EvFZy371Wj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜如果没有回关请私信提醒我！｜我不吸毒！！！｜小猫我喜欢你超喜欢我爱你@psych_angel_｜性别为无、",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 45,
+                "username": "psych_angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNh89"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1999352315241988490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 479,
+          "following_count": 431,
+          "like_count": 8539,
+          "listed_count": 2,
+          "media_count": 123,
+          "tweet_count": 5853
+        },
+        "url": "https://t.co/rCvc9RNh89",
+        "username": "Rinko_zero8964",
+        "verified": false
+      }
+    ]
+  }
+}

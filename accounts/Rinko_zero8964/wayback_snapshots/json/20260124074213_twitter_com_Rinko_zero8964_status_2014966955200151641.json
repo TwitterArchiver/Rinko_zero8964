@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2014326530579787776"
+      ],
+      "media_source_tweet_id": [
+        "2014326536032379373"
+      ]
+    },
+    "author_id": "1849043039496617984",
+    "conversation_id": "2014966955200151641",
+    "created_at": "2026-01-24T07:42:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T08:42:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014966955200151641"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 19,
+          "start": 14,
+          "tag": "足立レイ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1888529588198019072",
+          "start": 3,
+          "username": "ao100506"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NMIJn63apj",
+          "end": 46,
+          "expanded_url": "https://x.com/ao100506/status/2014326536032379373/photo/1",
+          "media_key": "3_2014326530579787776",
+          "start": 23,
+          "url": "https://t.co/NMIJn63apj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014966955200151641",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1133
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014326536032379373",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ao100506: #足立レイ …。 https://t.co/NMIJn63apj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1670,
+        "media_key": "3_2014326530579787776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_RTTqTacAAmRWJ.jpg",
+        "width": 1279
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014326530579787776"
+          ],
+          "media_source_tweet_id": [
+            "2014326536032379373"
+          ]
+        },
+        "author_id": "1849043039496617984",
+        "conversation_id": "2014966955200151641",
+        "created_at": "2026-01-24T07:42:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T08:42:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014966955200151641"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 14,
+              "tag": "足立レイ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1888529588198019072",
+              "start": 3,
+              "username": "ao100506"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NMIJn63apj",
+              "end": 46,
+              "expanded_url": "https://x.com/ao100506/status/2014326536032379373/photo/1",
+              "media_key": "3_2014326530579787776",
+              "start": 23,
+              "url": "https://t.co/NMIJn63apj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014966955200151641",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1133
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014326536032379373",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ao100506: #足立レイ …。 https://t.co/NMIJn63apj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014326530579787776"
+          ]
+        },
+        "author_id": "1888529588198019072",
+        "conversation_id": "2014326536032379373",
+        "created_at": "2026-01-22T13:17:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T14:17:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014326536032379373"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "足立レイ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NMIJn63apj",
+              "end": 32,
+              "expanded_url": "https://x.com/ao100506/status/2014326536032379373/photo/1",
+              "media_key": "3_2014326530579787776",
+              "start": 9,
+              "url": "https://t.co/NMIJn63apj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014326536032379373",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 586,
+          "impression_count": 73312,
+          "like_count": 9505,
+          "quote_count": 6,
+          "reply_count": 2,
+          "retweet_count": 1133
+        },
+        "reply_settings": "everyone",
+        "text": "#足立レイ …。 https://t.co/NMIJn63apj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜如果没有回关请私信提醒我！｜我不吸毒！！！｜性别为无、｜輪郭の定まらない位置にいた人@Psych_Angel_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 53,
+                "username": "Psych_Angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNh89"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 529,
+          "following_count": 491,
+          "like_count": 12797,
+          "listed_count": 1,
+          "media_count": 143,
+          "tweet_count": 6796
+        },
+        "url": "https://t.co/rCvc9RNh89",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-09T10:06:14.000Z",
+        "description": "´•̥ω•̥｀ きまぐれ投稿",
+        "id": "1888529588198019072",
+        "location": "電子の海",
+        "name": "不明",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000517257198481408/t1PikFBF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 191,
+          "like_count": 16420,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 49
+        },
+        "username": "ao100506",
+        "verified": false
+      }
+    ]
+  }
+}

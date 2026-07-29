@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2006000563776012288"
+      ]
+    },
+    "author_id": "1849043039496617984",
+    "conversation_id": "2006000569689989192",
+    "created_at": "2025-12-30T13:53:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-30T14:53:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2006000569689989192"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vWGWqfBcLS",
+          "end": 121,
+          "expanded_url": "https://x.com/Rinko_zero8964/status/2006000569689989192/photo/1",
+          "media_key": "3_2006000563776012288",
+          "start": 98,
+          "url": "https://t.co/vWGWqfBcLS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006000569689989192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我从来没想获得所谓的胜利，如果连喜不喜欢都算创伤那我的创伤是什么？团体是指我与你多人恋爱吗？我从来没让人站队搞什么二极管思维，我只是想把我受到的委屈受到的伤害宣泄出来，连坚持正义都算是团队做案吗 https://t.co/vWGWqfBcLS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1532,
+        "media_key": "3_2006000563776012288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9a-4m8aQAAiXXB.jpg",
+        "width": 827
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006000563776012288"
+          ]
+        },
+        "author_id": "1849043039496617984",
+        "conversation_id": "2006000569689989192",
+        "created_at": "2025-12-30T13:53:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T14:53:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006000569689989192"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vWGWqfBcLS",
+              "end": 121,
+              "expanded_url": "https://x.com/Rinko_zero8964/status/2006000569689989192/photo/1",
+              "media_key": "3_2006000563776012288",
+              "start": 98,
+              "url": "https://t.co/vWGWqfBcLS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006000569689989192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我从来没想获得所谓的胜利，如果连喜不喜欢都算创伤那我的创伤是什么？团体是指我与你多人恋爱吗？我从来没让人站队搞什么二极管思维，我只是想把我受到的委屈受到的伤害宣泄出来，连坚持正义都算是团队做案吗 https://t.co/vWGWqfBcLS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜如果没有回关请私信提醒我！｜我不吸毒！！！｜小猫我喜欢你超喜欢我爱你@psych_angel_｜性别为无、",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 45,
+                "username": "psych_angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNh89"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1999352315241988490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 479,
+          "following_count": 431,
+          "like_count": 8535,
+          "listed_count": 1,
+          "media_count": 122,
+          "tweet_count": 5851
+        },
+        "url": "https://t.co/rCvc9RNh89",
+        "username": "Rinko_zero8964",
+        "verified": false
+      }
+    ]
+  }
+}

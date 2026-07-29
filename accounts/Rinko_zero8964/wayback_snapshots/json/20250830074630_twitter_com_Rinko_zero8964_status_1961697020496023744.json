@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1961251912076152832"
+      ],
+      "media_source_tweet_id": [
+        "1961251918589894657"
+      ]
+    },
+    "author_id": "1849043039496617984",
+    "conversation_id": "1961697020496023744",
+    "created_at": "2025-08-30T07:46:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-30T08:46:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961697020496023744"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1506833862235942917",
+          "start": 3,
+          "username": "USA37107692"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dhFYiHVUR1",
+          "end": 50,
+          "expanded_url": "https://x.com/USA37107692/status/1961251918589894657/photo/1",
+          "media_key": "3_1961251912076152832",
+          "start": 27,
+          "url": "https://t.co/dhFYiHVUR1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961697020496023744",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3703
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961251918589894657",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @USA37107692: Stocking👼 https://t.co/dhFYiHVUR1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1961251912076152832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzfEOQ5a0AAajrN.jpg",
+        "width": 1684
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961251912076152832"
+          ],
+          "media_source_tweet_id": [
+            "1961251918589894657"
+          ]
+        },
+        "author_id": "1849043039496617984",
+        "conversation_id": "1961697020496023744",
+        "created_at": "2025-08-30T07:46:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T08:46:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961697020496023744"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1506833862235942917",
+              "start": 3,
+              "username": "USA37107692"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dhFYiHVUR1",
+              "end": 50,
+              "expanded_url": "https://x.com/USA37107692/status/1961251918589894657/photo/1",
+              "media_key": "3_1961251912076152832",
+              "start": 27,
+              "url": "https://t.co/dhFYiHVUR1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961697020496023744",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3703
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961251918589894657",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @USA37107692: Stocking👼 https://t.co/dhFYiHVUR1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961251912076152832"
+          ]
+        },
+        "author_id": "1506833862235942917",
+        "conversation_id": "1961251918589894657",
+        "created_at": "2025-08-29T02:17:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T03:17:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961251918589894657"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dhFYiHVUR1",
+              "end": 33,
+              "expanded_url": "https://x.com/USA37107692/status/1961251918589894657/photo/1",
+              "media_key": "3_1961251912076152832",
+              "start": 10,
+              "url": "https://t.co/dhFYiHVUR1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961251918589894657",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5566,
+          "impression_count": 437036,
+          "like_count": 49936,
+          "quote_count": 11,
+          "reply_count": 34,
+          "retweet_count": 3703
+        },
+        "reply_settings": "everyone",
+        "text": "Stocking👼 https://t.co/dhFYiHVUR1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849043147487420416/0nrEqJTK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 246,
+          "like_count": 2190,
+          "listed_count": 2,
+          "media_count": 48,
+          "tweet_count": 3388
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-24T03:22:57.000Z",
+        "description": "Twitter初心者です。宜しくお願いします。絵、あげまくったりします(色んなの)。\n If you use my art or art style, please be sure to DM me.Don't use my art for AI.I use only X, The others are fake",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/USA3710",
+                "end": 23,
+                "expanded_url": "http://patreon.com/USA3710",
+                "start": 0,
+                "url": "https://t.co/JwJlrnPNHC"
+              }
+            ]
+          }
+        },
+        "id": "1506833862235942917",
+        "name": "USA",
+        "pinned_tweet_id": "1845035062665912446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1722150500244893696/xLKtdjBs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 533876,
+          "following_count": 865,
+          "like_count": 30731,
+          "listed_count": 1694,
+          "media_count": 1113,
+          "tweet_count": 11242
+        },
+        "url": "https://t.co/JwJlrnPNHC",
+        "username": "USA37107692",
+        "verified": true
+      }
+    ]
+  }
+}

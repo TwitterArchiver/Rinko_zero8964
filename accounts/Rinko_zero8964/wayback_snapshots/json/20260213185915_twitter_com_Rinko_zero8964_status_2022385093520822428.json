@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2022147240635281856",
+    "created_at": "2026-02-13T18:59:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T19:59:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022385093520822428"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1801534903626121216",
+          "start": 0,
+          "username": "qngshu988723424"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022385093520822428",
+    "in_reply_to_user_id": "1801534903626121216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022147240635281856",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qngshu988723424 酷，嗯对然后我也要看同人"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1840,
+        "media_key": "3_2022147228018855936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBAcMKma0AAvgqV.jpg",
+        "width": 2800
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2022147226034929664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBAcMDNagAAf_Pl.jpg",
+        "width": 1246
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2022147226311729152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBAcMEPaIAAgwUJ.png",
+        "width": 1080
+      },
+      {
+        "height": 1204,
+        "media_key": "3_2022147237506367488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBAcMt8awAASgHP.jpg",
+        "width": 1747
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2022147240635281856",
+        "created_at": "2026-02-13T18:59:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T19:59:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022385093520822428"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1801534903626121216",
+              "start": 0,
+              "username": "qngshu988723424"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022385093520822428",
+        "in_reply_to_user_id": "1801534903626121216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022147240635281856",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qngshu988723424 酷，嗯对然后我也要看同人"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022147228018855936",
+            "3_2022147226034929664",
+            "3_2022147226311729152",
+            "3_2022147237506367488"
+          ]
+        },
+        "author_id": "1801534903626121216",
+        "conversation_id": "2022147240635281856",
+        "created_at": "2026-02-13T03:14:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T04:14:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022147240635281856"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gvga3dyFoi",
+              "end": 26,
+              "expanded_url": "https://x.com/qngshu988723424/status/2022147240635281856/photo/1",
+              "media_key": "3_2022147228018855936",
+              "start": 3,
+              "url": "https://t.co/gvga3dyFoi"
+            },
+            {
+              "display_url": "pic.x.com/gvga3dyFoi",
+              "end": 26,
+              "expanded_url": "https://x.com/qngshu988723424/status/2022147240635281856/photo/1",
+              "media_key": "3_2022147226034929664",
+              "start": 3,
+              "url": "https://t.co/gvga3dyFoi"
+            },
+            {
+              "display_url": "pic.x.com/gvga3dyFoi",
+              "end": 26,
+              "expanded_url": "https://x.com/qngshu988723424/status/2022147240635281856/photo/1",
+              "media_key": "3_2022147226311729152",
+              "start": 3,
+              "url": "https://t.co/gvga3dyFoi"
+            },
+            {
+              "display_url": "pic.x.com/gvga3dyFoi",
+              "end": 26,
+              "expanded_url": "https://x.com/qngshu988723424/status/2022147240635281856/photo/1",
+              "media_key": "3_2022147237506367488",
+              "start": 3,
+              "url": "https://t.co/gvga3dyFoi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022147240635281856",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 118,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "。。 https://t.co/gvga3dyFoi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ZA",
+              "full_name": "South Africa",
+              "geo": {
+                "coordinates": [
+                  24.0,
+                  -29.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我思即我在｜我是林子｜如果没有回关请私信提醒我！｜我不吸毒！！！｜性别为无、｜輪郭の定まらない位置にいた人@Psych_Angel_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 53,
+                "username": "Psych_Angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNh89"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 567,
+          "following_count": 526,
+          "like_count": 14334,
+          "listed_count": 1,
+          "media_count": 146,
+          "tweet_count": 7295
+        },
+        "url": "https://t.co/rCvc9RNh89",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-14T08:39:35.000Z",
+        "description": "enby/和鸟每天抢吃的/🐦/🐔/🐥/🦆/🦜/🐧/🐤/🦉/🦅/🐳/🐬/🐋/🦈/🦢/🐓/🦤",
+        "id": "1801534903626121216",
+        "location": "鸟笼",
+        "name": "rotaka",
+        "pinned_tweet_id": "1940443442192298200",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017539398498455559/yoqs9-Hg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 483,
+          "like_count": 5817,
+          "listed_count": 1,
+          "media_count": 571,
+          "tweet_count": 6063
+        },
+        "username": "qngshu988723424",
+        "verified": false
+      }
+    ]
+  }
+}

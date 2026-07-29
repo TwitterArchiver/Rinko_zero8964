@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1969634243363160134",
+    "created_at": "2025-09-21T05:26:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-21T06:26:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1969634243363160134"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/soyourmycurse/…",
+          "end": 78,
+          "expanded_url": "https://twitter.com/soyourmycurse/status/1969559655992213997",
+          "start": 55,
+          "url": "https://t.co/HoTUXiNc6A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969634243363160134",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969559655992213997",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "支持复辟的请提取这段话重点，后藤他是真想在墙内公布我们，沐雨公布的行为还可以解释为挣钱，后藤是真的想弄死我们 https://t.co/HoTUXiNc6A"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1969559649390379008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1VIEOHbQAAIz6A.jpg",
+        "width": 506
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1969634243363160134",
+        "created_at": "2025-09-21T05:26:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T06:26:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969634243363160134"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/soyourmycurse/…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/soyourmycurse/status/1969559655992213997",
+              "start": 55,
+              "url": "https://t.co/HoTUXiNc6A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969634243363160134",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969559655992213997",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "支持复辟的请提取这段话重点，后藤他是真想在墙内公布我们，沐雨公布的行为还可以解释为挣钱，后藤是真的想弄死我们 https://t.co/HoTUXiNc6A"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969559649390379008"
+          ]
+        },
+        "author_id": "1748235492414607360",
+        "conversation_id": "1969559655992213997",
+        "created_at": "2025-09-21T00:29:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T01:29:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969559655992213997"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 27,
+              "id": "1700948552078467072",
+              "start": 14,
+              "username": "Overdose_DBD"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dcxqbvOHFR",
+              "end": 183,
+              "expanded_url": "https://x.com/SoYouRmyCurse/status/1969559655992213997/photo/1",
+              "media_key": "3_1969559649390379008",
+              "start": 160,
+              "url": "https://t.co/dcxqbvOHFR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969559655992213997",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1504,
+          "like_count": 13,
+          "quote_count": 6,
+          "reply_count": 6,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "据可靠消息来源 超级后后后藤@Overdose_DBD 想要复辟他在od圈的王位\n在之前55555的推文中也可以看出端倪 他的目标大概是报复鸡哥以及所有公开反对他的人\n众所周知后藤想彻底爆了od圈 再之后亲手联合（没错是亲手）b站up主邀请oder进行采访 在墙内对od进行传播 这事大家有目共睹\n看到请多转发 感谢！ https://t.co/dcxqbvOHFR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 317,
+          "following_count": 273,
+          "like_count": 3059,
+          "listed_count": 2,
+          "media_count": 70,
+          "tweet_count": 3973
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-19T06:47:13.000Z",
+        "description": "冬椿丨non-binary丨osdd丨drugtwt丨江浙沪可面基丨冬だった醒めないで夢に見た桃源郷はもうそこにある",
+        "id": "1748235492414607360",
+        "location": "我一直在你身边哦",
+        "name": "冬がすぎたら",
+        "pinned_tweet_id": "1969622463903645921",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969266786937032704/TiQGoj3I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1640,
+          "following_count": 39,
+          "like_count": 3568,
+          "listed_count": 5,
+          "media_count": 9,
+          "tweet_count": 128
+        },
+        "username": "SoYouRmyCurse",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1999913434285224116",
+    "created_at": "2025-12-13T18:44:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T19:44:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1999913434285224116"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/edward_8964/st…",
+          "end": 48,
+          "expanded_url": "https://twitter.com/edward_8964/status/1999729574599651426",
+          "start": 25,
+          "url": "https://t.co/HKFG68kSV4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999913434285224116",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999729574599651426",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "历史之所以会再次启动，是因为生命从来没有学会克制 https://t.co/HKFG68kSV4"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1999913434285224116",
+        "created_at": "2025-12-13T18:44:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T19:44:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999913434285224116"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/edward_8964/st…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/edward_8964/status/1999729574599651426",
+              "start": 25,
+              "url": "https://t.co/HKFG68kSV4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999913434285224116",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999729574599651426",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "历史之所以会再次启动，是因为生命从来没有学会克制 https://t.co/HKFG68kSV4"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1911828872334831616",
+        "conversation_id": "1999717483432018113",
+        "created_at": "2025-12-13T06:34:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T07:34:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999729574599651426"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1879395690230738944",
+              "start": 0,
+              "username": "Psych_Angel_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999729574599651426",
+        "in_reply_to_user_id": "1879395690230738944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 860,
+          "like_count": 8,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999717483432018113",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Psych_Angel_ 极而言之，泄一半劲，还有一半欲，帝国主义打平了，全世界社会主义化了，再过多少年，又会满盈活力，一定还要多。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜🥺@NashiMoe233｜如果没有回关请私信提醒我！｜我不吸毒！！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "NashiMoe233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNOXH"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1999352315241988490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 415,
+          "following_count": 379,
+          "like_count": 5877,
+          "listed_count": 1,
+          "media_count": 99,
+          "tweet_count": 5127
+        },
+        "url": "https://t.co/rCvc9RNOXH",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-14T17:08:26.000Z",
+        "description": "南湖之虎｜第4次转生｜ MTX ｜退役OIer｜OD｜重精神病｜ADHD｜右美沙芬 ｜freeODwiki参与者｜NEwiki维护员｜自由、梦想、进取｜不盈利方针中断",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nonexistent.wiki",
+                "end": 23,
+                "expanded_url": "http://nonexistent.wiki",
+                "start": 0,
+                "url": "https://t.co/l3ALBiEbNl"
+              }
+            ]
+          }
+        },
+        "id": "1911828872334831616",
+        "location": "NE",
+        "name": "💊爱德华",
+        "pinned_tweet_id": "1994524465359982832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983915986710667264/18Wn7FvD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 759,
+          "following_count": 629,
+          "like_count": 6610,
+          "listed_count": 2,
+          "media_count": 277,
+          "tweet_count": 4301
+        },
+        "url": "https://t.co/l3ALBiEbNl",
+        "username": "Edward_8964",
+        "verified": true
+      }
+    ]
+  }
+}

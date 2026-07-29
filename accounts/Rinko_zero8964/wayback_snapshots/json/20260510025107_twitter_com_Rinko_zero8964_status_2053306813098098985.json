@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2053306813098098985",
+    "created_at": "2026-05-10T02:51:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T03:51:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053306813098098985"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1577362467419611137",
+          "start": 3,
+          "username": "Retepa555"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/zjgLhtJ",
+          "end": 139,
+          "start": 119,
+          "url": "https://t.co/zjgLhtJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053306813098098985",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 54
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052626366584209605",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Retepa555: 300fo了😋，发个感谢抽奖，没人参会尴尬惹啊！\n奖池:影子武士2*1（原价108r，cdk）\n绿普*2（缅怀pr，折现13r）\n冰红茶*3（折现3r）\n都是点便宜小玩意（）\n关注+转发+扣1即可参与≡ω≡ https://t.co/zjgLhtJ…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2053306813098098985].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2053306813098098985",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2053306813098098985"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1400,
+        "media_key": "3_2052626357113544704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHxky-hbYAAxXnh.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052626357113544704"
+          ]
+        },
+        "author_id": "1577362467419611137",
+        "conversation_id": "2052626366584209605",
+        "created_at": "2026-05-08T05:47:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T06:47:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052626366584209605"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zjgLhtJq9j",
+              "end": 127,
+              "expanded_url": "https://x.com/Retepa555/status/2052626366584209605/photo/1",
+              "media_key": "3_2052626357113544704",
+              "start": 104,
+              "url": "https://t.co/zjgLhtJq9j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052626366584209605",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4411,
+          "like_count": 65,
+          "quote_count": 1,
+          "reply_count": 52,
+          "retweet_count": 54
+        },
+        "reply_settings": "everyone",
+        "text": "300fo了😋，发个感谢抽奖，没人参会尴尬惹啊！\n奖池:影子武士2*1（原价108r，cdk）\n绿普*2（缅怀pr，折现13r）\n冰红茶*3（折现3r）\n都是点便宜小玩意（）\n关注+转发+扣1即可参与≡ω≡ https://t.co/zjgLhtJq9j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思う、ゆえに我あり｜ 我是林子｜性别为无、｜寒くなってきたね……もう少しだけ、いい？｜intp-t｜ASD/OCD/焦虑障碍｜🧬今日也想成为biohacker｜好妈妈们@Misaki11137 @loveforeversfy|bro @BelovedUren8964｜vico酱@vicoOci_Olvidar",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 85,
+                "username": "Misaki11137"
+              },
+              {
+                "end": 113,
+                "start": 98,
+                "username": "loveforeversfy"
+              },
+              {
+                "end": 134,
+                "start": 118,
+                "username": "BelovedUren8964"
+              },
+              {
+                "end": 156,
+                "start": 140,
+                "username": "vicoOci_Olvidar"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wakaba_rinko",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wakaba_rinko",
+                "start": 0,
+                "url": "https://t.co/zWqK1n9RJg"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "Ask me any u want→",
+        "name": "Rinko",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 726,
+          "following_count": 711,
+          "like_count": 17800,
+          "listed_count": 1,
+          "media_count": 183,
+          "tweet_count": 8606
+        },
+        "url": "https://t.co/zWqK1n9RJg",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-04T18:18:25.000Z",
+        "description": "＝阿瓜｜pc街机/都市传说/文史哲艺爱好者/ccru/社民/机械飞升/生理女 友好一切/民科/后现代/神必学游客/oder/查成分互fo｜只是互联网幽灵\n\n👁你們怎麼辦，只有天知道。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/retepa555",
+                "end": 23,
+                "expanded_url": "https://ngl.link/retepa555",
+                "start": 0,
+                "url": "https://t.co/i8FVzhF71c"
+              }
+            ]
+          }
+        },
+        "id": "1577362467419611137",
+        "location": "第三高原",
+        "name": "無機質水樂",
+        "pinned_tweet_id": "2008084757700395499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009666622110531584/OB6tshlx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 769,
+          "like_count": 21018,
+          "listed_count": 0,
+          "media_count": 169,
+          "tweet_count": 1685
+        },
+        "url": "https://t.co/i8FVzhF71c",
+        "username": "Retepa555",
+        "verified": false
+      }
+    ]
+  }
+}

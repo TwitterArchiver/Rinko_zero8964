@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1992499755357012116",
+    "created_at": "2025-11-23T07:45:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T08:45:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992499755357012116"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1567203042872926208",
+          "start": 3,
+          "username": "Akinoyo_desu"
+        },
+        {
+          "end": 42,
+          "id": "1016552943774920704",
+          "start": 33,
+          "username": "Akinoyo_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992499755357012116",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992482113288057078",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Akinoyo_desu: 上一世，我的大号 仿生喹硫平 @Akinoyo_ 意外陨落，一切像被强制清空。\n但真正的我并没有随之消失，而是在废墟里重启、更新、重写自己。\n这一世，我以本体归来，把上一世遗失的权柄与声音，一件不落地夺回。"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [Akinoyo_].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "Akinoyo_",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "Akinoyo_"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1992499755357012116",
+        "created_at": "2025-11-23T07:45:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T08:45:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992499755357012116"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1567203042872926208",
+              "start": 3,
+              "username": "Akinoyo_desu"
+            },
+            {
+              "end": 42,
+              "id": "1016552943774920704",
+              "start": 33,
+              "username": "Akinoyo_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992499755357012116",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992482113288057078",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Akinoyo_desu: 上一世，我的大号 仿生喹硫平 @Akinoyo_ 意外陨落，一切像被强制清空。\n但真正的我并没有随之消失，而是在废墟里重启、更新、重写自己。\n这一世，我以本体归来，把上一世遗失的权柄与声音，一件不落地夺回。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567203042872926208",
+        "conversation_id": "1992482113288057078",
+        "created_at": "2025-11-23T06:35:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T07:35:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992482113288057078"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 24,
+              "id": "1016552943774920704",
+              "start": 15,
+              "username": "Akinoyo_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992482113288057078",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 323,
+          "like_count": 12,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "上一世，我的大号 仿生喹硫平 @Akinoyo_ 意外陨落，一切像被强制清空。\n但真正的我并没有随之消失，而是在废墟里重启、更新、重写自己。\n这一世，我以本体归来，把上一世遗失的权柄与声音，一件不落地夺回。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜🥺@NashiMoe233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "NashiMoe233"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1967335109767692560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 332,
+          "like_count": 4737,
+          "listed_count": 1,
+          "media_count": 90,
+          "tweet_count": 4595
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-06T17:28:25.000Z",
+        "description": "别说完蛋这种话！",
+        "id": "1567203042872926208",
+        "name": "喹硫平归来！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870431669808951297/LZfqETLK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 54,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 6
+        },
+        "username": "Akinoyo_desu",
+        "verified": false
+      }
+    ]
+  }
+}

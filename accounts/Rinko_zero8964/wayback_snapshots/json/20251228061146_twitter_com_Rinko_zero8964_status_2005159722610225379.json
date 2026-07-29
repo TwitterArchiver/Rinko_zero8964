@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2005140808727757159",
+    "created_at": "2025-12-28T06:11:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T07:11:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005159722610225379"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1726969617850286080",
+          "start": 0,
+          "username": "NashiMoe233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005159722610225379",
+    "in_reply_to_user_id": "1726969617850286080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005158791650906466",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NashiMoe233 厉害 一点批评不受 那我还说我主观认为我的幻觉是真的那现实就是这样 客观是一点不要的 反驳是拿不出证据全靠一张嘴的 我把你当朋友告诉你客观意义你没病你一定要成为精神病 你一定要说我找茬那我也只能把你当仇人爆一爆了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2005140808727757159",
+        "created_at": "2025-12-28T06:11:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T07:11:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005159722610225379"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1726969617850286080",
+              "start": 0,
+              "username": "NashiMoe233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005159722610225379",
+        "in_reply_to_user_id": "1726969617850286080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005158791650906466",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NashiMoe233 厉害 一点批评不受 那我还说我主观认为我的幻觉是真的那现实就是这样 客观是一点不要的 反驳是拿不出证据全靠一张嘴的 我把你当朋友告诉你客观意义你没病你一定要成为精神病 你一定要说我找茬那我也只能把你当仇人爆一爆了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726969617850286080",
+        "conversation_id": "2005140808727757159",
+        "created_at": "2025-12-28T06:08:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T07:08:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005158791650906466"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1849043039496617984",
+              "start": 0,
+              "username": "Rinko_zero8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/nashimoe233/st…",
+              "end": 135,
+              "expanded_url": "https://twitter.com/nashimoe233/status/2005153724852040020",
+              "start": 112,
+              "url": "https://t.co/Ut0Ucxq7X4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005158791650906466",
+        "in_reply_to_user_id": "1849043039496617984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005153724852040020",
+            "type": "quoted"
+          },
+          {
+            "id": "2005157532629958890",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rinko_zero8964 我再重复一遍 如果一个人意识到某件事情 那么这件事情就可以被认定为目前的事实真相 我从没有主动说过你的话存在学术问题哈\n如果再来打扰我正常的情绪发泄影响我的生活 那我不介意直接把你b了 谢谢 https://t.co/Ut0Ucxq7X4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜如果没有回关请私信提醒我！｜我不吸毒！！！｜小猫我喜欢你超喜欢我爱你@psych_angel_｜性别为无、",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 45,
+                "username": "psych_angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNh89"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1999352315241988490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 422,
+          "like_count": 8072,
+          "listed_count": 1,
+          "media_count": 114,
+          "tweet_count": 5753
+        },
+        "url": "https://t.co/rCvc9RNh89",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-21T14:23:48.000Z",
+        "description": "梨子丨我的情感应该被埋葬在马里亚纳海沟下丨intp-t丨non-binary丨osdd-1a丨碎碎念推丨不回答药物滥用相关问题",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/NashiMoe233",
+                "end": 23,
+                "expanded_url": "http://t.me/NashiMoe233",
+                "start": 0,
+                "url": "https://t.co/8KaGgpc8w6"
+              }
+            ]
+          }
+        },
+        "id": "1726969617850286080",
+        "location": "天目山路305号",
+        "name": "涙の販売機",
+        "pinned_tweet_id": "1942953404315394445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003554412254625797/ITFTv6MD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1850,
+          "following_count": 212,
+          "like_count": 24217,
+          "listed_count": 3,
+          "media_count": 635,
+          "tweet_count": 12871
+        },
+        "url": "https://t.co/8KaGgpc8w6",
+        "username": "NashiMoe233",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1956554154546999296"
+      ],
+      "media_source_tweet_id": [
+        "1956554158317941161"
+      ]
+    },
+    "author_id": "1849043039496617984",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1956655927328661795",
+    "created_at": "2025-08-16T09:55:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-16T10:55:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956655927328661795"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1744100751356342272",
+          "start": 3,
+          "username": "gOPwbi7qqtWeD9o"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yiXiQBuw1N",
+          "end": 44,
+          "expanded_url": "https://x.com/gOPwbi7qqtWeD9o/status/1956554158317941161/photo/1",
+          "media_key": "3_1956554154546999296",
+          "start": 21,
+          "url": "https://t.co/yiXiQBuw1N"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956655927328661795",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 54
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956554158317941161",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gOPwbi7qqtWeD9o: https://t.co/yiXiQBuw1N"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1956554154546999296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GycToyWWsAAMZ_u.jpg",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956554154546999296"
+          ],
+          "media_source_tweet_id": [
+            "1956554158317941161"
+          ]
+        },
+        "author_id": "1849043039496617984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1956655927328661795",
+        "created_at": "2025-08-16T09:55:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T10:55:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956655927328661795"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1744100751356342272",
+              "start": 3,
+              "username": "gOPwbi7qqtWeD9o"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yiXiQBuw1N",
+              "end": 44,
+              "expanded_url": "https://x.com/gOPwbi7qqtWeD9o/status/1956554158317941161/photo/1",
+              "media_key": "3_1956554154546999296",
+              "start": 21,
+              "url": "https://t.co/yiXiQBuw1N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956655927328661795",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 54
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956554158317941161",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gOPwbi7qqtWeD9o: https://t.co/yiXiQBuw1N"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956554154546999296"
+          ]
+        },
+        "author_id": "1744100751356342272",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1956554158317941161",
+        "created_at": "2025-08-16T03:10:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T04:10:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956554158317941161"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yiXiQBuw1N",
+              "end": 23,
+              "expanded_url": "https://x.com/gOPwbi7qqtWeD9o/status/1956554158317941161/photo/1",
+              "media_key": "3_1956554154546999296",
+              "start": 0,
+              "url": "https://t.co/yiXiQBuw1N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956554158317941161",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 53,
+          "impression_count": 11120,
+          "like_count": 563,
+          "quote_count": 3,
+          "reply_count": 4,
+          "retweet_count": 54
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/yiXiQBuw1N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849043147487420416/0nrEqJTK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 235,
+          "like_count": 1695,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 2946
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-07T20:56:46.000Z",
+        "description": "Информатика",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "neuralnode.online",
+                "end": 23,
+                "expanded_url": "http://neuralnode.online",
+                "start": 0,
+                "url": "https://t.co/6oT0Qvy21E"
+              }
+            ]
+          }
+        },
+        "id": "1744100751356342272",
+        "name": "17525272901868291765377191994762551627829917365278",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932711514676383744/F6w657KK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100080,
+          "following_count": 332,
+          "like_count": 10612,
+          "listed_count": 386,
+          "media_count": 1188,
+          "tweet_count": 1531
+        },
+        "url": "https://t.co/6oT0Qvy21E",
+        "username": "gOPwbi7qqtWeD9o",
+        "verified": true
+      }
+    ]
+  }
+}

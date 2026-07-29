@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1993977045442036047",
+    "created_at": "2025-11-27T12:10:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T13:10:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994015920180875288"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1431510026221350912",
+          "start": 0,
+          "username": "ZdnxXc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994015920180875288",
+    "in_reply_to_user_id": "1431510026221350912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994014210842345872",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZdnxXc 他销号好像是因为别的事情，你先等等看，因为他发货员不是他本人，多查查物流，我觉得他是不是被晶了（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1993977045442036047",
+        "created_at": "2025-11-27T12:10:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T13:10:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994015920180875288"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1431510026221350912",
+              "start": 0,
+              "username": "ZdnxXc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994015920180875288",
+        "in_reply_to_user_id": "1431510026221350912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994014210842345872",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZdnxXc 他销号好像是因为别的事情，你先等等看，因为他发货员不是他本人，多查查物流，我觉得他是不是被晶了（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1431510026221350912",
+        "conversation_id": "1993977045442036047",
+        "created_at": "2025-11-27T12:03:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T13:03:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994014210842345872"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1849043039496617984",
+              "start": 0,
+              "username": "Rinko_zero8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994014210842345872",
+        "in_reply_to_user_id": "1849043039496617984",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994013855660335246",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rinko_zero8964 40mg 4-ho-met"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜🥺@NashiMoe233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "NashiMoe233"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1967335109767692560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 377,
+          "following_count": 341,
+          "like_count": 5031,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 4776
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-28T06:52:50.000Z",
+        "description": "迷幻美学欢迎投稿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xczdnx",
+                "end": 23,
+                "expanded_url": "https://t.me/xczdnx",
+                "start": 0,
+                "url": "https://t.co/ife6M5ChCI"
+              }
+            ]
+          }
+        },
+        "id": "1431510026221350912",
+        "location": "阿姆斯特丹",
+        "name": "xczdnx🍄",
+        "pinned_tweet_id": "1952289614502494456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1451477295433240599/hBoKxuEB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 91,
+          "like_count": 905,
+          "listed_count": 2,
+          "media_count": 12,
+          "tweet_count": 142
+        },
+        "url": "https://t.co/ife6M5ChCI",
+        "username": "ZdnxXc",
+        "verified": false
+      }
+    ]
+  }
+}

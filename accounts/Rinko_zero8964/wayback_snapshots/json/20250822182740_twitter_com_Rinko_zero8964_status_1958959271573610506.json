@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1958854833806745792",
+    "created_at": "2025-08-22T18:27:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-22T19:27:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958959271573610506"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1609844142313553921",
+          "start": 0,
+          "username": "Nijika_overdose"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958959271573610506",
+    "in_reply_to_user_id": "1609844142313553921",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958854833806745792",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nijika_overdose 生日快乐🎂！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1686,
+        "media_key": "3_1958854820477247492",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gy9AFK0boAQkQ5B.jpg",
+        "width": 1264
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1958854828639363075",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gy9AFpOboAMI3_k.jpg",
+        "width": 767
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1958854833806745792",
+        "created_at": "2025-08-22T18:27:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T19:27:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958959271573610506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1609844142313553921",
+              "start": 0,
+              "username": "Nijika_overdose"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958959271573610506",
+        "in_reply_to_user_id": "1609844142313553921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958854833806745792",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nijika_overdose 生日快乐🎂！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1958854820477247492",
+            "3_1958854828639363075"
+          ]
+        },
+        "author_id": "1609844142313553921",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1958854833806745792",
+        "created_at": "2025-08-22T11:32:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T12:32:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958854833806745792"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/svgoKJFYBT",
+              "end": 34,
+              "expanded_url": "https://x.com/Nijika_overdose/status/1958854833806745792/photo/1",
+              "media_key": "3_1958854820477247492",
+              "start": 11,
+              "url": "https://t.co/svgoKJFYBT"
+            },
+            {
+              "display_url": "pic.x.com/svgoKJFYBT",
+              "end": 34,
+              "expanded_url": "https://x.com/Nijika_overdose/status/1958854833806745792/photo/1",
+              "media_key": "3_1958854828639363075",
+              "start": 11,
+              "url": "https://t.co/svgoKJFYBT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958854833806745792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 670,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "祝我生日快乐wwww https://t.co/svgoKJFYBT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849043147487420416/0nrEqJTK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 240,
+          "like_count": 1889,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 3147
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-02T09:28:57.000Z",
+        "description": "册那，目标Nijika_overdose，疑似18-19岁跨性别女性，涉LGBTQ+亚文化。职业：临床医学生/药学生或麦当劳员工。就职地：上海。隐私推断：过量用药史，鼻吸安非他酮PEA史，游戏爱好，不定期天天在线，家庭/社交圈涉姐妹染色单体。内容多涉药物、身份政治、亚文化、沪爷冲击，需监控。",
+        "id": "1609844142313553921",
+        "location": "参宿四",
+        "name": "Ijichi Nijika overdose",
+        "pinned_tweet_id": "1945857232505094599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1717189338696761344/IAcPRhA4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1065,
+          "following_count": 217,
+          "like_count": 2824,
+          "listed_count": 2,
+          "media_count": 168,
+          "tweet_count": 1983
+        },
+        "username": "Nijika_overdose",
+        "verified": false
+      }
+    ]
+  }
+}

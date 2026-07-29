@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2079959776260407594",
+    "created_at": "2026-07-23T17:20:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T18:20:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080342196855984634"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1599012090517540869",
+          "start": 0,
+          "username": "loveforeversfy"
+        },
+        {
+          "end": 29,
+          "id": "1981638054688501760",
+          "start": 16,
+          "username": "ashasw114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080342196855984634",
+    "in_reply_to_user_id": "1599012090517540869",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079959776260407594",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@loveforeversfy @ashasw114514 nb"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15544,
+        "height": 1280,
+        "media_key": "13_2079959743012257793",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2079959743012257793/img/WgnbCRhjo1HG5P7Z.jpg",
+        "public_metrics": {
+          "view_count": 44158
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079959743012257793/vid/avc1/320x568/lo4CQKje0heqg0dY.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079959743012257793/vid/avc1/480x852/0FsWE_DPx5RiL-Ff.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079959743012257793/vid/avc1/720x1280/zieWvlSkLdcJNCc7.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2079959743012257793/pl/gksfvF3KQGZvf3Rk.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2079959776260407594",
+        "created_at": "2026-07-23T17:20:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T18:20:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080342196855984634"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1599012090517540869",
+              "start": 0,
+              "username": "loveforeversfy"
+            },
+            {
+              "end": 29,
+              "id": "1981638054688501760",
+              "start": 16,
+              "username": "ashasw114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080342196855984634",
+        "in_reply_to_user_id": "1599012090517540869",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079959776260407594",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@loveforeversfy @ashasw114514 nb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2079959743012257793"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "conversation_id": "2079959776260407594",
+        "created_at": "2026-07-22T16:00:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T17:00:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079959776260407594"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 25,
+              "id": "1981638054688501760",
+              "start": 12,
+              "username": "ashasw114514"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/F7EKdTvczi",
+              "end": 49,
+              "expanded_url": "https://x.com/loveforeversfy/status/2079959776260407594/video/1",
+              "media_key": "13_2079959743012257793",
+              "start": 26,
+              "url": "https://t.co/F7EKdTvczi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079959776260407594",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 77906,
+          "like_count": 159,
+          "quote_count": 0,
+          "reply_count": 87,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "啊我又要来这里藏尸了啊\n@ashasw114514 https://t.co/F7EKdTvczi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思う、ゆえに我あり｜ 我是林子｜性别为无、｜寒くなってきたね……もう少しだけ、いい？｜intp-t｜ASD/OCD/焦虑障碍｜🧬今日也想成为biohacker｜好妈妈们@Misaki11137 @loveforeversfy|bro @BelovedUren8964｜vico酱@vicoOci_Olvidar",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 85,
+                "username": "Misaki11137"
+              },
+              {
+                "end": 113,
+                "start": 98,
+                "username": "loveforeversfy"
+              },
+              {
+                "end": 134,
+                "start": 118,
+                "username": "BelovedUren8964"
+              },
+              {
+                "end": 156,
+                "start": 140,
+                "username": "vicoOci_Olvidar"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wakaba_rinko",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wakaba_rinko",
+                "start": 0,
+                "url": "https://t.co/zWqK1n9RJg"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "Ask me any u want→",
+        "name": "Rinko",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 747,
+          "following_count": 693,
+          "like_count": 17513,
+          "listed_count": 1,
+          "media_count": 185,
+          "tweet_count": 8626
+        },
+        "url": "https://t.co/zWqK1n9RJg",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪67",
+        "id": "1599012090517540869",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "2068997025849647511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2677,
+          "following_count": 1555,
+          "like_count": 35730,
+          "listed_count": 10,
+          "media_count": 1246,
+          "tweet_count": 11559
+        },
+        "url": "",
+        "username": "loveforeversfy",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-24T08:25:16.000Z",
+        "description": "县城穷蛆  粉区退散 后现代黑话定型文享受者  此账号一切仇恨言论都是troll  账号存在搬运内容请注意  查成分互fo🚪52\n@dual_runplex",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 65,
+                "username": "dual_runplex"
+              }
+            ]
+          }
+        },
+        "id": "1981638054688501760",
+        "location": "Toronto, Ontario",
+        "name": "搞耍潮爹",
+        "pinned_tweet_id": "2047635999803809809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042630733886558212/PjNOs5t0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5327,
+          "following_count": 3750,
+          "like_count": 9285,
+          "listed_count": 14,
+          "media_count": 772,
+          "tweet_count": 6662
+        },
+        "url": "",
+        "username": "ashasw114514",
+        "verified": false
+      }
+    ]
+  }
+}

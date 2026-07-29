@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1970735095947632732",
+    "created_at": "2025-09-24T06:20:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-24T07:20:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970735095947632732"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1849043039496617984",
+          "start": 3,
+          "username": "Rinko_zero8964"
+        },
+        {
+          "end": 34,
+          "id": "1607388730914140160",
+          "start": 20,
+          "username": "popcat1234566"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970735095947632732",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970716097692504160",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rinko_zero8964: @popcat1234566 没有结束，后藤主要证据已被放出，555相关证据会在该放出的时候给大家开香槟，主要这个555不敢来打我们了也没必要追着一个小孩子咬"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1970735095947632732",
+        "created_at": "2025-09-24T06:20:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T07:20:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970735095947632732"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1849043039496617984",
+              "start": 3,
+              "username": "Rinko_zero8964"
+            },
+            {
+              "end": 34,
+              "id": "1607388730914140160",
+              "start": 20,
+              "username": "popcat1234566"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970735095947632732",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970716097692504160",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rinko_zero8964: @popcat1234566 没有结束，后藤主要证据已被放出，555相关证据会在该放出的时候给大家开香槟，主要这个555不敢来打我们了也没必要追着一个小孩子咬"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1970693734800220621",
+        "created_at": "2025-09-24T05:05:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T06:05:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970716097692504160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1607388730914140160",
+              "start": 0,
+              "username": "popcat1234566"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970716097692504160",
+        "in_reply_to_user_id": "1607388730914140160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970693734800220621",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@popcat1234566 没有结束，后藤主要证据已被放出，555相关证据会在该放出的时候给大家开香槟，主要这个555不敢来打我们了也没必要追着一个小孩子咬"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1970723714062069870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 281,
+          "like_count": 3329,
+          "listed_count": 2,
+          "media_count": 83,
+          "tweet_count": 4220
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-26T14:52:00.000Z",
+        "description": "被嫉妒吞噬的人\n\nN2O/笑气 3r低价批发  私信解锁不神秘菜单",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/popcat1234566",
+                "end": 23,
+                "expanded_url": "https://ngl.link/popcat1234566",
+                "start": 0,
+                "url": "https://t.co/vYlpd7xmaY"
+              }
+            ]
+          }
+        },
+        "id": "1607388730914140160",
+        "name": "popcat1234566",
+        "pinned_tweet_id": "1960642947600228419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812786235565314048/g2vuCrcL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 658,
+          "following_count": 674,
+          "like_count": 36366,
+          "listed_count": 0,
+          "media_count": 345,
+          "tweet_count": 1878
+        },
+        "url": "https://t.co/vYlpd7xmaY",
+        "username": "popcat1234566",
+        "verified": false
+      }
+    ]
+  }
+}

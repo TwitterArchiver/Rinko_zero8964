@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2020182289716769176",
+    "created_at": "2026-02-08T04:38:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T05:38:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020356534203740647"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1763381254035251200",
+          "start": 0,
+          "username": "yowamushi120720"
+        },
+        {
+          "end": 32,
+          "id": "1921405326068531200",
+          "start": 17,
+          "username": "xiaoyou8964514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020356534203740647",
+    "in_reply_to_user_id": "1763381254035251200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020348667635622244",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yowamushi120720 @xiaoyou8964514 啊啊啊其实我觉得还好不过好好笑"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2020348667635622244].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2020348667635622244",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2020348667635622244"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2020182289716769176",
+        "created_at": "2026-02-08T04:38:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T05:38:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020356534203740647"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1763381254035251200",
+              "start": 0,
+              "username": "yowamushi120720"
+            },
+            {
+              "end": 32,
+              "id": "1921405326068531200",
+              "start": 17,
+              "username": "xiaoyou8964514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020356534203740647",
+        "in_reply_to_user_id": "1763381254035251200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020348667635622244",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yowamushi120720 @xiaoyou8964514 啊啊啊其实我觉得还好不过好好笑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜如果没有回关请私信提醒我！｜我不吸毒！！！｜性别为无、｜輪郭の定まらない位置にいた人@Psych_Angel_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 53,
+                "username": "Psych_Angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNh89"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 555,
+          "following_count": 512,
+          "like_count": 13634,
+          "listed_count": 1,
+          "media_count": 145,
+          "tweet_count": 7067
+        },
+        "url": "https://t.co/rCvc9RNh89",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-01T01:50:39.000Z",
+        "description": "若要通行，必须通过创口｜奋斗百年，我是禁毒宣传大使🤓️ ｜社交问题见谅，如无意冒犯请多多包容不用当真 enby 恐惧型依恋请关照｜不负弱虫之名！*无心之过淹没了你",
+        "id": "1763381254035251200",
+        "location": "掌声存在之地",
+        "name": "弱虫モンブラン",
+        "pinned_tweet_id": "2007974697464647846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004604089381072896/T83RMACH_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 402,
+          "following_count": 623,
+          "like_count": 42948,
+          "listed_count": 2,
+          "media_count": 183,
+          "tweet_count": 4200
+        },
+        "username": "yowamushi120720",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-11T03:22:52.000Z",
+        "description": "入壺冷口情私化，二縷清燈卿為渃",
+        "id": "1921405326068531200",
+        "name": "羽殤せな",
+        "pinned_tweet_id": "1986023196898816343",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997531605162668033/PFi8_hPq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 592,
+          "like_count": 4574,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 252
+        },
+        "username": "xiaoyou8964514",
+        "verified": false
+      }
+    ]
+  }
+}

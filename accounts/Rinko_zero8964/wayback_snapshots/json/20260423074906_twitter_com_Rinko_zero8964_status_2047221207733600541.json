@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2047221207733600541",
+    "created_at": "2026-04-23T07:49:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T08:49:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047221207733600541"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/misaki11137/st…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/misaki11137/status/2047187480525578533",
+          "start": 33,
+          "url": "https://t.co/iLz9QEKbjR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047221207733600541",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047187480525578533",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "更难说的是，效果不一定好\n再其次说，1688把人吃昏迷的概率不小 https://t.co/iLz9QEKbjR"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2047221207733600541",
+        "created_at": "2026-04-23T07:49:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T08:49:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047221207733600541"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/misaki11137/st…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/misaki11137/status/2047187480525578533",
+              "start": 33,
+              "url": "https://t.co/iLz9QEKbjR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047221207733600541",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047187480525578533",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "更难说的是，效果不一定好\n再其次说，1688把人吃昏迷的概率不小 https://t.co/iLz9QEKbjR"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040423313231740928",
+        "conversation_id": "2046990838228820189",
+        "created_at": "2026-04-23T05:35:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T06:35:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047187480525578533"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2011873376445612032",
+              "start": 0,
+              "username": "MutsumiXiaomu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047187480525578533",
+        "in_reply_to_user_id": "2011873376445612032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046990838228820189",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MutsumiXiaomu 这个真的很难说，提示一点，pr很难吃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思う、ゆえに我あり｜ 我是林子｜性别为无、｜寒くなってきたね……もう少しだけ、いい？｜intp-t｜ASD/OCD/焦虑障碍｜🧬今日也想成为biohacker｜好妈妈们@Misaki11137 @loveforeversfy|bro @BelovedUren8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 85,
+                "username": "Misaki11137"
+              },
+              {
+                "end": 113,
+                "start": 98,
+                "username": "loveforeversfy"
+              },
+              {
+                "end": 134,
+                "start": 118,
+                "username": "BelovedUren8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wakaba_rinko",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wakaba_rinko",
+                "start": 0,
+                "url": "https://t.co/zWqK1n9RJg"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "Ask me any u want→",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 691,
+          "following_count": 688,
+          "like_count": 17438,
+          "listed_count": 1,
+          "media_count": 174,
+          "tweet_count": 8501
+        },
+        "url": "https://t.co/zWqK1n9RJg",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-04T13:38:07.000Z",
+        "description": "三崎，已经累了，这是第十个号了88/188🚪是一条🐟，放过我这个可怜无辜的精神病小女孩吧 世界上最喜欢的妈咪 @8964_Y ❤️ 广州，接线下",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 55,
+                "username": "8964_Y"
+              }
+            ]
+          }
+        },
+        "id": "2040423313231740928",
+        "name": "三崎（永远漂泊版）",
+        "pinned_tweet_id": "2044071410835042690",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040426683560529921/zC8v7pqm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 300,
+          "following_count": 195,
+          "like_count": 969,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 294
+        },
+        "username": "Misaki11137",
+        "verified": false
+      }
+    ]
+  }
+}

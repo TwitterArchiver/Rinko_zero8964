@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1989186860120437159",
+    "created_at": "2025-11-14T04:21:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T05:21:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1989186860120437159"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yaowubaike/sta…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/yaowubaike/status/1989102597979140166",
+          "start": 11,
+          "url": "https://t.co/GOMJvveFnL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989186860120437159",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989102597979140166",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其实没必要走到这一步 https://t.co/GOMJvveFnL"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1989186860120437159",
+        "created_at": "2025-11-14T04:21:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T05:21:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989186860120437159"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yaowubaike/sta…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/yaowubaike/status/1989102597979140166",
+              "start": 11,
+              "url": "https://t.co/GOMJvveFnL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989186860120437159",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989102597979140166",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实没必要走到这一步 https://t.co/GOMJvveFnL"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962425480612851712",
+        "conversation_id": "1989102597979140166",
+        "created_at": "2025-11-13T22:46:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T23:46:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989102597979140166"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1989102597979140166",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 6371,
+          "like_count": 72,
+          "quote_count": 6,
+          "reply_count": 45,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是沐雨 这是一篇遗嘱\n我本身心情就很压抑，起来一看号没了，心情崩溃了\n对不起爱我的人 对不起关心我的人 对不起所有有过仇恨的人们\n我死后我的社交账号将会永久停用\n此账号由前副wiki主弦月与现副wiki主小鸮共同接管\n我吞了3000mg苯巴比妥 190mg硝西泮\n还有一些氯硝西泮\n大家 晚安"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜🥺@NashiMoe233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "NashiMoe233"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1967335109767692560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 298,
+          "like_count": 3657,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 4316
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-01T08:02:36.000Z",
+        "description": "这里是药物百科官方账号 有报告欢迎私信投稿 | wiki主沐雨@drug_artist1 | 副wiki主小鸮:@Manglesuki｜提供免费药物咨询｜提问箱:https://t.co/LsyPFMc5Pb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 31,
+                "username": "drug_artist1"
+              },
+              {
+                "end": 67,
+                "start": 56,
+                "username": "Manglesuki"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/drug_artist",
+                "end": 104,
+                "expanded_url": "https://ngl.link/drug_artist",
+                "start": 81,
+                "url": "https://t.co/LsyPFMc5Pb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/05EG4MjwrN"
+              }
+            ]
+          }
+        },
+        "id": "1962425480612851712",
+        "location": "Xanax天国2mg市",
+        "name": "药物百科Mediwiki",
+        "pinned_tweet_id": "1975782494189601080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962426785532170240/hz3rO6fL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1898,
+          "following_count": 29,
+          "like_count": 397,
+          "listed_count": 4,
+          "media_count": 60,
+          "tweet_count": 215
+        },
+        "url": "https://t.co/05EG4MjwrN",
+        "username": "yaowubaike",
+        "verified": false
+      }
+    ]
+  }
+}

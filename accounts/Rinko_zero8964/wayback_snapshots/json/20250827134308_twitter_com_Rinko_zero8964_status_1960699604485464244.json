@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1960699595719385088"
+      ]
+    },
+    "author_id": "1849043039496617984",
+    "conversation_id": "1960699604485464244",
+    "created_at": "2025-08-27T13:43:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T14:43:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1960699604485464244"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/B1TpAGdag1",
+          "end": 34,
+          "expanded_url": "https://x.com/Rinko_zero8964/status/1960699604485464244/photo/1",
+          "media_key": "3_1960699595719385088",
+          "start": 11,
+          "url": "https://t.co/B1TpAGdag1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960699604485464244",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这很萌，太萌了我超爱 https://t.co/B1TpAGdag1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1960699595719385088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzXN5OIbIAAm037.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960699595719385088"
+          ]
+        },
+        "author_id": "1849043039496617984",
+        "conversation_id": "1960699604485464244",
+        "created_at": "2025-08-27T13:43:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T14:43:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960699604485464244"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/B1TpAGdag1",
+              "end": 34,
+              "expanded_url": "https://x.com/Rinko_zero8964/status/1960699604485464244/photo/1",
+              "media_key": "3_1960699595719385088",
+              "start": 11,
+              "url": "https://t.co/B1TpAGdag1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960699604485464244",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这很萌，太萌了我超爱 https://t.co/B1TpAGdag1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849043147487420416/0nrEqJTK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 244,
+          "like_count": 2130,
+          "listed_count": 2,
+          "media_count": 47,
+          "tweet_count": 3324
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      }
+    ]
+  }
+}

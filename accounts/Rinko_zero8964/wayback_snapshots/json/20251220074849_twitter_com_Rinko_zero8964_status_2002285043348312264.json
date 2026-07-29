@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2001723846009991560",
+    "created_at": "2025-12-20T07:48:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T08:48:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002285043348312264"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1762531379898994688",
+          "start": 0,
+          "username": "Hello_THX_Bye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002285043348312264",
+    "in_reply_to_user_id": "1762531379898994688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001723846009991560",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hello_THX_Bye 我也想去欧洲那边参加这种😖感觉很有感悟"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2001723846009991560",
+        "created_at": "2025-12-20T07:48:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T08:48:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002285043348312264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1762531379898994688",
+              "start": 0,
+              "username": "Hello_THX_Bye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002285043348312264",
+        "in_reply_to_user_id": "1762531379898994688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001723846009991560",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hello_THX_Bye 我也想去欧洲那边参加这种😖感觉很有感悟"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1762531379898994688",
+        "conversation_id": "2001723846009991560",
+        "created_at": "2025-12-18T18:38:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T19:38:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001723846009991560"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2001723846009991560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 21921,
+          "like_count": 233,
+          "quote_count": 1,
+          "reply_count": 16,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我学校居然有迷幻药相关社团，进去一看果然都是一群用过各种药的，有种回到家一般的安心感"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜🥺@NashiMoe233｜如果没有回关请私信提醒我！｜我不吸毒！！！｜小猫我喜欢你超喜欢我爱你@psych_angel_｜性别为无、",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "NashiMoe233"
+              },
+              {
+                "end": 72,
+                "start": 59,
+                "username": "psych_angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNh89"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1999352315241988490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 438,
+          "following_count": 404,
+          "like_count": 6832,
+          "listed_count": 1,
+          "media_count": 106,
+          "tweet_count": 5404
+        },
+        "url": "https://t.co/rCvc9RNh89",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-27T17:34:15.000Z",
+        "description": "飛び込んでみたいと 思う｜=核子｜20⬆️｜非二元｜any pronouns｜持证AuDHD｜中/Eng｜泛术力口｜精神药理学习中｜不在中国大陆｜不卖药｜人类到底是怎么社交的呢？好奇怪，我搞不明白，但我想和你交朋友。",
+        "id": "1762531379898994688",
+        "location": "眠れない 午前二時",
+        "name": "核子融合炉",
+        "pinned_tweet_id": "2001713638965649765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994170922090016768/g3q4Z68e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 116,
+          "like_count": 2140,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 75
+        },
+        "username": "Hello_THX_Bye",
+        "verified": false
+      }
+    ]
+  }
+}

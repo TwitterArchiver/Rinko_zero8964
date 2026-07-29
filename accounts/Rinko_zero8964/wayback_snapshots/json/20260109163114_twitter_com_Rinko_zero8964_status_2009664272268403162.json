@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2009264982861451264"
+      ],
+      "media_source_tweet_id": [
+        "2009265077187223670"
+      ]
+    },
+    "author_id": "1849043039496617984",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2009664272268403162",
+    "created_at": "2026-01-09T16:31:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T17:31:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009664272268403162"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 36,
+          "normalized_text": "BAKA",
+          "probability": 0.3606,
+          "start": 33,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "205565258",
+          "start": 3,
+          "username": "HatsuneMiku"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/r0nBSQTouY",
+          "end": 72,
+          "expanded_url": "https://x.com/HatsuneMiku/status/2009265077187223670/video/1",
+          "media_key": "13_2009264982861451264",
+          "start": 49,
+          "url": "https://t.co/r0nBSQTouY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009664272268403162",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 555
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009265077187223670",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HatsuneMiku: Finally, TRIPLE BAKA THURSDAY‼️ https://t.co/r0nBSQTouY"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 236300,
+        "height": 360,
+        "media_key": "13_2009264982861451264",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2009264982861451264/img/LwNtWXnHts5tKeYv.jpg",
+        "public_metrics": {
+          "view_count": 14108
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2009264982861451264/vid/avc1/360x270/r6gda4y-vFsLs1Eb.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2009264982861451264/vid/avc1/480x360/q-g1U5u4Mccd7XJK.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2009264982861451264/pl/AbAb14iwaDiIRA-B.m3u8?v=cfc"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2009264982861451264"
+          ],
+          "media_source_tweet_id": [
+            "2009265077187223670"
+          ]
+        },
+        "author_id": "1849043039496617984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2009664272268403162",
+        "created_at": "2026-01-09T16:31:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T17:31:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009664272268403162"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 36,
+              "normalized_text": "BAKA",
+              "probability": 0.3606,
+              "start": 33,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "205565258",
+              "start": 3,
+              "username": "HatsuneMiku"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/r0nBSQTouY",
+              "end": 72,
+              "expanded_url": "https://x.com/HatsuneMiku/status/2009265077187223670/video/1",
+              "media_key": "13_2009264982861451264",
+              "start": 49,
+              "url": "https://t.co/r0nBSQTouY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009664272268403162",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 555
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009265077187223670",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HatsuneMiku: Finally, TRIPLE BAKA THURSDAY‼️ https://t.co/r0nBSQTouY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2009264982861451264"
+          ]
+        },
+        "author_id": "205565258",
+        "conversation_id": "2009265077187223670",
+        "created_at": "2026-01-08T14:04:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T15:04:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009265077187223670"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 19,
+              "normalized_text": "BAKA",
+              "probability": 0.3659,
+              "start": 16,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/r0nBSQTouY",
+              "end": 55,
+              "expanded_url": "https://x.com/HatsuneMiku/status/2009265077187223670/video/1",
+              "media_key": "13_2009264982861451264",
+              "start": 32,
+              "url": "https://t.co/r0nBSQTouY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009265077187223670",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 471,
+          "impression_count": 34249,
+          "like_count": 3107,
+          "quote_count": 9,
+          "reply_count": 15,
+          "retweet_count": 555
+        },
+        "reply_settings": "everyone",
+        "text": "Finally, TRIPLE BAKA THURSDAY‼️ https://t.co/r0nBSQTouY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜如果没有回关请私信提醒我！｜我不吸毒！！！｜小猫我喜欢你超喜欢我爱你@psych_angel_｜性别为无、",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 45,
+                "username": "psych_angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNh89"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 500,
+          "following_count": 471,
+          "like_count": 10988,
+          "listed_count": 1,
+          "media_count": 135,
+          "tweet_count": 6358
+        },
+        "url": "https://t.co/rCvc9RNh89",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2010-10-21T04:24:33.000Z",
+        "description": "CV01: Digital DIVA ³⁹  ♡ ♬ ~ (Fan Account)",
+        "id": "205565258",
+        "location": "WiFi / 日本",
+        "name": "Miku",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1524481966967599104/gmAz54Bo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425037,
+          "following_count": 0,
+          "like_count": 3026,
+          "listed_count": 142,
+          "media_count": 963,
+          "tweet_count": 995
+        },
+        "username": "HatsuneMiku",
+        "verified": true
+      }
+    ]
+  }
+}

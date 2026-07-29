@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1970156884268339350",
+    "created_at": "2025-09-22T16:58:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-22T17:58:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970170951284466070"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1846704473751560192",
+          "start": 0,
+          "username": "xiaowusama55555"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970170951284466070",
+    "in_reply_to_user_id": "1846704473751560192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970156884268339350",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaowusama55555 你是只字不提后藤望墙内传播的事，这不算od扩散还是你555对自己父亲后藤有一套新的标准"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1970156884268339350",
+        "created_at": "2025-09-22T16:58:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T17:58:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970170951284466070"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1846704473751560192",
+              "start": 0,
+              "username": "xiaowusama55555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970170951284466070",
+        "in_reply_to_user_id": "1846704473751560192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970156884268339350",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaowusama55555 你是只字不提后藤望墙内传播的事，这不算od扩散还是你555对自己父亲后藤有一套新的标准"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1846704473751560192",
+        "conversation_id": "1970156884268339350",
+        "created_at": "2025-09-22T16:02:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T17:02:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970156884268339350"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Rinko_zero8964…",
+              "end": 169,
+              "expanded_url": "https://twitter.com/Rinko_zero8964/status/1970146183919370290",
+              "start": 146,
+              "url": "https://t.co/1Oum14ti7w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970156884268339350",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 193,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970146183919370290",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "1.就是我能力不足才要复活后藤啊，难道有问题吗\n2.天天跟🍐线下了我还能说什么\n3.你赶不赶我走都没有用，复活他之后我就走这是我一开始的打算，既然你们这么咄咄逼人那我突然不想走了也没问题\n4.🍐能不能收收味，别跟那个一年前的vack一样天天挂人开团，至少我开的是策划药商，od扩散，那么你呢 https://t.co/1Oum14ti7w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 277,
+          "like_count": 3182,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 4115
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-17T00:08:06.000Z",
+        "description": "希望世界上再也没有痛苦，无论任何形式",
+        "id": "1846704473751560192",
+        "name": "55555",
+        "pinned_tweet_id": "1921759475200860164",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952308156433866752/c9CkfHpl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 9,
+          "like_count": 384,
+          "listed_count": 4,
+          "media_count": 22,
+          "tweet_count": 163
+        },
+        "username": "xiaowusama55555",
+        "verified": false
+      }
+    ]
+  }
+}

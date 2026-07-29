@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1963628017185689705",
+    "created_at": "2025-09-04T15:39:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-04T16:39:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1963628017185689705"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/anarchyshots/s…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/anarchyshots/status/1963299798561313191",
+          "start": 16,
+          "url": "https://t.co/JdIU9kI9wv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963628017185689705",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963299798561313191",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其实我特别喜欢哥哥这种小男孩（ https://t.co/JdIU9kI9wv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 430,
+        "media_key": "16_1963299708689891328",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/Gz8KrtwWwAA0zrP.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/Gz8KrtwWwAA0zrP.mp4"
+          }
+        ],
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1963628017185689705",
+        "created_at": "2025-09-04T15:39:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T16:39:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963628017185689705"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/anarchyshots/s…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/anarchyshots/status/1963299798561313191",
+              "start": 16,
+              "url": "https://t.co/JdIU9kI9wv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963628017185689705",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963299798561313191",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实我特别喜欢哥哥这种小男孩（ https://t.co/JdIU9kI9wv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1963299708689891328"
+          ]
+        },
+        "author_id": "1416878948747603968",
+        "conversation_id": "1963299798561313191",
+        "created_at": "2025-09-03T17:55:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T18:55:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963299798561313191"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HM2tDGFCVX",
+              "end": 23,
+              "expanded_url": "https://x.com/AnarchyShots/status/1963299798561313191/photo/1",
+              "media_key": "16_1963299708689891328",
+              "start": 0,
+              "url": "https://t.co/HM2tDGFCVX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963299798561313191",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10422,
+          "impression_count": 1172646,
+          "like_count": 40449,
+          "quote_count": 1116,
+          "reply_count": 92,
+          "retweet_count": 3056
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/HM2tDGFCVX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849043147487420416/0nrEqJTK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295,
+          "following_count": 259,
+          "like_count": 2389,
+          "listed_count": 2,
+          "media_count": 64,
+          "tweet_count": 3575
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-18T21:55:02.000Z",
+        "description": "Images(Shots) and Gifs from Panty & Stocking with Garterbelt by Studio Gainax/Trigger ran by @slayer_pizza",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "slayer_pizza"
+              }
+            ]
+          }
+        },
+        "id": "1416878948747603968",
+        "name": "🍬Panty&StockingShots💯",
+        "pinned_tweet_id": "1871454245318500544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957897435700776960/181qAxDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166026,
+          "following_count": 83,
+          "like_count": 1594,
+          "listed_count": 300,
+          "media_count": 2685,
+          "tweet_count": 4365
+        },
+        "username": "AnarchyShots",
+        "verified": false
+      }
+    ]
+  }
+}

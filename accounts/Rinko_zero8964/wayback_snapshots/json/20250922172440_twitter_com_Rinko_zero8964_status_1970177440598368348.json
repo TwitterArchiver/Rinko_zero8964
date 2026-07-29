@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1970174946312880182",
+    "created_at": "2025-09-22T17:24:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-22T18:24:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970177440598368348"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1846704473751560192",
+          "start": 0,
+          "username": "xiaowusama55555"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970177440598368348",
+    "in_reply_to_user_id": "1846704473751560192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970174946312880182",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaowusama55555 我的天啊你555难道还分osw工作的555/odw工作的555，你在圈子里错误产出还不准人说了，🍐除了odw编辑身份他难道不是一个药圈的普通人看到编辑错误不可以纠正不可以说吗，你错了你就以自己身份道个歉说自己没考虑周全没人还会说你，只有你不愿意承认自己错误还怪正确的人说你怪他们逼你吃药"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 363,
+        "media_key": "3_1970174944089972736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1d3rFfboAA7EW4.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1970174946312880182",
+        "created_at": "2025-09-22T17:24:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T18:24:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970177440598368348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1846704473751560192",
+              "start": 0,
+              "username": "xiaowusama55555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970177440598368348",
+        "in_reply_to_user_id": "1846704473751560192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970174946312880182",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaowusama55555 我的天啊你555难道还分osw工作的555/odw工作的555，你在圈子里错误产出还不准人说了，🍐除了odw编辑身份他难道不是一个药圈的普通人看到编辑错误不可以纠正不可以说吗，你错了你就以自己身份道个歉说自己没考虑周全没人还会说你，只有你不愿意承认自己错误还怪正确的人说你怪他们逼你吃药"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970174944089972736"
+          ]
+        },
+        "author_id": "1846704473751560192",
+        "conversation_id": "1970174946312880182",
+        "created_at": "2025-09-22T17:14:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T18:14:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970174946312880182"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/41pe8I0bk7",
+              "end": 171,
+              "expanded_url": "https://x.com/xiaowusama55555/status/1970174946312880182/photo/1",
+              "media_key": "3_1970174944089972736",
+              "start": 148,
+              "url": "https://t.co/41pe8I0bk7"
+            },
+            {
+              "display_url": "x.com/Rinko_zero8964…",
+              "end": 195,
+              "expanded_url": "https://twitter.com/Rinko_zero8964/status/1970173685341528456",
+              "start": 172,
+              "url": "https://t.co/qE6L6PAj9F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970174946312880182",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 80,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970173685341528456",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不然呢 osw群跟vack攻击完我之后还要再复制粘贴到odw，以及他妈的这句话可是我跟🍐以及vack吵完之后加上去的，谁知道当时管服务器的为什么回档回没了，难道当时的服务器主的问题现在成了我的问题，小宋不当主编也是因为他写了一堆被回档了才不干的，你们这群正事不干的可以歇歇了，别来搞以前干正事的 https://t.co/41pe8I0bk7 https://t.co/qE6L6PAj9F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 277,
+          "like_count": 3182,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 4124
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-17T00:08:06.000Z",
+        "description": "希望世界上再也没有痛苦，无论任何形式",
+        "id": "1846704473751560192",
+        "name": "55555",
+        "pinned_tweet_id": "1921759475200860164",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952308156433866752/c9CkfHpl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 9,
+          "like_count": 384,
+          "listed_count": 4,
+          "media_count": 24,
+          "tweet_count": 172
+        },
+        "username": "xiaowusama55555",
+        "verified": false
+      }
+    ]
+  }
+}

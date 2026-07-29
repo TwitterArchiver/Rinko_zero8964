@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2008892620647620780",
+    "created_at": "2026-01-07T13:24:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T14:24:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2008892620647620780"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rinko_zero8964…",
+          "end": 99,
+          "expanded_url": "https://twitter.com/rinko_zero8964/status/2008892030290973155",
+          "start": 76,
+          "url": "https://t.co/RNFq5HLzyf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008892620647620780",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008892030290973155",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "主要是我他妈吃了就算了，在6点左右我从四楼拿衣服搓成的绳子尝试翻窗下楼，血清素体感爆表坠机，下楼呕吐并且从幻觉抽不开身了，后果就是撞上我爸又被拎回去了 https://t.co/RNFq5HLzyf"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2008892620647620780",
+        "created_at": "2026-01-07T13:24:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T14:24:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008892620647620780"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rinko_zero8964…",
+              "end": 99,
+              "expanded_url": "https://twitter.com/rinko_zero8964/status/2008892030290973155",
+              "start": 76,
+              "url": "https://t.co/RNFq5HLzyf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008892620647620780",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008892030290973155",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "主要是我他妈吃了就算了，在6点左右我从四楼拿衣服搓成的绳子尝试翻窗下楼，血清素体感爆表坠机，下楼呕吐并且从幻觉抽不开身了，后果就是撞上我爸又被拎回去了 https://t.co/RNFq5HLzyf"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2008892030290973155",
+        "created_at": "2026-01-07T13:22:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T14:22:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008892030290973155"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008892030290973155",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我今早大概5点半左右样子口服了500mg dpt 我没疯，我是世上最清醒的人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜如果没有回关请私信提醒我！｜我不吸毒！！！｜小猫我喜欢你超喜欢我爱你@psych_angel_｜性别为无、",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 45,
+                "username": "psych_angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNh89"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 492,
+          "following_count": 465,
+          "like_count": 10464,
+          "listed_count": 1,
+          "media_count": 130,
+          "tweet_count": 6219
+        },
+        "url": "https://t.co/rCvc9RNh89",
+        "username": "Rinko_zero8964",
+        "verified": false
+      }
+    ]
+  }
+}

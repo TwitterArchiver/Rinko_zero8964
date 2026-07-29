@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1968259991326142859",
+    "created_at": "2025-09-17T11:12:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T12:12:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968271746341142672"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1484072544009347072",
+          "start": 0,
+          "username": "BelovedUren8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968271746341142672",
+    "in_reply_to_user_id": "1484072544009347072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968259991326142859",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BelovedUren8964 真的拿到了！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1518,
+        "media_key": "3_1968259982492856320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1CqBpoacAAJ8_h.jpg",
+        "width": 1170
+      },
+      {
+        "height": 184,
+        "media_key": "3_1968259982518034432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1CqBpuaoAAQq2s.jpg",
+        "width": 142
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1968259991326142859",
+        "created_at": "2025-09-17T11:12:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T12:12:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968271746341142672"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1484072544009347072",
+              "start": 0,
+              "username": "BelovedUren8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968271746341142672",
+        "in_reply_to_user_id": "1484072544009347072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968259991326142859",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BelovedUren8964 真的拿到了！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968259982492856320",
+            "3_1968259982518034432"
+          ]
+        },
+        "author_id": "1484072544009347072",
+        "conversation_id": "1968259991326142859",
+        "created_at": "2025-09-17T10:25:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T11:25:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968259991326142859"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vuGbXBNQ1k",
+              "end": 49,
+              "expanded_url": "https://x.com/BelovedUren8964/status/1968259991326142859/photo/1",
+              "media_key": "3_1968259982492856320",
+              "start": 26,
+              "url": "https://t.co/vuGbXBNQ1k"
+            },
+            {
+              "display_url": "pic.x.com/vuGbXBNQ1k",
+              "end": 49,
+              "expanded_url": "https://x.com/BelovedUren8964/status/1968259991326142859/photo/1",
+              "media_key": "3_1968259982518034432",
+              "start": 26,
+              "url": "https://t.co/vuGbXBNQ1k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968259991326142859",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的小卡片无料就这样飞过星际之间到了奶油糖星人手里 https://t.co/vuGbXBNQ1k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 275,
+          "like_count": 3033,
+          "listed_count": 2,
+          "media_count": 70,
+          "tweet_count": 3956
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-20T07:57:36.000Z",
+        "description": "叫我雨怜，我是善良猫猫。 无性别者/💊oder 我支持为OD正名/这还用说吗，我是汉奸哪🇯🇵 / #台湾は国です🇹🇼 / 反男反女反跨反人类反一切/支那人没有一个无辜的",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 56,
+                "start": 49,
+                "tag": "台湾は国です"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "http://overdose.day",
+                "start": 0,
+                "url": "https://t.co/RMci0J1xvd"
+              }
+            ]
+          }
+        },
+        "id": "1484072544009347072",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "滨边雨怜会成为真正的传奇",
+        "pinned_tweet_id": "1808346704829468916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940854805343125504/iG-giSXO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344,
+          "following_count": 479,
+          "like_count": 4323,
+          "listed_count": 1,
+          "media_count": 322,
+          "tweet_count": 3181
+        },
+        "url": "https://t.co/RMci0J1xvd",
+        "username": "BelovedUren8964",
+        "verified": false
+      }
+    ]
+  }
+}

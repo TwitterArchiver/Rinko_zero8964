@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1967202728658206720"
+      ],
+      "media_source_tweet_id": [
+        "1967202747608133840"
+      ]
+    },
+    "author_id": "1849043039496617984",
+    "conversation_id": "1967265659777388707",
+    "created_at": "2025-09-14T16:34:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T17:34:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967265659777388707"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 17,
+          "tag": "Newパンスト"
+        },
+        {
+          "end": 33,
+          "start": 26,
+          "tag": "NewPSG"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1245491337845264388",
+          "start": 3,
+          "username": "Skrillex_li"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PykHD4yFIV",
+          "end": 57,
+          "expanded_url": "https://x.com/Skrillex_li/status/1967202747608133840/photo/1",
+          "media_key": "3_1967202728658206720",
+          "start": 34,
+          "url": "https://t.co/PykHD4yFIV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967265659777388707",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 338
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967202747608133840",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Skrillex_li: #Newパンスト #NewPSG https://t.co/PykHD4yFIV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1433,
+        "media_key": "3_1967202728658206720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0zodYLaAAAnYWT.jpg",
+        "width": 958
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967202728658206720"
+          ],
+          "media_source_tweet_id": [
+            "1967202747608133840"
+          ]
+        },
+        "author_id": "1849043039496617984",
+        "conversation_id": "1967265659777388707",
+        "created_at": "2025-09-14T16:34:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T17:34:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967265659777388707"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 17,
+              "tag": "Newパンスト"
+            },
+            {
+              "end": 33,
+              "start": 26,
+              "tag": "NewPSG"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1245491337845264388",
+              "start": 3,
+              "username": "Skrillex_li"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PykHD4yFIV",
+              "end": 57,
+              "expanded_url": "https://x.com/Skrillex_li/status/1967202747608133840/photo/1",
+              "media_key": "3_1967202728658206720",
+              "start": 34,
+              "url": "https://t.co/PykHD4yFIV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967265659777388707",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 338
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967202747608133840",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Skrillex_li: #Newパンスト #NewPSG https://t.co/PykHD4yFIV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967202728658206720"
+          ]
+        },
+        "author_id": "1245491337845264388",
+        "conversation_id": "1967202747608133840",
+        "created_at": "2025-09-14T12:24:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T13:24:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967202747608133840"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "Newパンスト"
+            },
+            {
+              "end": 16,
+              "start": 9,
+              "tag": "NewPSG"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PykHD4yFIV",
+              "end": 40,
+              "expanded_url": "https://x.com/Skrillex_li/status/1967202747608133840/photo/1",
+              "media_key": "3_1967202728658206720",
+              "start": 17,
+              "url": "https://t.co/PykHD4yFIV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967202747608133840",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 457,
+          "impression_count": 24630,
+          "like_count": 3724,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 338
+        },
+        "reply_settings": "everyone",
+        "text": "#Newパンスト #NewPSG https://t.co/PykHD4yFIV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 266,
+          "like_count": 2761,
+          "listed_count": 2,
+          "media_count": 67,
+          "tweet_count": 3837
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-01T23:20:58.000Z",
+        "description": "中国人 委托请私信我  转载请注明出处  \n 工作请联系✉邮箱：1710509088zyh@gmail.com\n【pixiv】：https://t.co/2whubKJK4H",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/59244061",
+                "end": 87,
+                "expanded_url": "http://pixiv.net/users/59244061",
+                "start": 64,
+                "url": "https://t.co/2whubKJK4H"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "drive.google.com/file/d/1Z71KPI…",
+                "end": 23,
+                "expanded_url": "https://drive.google.com/file/d/1Z71KPIspvKHF1jctVDY_FbrwrhVBt4F0/view",
+                "start": 0,
+                "url": "https://t.co/K5WMsGQPeg"
+              }
+            ]
+          }
+        },
+        "id": "1245491337845264388",
+        "location": "禁止任何形式的AI学习",
+        "name": "Skrillex离（Commission Open）",
+        "pinned_tweet_id": "1667486325573029889",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727273376941785088/O64IFFaf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57822,
+          "following_count": 7748,
+          "like_count": 4757,
+          "listed_count": 396,
+          "media_count": 260,
+          "tweet_count": 778
+        },
+        "url": "https://t.co/K5WMsGQPeg",
+        "username": "Skrillex_li",
+        "verified": false
+      }
+    ]
+  }
+}

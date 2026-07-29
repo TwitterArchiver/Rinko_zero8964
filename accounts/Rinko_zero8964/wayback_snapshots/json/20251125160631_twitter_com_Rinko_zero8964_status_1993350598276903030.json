@@ -1,0 +1,491 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1993350598276903030",
+    "created_at": "2025-11-25T16:06:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T17:06:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993350598276903030"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1911828872334831616",
+          "start": 3,
+          "username": "Edward_8964"
+        },
+        {
+          "end": 30,
+          "id": "1879395690230738944",
+          "start": 17,
+          "username": "Psych_Angel_"
+        },
+        {
+          "end": 46,
+          "id": "1849043039496617984",
+          "start": 31,
+          "username": "Rinko_zero8964"
+        },
+        {
+          "end": 58,
+          "id": "1984971479210229760",
+          "start": 47,
+          "username": "Kallen0720"
+        },
+        {
+          "end": 72,
+          "id": "622036546",
+          "start": 59,
+          "username": "overdose_six"
+        },
+        {
+          "end": 87,
+          "id": "1986452594206838785",
+          "start": 73,
+          "username": "Idontselldrug"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993350598276903030",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993238929521467575",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Edward_8964: @Psych_Angel_ @Rinko_zero8964 @Kallen0720 @overdose_six @Idontselldrug 其实是高智商直接批倒批臭斗倒斗臭了理想主义，同时文化的一套自修补的meme直接维稳（）\n如果我们选一堆…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1993350598276903030",
+        "created_at": "2025-11-25T16:06:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T17:06:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993350598276903030"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1911828872334831616",
+              "start": 3,
+              "username": "Edward_8964"
+            },
+            {
+              "end": 30,
+              "id": "1879395690230738944",
+              "start": 17,
+              "username": "Psych_Angel_"
+            },
+            {
+              "end": 46,
+              "id": "1849043039496617984",
+              "start": 31,
+              "username": "Rinko_zero8964"
+            },
+            {
+              "end": 58,
+              "id": "1984971479210229760",
+              "start": 47,
+              "username": "Kallen0720"
+            },
+            {
+              "end": 72,
+              "id": "622036546",
+              "start": 59,
+              "username": "overdose_six"
+            },
+            {
+              "end": 87,
+              "id": "1986452594206838785",
+              "start": 73,
+              "username": "Idontselldrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993350598276903030",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993238929521467575",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Edward_8964: @Psych_Angel_ @Rinko_zero8964 @Kallen0720 @overdose_six @Idontselldrug 其实是高智商直接批倒批臭斗倒斗臭了理想主义，同时文化的一套自修补的meme直接维稳（）\n如果我们选一堆…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1911828872334831616",
+        "conversation_id": "1992862766957490342",
+        "created_at": "2025-11-25T08:42:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T09:42:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993238929521467575"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1879395690230738944",
+              "start": 0,
+              "username": "Psych_Angel_"
+            },
+            {
+              "end": 29,
+              "id": "1849043039496617984",
+              "start": 14,
+              "username": "Rinko_zero8964"
+            },
+            {
+              "end": 41,
+              "id": "1984971479210229760",
+              "start": 30,
+              "username": "Kallen0720"
+            },
+            {
+              "end": 55,
+              "id": "622036546",
+              "start": 42,
+              "username": "overdose_six"
+            },
+            {
+              "end": 70,
+              "id": "1986452594206838785",
+              "start": 56,
+              "username": "Idontselldrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993238929521467575",
+        "in_reply_to_user_id": "1879395690230738944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993237838662713670",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Psych_Angel_ @Rinko_zero8964 @Kallen0720 @overdose_six @Idontselldrug 其实是高智商直接批倒批臭斗倒斗臭了理想主义，同时文化的一套自修补的meme直接维稳（）\n如果我们选一堆中国婴儿进行西化教育，这一定是理想的天国（bushi）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜🥺@NashiMoe233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "NashiMoe233"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1967335109767692560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 369,
+          "following_count": 338,
+          "like_count": 4997,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 4761
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-14T17:08:26.000Z",
+        "description": "南湖之虎｜第4次转生 生理男｜退役OIer｜OD｜重精神病｜ADHD｜右美沙芬 ｜freeODwiki参与者｜NEwiki维护员｜自由、梦想、进取｜没有任何盈利",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nonexistent.wiki",
+                "end": 23,
+                "expanded_url": "http://nonexistent.wiki",
+                "start": 0,
+                "url": "https://t.co/l3ALBiDDXN"
+              }
+            ]
+          }
+        },
+        "id": "1911828872334831616",
+        "location": "NE",
+        "name": "💊爱德华",
+        "pinned_tweet_id": "1980238749427798365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983915986710667264/18Wn7FvD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 684,
+          "following_count": 553,
+          "like_count": 5542,
+          "listed_count": 2,
+          "media_count": 241,
+          "tweet_count": 3633
+        },
+        "url": "https://t.co/l3ALBiDDXN",
+        "username": "Edward_8964",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-15T05:10:34.000Z",
+        "description": "𝓢𝓬𝓲𝓮𝓷𝓽𝓲𝓼𝓽 | 𝓟𝓱𝓲𝓵𝓸𝓼𝓸𝓹𝓱𝓮𝓻 | 𝓛𝓪𝓫 𝓡𝓪𝓽｜💊#Drugtwt｜BD/DPDR｜Soulmate:@BelovedUren8964｜🍧:@Chufeinya 🍜:@sanmiguelnoodle👩:@DXM8964LXM",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 43,
+                "start": 35,
+                "tag": "Drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 77,
+                "start": 61,
+                "username": "BelovedUren8964"
+              },
+              {
+                "end": 90,
+                "start": 80,
+                "username": "Chufeinya"
+              },
+              {
+                "end": 109,
+                "start": 93,
+                "username": "sanmiguelnoodle"
+              },
+              {
+                "end": 122,
+                "start": 111,
+                "username": "DXM8964LXM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cutekitteno3o",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cutekitteno3o",
+                "start": 0,
+                "url": "https://t.co/OpK0ArxHft"
+              }
+            ]
+          }
+        },
+        "id": "1879395690230738944",
+        "location": "Ask me any u want→",
+        "name": "Mercy",
+        "pinned_tweet_id": "1992008070864711981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984317319691243521/rbczbPan_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 588,
+          "following_count": 662,
+          "like_count": 21133,
+          "listed_count": 1,
+          "media_count": 582,
+          "tweet_count": 9329
+        },
+        "url": "https://t.co/OpK0ArxHft",
+        "username": "Psych_Angel_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-02T13:11:14.000Z",
+        "description": "✞ 鏡よ鏡 正直割れたいか?@i7g9f0   我是老保",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 14,
+                "username": "i7g9f0"
+              }
+            ]
+          }
+        },
+        "id": "1984971479210229760",
+        "location": "Earth",
+        "name": "バズバズ迷乱电波",
+        "pinned_tweet_id": "1993209227297304631",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989173003645509632/-jBjJ4VZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 101,
+          "like_count": 3301,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 1303
+        },
+        "username": "Kallen0720",
+        "verified": false
+      },
+      {
+        "created_at": "2012-06-29T16:18:50.000Z",
+        "description": "化学极乐百科:https://t.co/BlAoDIjruc | 药物代购 | 报告投稿 | 里账号:@fuck_8964 | 提问箱:https://t.co/b5c8bbmW1y",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 51,
+                "username": "fuck_8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 30,
+                "expanded_url": "http://overdose.day",
+                "start": 7,
+                "url": "https://t.co/BlAoDIjruc"
+              },
+              {
+                "display_url": "ngl.link/oder_six",
+                "end": 91,
+                "expanded_url": "https://ngl.link/oder_six",
+                "start": 68,
+                "url": "https://t.co/b5c8bbmW1y"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "http://overdose.day",
+                "start": 0,
+                "url": "https://t.co/BlAoDIjruc"
+              }
+            ]
+          }
+        },
+        "id": "622036546",
+        "location": "天国",
+        "name": "椎名#心宿二",
+        "pinned_tweet_id": "1982097076855996754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985352940517810176/U5hFAjvw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2389,
+          "following_count": 72,
+          "like_count": 11114,
+          "listed_count": 9,
+          "media_count": 564,
+          "tweet_count": 3517
+        },
+        "url": "https://t.co/BlAoDIjruc",
+        "username": "overdose_six",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1986495207203086489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 479,
+          "following_count": 172,
+          "like_count": 235,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 451
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      }
+    ]
+  }
+}

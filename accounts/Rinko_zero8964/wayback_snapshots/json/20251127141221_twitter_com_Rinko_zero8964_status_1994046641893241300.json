@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994020701595217920"
+      ],
+      "media_source_tweet_id": [
+        "1994020732574290010"
+      ]
+    },
+    "author_id": "1849043039496617984",
+    "conversation_id": "1994046641893241300",
+    "created_at": "2025-11-27T14:12:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T15:12:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994046641893241300"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1518404201168007168",
+          "start": 3,
+          "username": "godspeedyou50"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nUqRDuOaNP",
+          "end": 46,
+          "expanded_url": "https://x.com/godspeedyou50/status/1994020732574290010/photo/1",
+          "media_key": "3_1994020701595217920",
+          "start": 23,
+          "url": "https://t.co/nUqRDuOaNP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994046641893241300",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994020732574290010",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @godspeedyou50: 坏结局 https://t.co/nUqRDuOaNP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1994020701595217920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6wvQ2lbsAAShL3.jpg",
+        "width": 970
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994020701595217920"
+          ],
+          "media_source_tweet_id": [
+            "1994020732574290010"
+          ]
+        },
+        "author_id": "1849043039496617984",
+        "conversation_id": "1994046641893241300",
+        "created_at": "2025-11-27T14:12:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T15:12:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994046641893241300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1518404201168007168",
+              "start": 3,
+              "username": "godspeedyou50"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nUqRDuOaNP",
+              "end": 46,
+              "expanded_url": "https://x.com/godspeedyou50/status/1994020732574290010/photo/1",
+              "media_key": "3_1994020701595217920",
+              "start": 23,
+              "url": "https://t.co/nUqRDuOaNP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994046641893241300",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994020732574290010",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @godspeedyou50: 坏结局 https://t.co/nUqRDuOaNP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994020701595217920"
+          ]
+        },
+        "author_id": "1518404201168007168",
+        "conversation_id": "1994020732574290010",
+        "created_at": "2025-11-27T12:29:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T13:29:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994020732574290010"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nUqRDuOaNP",
+              "end": 27,
+              "expanded_url": "https://x.com/godspeedyou50/status/1994020732574290010/photo/1",
+              "media_key": "3_1994020701595217920",
+              "start": 4,
+              "url": "https://t.co/nUqRDuOaNP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994020732574290010",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 319,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "坏结局 https://t.co/nUqRDuOaNP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜🥺@NashiMoe233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "NashiMoe233"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1967335109767692560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 377,
+          "following_count": 342,
+          "like_count": 5045,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 4780
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990279769297149952/3r34Cj2f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 645,
+          "following_count": 311,
+          "like_count": 327,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 956
+        },
+        "username": "godspeedyou50",
+        "verified": false
+      }
+    ]
+  }
+}

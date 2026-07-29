@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2014629101957455872"
+      ],
+      "media_source_tweet_id": [
+        "2014629119187968043"
+      ]
+    },
+    "author_id": "1849043039496617984",
+    "conversation_id": "2014966836111233474",
+    "created_at": "2026-01-24T07:41:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T08:41:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014966836111233474"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1893181988754075648",
+          "start": 3,
+          "username": "tamego7642"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rb20E50o3P",
+          "end": 39,
+          "expanded_url": "https://x.com/tamego7642/status/2014629119187968043/photo/1",
+          "media_key": "3_2014629101957455872",
+          "start": 16,
+          "url": "https://t.co/rb20E50o3P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014966836111233474",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 142
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014629119187968043",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tamego7642: https://t.co/rb20E50o3P"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1792,
+        "media_key": "3_2014629101957455872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_VmfohWoAA7aVo.png",
+        "width": 1792
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014629101957455872"
+          ],
+          "media_source_tweet_id": [
+            "2014629119187968043"
+          ]
+        },
+        "author_id": "1849043039496617984",
+        "conversation_id": "2014966836111233474",
+        "created_at": "2026-01-24T07:41:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T08:41:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014966836111233474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1893181988754075648",
+              "start": 3,
+              "username": "tamego7642"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rb20E50o3P",
+              "end": 39,
+              "expanded_url": "https://x.com/tamego7642/status/2014629119187968043/photo/1",
+              "media_key": "3_2014629101957455872",
+              "start": 16,
+              "url": "https://t.co/rb20E50o3P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014966836111233474",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 142
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014629119187968043",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tamego7642: https://t.co/rb20E50o3P"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014629101957455872"
+          ]
+        },
+        "author_id": "1893181988754075648",
+        "conversation_id": "2014629119187968043",
+        "created_at": "2026-01-23T09:19:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T10:19:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014629119187968043"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rb20E50o3P",
+              "end": 23,
+              "expanded_url": "https://x.com/tamego7642/status/2014629119187968043/photo/1",
+              "media_key": "3_2014629101957455872",
+              "start": 0,
+              "url": "https://t.co/rb20E50o3P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014629119187968043",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 91,
+          "impression_count": 11497,
+          "like_count": 1842,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 142
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/rb20E50o3P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜如果没有回关请私信提醒我！｜我不吸毒！！！｜性别为无、｜輪郭の定まらない位置にいた人@Psych_Angel_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 53,
+                "username": "Psych_Angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNh89"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 529,
+          "following_count": 491,
+          "like_count": 12797,
+          "listed_count": 1,
+          "media_count": 143,
+          "tweet_count": 6795
+        },
+        "url": "https://t.co/rCvc9RNh89",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-22T06:12:23.000Z",
+        "description": "お絵かきしたりしてます。\nお仕事ください\nskeb▶https://t.co/NNeEGgwpkF　FAタグ▶#ためごのポストに投函",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 66,
+                "start": 55,
+                "tag": "ためごのポストに投函"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@tamego7642",
+                "end": 49,
+                "expanded_url": "https://skeb.jp/@tamego7642",
+                "start": 26,
+                "url": "https://t.co/NNeEGgwpkF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/tamego7642",
+                "end": 23,
+                "expanded_url": "https://lit.link/tamego7642",
+                "start": 0,
+                "url": "https://t.co/9H9fcFDA19"
+              }
+            ]
+          }
+        },
+        "id": "1893181988754075648",
+        "name": "ためご",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893182814738169856/VBFaXTGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11399,
+          "following_count": 247,
+          "like_count": 81784,
+          "listed_count": 31,
+          "media_count": 304,
+          "tweet_count": 959
+        },
+        "url": "https://t.co/9H9fcFDA19",
+        "username": "tamego7642",
+        "verified": false
+      }
+    ]
+  }
+}

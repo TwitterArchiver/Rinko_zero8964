@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1962674109114130759",
+    "created_at": "2025-09-02T15:11:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T16:11:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962896260639453451"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1176077981099446272",
+          "start": 0,
+          "username": "Yesmynamehaer1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962896260639453451",
+    "in_reply_to_user_id": "1176077981099446272",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962674109114130759",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yesmynamehaer1 别死我想你了😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1962674109114130759",
+        "created_at": "2025-09-02T15:11:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T16:11:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962896260639453451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1176077981099446272",
+              "start": 0,
+              "username": "Yesmynamehaer1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962896260639453451",
+        "in_reply_to_user_id": "1176077981099446272",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962674109114130759",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yesmynamehaer1 别死我想你了😢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176077981099446272",
+        "conversation_id": "1962674109114130759",
+        "created_at": "2025-09-02T00:29:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T01:29:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962674109114130759"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1962674109114130759",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 475,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "21:02 Isoproscaline ?mg + 10:44 Pregabalin 300mg +??:?? Alcohol ?mg\n22:??: *睡眠* \n噩梦*3 惊醒*5\n7:02: 醒来\n眩晕与呕吐感，胸闷，强思维阻滞感，纤维肌痛存在，伴精分发作"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849043147487420416/0nrEqJTK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 255,
+          "like_count": 2301,
+          "listed_count": 2,
+          "media_count": 58,
+          "tweet_count": 3502
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-23T10:17:06.000Z",
+        "description": "白鳥/白鳥形人。\n中立友善单位，幻想生物与死去的人。\n学习，药物，酒，音乐，文学，小政府，游牧与内在差异，自由主义——\n「Liberty/Freedom/Power」。\nFTX /Unitarian Universalists。\n@Coccus_Swamer /@Hawthor20853776 。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 129,
+                "start": 115,
+                "username": "Coccus_Swamer"
+              },
+              {
+                "end": 147,
+                "start": 131,
+                "username": "Hawthor20853776"
+              }
+            ]
+          }
+        },
+        "id": "1176077981099446272",
+        "location": "Seoul, Republic of Korea",
+        "name": "Hereditarystupidity",
+        "pinned_tweet_id": "1929155582314881086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949674433888845824/gMhn5_TM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 657,
+          "like_count": 28553,
+          "listed_count": 3,
+          "media_count": 134,
+          "tweet_count": 3021
+        },
+        "username": "Yesmynamehaer1",
+        "verified": false
+      }
+    ]
+  }
+}

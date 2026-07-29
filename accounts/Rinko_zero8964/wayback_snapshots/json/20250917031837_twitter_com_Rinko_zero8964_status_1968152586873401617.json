@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1968136078843662492",
+    "created_at": "2025-09-17T03:18:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T04:18:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968152586873401617"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1826984800390889472",
+          "start": 0,
+          "username": "rcwikixyz"
+        },
+        {
+          "end": 21,
+          "id": "1659962043460354050",
+          "start": 11,
+          "username": "SalviaSWC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968152586873401617",
+    "in_reply_to_user_id": "1826984800390889472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968141686653194409",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rcwikixyz @SalviaSWC 夸無極的一直都是我和FreeOdwiki，我的观念是不反对策划药也并不要求你们明确物质，我认为你们这样做是可以理解并被允许的，只是对于服用者来说危险性大，都是策划药了风险自负我认为是合理的，别扯上我"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1968141680508538886",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1A-bkZaEAY4c-Y.jpg",
+        "width": 562
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1968141680332439552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1A-bjvbAAAtSCh.jpg",
+        "width": 563
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1968136078843662492",
+        "created_at": "2025-09-17T03:18:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T04:18:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968152586873401617"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1826984800390889472",
+              "start": 0,
+              "username": "rcwikixyz"
+            },
+            {
+              "end": 21,
+              "id": "1659962043460354050",
+              "start": 11,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968152586873401617",
+        "in_reply_to_user_id": "1826984800390889472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968141686653194409",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rcwikixyz @SalviaSWC 夸無極的一直都是我和FreeOdwiki，我的观念是不反对策划药也并不要求你们明确物质，我认为你们这样做是可以理解并被允许的，只是对于服用者来说危险性大，都是策划药了风险自负我认为是合理的，别扯上我"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968141680508538886",
+            "3_1968141680332439552"
+          ]
+        },
+        "author_id": "1826984800390889472",
+        "conversation_id": "1968136078843662492",
+        "created_at": "2025-09-17T02:35:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T03:35:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968141686653194409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1659962043460354050",
+              "start": 0,
+              "username": "SalviaSWC"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xX5HXfRAwI",
+              "end": 82,
+              "expanded_url": "https://x.com/rcwikixyz/status/1968141686653194409/photo/1",
+              "media_key": "3_1968141680508538886",
+              "start": 59,
+              "url": "https://t.co/xX5HXfRAwI"
+            },
+            {
+              "display_url": "pic.x.com/xX5HXfRAwI",
+              "end": 82,
+              "expanded_url": "https://x.com/rcwikixyz/status/1968141686653194409/photo/1",
+              "media_key": "3_1968141680332439552",
+              "start": 59,
+              "url": "https://t.co/xX5HXfRAwI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968141686653194409",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968136078843662492",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SalviaSWC 双标狗要不要去看看表扬的明确物质的人🤣🤣，继续自嗨和其他wiki大战吧。懒得参与你们这些破事。 https://t.co/xX5HXfRAwI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 274,
+          "like_count": 2975,
+          "listed_count": 2,
+          "media_count": 68,
+          "tweet_count": 3920
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-23T14:08:22.000Z",
+        "description": "rcwiki官方账号｜ 化学品科普 https://t.co/qKJUyDNO1y ｜ 前高四爱博主合作私信",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "rcwiki.xyz",
+                "end": 41,
+                "expanded_url": "https://rcwiki.xyz/",
+                "start": 18,
+                "url": "https://t.co/qKJUyDNO1y"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "rcwiki.xyz",
+                "end": 23,
+                "expanded_url": "https://rcwiki.xyz/",
+                "start": 0,
+                "url": "https://t.co/qKJUyDNO1y"
+              }
+            ]
+          }
+        },
+        "id": "1826984800390889472",
+        "location": "天下社",
+        "name": "前列腺高潮大王",
+        "pinned_tweet_id": "1943169008829944010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954620994288795648/ZuM-Pxtk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2599,
+          "following_count": 98,
+          "like_count": 320,
+          "listed_count": 2,
+          "media_count": 39,
+          "tweet_count": 223
+        },
+        "url": "https://t.co/qKJUyDNO1y",
+        "username": "rcwikixyz",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1207,
+          "following_count": 452,
+          "like_count": 6620,
+          "listed_count": 5,
+          "media_count": 96,
+          "tweet_count": 2337
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

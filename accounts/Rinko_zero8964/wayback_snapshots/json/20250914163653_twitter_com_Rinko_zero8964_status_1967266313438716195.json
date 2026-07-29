@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1967192610969403392"
+      ],
+      "media_source_tweet_id": [
+        "1967192677654601735"
+      ]
+    },
+    "author_id": "1849043039496617984",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1967266313438716195",
+    "created_at": "2025-09-14T16:36:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T17:36:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967266313438716195"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 33,
+          "start": 26,
+          "tag": "cult之神"
+        },
+        {
+          "end": 38,
+          "start": 34,
+          "tag": "视觉系"
+        },
+        {
+          "end": 49,
+          "start": 39,
+          "tag": "jumpstyle"
+        },
+        {
+          "end": 55,
+          "start": 50,
+          "tag": "punk"
+        },
+        {
+          "end": 61,
+          "start": 57,
+          "tag": "吉他张"
+        },
+        {
+          "end": 66,
+          "start": 62,
+          "tag": "emo"
+        },
+        {
+          "end": 71,
+          "start": 67,
+          "tag": "索菲亚"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1772241946050015232",
+          "start": 3,
+          "username": "Re1_y0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5lkzRNdJNC",
+          "end": 95,
+          "expanded_url": "https://x.com/Re1_y0/status/1967192677654601735/video/1",
+          "media_key": "13_1967192610969403392",
+          "start": 72,
+          "url": "https://t.co/5lkzRNdJNC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967266313438716195",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967192677654601735",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Re1_y0: 拿一些很喜欢的自拍剪了视频\n#cult之神 #视觉系 #jumpstyle #punk  #吉他张 #emo #索菲亚 https://t.co/5lkzRNdJNC"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1967266313438716195].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1967266313438716195",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1967266313438716195"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9608,
+        "height": 720,
+        "media_key": "13_1967192610969403392",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1967192610969403392/img/Au-A5GpEsDxfuSCc.jpg",
+        "public_metrics": {
+          "view_count": 138
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1967192610969403392/vid/avc1/320x320/qUgRo72ZRqLGjmWe.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1967192610969403392/vid/avc1/540x540/DcdRz1cRPUxPag7o.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1967192610969403392/vid/avc1/720x720/MgO4nGvAtmF7gMpY.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1967192610969403392/pl/sXLqB2gla3iWgLlF.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1967192610969403392"
+          ]
+        },
+        "author_id": "1772241946050015232",
+        "conversation_id": "1967192677654601735",
+        "created_at": "2025-09-14T11:44:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T12:44:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967192677654601735"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 14,
+              "tag": "cult之神"
+            },
+            {
+              "end": 26,
+              "start": 22,
+              "tag": "视觉系"
+            },
+            {
+              "end": 37,
+              "start": 27,
+              "tag": "jumpstyle"
+            },
+            {
+              "end": 43,
+              "start": 38,
+              "tag": "punk"
+            },
+            {
+              "end": 49,
+              "start": 45,
+              "tag": "吉他张"
+            },
+            {
+              "end": 54,
+              "start": 50,
+              "tag": "emo"
+            },
+            {
+              "end": 59,
+              "start": 55,
+              "tag": "索菲亚"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5lkzRNdJNC",
+              "end": 83,
+              "expanded_url": "https://x.com/Re1_y0/status/1967192677654601735/video/1",
+              "media_key": "13_1967192610969403392",
+              "start": 60,
+              "url": "https://t.co/5lkzRNdJNC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967192677654601735",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 365,
+          "like_count": 46,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "拿一些很喜欢的自拍剪了视频\n#cult之神 #视觉系 #jumpstyle #punk  #吉他张 #emo #索菲亚 https://t.co/5lkzRNdJNC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 266,
+          "like_count": 2765,
+          "listed_count": 2,
+          "media_count": 67,
+          "tweet_count": 3839
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-25T12:39:51.000Z",
+        "description": "=蕾（Rei）♀︎｜中国語&ENG ｜日本語勉强中｜MHA🍰推し｜OD&自傷｜焦虑抑郁障碍合并强迫｜直fo选回｜非互fo私信不回 推广请私信联系｜⚠️DO NOT re-upload or use my photos｜📪 https://t.co/tAHbDDr0m1 ｜GF @Asszeqr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 147,
+                "start": 139,
+                "username": "Asszeqr"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/rei51208",
+                "end": 134,
+                "expanded_url": "https://ngl.link/rei51208",
+                "start": 111,
+                "url": "https://t.co/tAHbDDr0m1"
+              }
+            ]
+          }
+        },
+        "id": "1772241946050015232",
+        "location": "有女朋友|彼女いる",
+        "name": "レイ",
+        "pinned_tweet_id": "1959130773644353998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941105999663742976/hbTbUloE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2682,
+          "following_count": 271,
+          "like_count": 2117,
+          "listed_count": 1,
+          "media_count": 647,
+          "tweet_count": 4783
+        },
+        "username": "Re1_y0",
+        "verified": false
+      }
+    ]
+  }
+}

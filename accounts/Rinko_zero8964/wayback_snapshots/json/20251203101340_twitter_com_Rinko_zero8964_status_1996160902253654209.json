@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1995568942845493411",
+    "created_at": "2025-12-03T10:13:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T11:13:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996160902253654209"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1920308340737126400",
+          "start": 0,
+          "username": "fusedjiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996160902253654209",
+    "in_reply_to_user_id": "1920308340737126400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995568942845493411",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fusedjiii 我好像墙内看见过裴裴😨好美当时就爱上了没想到既然是互关🥺我爱你"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1995568931567009797",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7GvXsrbgAUF33i.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1995568942845493411",
+        "created_at": "2025-12-03T10:13:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T11:13:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996160902253654209"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1920308340737126400",
+              "start": 0,
+              "username": "fusedjiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996160902253654209",
+        "in_reply_to_user_id": "1920308340737126400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995568942845493411",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fusedjiii 我好像墙内看见过裴裴😨好美当时就爱上了没想到既然是互关🥺我爱你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995568931567009797"
+          ]
+        },
+        "author_id": "1920308340737126400",
+        "conversation_id": "1995568942845493411",
+        "created_at": "2025-12-01T19:01:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T20:01:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995568942845493411"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c3aI4o9C51",
+              "end": 23,
+              "expanded_url": "https://x.com/fusedjiii/status/1995568942845493411/photo/1",
+              "media_key": "3_1995568931567009797",
+              "start": 0,
+              "url": "https://t.co/c3aI4o9C51"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995568942845493411",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 5636,
+          "like_count": 144,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/c3aI4o9C51"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜🥺@NashiMoe233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "NashiMoe233"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1967335109767692560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 347,
+          "like_count": 5361,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 4901
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-08T02:42:51.000Z",
+        "description": "一般路过门槛妹，私信只想回口令。互联网是我的墓地🪦，爱你们，你们也爱我只爱我好吗",
+        "id": "1920308340737126400",
+        "location": "家",
+        "name": "裴裴小猫好吗",
+        "pinned_tweet_id": "1994016765752549629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994917273942007808/XUPRB-WI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5001,
+          "following_count": 165,
+          "like_count": 675,
+          "listed_count": 10,
+          "media_count": 113,
+          "tweet_count": 1724
+        },
+        "username": "fusedjiii",
+        "verified": false
+      }
+    ]
+  }
+}

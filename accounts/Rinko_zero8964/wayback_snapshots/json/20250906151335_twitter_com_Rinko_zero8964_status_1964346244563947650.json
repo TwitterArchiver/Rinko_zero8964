@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1964192539063570433"
+      ],
+      "media_source_tweet_id": [
+        "1964192803157610744"
+      ]
+    },
+    "author_id": "1849043039496617984",
+    "conversation_id": "1964346244563947650",
+    "created_at": "2025-09-06T15:13:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-06T16:13:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964346244563947650"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 17,
+          "tag": "Newパンスト"
+        },
+        {
+          "end": 33,
+          "start": 26,
+          "tag": "NewPSG"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "355973970",
+          "start": 3,
+          "username": "Deerreedeer"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6RO4PddQNV",
+          "end": 62,
+          "expanded_url": "https://x.com/Deerreedeer/status/1964192803157610744/photo/1",
+          "media_key": "3_1964192539063570433",
+          "start": 39,
+          "url": "https://t.co/6RO4PddQNV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964346244563947650",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 336
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964192803157610744",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Deerreedeer: #Newパンスト #NewPSG\n🧦🩲🩷🩵 https://t.co/6RO4PddQNV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1224,
+        "media_key": "3_1964192539063570433",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0I2tSFbUAEV8Ps.png",
+        "width": 1224
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1964192539063570433"
+          ],
+          "media_source_tweet_id": [
+            "1964192803157610744"
+          ]
+        },
+        "author_id": "1849043039496617984",
+        "conversation_id": "1964346244563947650",
+        "created_at": "2025-09-06T15:13:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T16:13:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964346244563947650"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 17,
+              "tag": "Newパンスト"
+            },
+            {
+              "end": 33,
+              "start": 26,
+              "tag": "NewPSG"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "355973970",
+              "start": 3,
+              "username": "Deerreedeer"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6RO4PddQNV",
+              "end": 62,
+              "expanded_url": "https://x.com/Deerreedeer/status/1964192803157610744/photo/1",
+              "media_key": "3_1964192539063570433",
+              "start": 39,
+              "url": "https://t.co/6RO4PddQNV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964346244563947650",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 336
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964192803157610744",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Deerreedeer: #Newパンスト #NewPSG\n🧦🩲🩷🩵 https://t.co/6RO4PddQNV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1964192539063570433"
+          ]
+        },
+        "author_id": "355973970",
+        "conversation_id": "1964192803157610744",
+        "created_at": "2025-09-06T05:03:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T06:03:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964192803157610744"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "Newパンスト"
+            },
+            {
+              "end": 16,
+              "start": 9,
+              "tag": "NewPSG"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6RO4PddQNV",
+              "end": 45,
+              "expanded_url": "https://x.com/Deerreedeer/status/1964192803157610744/photo/1",
+              "media_key": "3_1964192539063570433",
+              "start": 22,
+              "url": "https://t.co/6RO4PddQNV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964192803157610744",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 214,
+          "impression_count": 26565,
+          "like_count": 2912,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 336
+        },
+        "reply_settings": "everyone",
+        "text": "#Newパンスト #NewPSG\n🧦🩲🩷🩵 https://t.co/6RO4PddQNV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849043147487420416/0nrEqJTK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295,
+          "following_count": 261,
+          "like_count": 2439,
+          "listed_count": 2,
+          "media_count": 64,
+          "tweet_count": 3628
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2011-08-16T04:45:06.000Z",
+        "description": "原創推停更中(◔⊖◔)つ (@makuri_reed)/ 台灣人🇹🇼/成人済 20Y ↑ /薑餅人cookierun /リヴリー Livly /らんま 1 / 2 /無言フォロー失礼します",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "makuri_reed"
+              }
+            ]
+          }
+        },
+        "id": "355973970",
+        "name": "葦葦💌",
+        "pinned_tweet_id": "1474740666773405696",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1538486845863960577/E5VGGVa9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8387,
+          "following_count": 117,
+          "like_count": 4811,
+          "listed_count": 42,
+          "media_count": 676,
+          "tweet_count": 1958
+        },
+        "username": "Deerreedeer",
+        "verified": false
+      }
+    ]
+  }
+}

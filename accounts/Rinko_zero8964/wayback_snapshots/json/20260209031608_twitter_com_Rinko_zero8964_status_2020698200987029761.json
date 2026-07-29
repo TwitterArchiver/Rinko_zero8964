@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2020679599550853540",
+    "created_at": "2026-02-09T03:16:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T04:16:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020698200987029761"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2011827901537402885",
+          "start": 0,
+          "username": "Amenyan14_w"
+        },
+        {
+          "end": 26,
+          "id": "1879395690230738944",
+          "start": 13,
+          "username": "Psych_Angel_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020698200987029761",
+    "in_reply_to_user_id": "2011827901537402885",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020693107063636293",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Amenyan14_w @Psych_Angel_ 太好了ww我喜欢你喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2020679599550853540",
+        "created_at": "2026-02-09T03:16:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T04:16:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020698200987029761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2011827901537402885",
+              "start": 0,
+              "username": "Amenyan14_w"
+            },
+            {
+              "end": 26,
+              "id": "1879395690230738944",
+              "start": 13,
+              "username": "Psych_Angel_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020698200987029761",
+        "in_reply_to_user_id": "2011827901537402885",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020693107063636293",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Amenyan14_w @Psych_Angel_ 太好了ww我喜欢你喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2011827901537402885",
+        "conversation_id": "2020679599550853540",
+        "created_at": "2026-02-09T02:55:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T03:55:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020693107063636293"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1849043039496617984",
+              "start": 0,
+              "username": "Rinko_zero8964"
+            },
+            {
+              "end": 29,
+              "id": "1879395690230738944",
+              "start": 16,
+              "username": "Psych_Angel_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020693107063636293",
+        "in_reply_to_user_id": "1849043039496617984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020685626195189795",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rinko_zero8964 @Psych_Angel_ 等你回来我也给你买呀喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜如果没有回关请私信提醒我！｜我不吸毒！！！｜性别为无、｜輪郭の定まらない位置にいた人@Psych_Angel_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 53,
+                "username": "Psych_Angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNh89"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 555,
+          "following_count": 510,
+          "like_count": 13722,
+          "listed_count": 1,
+          "media_count": 146,
+          "tweet_count": 7103
+        },
+        "url": "https://t.co/rCvc9RNh89",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-15T15:49:05.000Z",
+        "description": "互fo歡迎喵～ 帳號多為負能｜血圖｜精神無國籍，看我不順眼你就去死。支豬別監視我喵。 這世界上最愛的人@BelovedUren8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "BelovedUren8964"
+              }
+            ]
+          }
+        },
+        "id": "2011827901537402885",
+        "location": "Japan",
+        "name": "我仍在這個無人問津的陰雨霉溼之地",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019506135586557952/LbOwFYk9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 20,
+          "like_count": 91,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 50
+        },
+        "username": "Amenyan14_w",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-15T05:10:34.000Z",
+        "description": "Scientist | Philosopher | Lab Rat｜💊#Drugtwt｜BD/DPDR｜Lover💕Rinko:@Rinko_zero8964｜Soulmate:@BelovedUren8964｜🍜:@shungleemain｜👩:@DXM8964LXM｜🍊:@citrus_amara｜",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 43,
+                "start": 35,
+                "tag": "Drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 79,
+                "start": 64,
+                "username": "Rinko_zero8964"
+              },
+              {
+                "end": 105,
+                "start": 89,
+                "username": "BelovedUren8964"
+              },
+              {
+                "end": 121,
+                "start": 108,
+                "username": "shungleemain"
+              },
+              {
+                "end": 135,
+                "start": 124,
+                "username": "DXM8964LXM"
+              },
+              {
+                "end": 151,
+                "start": 138,
+                "username": "citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cutekitteno3o",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cutekitteno3o",
+                "start": 0,
+                "url": "https://t.co/OpK0Aryf51"
+              }
+            ]
+          }
+        },
+        "id": "1879395690230738944",
+        "location": "Ask me any u want→",
+        "name": "Mercy",
+        "pinned_tweet_id": "2017031778201194624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984317319691243521/rbczbPan_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 707,
+          "following_count": 787,
+          "like_count": 30473,
+          "listed_count": 1,
+          "media_count": 875,
+          "tweet_count": 13531
+        },
+        "url": "https://t.co/OpK0Aryf51",
+        "username": "Psych_Angel_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1957469709881790820",
+    "created_at": "2025-08-18T18:02:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-18T19:02:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957503260077748572"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1850566498412318720",
+          "start": 0,
+          "username": "luobo4444"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957503260077748572",
+    "in_reply_to_user_id": "1850566498412318720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957469709881790820",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luobo4444 我说实话这么丑的也能火dy还是太包容了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1957469701443137536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GypUUoUbsAAY8V2.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1957469709881790820",
+        "created_at": "2025-08-18T18:02:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T19:02:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957503260077748572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1850566498412318720",
+              "start": 0,
+              "username": "luobo4444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957503260077748572",
+        "in_reply_to_user_id": "1850566498412318720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957469709881790820",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luobo4444 我说实话这么丑的也能火dy还是太包容了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957469701443137536"
+          ]
+        },
+        "author_id": "1850566498412318720",
+        "conversation_id": "1957469709881790820",
+        "created_at": "2025-08-18T15:48:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T16:48:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957469709881790820"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rvKaysb9OX",
+              "end": 43,
+              "expanded_url": "https://x.com/luobo4444/status/1957469709881790820/photo/1",
+              "media_key": "3_1957469701443137536",
+              "start": 20,
+              "url": "https://t.co/rvKaysb9OX"
+            },
+            {
+              "display_url": "x.com/luobo4444/stat…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/luobo4444/status/1952738818404012327",
+              "start": 44,
+              "url": "https://t.co/4K4hhVrvtY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957469709881790820",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1268,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952738818404012327",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "猫猫命你继续打复活赛😹我给大家看你的b https://t.co/rvKaysb9OX https://t.co/4K4hhVrvtY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849043147487420416/0nrEqJTK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 239,
+          "like_count": 1773,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 3039
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-27T15:54:25.000Z",
+        "description": "ig： yanyan_kawa1｜中推圈的大家都叫我萝卜哥｜空蝉原｜06｜高中生｜日本語学习中｜不是黄推｜🚪188啥也没有 可以和我聊五毛钱的及看我在朋友圈分享女高中生的生活｜里垢@luobodoul｜和你想象中的不一样很抱歉",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 90,
+                "username": "luobodoul"
+              }
+            ]
+          }
+        },
+        "id": "1850566498412318720",
+        "location": "幸せが続きますように",
+        "name": "hara🥕（走黑红路线中）",
+        "pinned_tweet_id": "1956533495397781880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938181651831656448/nddFGYZV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7545,
+          "following_count": 460,
+          "like_count": 3442,
+          "listed_count": 9,
+          "media_count": 444,
+          "tweet_count": 2473
+        },
+        "username": "luobo4444",
+        "verified": false
+      }
+    ]
+  }
+}

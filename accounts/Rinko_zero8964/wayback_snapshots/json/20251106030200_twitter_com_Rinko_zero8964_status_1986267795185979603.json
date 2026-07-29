@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1986044631927390465",
+    "created_at": "2025-11-06T03:02:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-06T04:02:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986267795185979603"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1608413813648527360",
+          "start": 0,
+          "username": "Cano_3118"
+        },
+        {
+          "end": 21,
+          "id": "1659962043460354050",
+          "start": 11,
+          "username": "SalviaSWC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986267795185979603",
+    "in_reply_to_user_id": "1608413813648527360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986263556543947037",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cano_3118 @SalviaSWC 但是这个主题能吸引来的人就很多了，现在这种大环境大家对这种题材很敏感的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1986044631927390465",
+        "created_at": "2025-11-06T03:02:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T04:02:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986267795185979603"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1608413813648527360",
+              "start": 0,
+              "username": "Cano_3118"
+            },
+            {
+              "end": 21,
+              "id": "1659962043460354050",
+              "start": 11,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986267795185979603",
+        "in_reply_to_user_id": "1608413813648527360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986263556543947037",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cano_3118 @SalviaSWC 但是这个主题能吸引来的人就很多了，现在这种大环境大家对这种题材很敏感的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608413813648527360",
+        "conversation_id": "1986044631927390465",
+        "created_at": "2025-11-06T02:45:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T03:45:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986263556543947037"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1849043039496617984",
+              "start": 0,
+              "username": "Rinko_zero8964"
+            },
+            {
+              "end": 26,
+              "id": "1659962043460354050",
+              "start": 16,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986263556543947037",
+        "in_reply_to_user_id": "1849043039496617984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986261921654579363",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rinko_zero8964 @SalviaSWC 文字游戏感觉还是比较小众的 相比主播女孩重度依赖这种美少女gal来说吸引圈外人的可能性小一点？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1970904695813329260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 284,
+          "like_count": 3296,
+          "listed_count": 2,
+          "media_count": 76,
+          "tweet_count": 4191
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-29T10:45:23.000Z",
+        "description": "当难眠的人，与假寐的人，在永无回响的梦里同归于尽 。爱人 @silicium_28",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 29,
+                "username": "silicium_28"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "almswt.top",
+                "end": 23,
+                "expanded_url": "http://almswt.top",
+                "start": 0,
+                "url": "https://t.co/tHoF3q6TgM"
+              }
+            ]
+          }
+        },
+        "id": "1608413813648527360",
+        "location": "你的后面",
+        "name": "Cano酱 #昴星团",
+        "pinned_tweet_id": "1901160571510419748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984446141040377859/53SV3bLu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 876,
+          "following_count": 923,
+          "like_count": 27618,
+          "listed_count": 1,
+          "media_count": 414,
+          "tweet_count": 5642
+        },
+        "url": "https://t.co/tHoF3q6TgM",
+        "username": "Cano_3118",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984830293103046656/fgZKegRL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1610,
+          "following_count": 655,
+          "like_count": 10470,
+          "listed_count": 7,
+          "media_count": 150,
+          "tweet_count": 3283
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

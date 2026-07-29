@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1967106528336638285",
+    "created_at": "2025-09-14T11:11:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T12:11:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967184519267811658"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1545277694325116928",
+          "start": 0,
+          "username": "JDE_Alva"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967184519267811658",
+    "in_reply_to_user_id": "1545277694325116928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967106528336638285",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JDE_Alva 好少一份，而且没有肉吃…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1967106512960253952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0yQ84xacAAiWRo.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1967106528336638285",
+        "created_at": "2025-09-14T11:11:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T12:11:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967184519267811658"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1545277694325116928",
+              "start": 0,
+              "username": "JDE_Alva"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967184519267811658",
+        "in_reply_to_user_id": "1545277694325116928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967106528336638285",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JDE_Alva 好少一份，而且没有肉吃…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967106512960253952"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1967106528336638285",
+        "created_at": "2025-09-14T06:01:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T07:01:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967106528336638285"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XtuTeZ2NWx",
+              "end": 44,
+              "expanded_url": "https://x.com/JDE_Alva/status/1967106528336638285/photo/1",
+              "media_key": "3_1967106512960253952",
+              "start": 21,
+              "url": "https://t.co/XtuTeZ2NWx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967106528336638285",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 748,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "他是对的\n现在的吉野家确实量小贵还不好吃 https://t.co/XtuTeZ2NWx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 267,
+          "like_count": 2726,
+          "listed_count": 2,
+          "media_count": 66,
+          "tweet_count": 3816
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "Inherited from @ryq59｜E-Sports Coach.｜Enby.｜Powered by @LX_Lacie｜Sister @linlinm69 @A5Tr41｜#AppleEvent",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 102,
+                "start": 91,
+                "tag": "AppleEvent"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 21,
+                "start": 15,
+                "username": "ryq59"
+              },
+              {
+                "end": 64,
+                "start": 55,
+                "username": "LX_Lacie"
+              },
+              {
+                "end": 82,
+                "start": 72,
+                "username": "linlinm69"
+              },
+              {
+                "end": 90,
+                "start": 83,
+                "username": "A5Tr41"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/xPmuGPt",
+                "end": 23,
+                "expanded_url": "https://b23.tv/xPmuGPt",
+                "start": 0,
+                "url": "https://t.co/HOju3R3NYr"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津市第300号邮政信箱",
+        "name": "你是要气死铨酱么🍥",
+        "pinned_tweet_id": "1962081860986740739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958486481359745024/uwWD92j4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2411,
+          "following_count": 2100,
+          "like_count": 19803,
+          "listed_count": 8,
+          "media_count": 443,
+          "tweet_count": 3105
+        },
+        "url": "https://t.co/HOju3R3NYr",
+        "username": "JDE_Alva",
+        "verified": true
+      }
+    ]
+  }
+}

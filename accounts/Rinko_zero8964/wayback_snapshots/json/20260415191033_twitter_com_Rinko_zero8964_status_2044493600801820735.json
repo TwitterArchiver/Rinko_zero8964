@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2044394596697022583",
+    "created_at": "2026-04-15T19:10:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T20:10:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044493600801820735"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1847153221900685312",
+          "start": 0,
+          "username": "wtfkanwogansha"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044493600801820735",
+    "in_reply_to_user_id": "1847153221900685312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044394596697022583",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wtfkanwogansha 婴酱…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3833,
+        "height": 720,
+        "media_key": "13_2044394542661824512",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2044394542661824512/img/FTzq5zw5TqQs1tb0.jpg",
+        "public_metrics": {
+          "view_count": 4695
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044394542661824512/vid/avc1/480x270/KBdTv8yeG5kSK3jI.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044394542661824512/vid/avc1/640x360/0m7PE-vdY9Gx3ww1.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044394542661824512/vid/avc1/1280x720/j25oAXZW7uuOD5VW.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2044394542661824512/pl/9-KJnQYCLF5SSEHI.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2044394596697022583",
+        "created_at": "2026-04-15T19:10:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T20:10:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044493600801820735"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1847153221900685312",
+              "start": 0,
+              "username": "wtfkanwogansha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044493600801820735",
+        "in_reply_to_user_id": "1847153221900685312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044394596697022583",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wtfkanwogansha 婴酱…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2044394542661824512"
+          ]
+        },
+        "author_id": "1847153221900685312",
+        "conversation_id": "2044394596697022583",
+        "created_at": "2026-04-15T12:37:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T13:37:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044394596697022583"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/msTzre5ElG",
+              "end": 27,
+              "expanded_url": "https://x.com/wtfkanwogansha/status/2044394596697022583/video/1",
+              "media_key": "13_2044394542661824512",
+              "start": 4,
+              "url": "https://t.co/msTzre5ElG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044394596697022583",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 58,
+          "impression_count": 12797,
+          "like_count": 769,
+          "quote_count": 3,
+          "reply_count": 11,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "我想你 https://t.co/msTzre5ElG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思う、ゆえに我あり｜ 我是林子｜性别为无、｜寒くなってきたね……もう少しだけ、いい？｜intp-t｜ASD/OCD/焦虑障碍｜🧬今日也想成为biohacker｜好妈妈们@Misaki11137 @loveforeversfy|bro @BelovedUren8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 85,
+                "username": "Misaki11137"
+              },
+              {
+                "end": 113,
+                "start": 98,
+                "username": "loveforeversfy"
+              },
+              {
+                "end": 134,
+                "start": 118,
+                "username": "BelovedUren8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wakaba_rinko",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wakaba_rinko",
+                "start": 0,
+                "url": "https://t.co/zWqK1n9RJg"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "Ask me any u want→",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 677,
+          "following_count": 658,
+          "like_count": 17281,
+          "listed_count": 1,
+          "media_count": 173,
+          "tweet_count": 8424
+        },
+        "url": "https://t.co/zWqK1n9RJg",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-18T05:50:33.000Z",
+        "description": "",
+        "id": "1847153221900685312",
+        "name": "ダメ女",
+        "pinned_tweet_id": "1939932328668565864",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009163482588155904/HNwyNfIj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2521,
+          "following_count": 612,
+          "like_count": 1332,
+          "listed_count": 2,
+          "media_count": 13,
+          "tweet_count": 1600
+        },
+        "username": "wtfkanwogansha",
+        "verified": false
+      }
+    ]
+  }
+}

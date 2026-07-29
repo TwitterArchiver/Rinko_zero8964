@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1966543612797431808"
+      ],
+      "media_source_tweet_id": [
+        "1966543620728631767"
+      ]
+    },
+    "author_id": "1849043039496617984",
+    "conversation_id": "1966588927457755248",
+    "created_at": "2025-09-12T19:45:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-12T20:45:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966588927457755248"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 38,
+          "start": 20,
+          "tag": "お気に入りの絵は何度再掲しても良い"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1752355387372937216",
+          "start": 3,
+          "username": "otemotowakusei"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rZvLHyErV3",
+          "end": 62,
+          "expanded_url": "https://x.com/otemotowakusei/status/1966543620728631767/photo/1",
+          "media_key": "3_1966543612797431808",
+          "start": 39,
+          "url": "https://t.co/rZvLHyErV3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966588927457755248",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 112
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966543620728631767",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @otemotowakusei: #お気に入りの絵は何度再掲しても良い https://t.co/rZvLHyErV3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1966543612797431808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0qQ_yQasAA7yVP.jpg",
+        "width": 1514
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966543612797431808"
+          ],
+          "media_source_tweet_id": [
+            "1966543620728631767"
+          ]
+        },
+        "author_id": "1849043039496617984",
+        "conversation_id": "1966588927457755248",
+        "created_at": "2025-09-12T19:45:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T20:45:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966588927457755248"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 38,
+              "start": 20,
+              "tag": "お気に入りの絵は何度再掲しても良い"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1752355387372937216",
+              "start": 3,
+              "username": "otemotowakusei"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rZvLHyErV3",
+              "end": 62,
+              "expanded_url": "https://x.com/otemotowakusei/status/1966543620728631767/photo/1",
+              "media_key": "3_1966543612797431808",
+              "start": 39,
+              "url": "https://t.co/rZvLHyErV3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966588927457755248",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 112
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966543620728631767",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @otemotowakusei: #お気に入りの絵は何度再掲しても良い https://t.co/rZvLHyErV3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966543612797431808"
+          ]
+        },
+        "author_id": "1752355387372937216",
+        "conversation_id": "1966543620728631767",
+        "created_at": "2025-09-12T16:45:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T17:45:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966543620728631767"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 0,
+              "tag": "お気に入りの絵は何度再掲しても良い"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rZvLHyErV3",
+              "end": 42,
+              "expanded_url": "https://x.com/otemotowakusei/status/1966543620728631767/photo/1",
+              "media_key": "3_1966543612797431808",
+              "start": 19,
+              "url": "https://t.co/rZvLHyErV3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966543620728631767",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 72,
+          "impression_count": 3900,
+          "like_count": 718,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 112
+        },
+        "reply_settings": "everyone",
+        "text": "#お気に入りの絵は何度再掲しても良い https://t.co/rZvLHyErV3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 265,
+          "like_count": 2652,
+          "listed_count": 2,
+          "media_count": 66,
+          "tweet_count": 3768
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-30T15:37:58.000Z",
+        "description": "",
+        "id": "1752355387372937216",
+        "location": "成人済　",
+        "name": "ひらざう",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966477438642491392/_Vg1ffv8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 72,
+          "like_count": 1584,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 199
+        },
+        "username": "otemotowakusei",
+        "verified": false
+      }
+    ]
+  }
+}

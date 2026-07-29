@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2039970130374095169",
+    "created_at": "2026-04-09T01:33:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T02:33:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042053190296969597"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1967912752560869377",
+          "start": 0,
+          "username": "ItoMasako8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042053190296969597",
+    "in_reply_to_user_id": "1967912752560869377",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039970130374095169",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ItoMasako8964 文明呢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2039970121507389440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE9uBGzbwAApm3O.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2039970130374095169",
+        "created_at": "2026-04-09T01:33:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T02:33:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042053190296969597"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1967912752560869377",
+              "start": 0,
+              "username": "ItoMasako8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042053190296969597",
+        "in_reply_to_user_id": "1967912752560869377",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039970130374095169",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ItoMasako8964 文明呢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039970121507389440"
+          ]
+        },
+        "author_id": "1967912752560869377",
+        "conversation_id": "2039970130374095169",
+        "created_at": "2026-04-03T07:35:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T08:35:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039970130374095169"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EFQQ2LNW7E",
+              "end": 81,
+              "expanded_url": "https://x.com/ItoMasako8964/status/2039970130374095169/photo/1",
+              "media_key": "3_2039970121507389440",
+              "start": 58,
+              "url": "https://t.co/EFQQ2LNW7E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039970130374095169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "针对精神障害的专门社福机构\n人特别好 特别愿意帮助人\n真是帮大忙了\n还专门帮忙找了翻译人员\n真是暖心啊——\n文明呢 https://t.co/EFQQ2LNW7E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思う、ゆえに我あり｜ 我是林子｜性别为无、｜寒くなってきたね……もう少しだけ、いい？｜intp-t｜asd/焦虑障碍｜🧬今日也想成为biohacker｜好妈妈们@asabakasaiko @loveforeversfy|bro @BelovedUren8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 81,
+                "username": "asabakasaiko"
+              },
+              {
+                "end": 110,
+                "start": 95,
+                "username": "loveforeversfy"
+              },
+              {
+                "end": 131,
+                "start": 115,
+                "username": "BelovedUren8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wakaba_rinko",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wakaba_rinko",
+                "start": 0,
+                "url": "https://t.co/zWqK1n9RJg"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "Ask me any u want→",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 655,
+          "following_count": 639,
+          "like_count": 17166,
+          "listed_count": 1,
+          "media_count": 167,
+          "tweet_count": 8260
+        },
+        "url": "https://t.co/zWqK1n9RJg",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-16T11:25:51.000Z",
+        "description": "申必的是奇异搞笑的",
+        "id": "1967912752560869377",
+        "location": "日本 神奈川冲浪里",
+        "name": "雨怜在日本读高中太寒冷了感觉冰墩墩",
+        "pinned_tweet_id": "2029934189899043317",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029879773397405707/qwCr2p5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 34,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 53
+        },
+        "username": "ItoMasako8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-16T11:25:51.000Z",
+        "description": "申必的是奇异搞笑的",
+        "id": "1967912752560869377",
+        "location": "日本 神奈川冲浪里",
+        "name": "雨怜在日本读高中太寒冷了感觉冰墩墩",
+        "pinned_tweet_id": "2029934189899043317",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029879773397405707/qwCr2p5k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 34,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 53
+        },
+        "url": "",
+        "username": "ItoMasako8964",
+        "verified": false
+      }
+    ]
+  }
+}

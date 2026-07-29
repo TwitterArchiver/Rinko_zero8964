@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1959692517978653146",
+    "created_at": "2025-08-24T19:01:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-24T20:01:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1959692517978653146"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1959692517978653146",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我真的累了我懒得和我生物妈吵了哪位可以告诉我一下单独一人去上精卫诊断adhd开专的注意事项吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1959692517978653146",
+        "created_at": "2025-08-24T19:01:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T20:01:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959692517978653146"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1959692517978653146",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的累了我懒得和我生物妈吵了哪位可以告诉我一下单独一人去上精卫诊断adhd开专的注意事项吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849043147487420416/0nrEqJTK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 242,
+          "like_count": 2035,
+          "listed_count": 2,
+          "media_count": 46,
+          "tweet_count": 3245
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      }
+    ]
+  }
+}

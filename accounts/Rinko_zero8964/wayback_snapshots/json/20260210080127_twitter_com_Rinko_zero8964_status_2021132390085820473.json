@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2021132390085820473",
+    "created_at": "2026-02-10T08:01:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T09:01:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021132390085820473"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1687536266878042112",
+          "start": 3,
+          "username": "CynAutumn8964"
+        },
+        {
+          "end": 28,
+          "id": "1521553831775158273",
+          "start": 19,
+          "username": "ww123qwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021132390085820473",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020571322397454799",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CynAutumn8964: @ww123qwq 我发现阿片可以治疗阿片戒断反应"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2021132390085820473",
+        "created_at": "2026-02-10T08:01:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T09:01:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021132390085820473"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1687536266878042112",
+              "start": 3,
+              "username": "CynAutumn8964"
+            },
+            {
+              "end": 28,
+              "id": "1521553831775158273",
+              "start": 19,
+              "username": "ww123qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021132390085820473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020571322397454799",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CynAutumn8964: @ww123qwq 我发现阿片可以治疗阿片戒断反应"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687536266878042112",
+        "conversation_id": "2020513645034135747",
+        "created_at": "2026-02-08T18:51:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T19:51:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020571322397454799"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1521553831775158273",
+              "start": 0,
+              "username": "ww123qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020571322397454799",
+        "in_reply_to_user_id": "1521553831775158273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 645,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020513645034135747",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ww123qwq 我发现阿片可以治疗阿片戒断反应"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ZA",
+              "full_name": "South Africa",
+              "geo": {
+                "coordinates": [
+                  24.0,
+                  -29.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我思即我在｜我是林子｜如果没有回关请私信提醒我！｜我不吸毒！！！｜性别为无、｜輪郭の定まらない位置にいた人@Psych_Angel_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 53,
+                "username": "Psych_Angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNh89"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 560,
+          "following_count": 514,
+          "like_count": 13861,
+          "listed_count": 1,
+          "media_count": 146,
+          "tweet_count": 7157
+        },
+        "url": "https://t.co/rCvc9RNh89",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-04T18:50:04.000Z",
+        "description": "🍄Psychonaut ，不od，药理学者，中性别，🏳️‍🌈LGBT友善，双相，恋人@mizyubvg3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 42,
+                "username": "mizyubvg3"
+              }
+            ]
+          }
+        },
+        "id": "1687536266878042112",
+        "location": "乱葬谷",
+        "name": "小欣",
+        "pinned_tweet_id": "1976359644974247949",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009528579781218309/rMFgvaLa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 103,
+          "like_count": 265,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 376
+        },
+        "username": "CynAutumn8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-03T18:15:03.000Z",
+        "description": "我看着幸福的日子被摧毁后开心地闭上了眼/口粮：@420420420CTL/ 接受药圈新闻投稿/od/生活费乞讨，赞助支付宝口令红包52/88/188/过门有福利图加药物咨询/支持usdt。/上海/日本/广州",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 23,
+                "username": "420420420CTL"
+              }
+            ]
+          }
+        },
+        "id": "1521553831775158273",
+        "location": "距离你1.34KM",
+        "name": "一奈🍥🧊🍔🍜💊",
+        "pinned_tweet_id": "2020737266617135421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007153270452826114/pm8bi18h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1384,
+          "following_count": 262,
+          "like_count": 41549,
+          "listed_count": 5,
+          "media_count": 599,
+          "tweet_count": 12273
+        },
+        "username": "ww123qwq",
+        "verified": false
+      }
+    ]
+  }
+}

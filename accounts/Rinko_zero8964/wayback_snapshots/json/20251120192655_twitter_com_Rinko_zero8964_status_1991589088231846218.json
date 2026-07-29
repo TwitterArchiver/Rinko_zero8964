@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1991589088231846218",
+    "created_at": "2025-11-20T19:26:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-20T20:26:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991589088231846218"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1917988927409143812",
+          "start": 3,
+          "username": "OverSpeed_Wiki2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991589088231846218",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991192229642162683",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OverSpeed_Wiki2: 苏碳酸镁发力量，荣行键向梁皓杰讨教的预习时刻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1991589088231846218",
+        "created_at": "2025-11-20T19:26:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-20T20:26:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991589088231846218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1917988927409143812",
+              "start": 3,
+              "username": "OverSpeed_Wiki2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991589088231846218",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991192229642162683",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @OverSpeed_Wiki2: 苏碳酸镁发力量，荣行键向梁皓杰讨教的预习时刻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917988927409143812",
+        "conversation_id": "1991192229642162683",
+        "created_at": "2025-11-19T17:09:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T18:09:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991192229642162683"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/overdosewiki/s…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/overdosewiki/status/1991077714707542269",
+              "start": 23,
+              "url": "https://t.co/XkJwkcrKoM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991192229642162683",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 371,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991077714707542269",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "苏碳酸镁发力量，荣行键向梁皓杰讨教的预习时刻 https://t.co/XkJwkcrKoM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜🥺@NashiMoe233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "NashiMoe233"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1967335109767692560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 320,
+          "like_count": 4504,
+          "listed_count": 1,
+          "media_count": 89,
+          "tweet_count": 4521
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-01T17:06:19.000Z",
+        "description": "已与原站切割，原站已解散，本账户言论与原站人马无关\n即将重命名本账户",
+        "id": "1917988927409143812",
+        "name": "安卓跨➗ 安卓药蛆 安卓户晨风",
+        "pinned_tweet_id": "1970403999548596472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975613813534957572/UyriMur8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 848,
+          "following_count": 242,
+          "like_count": 18188,
+          "listed_count": 0,
+          "media_count": 143,
+          "tweet_count": 3574
+        },
+        "username": "OverSpeed_Wiki2",
+        "verified": false
+      }
+    ]
+  }
+}

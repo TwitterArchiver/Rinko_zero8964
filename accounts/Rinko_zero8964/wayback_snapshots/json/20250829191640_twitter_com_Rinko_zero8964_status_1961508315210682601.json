@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1961440289350193335",
+    "created_at": "2025-08-29T19:16:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-29T20:16:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961508315210682601"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1580505223071641600",
+          "start": 0,
+          "username": "qwq_shark"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961508315210682601",
+    "in_reply_to_user_id": "1580505223071641600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961440289350193335",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qwq_shark 没啥好担心的，我吃二甲双胍吃完照样啥也吃，没有胰岛功能下降或者其他血糖及胰岛不良反应，有二甲双胍带来的改善糖尿病引起的神经性症状，但是我是一糖，糖前期及二糖应该需要避免摄入过量糖分"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1961440289350193335",
+        "created_at": "2025-08-29T19:16:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T20:16:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961508315210682601"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1580505223071641600",
+              "start": 0,
+              "username": "qwq_shark"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961508315210682601",
+        "in_reply_to_user_id": "1580505223071641600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961440289350193335",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qwq_shark 没啥好担心的，我吃二甲双胍吃完照样啥也吃，没有胰岛功能下降或者其他血糖及胰岛不良反应，有二甲双胍带来的改善糖尿病引起的神经性症状，但是我是一糖，糖前期及二糖应该需要避免摄入过量糖分"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1580505223071641600",
+        "conversation_id": "1961440289350193335",
+        "created_at": "2025-08-29T14:46:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T15:46:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961440289350193335"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1961440289350193335",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 438,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想吃螺蛳粉啊😱😱😱😱😱\n但是我看有人说吃二甲双胍不忌口是没有用的还是会糖尿病到底真假😱😱😱😱😱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849043147487420416/0nrEqJTK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 246,
+          "like_count": 2172,
+          "listed_count": 2,
+          "media_count": 48,
+          "tweet_count": 3375
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-13T10:28:18.000Z",
+        "description": "自娱自乐画画bot｜好朋友@Miekoudesu｜提问箱：https://t.co/gVJiSVRdrf",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "Miekoudesu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/1m1ssyu0",
+                "end": 52,
+                "expanded_url": "https://ngl.link/1m1ssyu0",
+                "start": 29,
+                "url": "https://t.co/gVJiSVRdrf"
+              }
+            ]
+          }
+        },
+        "id": "1580505223071641600",
+        "name": "悲惨世界与内心独白",
+        "pinned_tweet_id": "1863064821769568264",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941613792695070720/-GavuZYM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5621,
+          "following_count": 349,
+          "like_count": 3701,
+          "listed_count": 10,
+          "media_count": 524,
+          "tweet_count": 11362
+        },
+        "username": "qwq_shark",
+        "verified": false
+      }
+    ]
+  }
+}

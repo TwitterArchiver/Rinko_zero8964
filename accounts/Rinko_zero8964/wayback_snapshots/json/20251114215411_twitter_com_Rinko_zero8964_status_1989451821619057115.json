@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1989451804967669761"
+      ]
+    },
+    "author_id": "1849043039496617984",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1989451821619057115",
+    "created_at": "2025-11-14T21:54:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T22:54:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1989451821619057115"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7Hhg0WHuT7",
+          "end": 23,
+          "expanded_url": "https://x.com/Rinko_zero8964/status/1989451821619057115/photo/1",
+          "media_key": "3_1989451804967669761",
+          "start": 0,
+          "url": "https://t.co/7Hhg0WHuT7"
+        },
+        {
+          "display_url": "x.com/gold_bihu/stat…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/gold_bihu/status/1988928582757044241",
+          "start": 24,
+          "url": "https://t.co/o8NQhlV9zf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989451821619057115",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988928582757044241",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/7Hhg0WHuT7 https://t.co/o8NQhlV9zf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1989451804967669761",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5vz4ETbkAE6rxC.jpg",
+        "width": 828
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1988928579632316416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5oYAWCbQAAaWNn.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989451804967669761"
+          ]
+        },
+        "author_id": "1849043039496617984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1989451821619057115",
+        "created_at": "2025-11-14T21:54:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T22:54:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989451821619057115"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7Hhg0WHuT7",
+              "end": 23,
+              "expanded_url": "https://x.com/Rinko_zero8964/status/1989451821619057115/photo/1",
+              "media_key": "3_1989451804967669761",
+              "start": 0,
+              "url": "https://t.co/7Hhg0WHuT7"
+            },
+            {
+              "display_url": "x.com/gold_bihu/stat…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/gold_bihu/status/1988928582757044241",
+              "start": 24,
+              "url": "https://t.co/o8NQhlV9zf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989451821619057115",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988928582757044241",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/7Hhg0WHuT7 https://t.co/o8NQhlV9zf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988928579632316416"
+          ]
+        },
+        "author_id": "1778696847563104256",
+        "conversation_id": "1988928582757044241",
+        "created_at": "2025-11-13T11:15:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T12:15:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988928582757044241"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "评估您的个性特征和心理倾向，涵盖 11 个关键维度，包括情绪稳定性、社交行为和身份模式。",
+              "display_url": "arealme.com/multiphasic-pe…",
+              "end": 35,
+              "expanded_url": "https://www.arealme.com/multiphasic-personality-test/cn/",
+              "start": 12,
+              "status": 200,
+              "title": "多相人格测验",
+              "unwound_url": "https://www.arealme.com/multiphasic-personality-test/cn/",
+              "url": "https://t.co/2MYZyLC3vX"
+            },
+            {
+              "display_url": "pic.x.com/ypwtCN7hgo",
+              "end": 59,
+              "expanded_url": "https://x.com/gold_bihu/status/1988928582757044241/photo/1",
+              "media_key": "3_1988928579632316416",
+              "start": 36,
+              "url": "https://t.co/ypwtCN7hgo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988928582757044241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2504,
+          "like_count": 28,
+          "quote_count": 5,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我早就是女孩了()\nhttps://t.co/2MYZyLC3vX https://t.co/ypwtCN7hgo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜🥺@NashiMoe233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "NashiMoe233"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1967335109767692560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 303,
+          "like_count": 3839,
+          "listed_count": 1,
+          "media_count": 82,
+          "tweet_count": 4368
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-12T08:09:17.000Z",
+        "description": "戴纳索～/我恨你👁️/1011/社恐/不od/互fo查成分/喜欢一切有意思的东西",
+        "id": "1778696847563104256",
+        "name": "多拉贡𓆟",
+        "pinned_tweet_id": "1988544986514608235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984418575743139840/28rhrUp7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 273,
+          "like_count": 3900,
+          "listed_count": 3,
+          "media_count": 93,
+          "tweet_count": 1607
+        },
+        "username": "gold_bihu",
+        "verified": false
+      }
+    ]
+  }
+}

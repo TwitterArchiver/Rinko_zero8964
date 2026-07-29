@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1970156884268339350",
+    "created_at": "2025-09-22T17:12:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-22T18:12:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970174379138130131"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1846704473751560192",
+          "start": 0,
+          "username": "xiaowusama55555"
+        },
+        {
+          "end": 24,
+          "id": "1884651281589137408",
+          "start": 17,
+          "username": "QWOQAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970174379138130131",
+    "in_reply_to_user_id": "1846704473751560192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970173096209588686",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaowusama55555 @QWOQAQ 这人可真不是我哦，我根本不屑于对你进行人身攻击因为光说你做的傻事就够你自己破防了，这位都不是药圈的仅仅是我互关你就这么认定这是我小号请问你证据呢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 856,
+        "media_key": "3_1970173093336567808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1d1_W5b0AAMmXx.jpg",
+        "width": 972
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1970156884268339350",
+        "created_at": "2025-09-22T17:12:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T18:12:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970174379138130131"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1846704473751560192",
+              "start": 0,
+              "username": "xiaowusama55555"
+            },
+            {
+              "end": 24,
+              "id": "1884651281589137408",
+              "start": 17,
+              "username": "QWOQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970174379138130131",
+        "in_reply_to_user_id": "1846704473751560192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970173096209588686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaowusama55555 @QWOQAQ 这人可真不是我哦，我根本不屑于对你进行人身攻击因为光说你做的傻事就够你自己破防了，这位都不是药圈的仅仅是我互关你就这么认定这是我小号请问你证据呢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970173093336567808"
+          ]
+        },
+        "author_id": "1846704473751560192",
+        "conversation_id": "1970156884268339350",
+        "created_at": "2025-09-22T17:07:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T18:07:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970173096209588686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1884651281589137408",
+              "start": 0,
+              "username": "QWOQAQ"
+            },
+            {
+              "end": 23,
+              "id": "1849043039496617984",
+              "start": 8,
+              "username": "Rinko_zero8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/t9Vt7vnZPK",
+              "end": 107,
+              "expanded_url": "https://x.com/xiaowusama55555/status/1970173096209588686/photo/1",
+              "media_key": "3_1970173093336567808",
+              "start": 84,
+              "url": "https://t.co/t9Vt7vnZPK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970173096209588686",
+        "in_reply_to_user_id": "1884651281589137408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970172377163276372",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QWOQAQ @Rinko_zero8964 1 Followers，经典小团体，味道太正确了，沐雨翻版666，前有沐雨弦月盒她男友以及小猫，后有林子和他的小团体🤣 https://t.co/t9Vt7vnZPK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 277,
+          "like_count": 3182,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 4118
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-17T00:08:06.000Z",
+        "description": "希望世界上再也没有痛苦，无论任何形式",
+        "id": "1846704473751560192",
+        "name": "55555",
+        "pinned_tweet_id": "1921759475200860164",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952308156433866752/c9CkfHpl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 9,
+          "like_count": 384,
+          "listed_count": 4,
+          "media_count": 23,
+          "tweet_count": 169
+        },
+        "username": "xiaowusama55555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-29T17:14:50.000Z",
+        "description": "盯———",
+        "id": "1884651281589137408",
+        "name": "Oo。🐟ฅ^•ﻌ•^ฅ🐈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900612508999688192/HoM5DJ-w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 4,
+          "like_count": 158,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 39
+        },
+        "username": "QWOQAQ",
+        "verified": false
+      }
+    ]
+  }
+}

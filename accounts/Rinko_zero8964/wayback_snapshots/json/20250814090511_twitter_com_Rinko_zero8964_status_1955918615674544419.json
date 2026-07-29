@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1955307294326947841"
+      ],
+      "media_source_tweet_id": [
+        "1955307320654585874"
+      ]
+    },
+    "author_id": "1849043039496617984",
+    "conversation_id": "1955918615674544419",
+    "created_at": "2025-08-14T09:05:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-14T10:05:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955918615674544419"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1310275768191193088",
+          "start": 3,
+          "username": "ShouldHaveCat"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nPjMQ8iegL",
+          "end": 65,
+          "expanded_url": "https://x.com/ShouldHaveCat/status/1955307320654585874/video/1",
+          "media_key": "7_1955307294326947841",
+          "start": 42,
+          "url": "https://t.co/nPjMQ8iegL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955918615674544419",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7961
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955307320654585874",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ShouldHaveCat: pause at a random time https://t.co/nPjMQ8iegL"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9972,
+        "height": 1024,
+        "media_key": "7_1955307294326947841",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1955307294326947841/pu/img/BOxIP8_x_TH87TpC.jpg",
+        "public_metrics": {
+          "view_count": 732226
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1955307294326947841/pu/vid/avc1/320x568/F5fdzNEbR6qyOvRs.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1955307294326947841/pu/vid/avc1/480x852/mYAuMg-kExI1sLSe.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1955307294326947841/pu/vid/avc1/576x1024/CFdf8TIbxi3-KJ46.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1955307294326947841/pu/pl/JnpNzMPT5lMp-j2n.m3u8?tag=12"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1955307294326947841"
+          ],
+          "media_source_tweet_id": [
+            "1955307320654585874"
+          ]
+        },
+        "author_id": "1849043039496617984",
+        "conversation_id": "1955918615674544419",
+        "created_at": "2025-08-14T09:05:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T10:05:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955918615674544419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1310275768191193088",
+              "start": 3,
+              "username": "ShouldHaveCat"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nPjMQ8iegL",
+              "end": 65,
+              "expanded_url": "https://x.com/ShouldHaveCat/status/1955307320654585874/video/1",
+              "media_key": "7_1955307294326947841",
+              "start": 42,
+              "url": "https://t.co/nPjMQ8iegL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955918615674544419",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7961
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955307320654585874",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ShouldHaveCat: pause at a random time https://t.co/nPjMQ8iegL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1955307294326947841"
+          ]
+        },
+        "author_id": "1310275768191193088",
+        "conversation_id": "1955307320654585874",
+        "created_at": "2025-08-12T16:36:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T17:36:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955307320654585874"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nPjMQ8iegL",
+              "end": 46,
+              "expanded_url": "https://x.com/ShouldHaveCat/status/1955307320654585874/video/1",
+              "media_key": "7_1955307294326947841",
+              "start": 23,
+              "url": "https://t.co/nPjMQ8iegL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955307320654585874",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9566,
+          "impression_count": 1494138,
+          "like_count": 81839,
+          "quote_count": 229,
+          "reply_count": 443,
+          "retweet_count": 7961
+        },
+        "reply_settings": "everyone",
+        "text": "pause at a random time https://t.co/nPjMQ8iegL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849043147487420416/0nrEqJTK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 235,
+          "like_count": 1643,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 2899
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-27T17:51:08.000Z",
+        "description": "The perfect account to show to your parents when you want a cat 😺❤ @FoundationOfWen",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 67,
+                "username": "FoundationOfWen"
+              }
+            ]
+          }
+        },
+        "id": "1310275768191193088",
+        "location": "USA",
+        "name": "Why you should have a cat",
+        "pinned_tweet_id": "1805301353578705240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1365068242918780928/m278bxAZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4308089,
+          "following_count": 246,
+          "like_count": 1007,
+          "listed_count": 8481,
+          "media_count": 13480,
+          "tweet_count": 13681
+        },
+        "username": "ShouldHaveCat",
+        "verified": true
+      }
+    ]
+  }
+}

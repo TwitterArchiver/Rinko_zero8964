@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2009434072326811881",
+    "created_at": "2026-01-09T07:01:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T08:01:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009520971875778911"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2006990578526072835",
+          "start": 0,
+          "username": "jingyinhequan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009520971875778911",
+    "in_reply_to_user_id": "2006990578526072835",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009519523834347897",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jingyinhequan 谢谢镜音…也抱抱你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2009434072326811881",
+        "created_at": "2026-01-09T07:01:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T08:01:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009520971875778911"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2006990578526072835",
+              "start": 0,
+              "username": "jingyinhequan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009520971875778911",
+        "in_reply_to_user_id": "2006990578526072835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009519523834347897",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jingyinhequan 谢谢镜音…也抱抱你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006990578526072835",
+        "conversation_id": "2009434072326811881",
+        "created_at": "2026-01-09T06:56:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T07:56:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009519523834347897"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1849043039496617984",
+              "start": 0,
+              "username": "Rinko_zero8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009519523834347897",
+        "in_reply_to_user_id": "1849043039496617984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009434072326811881",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rinko_zero8964 抱抱林子🥺已经够了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜如果没有回关请私信提醒我！｜我不吸毒！！！｜小猫我喜欢你超喜欢我爱你@psych_angel_｜性别为无、",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 45,
+                "username": "psych_angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNh89"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 497,
+          "following_count": 472,
+          "like_count": 10908,
+          "listed_count": 1,
+          "media_count": 134,
+          "tweet_count": 6342
+        },
+        "url": "https://t.co/rCvc9RNh89",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-02T07:27:32.000Z",
+        "description": "我看着幸福的日子被我亲手摧毁后开心地闭上了眼 \n/TG同X账号\n/老公@Edward_8964\n/姐姐@shuijiaozzz233\n/无论转生多少次都一定要找回我好吗🥹\n匿名提问：https://t.co/29rNkGg1gy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 35,
+                "username": "Edward_8964"
+              },
+              {
+                "end": 66,
+                "start": 51,
+                "username": "shuijiaozzz233"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jingyin_8964",
+                "end": 114,
+                "expanded_url": "https://ngl.link/jingyin_8964",
+                "start": 91,
+                "url": "https://t.co/29rNkGg1gy"
+              }
+            ]
+          }
+        },
+        "id": "2006990578526072835",
+        "name": "镜音五代目",
+        "pinned_tweet_id": "2008124298779939003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009307935659446272/1D19nedn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 98,
+          "like_count": 114,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 73
+        },
+        "username": "jingyinhequan",
+        "verified": false
+      }
+    ]
+  }
+}

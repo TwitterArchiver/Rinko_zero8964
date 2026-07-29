@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2023872908934983680"
+      ],
+      "media_source_tweet_id": [
+        "2023872918913208554"
+      ]
+    },
+    "author_id": "1849043039496617984",
+    "conversation_id": "2024541085851406705",
+    "created_at": "2026-02-19T17:46:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T18:46:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024541085851406705"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 39,
+          "start": 27,
+          "tag": "OMORIFANART"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1985326988018806784",
+          "start": 3,
+          "username": "ccn_ncc3"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eKWAxFH64s",
+          "end": 63,
+          "expanded_url": "https://x.com/ccn_ncc3/status/2023872918913208554/video/1",
+          "media_key": "13_2023872908934983680",
+          "start": 40,
+          "url": "https://t.co/eKWAxFH64s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024541085851406705",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1020
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023872918913208554",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ccn_ncc3: バジル誕生日おめでとう\n\n#OMORIFANART https://t.co/eKWAxFH64s"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17141,
+        "height": 720,
+        "media_key": "13_2023872908934983680",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2023872908934983680/img/pwVz2bKuswRhOMqA.jpg",
+        "public_metrics": {
+          "view_count": 26697
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023872908934983680/vid/avc1/360x270/DED2n8BUVB3kEkJB.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023872908934983680/vid/avc1/480x360/lTgwW0AFRBTdynfq.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023872908934983680/vid/avc1/960x720/oUcTnqMKuyYba118.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2023872908934983680/pl/yAt9c2YPbksVvwn8.m3u8"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2023872908934983680"
+          ],
+          "media_source_tweet_id": [
+            "2023872918913208554"
+          ]
+        },
+        "author_id": "1849043039496617984",
+        "conversation_id": "2024541085851406705",
+        "created_at": "2026-02-19T17:46:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T18:46:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024541085851406705"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 39,
+              "start": 27,
+              "tag": "OMORIFANART"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1985326988018806784",
+              "start": 3,
+              "username": "ccn_ncc3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eKWAxFH64s",
+              "end": 63,
+              "expanded_url": "https://x.com/ccn_ncc3/status/2023872918913208554/video/1",
+              "media_key": "13_2023872908934983680",
+              "start": 40,
+              "url": "https://t.co/eKWAxFH64s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024541085851406705",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1020
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023872918913208554",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ccn_ncc3: バジル誕生日おめでとう\n\n#OMORIFANART https://t.co/eKWAxFH64s"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2023872908934983680"
+          ]
+        },
+        "author_id": "1985326988018806784",
+        "conversation_id": "2023872918913208554",
+        "created_at": "2026-02-17T21:31:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T22:31:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023872918913208554"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 13,
+              "tag": "OMORIFANART"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eKWAxFH64s",
+              "end": 49,
+              "expanded_url": "https://x.com/ccn_ncc3/status/2023872918913208554/video/1",
+              "media_key": "13_2023872908934983680",
+              "start": 26,
+              "url": "https://t.co/eKWAxFH64s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023872918913208554",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 947,
+          "impression_count": 72169,
+          "like_count": 6308,
+          "quote_count": 12,
+          "reply_count": 3,
+          "retweet_count": 1020
+        },
+        "reply_settings": "everyone",
+        "text": "バジル誕生日おめでとう\n\n#OMORIFANART https://t.co/eKWAxFH64s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思う、ゆえに我あり｜ 我是林子｜性别为无、｜寒くなってきたね……もう少しだけ、いい？｜intp-t｜asd/焦虑障碍｜🧬今日也想成为biohacker｜輪郭の定まらない位置にいた人@Psych_Angel_｜好妈妈们@asabakasaiko @loveforeversfy|bro @BelovedUren8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 91,
+                "username": "Psych_Angel_"
+              },
+              {
+                "end": 122,
+                "start": 109,
+                "username": "asabakasaiko"
+              },
+              {
+                "end": 138,
+                "start": 123,
+                "username": "loveforeversfy"
+              },
+              {
+                "end": 159,
+                "start": 143,
+                "username": "BelovedUren8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wakaba_rinko",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wakaba_rinko",
+                "start": 0,
+                "url": "https://t.co/zWqK1n9RJg"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "Ask me any u want→",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 582,
+          "following_count": 549,
+          "like_count": 15421,
+          "listed_count": 1,
+          "media_count": 152,
+          "tweet_count": 7607
+        },
+        "url": "https://t.co/zWqK1n9RJg",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-03T12:45:34.000Z",
+        "description": "20↑/ジャンル雑多/AI学習・無断転載及び使用×",
+        "id": "1985326988018806784",
+        "name": "ぴぐ多忙",
+        "pinned_tweet_id": "1998427654173925881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986048809538060288/07OUX-UY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 734,
+          "following_count": 18,
+          "like_count": 344,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 31
+        },
+        "username": "ccn_ncc3",
+        "verified": false
+      }
+    ]
+  }
+}

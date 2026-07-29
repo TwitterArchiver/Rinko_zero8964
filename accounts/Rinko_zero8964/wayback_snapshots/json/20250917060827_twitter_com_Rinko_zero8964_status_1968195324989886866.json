@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1968168540235764191",
+    "created_at": "2025-09-17T06:08:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T07:08:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968195324989886866"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1884651281589137408",
+          "start": 0,
+          "username": "QWOQAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968195324989886866",
+    "in_reply_to_user_id": "1884651281589137408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968193998700593481",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QWOQAQ 给我5k送你一瓶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1968168540235764191",
+        "created_at": "2025-09-17T06:08:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T07:08:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968195324989886866"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1884651281589137408",
+              "start": 0,
+              "username": "QWOQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968195324989886866",
+        "in_reply_to_user_id": "1884651281589137408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968193998700593481",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QWOQAQ 给我5k送你一瓶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884651281589137408",
+        "conversation_id": "1968168540235764191",
+        "created_at": "2025-09-17T06:03:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T07:03:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968193998700593481"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1849043039496617984",
+              "start": 0,
+              "username": "Rinko_zero8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968193998700593481",
+        "in_reply_to_user_id": "1849043039496617984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968168540235764191",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rinko_zero8964 我也要吃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 276,
+          "like_count": 3002,
+          "listed_count": 2,
+          "media_count": 69,
+          "tweet_count": 3936
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-29T17:14:50.000Z",
+        "description": "盯———",
+        "id": "1884651281589137408",
+        "name": "Oo。🐟ฅ^•ﻌ•^ฅ🐈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900612508999688192/HoM5DJ-w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 3,
+          "like_count": 147,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 28
+        },
+        "username": "QWOQAQ",
+        "verified": false
+      }
+    ]
+  }
+}

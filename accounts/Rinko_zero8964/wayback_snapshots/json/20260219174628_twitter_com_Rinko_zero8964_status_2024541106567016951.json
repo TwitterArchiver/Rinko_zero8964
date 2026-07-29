@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024218788527558657"
+      ],
+      "media_source_tweet_id": [
+        "2024218793514586413"
+      ]
+    },
+    "author_id": "1849043039496617984",
+    "conversation_id": "2024541106567016951",
+    "created_at": "2026-02-19T17:46:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T18:46:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024541106567016951"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2017380248116215808",
+          "start": 3,
+          "username": "sakusakubasil"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cIrQ2xcg8Z",
+          "end": 46,
+          "expanded_url": "https://x.com/sakusakubasil/status/2024218793514586413/photo/1",
+          "media_key": "3_2024218788527558657",
+          "start": 23,
+          "url": "https://t.co/cIrQ2xcg8Z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024541106567016951",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 320
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024218793514586413",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sakusakubasil: スイカ https://t.co/cIrQ2xcg8Z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 846,
+        "media_key": "3_2024218788527558657",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBd4Q23bUAEmP8I.jpg",
+        "width": 1086
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024218788527558657"
+          ],
+          "media_source_tweet_id": [
+            "2024218793514586413"
+          ]
+        },
+        "author_id": "1849043039496617984",
+        "conversation_id": "2024541106567016951",
+        "created_at": "2026-02-19T17:46:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T18:46:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024541106567016951"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2017380248116215808",
+              "start": 3,
+              "username": "sakusakubasil"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cIrQ2xcg8Z",
+              "end": 46,
+              "expanded_url": "https://x.com/sakusakubasil/status/2024218793514586413/photo/1",
+              "media_key": "3_2024218788527558657",
+              "start": 23,
+              "url": "https://t.co/cIrQ2xcg8Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024541106567016951",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 320
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024218793514586413",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sakusakubasil: スイカ https://t.co/cIrQ2xcg8Z"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024218788527558657"
+          ]
+        },
+        "author_id": "2017380248116215808",
+        "conversation_id": "2024218793514586413",
+        "created_at": "2026-02-18T20:25:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T21:25:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024218793514586413"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cIrQ2xcg8Z",
+              "end": 27,
+              "expanded_url": "https://x.com/sakusakubasil/status/2024218793514586413/photo/1",
+              "media_key": "3_2024218788527558657",
+              "start": 4,
+              "url": "https://t.co/cIrQ2xcg8Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024218793514586413",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 217,
+          "impression_count": 18907,
+          "like_count": 2957,
+          "quote_count": 4,
+          "reply_count": 3,
+          "retweet_count": 320
+        },
+        "reply_settings": "everyone",
+        "text": "スイカ https://t.co/cIrQ2xcg8Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思う、ゆえに我あり｜ 我是林子｜性别为无、｜寒くなってきたね……もう少しだけ、いい？｜intp-t｜asd/焦虑障碍｜🧬今日也想成为biohacker｜輪郭の定まらない位置にいた人@Psych_Angel_｜好妈妈们@asabakasaiko @loveforeversfy|bro @BelovedUren8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 91,
+                "username": "Psych_Angel_"
+              },
+              {
+                "end": 122,
+                "start": 109,
+                "username": "asabakasaiko"
+              },
+              {
+                "end": 138,
+                "start": 123,
+                "username": "loveforeversfy"
+              },
+              {
+                "end": 159,
+                "start": 143,
+                "username": "BelovedUren8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wakaba_rinko",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wakaba_rinko",
+                "start": 0,
+                "url": "https://t.co/zWqK1n9RJg"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "Ask me any u want→",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 582,
+          "following_count": 549,
+          "like_count": 15421,
+          "listed_count": 1,
+          "media_count": 152,
+          "tweet_count": 7607
+        },
+        "url": "https://t.co/zWqK1n9RJg",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-30T23:31:56.000Z",
+        "description": "雑多、進捗、写真など自我 🔇推奨 本垢▷▶︎@basilmotimoti",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 22,
+                "username": "basilmotimoti"
+              }
+            ]
+          }
+        },
+        "id": "2017380248116215808",
+        "location": "ブロ解いつでもどうぞ/FF外通知🔕",
+        "name": "輝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017381683566415875/r1xVQVxf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1062,
+          "following_count": 210,
+          "like_count": 663,
+          "listed_count": 2,
+          "media_count": 48,
+          "tweet_count": 504
+        },
+        "username": "sakusakubasil",
+        "verified": false
+      }
+    ]
+  }
+}

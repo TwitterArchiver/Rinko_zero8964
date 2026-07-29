@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1966809124135641216",
+    "created_at": "2025-09-13T11:17:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-13T12:17:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966823499185733992"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1755228073619042304",
+          "start": 0,
+          "username": "wsq127"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966823499185733992",
+    "in_reply_to_user_id": "1755228073619042304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966809124135641216",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wsq127 你试试堵蓝门然后ew，基本一套半能秒"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_1966809097380225024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0uCdBZa4AA5idU.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1966809124135641216",
+        "created_at": "2025-09-13T11:17:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T12:17:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966823499185733992"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1755228073619042304",
+              "start": 0,
+              "username": "wsq127"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966823499185733992",
+        "in_reply_to_user_id": "1755228073619042304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966809124135641216",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wsq127 你试试堵蓝门然后ew，基本一套半能秒"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966809097380225024"
+          ]
+        },
+        "author_id": "1755228073619042304",
+        "conversation_id": "1966809124135641216",
+        "created_at": "2025-09-13T10:20:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T11:20:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966809124135641216"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QRD05cLVH1",
+              "end": 37,
+              "expanded_url": "https://x.com/wsq127/status/1966809124135641216/photo/1",
+              "media_key": "3_1966809097380225024",
+              "start": 14,
+              "url": "https://t.co/QRD05cLVH1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966809124135641216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个 EX8 怎么这么难打 https://t.co/QRD05cLVH1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 265,
+          "like_count": 2677,
+          "listed_count": 2,
+          "media_count": 66,
+          "tweet_count": 3790
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-07T13:52:55.000Z",
+        "description": "QQ: 3341659982\nhttps://t.co/KvdVLCXV5S",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wsq127.top",
+                "end": 38,
+                "expanded_url": "http://wsq127.top",
+                "start": 15,
+                "url": "https://t.co/KvdVLCXV5S"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wsq127.top",
+                "end": 23,
+                "expanded_url": "https://wsq127.top/",
+                "start": 0,
+                "url": "https://t.co/O1HR9X9yhH"
+              }
+            ]
+          }
+        },
+        "id": "1755228073619042304",
+        "location": "中国陕西",
+        "name": "Sci_qud",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945432484398657537/ao2aVMhA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 122,
+          "like_count": 1839,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 79
+        },
+        "url": "https://t.co/O1HR9X9yhH",
+        "username": "wsq127",
+        "verified": false
+      }
+    ]
+  }
+}

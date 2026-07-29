@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1959237868041519104",
+        "3_1959237868083372032"
+      ]
+    },
+    "author_id": "1849043039496617984",
+    "conversation_id": "1959237876060676371",
+    "created_at": "2025-08-23T12:54:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-23T13:54:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1959237876060676371"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1zug0OKEEM",
+          "end": 40,
+          "expanded_url": "https://x.com/Rinko_zero8964/status/1959237876060676371/photo/1",
+          "media_key": "3_1959237868041519104",
+          "start": 17,
+          "url": "https://t.co/1zug0OKEEM"
+        },
+        {
+          "display_url": "pic.x.com/1zug0OKEEM",
+          "end": 40,
+          "expanded_url": "https://x.com/Rinko_zero8964/status/1959237876060676371/photo/1",
+          "media_key": "3_1959237868083372032",
+          "start": 17,
+          "url": "https://t.co/1zug0OKEEM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959237876060676371",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有没有好心推u告诉我该怎么回复呢 https://t.co/1zug0OKEEM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1713,
+        "media_key": "3_1959237868041519104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzCcdeMbwAAk4q8.jpg",
+        "width": 828
+      },
+      {
+        "height": 1662,
+        "media_key": "3_1959237868083372032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzCcdeWaYAAqpi0.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959237868041519104",
+            "3_1959237868083372032"
+          ]
+        },
+        "author_id": "1849043039496617984",
+        "conversation_id": "1959237876060676371",
+        "created_at": "2025-08-23T12:54:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T13:54:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959237876060676371"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1zug0OKEEM",
+              "end": 40,
+              "expanded_url": "https://x.com/Rinko_zero8964/status/1959237876060676371/photo/1",
+              "media_key": "3_1959237868041519104",
+              "start": 17,
+              "url": "https://t.co/1zug0OKEEM"
+            },
+            {
+              "display_url": "pic.x.com/1zug0OKEEM",
+              "end": 40,
+              "expanded_url": "https://x.com/Rinko_zero8964/status/1959237876060676371/photo/1",
+              "media_key": "3_1959237868083372032",
+              "start": 17,
+              "url": "https://t.co/1zug0OKEEM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959237876060676371",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有好心推u告诉我该怎么回复呢 https://t.co/1zug0OKEEM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849043147487420416/0nrEqJTK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 241,
+          "like_count": 1978,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 3199
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      }
+    ]
+  }
+}

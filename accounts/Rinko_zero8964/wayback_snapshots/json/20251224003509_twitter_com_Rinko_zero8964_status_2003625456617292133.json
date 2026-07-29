@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2003139774270586890",
+    "created_at": "2025-12-24T00:35:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-24T01:35:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003625456617292133"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1816148552764252169",
+          "start": 0,
+          "username": "w0sh1Asak1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003625456617292133",
+    "in_reply_to_user_id": "1816148552764252169",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003139774270586890",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@w0sh1Asak1 抱抱你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2003139774270586890",
+        "created_at": "2025-12-24T00:35:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T01:35:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003625456617292133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1816148552764252169",
+              "start": 0,
+              "username": "w0sh1Asak1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003625456617292133",
+        "in_reply_to_user_id": "1816148552764252169",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003139774270586890",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@w0sh1Asak1 抱抱你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1816148552764252169",
+        "conversation_id": "2003139774270586890",
+        "created_at": "2025-12-22T16:25:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T17:25:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003139774270586890"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2003139774270586890",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 281,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有什么事都要和我提一嘴 负能量全甩我身上 我还得假惺惺的安慰一下 嘻嘻我真是恶心死了 你们答应我的事也做不到 只是给我画一个又一个饼 没意思 我不用你们做了 我也不是不能找别人玩  要死都快死别和我说 要割也快割 要o就o 要跳就跳"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜如果没有回关请私信提醒我！｜我不吸毒！！！｜小猫我喜欢你超喜欢我爱你@psych_angel_｜性别为无、",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 45,
+                "username": "psych_angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNh89"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1999352315241988490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 446,
+          "following_count": 409,
+          "like_count": 7271,
+          "listed_count": 1,
+          "media_count": 110,
+          "tweet_count": 5517
+        },
+        "url": "https://t.co/rCvc9RNh89",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-24T16:29:11.000Z",
+        "description": "♦️ACE 性格相当恶劣 oder\n五脏六腑 ♣️陆 可可@Truffaut897456/♠️捌 唧唧@Jiji_O_o_jiiii/鸟兽兽@abt514514/前卫@vanofthess/渡川川@justyanwu14/@winterfruit_1/腊肉香肠@chenXXX_9/♣️K @akinoyo_desu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 29,
+                "username": "Truffaut897456"
+              },
+              {
+                "end": 66,
+                "start": 51,
+                "username": "Jiji_O_o_jiiii"
+              },
+              {
+                "end": 80,
+                "start": 70,
+                "username": "abt514514"
+              },
+              {
+                "end": 94,
+                "start": 83,
+                "username": "vanofthess"
+              },
+              {
+                "end": 110,
+                "start": 98,
+                "username": "justyanwu14"
+              },
+              {
+                "end": 125,
+                "start": 111,
+                "username": "winterfruit_1"
+              },
+              {
+                "end": 140,
+                "start": 130,
+                "username": "chenXXX_9"
+              },
+              {
+                "end": 158,
+                "start": 145,
+                "username": "akinoyo_desu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lovesick7.com",
+                "end": 23,
+                "expanded_url": "http://www.lovesick7.com",
+                "start": 0,
+                "url": "https://t.co/J2XoZ64NLw"
+              }
+            ]
+          }
+        },
+        "id": "1816148552764252169",
+        "location": "空悲切！",
+        "name": "天才美少女Asaak1#天津四",
+        "pinned_tweet_id": "1996149616954503353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989428243003551745/DlJEx61J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 953,
+          "following_count": 743,
+          "like_count": 25709,
+          "listed_count": 4,
+          "media_count": 491,
+          "tweet_count": 11470
+        },
+        "url": "https://t.co/J2XoZ64NLw",
+        "username": "w0sh1Asak1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1970146183919370290",
+    "created_at": "2025-09-22T15:20:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-22T16:20:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1970146183919370290"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xiaowusama5555…",
+          "end": 128,
+          "expanded_url": "https://twitter.com/xiaowusama55555/status/1970143012232827116",
+          "start": 105,
+          "url": "https://t.co/NsH6tZYwNm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970146183919370290",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970143012232827116",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "1.我和后藤无关\n2.我和🍐也无关\n我是一个独立的个体，你55555骂别人别引用我的话，我是因为想把你555赶紧埋了才主动联系odw以前的参与者来证明你555能力不够水平也不够，你闭嘴了我就立刻不掺合这趟浑水 https://t.co/NsH6tZYwNm"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1970146183919370290",
+        "created_at": "2025-09-22T15:20:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T16:20:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970146183919370290"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiaowusama5555…",
+              "end": 128,
+              "expanded_url": "https://twitter.com/xiaowusama55555/status/1970143012232827116",
+              "start": 105,
+              "url": "https://t.co/NsH6tZYwNm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970146183919370290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970143012232827116",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "1.我和后藤无关\n2.我和🍐也无关\n我是一个独立的个体，你55555骂别人别引用我的话，我是因为想把你555赶紧埋了才主动联系odw以前的参与者来证明你555能力不够水平也不够，你闭嘴了我就立刻不掺合这趟浑水 https://t.co/NsH6tZYwNm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1846704473751560192",
+        "conversation_id": "1970143012232827116",
+        "created_at": "2025-09-22T15:07:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T16:07:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970143012232827116"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Rinko_zero8964…",
+              "end": 122,
+              "expanded_url": "https://twitter.com/Rinko_zero8964/status/1970141746538684706",
+              "start": 99,
+              "url": "https://t.co/ZmwqVBEuy9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970143012232827116",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970141746538684706",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不知道的我还以为是2024年10月15日，你人模狗样的朋友来落井下石刺激我导致我怒吞15t巴氯芬的事情呢，这是我入od圈最憋屈的日子了，我感谢你让我重又重说的机会，让我可以重新说说🍐是什么东西了😘 https://t.co/ZmwqVBEuy9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 278,
+          "like_count": 3181,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 4109
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-17T00:08:06.000Z",
+        "description": "希望世界上再也没有痛苦，无论任何形式",
+        "id": "1846704473751560192",
+        "name": "55555",
+        "pinned_tweet_id": "1921759475200860164",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952308156433866752/c9CkfHpl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 10,
+          "like_count": 383,
+          "listed_count": 4,
+          "media_count": 22,
+          "tweet_count": 154
+        },
+        "username": "xiaowusama55555",
+        "verified": false
+      }
+    ]
+  }
+}

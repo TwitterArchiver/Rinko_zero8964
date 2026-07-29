@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1968271640061710498",
+    "created_at": "2025-09-17T11:19:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T12:19:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968273646667043179"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1755072994316337152",
+          "start": 0,
+          "username": "Taco_sama233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968273646667043179",
+    "in_reply_to_user_id": "1755072994316337152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968271640061710498",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Taco_sama233 苹果浓缩汁和牛奶放一起不会分层吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1968271640061710498",
+        "created_at": "2025-09-17T11:19:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T12:19:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968273646667043179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1755072994316337152",
+              "start": 0,
+              "username": "Taco_sama233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968273646667043179",
+        "in_reply_to_user_id": "1755072994316337152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968271640061710498",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Taco_sama233 苹果浓缩汁和牛奶放一起不会分层吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755072994316337152",
+        "conversation_id": "1968271640061710498",
+        "created_at": "2025-09-17T11:11:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T12:11:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968271640061710498"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1968271640061710498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的苹果浓缩汁和糖浆到了\n正好家里还有绿茶冻干粉\n又加了牛奶\n应该可以算苹果奶绿\n好喝！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 275,
+          "like_count": 3036,
+          "listed_count": 2,
+          "media_count": 70,
+          "tweet_count": 3959
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-07T03:36:33.000Z",
+        "description": "@Taco23333 转生，备用逃生舱：@Patchouli233333",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "Taco23333"
+              },
+              {
+                "end": 36,
+                "start": 20,
+                "username": "Patchouli233333"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/90813468",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/90813468",
+                "start": 0,
+                "url": "https://t.co/QvFvdnwXoy"
+              }
+            ]
+          }
+        },
+        "id": "1755072994316337152",
+        "location": "红魔馆地下大图书馆",
+        "name": "Taco🌮️",
+        "pinned_tweet_id": "1895013683283271943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904117726035202048/LMOiIof9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 878,
+          "following_count": 685,
+          "like_count": 21715,
+          "listed_count": 3,
+          "media_count": 574,
+          "tweet_count": 5699
+        },
+        "url": "https://t.co/QvFvdnwXoy",
+        "username": "Taco_sama233",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2027284378335007126",
+    "created_at": "2026-02-27T10:32:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T11:32:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027331000473403811"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1944351426827735040",
+          "start": 0,
+          "username": "kiss_u_back"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027331000473403811",
+    "in_reply_to_user_id": "1944351426827735040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027284378335007126",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kiss_u_back 妈妈好酷"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1572,
+        "media_key": "3_2027284367924740096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCJcZEDbQAA78y3.jpg",
+        "width": 1180
+      },
+      {
+        "height": 1572,
+        "media_key": "3_2027284367920570368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCJcZECboAAXHfr.jpg",
+        "width": 1180
+      },
+      {
+        "height": 1572,
+        "media_key": "3_2027284367983489024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCJcZERbsAAM421.jpg",
+        "width": 1180
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2027284378335007126",
+        "created_at": "2026-02-27T10:32:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T11:32:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027331000473403811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1944351426827735040",
+              "start": 0,
+              "username": "kiss_u_back"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027331000473403811",
+        "in_reply_to_user_id": "1944351426827735040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027284378335007126",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kiss_u_back 妈妈好酷"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027284367924740096",
+            "3_2027284367920570368",
+            "3_2027284367983489024"
+          ]
+        },
+        "author_id": "1944351426827735040",
+        "conversation_id": "2027284378335007126",
+        "created_at": "2026-02-27T07:27:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T08:27:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027284378335007126"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0VUIuenO2H",
+              "end": 35,
+              "expanded_url": "https://x.com/kiss_u_back/status/2027284378335007126/photo/1",
+              "media_key": "3_2027284367924740096",
+              "start": 12,
+              "url": "https://t.co/0VUIuenO2H"
+            },
+            {
+              "display_url": "pic.x.com/0VUIuenO2H",
+              "end": 35,
+              "expanded_url": "https://x.com/kiss_u_back/status/2027284378335007126/photo/1",
+              "media_key": "3_2027284367920570368",
+              "start": 12,
+              "url": "https://t.co/0VUIuenO2H"
+            },
+            {
+              "display_url": "pic.x.com/0VUIuenO2H",
+              "end": 35,
+              "expanded_url": "https://x.com/kiss_u_back/status/2027284378335007126/photo/1",
+              "media_key": "3_2027284367983489024",
+              "start": 12,
+              "url": "https://t.co/0VUIuenO2H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027284378335007126",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 303,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "剪头发去 三月月底染发 https://t.co/0VUIuenO2H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思う、ゆえに我あり｜ 我是林子｜性别为无、｜寒くなってきたね……もう少しだけ、いい？｜intp-t｜asd/焦虑障碍｜🧬今日也想成为biohacker｜静态变量@Psych_Angel_｜好妈妈们@asabakasaiko @loveforeversfy|bro @BelovedUren8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 81,
+                "username": "Psych_Angel_"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "asabakasaiko"
+              },
+              {
+                "end": 128,
+                "start": 113,
+                "username": "loveforeversfy"
+              },
+              {
+                "end": 149,
+                "start": 133,
+                "username": "BelovedUren8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wakaba_rinko",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wakaba_rinko",
+                "start": 0,
+                "url": "https://t.co/zWqK1n9RJg"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "Ask me any u want→",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 596,
+          "following_count": 560,
+          "like_count": 15964,
+          "listed_count": 1,
+          "media_count": 154,
+          "tweet_count": 7737
+        },
+        "url": "https://t.co/zWqK1n9RJg",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-13T11:01:50.000Z",
+        "description": "死在2025年3月28号",
+        "id": "1944351426827735040",
+        "location": "火星",
+        "name": "我的泪口是心非",
+        "pinned_tweet_id": "1989765441888424290",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950024167241502722/DbHwNpOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 575,
+          "following_count": 144,
+          "like_count": 1389,
+          "listed_count": 2,
+          "media_count": 295,
+          "tweet_count": 1020
+        },
+        "username": "kiss_u_back",
+        "verified": false
+      }
+    ]
+  }
+}

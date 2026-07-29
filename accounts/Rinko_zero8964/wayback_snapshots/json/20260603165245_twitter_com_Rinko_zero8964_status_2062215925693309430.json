@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2062215925693309430",
+    "created_at": "2026-06-03T16:52:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T17:52:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062215925693309430"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2061831120292020225",
+          "start": 3,
+          "username": "ElonloveDEA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062215925693309430",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062203606737268820",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ElonloveDEA: 我想当推特大明星，因为我想被别人注意到，我不想被别人遗忘，我希望别人可以看到我做的所有事，我的所有努力\n但是马斯克一直想把我赶尽杀绝，可能有一天我会再也受不了了然后回归现实，到那个时候又有几个人会记得我呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2062215925693309430",
+        "created_at": "2026-06-03T16:52:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T17:52:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062215925693309430"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2061831120292020225",
+              "start": 3,
+              "username": "ElonloveDEA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062215925693309430",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062203606737268820",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ElonloveDEA: 我想当推特大明星，因为我想被别人注意到，我不想被别人遗忘，我希望别人可以看到我做的所有事，我的所有努力\n但是马斯克一直想把我赶尽杀绝，可能有一天我会再也受不了了然后回归现实，到那个时候又有几个人会记得我呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061831120292020225",
+        "conversation_id": "2062203606737268820",
+        "created_at": "2026-06-03T16:03:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T17:03:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062203606737268820"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062203606737268820",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我想当推特大明星，因为我想被别人注意到，我不想被别人遗忘，我希望别人可以看到我做的所有事，我的所有努力\n但是马斯克一直想把我赶尽杀绝，可能有一天我会再也受不了了然后回归现实，到那个时候又有几个人会记得我呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思う、ゆえに我あり｜ 我是林子｜性别为无、｜寒くなってきたね……もう少しだけ、いい？｜intp-t｜ASD/OCD/焦虑障碍｜🧬今日也想成为biohacker｜好妈妈们@Misaki11137 @loveforeversfy|bro @BelovedUren8964｜vico酱@vicoOci_Olvidar",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 85,
+                "username": "Misaki11137"
+              },
+              {
+                "end": 113,
+                "start": 98,
+                "username": "loveforeversfy"
+              },
+              {
+                "end": 134,
+                "start": 118,
+                "username": "BelovedUren8964"
+              },
+              {
+                "end": 156,
+                "start": 140,
+                "username": "vicoOci_Olvidar"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wakaba_rinko",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wakaba_rinko",
+                "start": 0,
+                "url": "https://t.co/zWqK1n9RJg"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "Ask me any u want→",
+        "name": "Rinko",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 724,
+          "following_count": 695,
+          "like_count": 17627,
+          "listed_count": 1,
+          "media_count": 185,
+          "tweet_count": 8622
+        },
+        "url": "https://t.co/zWqK1n9RJg",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-02T15:24:54.000Z",
+        "description": "已转生，互关寻回中",
+        "id": "2061831120292020225",
+        "name": "VVV3.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061832445734080512/mf3oJak7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 36,
+          "like_count": 24,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 10
+        },
+        "username": "ElonloveDEA",
+        "verified": false
+      }
+    ]
+  }
+}

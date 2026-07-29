@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1968198235807535104"
+      ]
+    },
+    "author_id": "1849043039496617984",
+    "conversation_id": "1968191262273704182",
+    "created_at": "2025-09-17T06:20:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T07:20:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968198302794752109"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1914046337903190016",
+          "start": 0,
+          "username": "omiyagetw"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/v009aYNEBv",
+          "end": 58,
+          "expanded_url": "https://x.com/Rinko_zero8964/status/1968198302794752109/photo/1",
+          "media_key": "3_1968198235807535104",
+          "start": 35,
+          "url": "https://t.co/v009aYNEBv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968198302794752109",
+    "in_reply_to_user_id": "1914046337903190016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968191262273704182",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@omiyagetw 我的貓貓也不親人，但是他特別喜歡在我的床上睡覺 https://t.co/v009aYNEBv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1968198235807535104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1Bx3hTb0AA9Xv9.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968198235807535104"
+          ]
+        },
+        "author_id": "1849043039496617984",
+        "conversation_id": "1968191262273704182",
+        "created_at": "2025-09-17T06:20:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T07:20:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968198302794752109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1914046337903190016",
+              "start": 0,
+              "username": "omiyagetw"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/v009aYNEBv",
+              "end": 58,
+              "expanded_url": "https://x.com/Rinko_zero8964/status/1968198302794752109/photo/1",
+              "media_key": "3_1968198235807535104",
+              "start": 35,
+              "url": "https://t.co/v009aYNEBv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968198302794752109",
+        "in_reply_to_user_id": "1914046337903190016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968191262273704182",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@omiyagetw 我的貓貓也不親人，但是他特別喜歡在我的床上睡覺 https://t.co/v009aYNEBv"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1914046337903190016",
+        "conversation_id": "1968191262273704182",
+        "created_at": "2025-09-17T05:52:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T06:52:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968191262273704182"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1968191262273704182",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "別人家的貓貓都會親人，我家的貓貓只會吃飯時看到人，可惡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 276,
+          "like_count": 3008,
+          "listed_count": 2,
+          "media_count": 70,
+          "tweet_count": 3939
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-20T19:59:56.000Z",
+        "description": "台灣/男/INTJ(113)轉變ISTJ(114)/極度厭惡約炮及嫖/\n喜愛遊戲、音樂/努力當個正常人/PC、steam小遊戲/\n匿名箱：https://t.co/Ym8YNh3M4i",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/omiyagetw",
+                "end": 92,
+                "expanded_url": "https://ngl.link/omiyagetw",
+                "start": 69,
+                "url": "https://t.co/Ym8YNh3M4i"
+              }
+            ]
+          }
+        },
+        "id": "1914046337903190016",
+        "name": "歐米Omi",
+        "pinned_tweet_id": "1965638820805967914",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962400320237252609/ETCYXQ2l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 109,
+          "like_count": 8517,
+          "listed_count": 2,
+          "media_count": 62,
+          "tweet_count": 3712
+        },
+        "username": "omiyagetw",
+        "verified": false
+      }
+    ]
+  }
+}

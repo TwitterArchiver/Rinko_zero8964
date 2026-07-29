@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2023730980457246726"
+      ],
+      "media_source_tweet_id": [
+        "2023730991035302038"
+      ]
+    },
+    "author_id": "1849043039496617984",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2023909937706103056",
+    "created_at": "2026-02-17T23:58:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T00:58:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023909937706103056"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1863032897713889280",
+          "start": 3,
+          "username": "kann084only"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oSFeuhKBND",
+          "end": 59,
+          "expanded_url": "https://x.com/kann084only/status/2023730991035302038/photo/1",
+          "media_key": "3_2023730980457246726",
+          "start": 36,
+          "url": "https://t.co/oSFeuhKBND"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023909937706103056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 600
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023730991035302038",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kann084only: 🎡🎠\n\np完笑了5分钟才舍得发……… https://t.co/oSFeuhKBND"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 494,
+        "media_key": "3_2023730980457246726",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBW8msMbcAYs5_n.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023730980457246726"
+          ],
+          "media_source_tweet_id": [
+            "2023730991035302038"
+          ]
+        },
+        "author_id": "1849043039496617984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2023909937706103056",
+        "created_at": "2026-02-17T23:58:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T00:58:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023909937706103056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1863032897713889280",
+              "start": 3,
+              "username": "kann084only"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oSFeuhKBND",
+              "end": 59,
+              "expanded_url": "https://x.com/kann084only/status/2023730991035302038/photo/1",
+              "media_key": "3_2023730980457246726",
+              "start": 36,
+              "url": "https://t.co/oSFeuhKBND"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023909937706103056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 600
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023730991035302038",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kann084only: 🎡🎠\n\np完笑了5分钟才舍得发……… https://t.co/oSFeuhKBND"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023730980457246726"
+          ]
+        },
+        "author_id": "1863032897713889280",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2023730991035302038",
+        "created_at": "2026-02-17T12:07:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T13:07:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023730991035302038"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oSFeuhKBND",
+              "end": 42,
+              "expanded_url": "https://x.com/kann084only/status/2023730991035302038/photo/1",
+              "media_key": "3_2023730980457246726",
+              "start": 19,
+              "url": "https://t.co/oSFeuhKBND"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023730991035302038",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 329,
+          "impression_count": 46940,
+          "like_count": 5371,
+          "quote_count": 3,
+          "reply_count": 6,
+          "retweet_count": 600
+        },
+        "reply_settings": "everyone",
+        "text": "🎡🎠\n\np完笑了5分钟才舍得发……… https://t.co/oSFeuhKBND"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ZA",
+              "full_name": "South Africa",
+              "geo": {
+                "coordinates": [
+                  24.0,
+                  -29.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我思う、ゆえに我あり。｜ 我是林子｜性别为无、｜寒くなってきたね……もう少しだけ、いい？｜輪郭の定まらない位置にいた人@Psych_Angel_｜好妈妈们@asabakasaiko @loveforeversfy|bro @BelovedUren8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 59,
+                "username": "Psych_Angel_"
+              },
+              {
+                "end": 90,
+                "start": 77,
+                "username": "asabakasaiko"
+              },
+              {
+                "end": 106,
+                "start": 91,
+                "username": "loveforeversfy"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "BelovedUren8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNOXH"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 577,
+          "following_count": 536,
+          "like_count": 14970,
+          "listed_count": 1,
+          "media_count": 148,
+          "tweet_count": 7471
+        },
+        "url": "https://t.co/rCvc9RNOXH",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-01T01:30:36.000Z",
+        "description": "请叫我简！/20↑中国人/ 🚌：🎡🎠|🐣🎠|🎠右位/中文|English/横幅是朋友送的堂丘！/吃不下🎡和🌕的cp/头像感谢wuli海师🥰✌️✌️/烦请自行避雷",
+        "id": "1863032897713889280",
+        "location": "我在拉曼却领很想堂丘",
+        "name": "kann",
+        "pinned_tweet_id": "1933090130845429880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987453653226233856/iZRtQ3l__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 458,
+          "following_count": 54,
+          "like_count": 8103,
+          "listed_count": 6,
+          "media_count": 233,
+          "tweet_count": 3529
+        },
+        "username": "kann084only",
+        "verified": false
+      }
+    ]
+  }
+}

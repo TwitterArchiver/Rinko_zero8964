@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2021863833376370977",
+    "created_at": "2026-02-12T19:02:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T20:02:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022023405068070965"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1982429504225349632",
+          "start": 0,
+          "username": "AMadelaina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022023405068070965",
+    "in_reply_to_user_id": "1982429504225349632",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021863833376370977",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AMadelaina 美"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2021863821909102592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA8abwkbEAAJMDa.jpg",
+        "width": 1168
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2021863833376370977",
+        "created_at": "2026-02-12T19:02:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T20:02:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022023405068070965"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1982429504225349632",
+              "start": 0,
+              "username": "AMadelaina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022023405068070965",
+        "in_reply_to_user_id": "1982429504225349632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021863833376370977",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AMadelaina 美"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021863821909102592"
+          ]
+        },
+        "author_id": "1982429504225349632",
+        "conversation_id": "2021863833376370977",
+        "created_at": "2026-02-12T08:27:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T09:27:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021863833376370977"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MsZKskzyez",
+              "end": 27,
+              "expanded_url": "https://x.com/AMadelaina/status/2021863833376370977/photo/1",
+              "media_key": "3_2021863821909102592",
+              "start": 4,
+              "url": "https://t.co/MsZKskzyez"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021863833376370977",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 216,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "……嗯 https://t.co/MsZKskzyez"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ZA",
+              "full_name": "South Africa",
+              "geo": {
+                "coordinates": [
+                  24.0,
+                  -29.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我思即我在｜我是林子｜如果没有回关请私信提醒我！｜我不吸毒！！！｜性别为无、｜輪郭の定まらない位置にいた人@Psych_Angel_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 53,
+                "username": "Psych_Angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNh89"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 567,
+          "following_count": 526,
+          "like_count": 14189,
+          "listed_count": 1,
+          "media_count": 146,
+          "tweet_count": 7250
+        },
+        "url": "https://t.co/rCvc9RNh89",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-26T12:50:21.000Z",
+        "description": "我是椒椒，前世@Ina_puppywwww被封，助力我找回互关……",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 7,
+                "username": "Ina_puppywwww"
+              }
+            ]
+          }
+        },
+        "id": "1982429504225349632",
+        "name": "藏身在无花的雾里",
+        "pinned_tweet_id": "2020467357831897184",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004282193246625792/zuCMvmhf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1362,
+          "following_count": 244,
+          "like_count": 916,
+          "listed_count": 2,
+          "media_count": 88,
+          "tweet_count": 414
+        },
+        "username": "AMadelaina",
+        "verified": false
+      }
+    ]
+  }
+}

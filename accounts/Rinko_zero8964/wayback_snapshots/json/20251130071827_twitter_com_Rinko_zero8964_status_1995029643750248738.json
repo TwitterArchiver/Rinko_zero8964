@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1995029643750248738",
+    "created_at": "2025-11-30T07:18:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T08:18:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1995029643750248738"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/revive_myne/st…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/revive_myne/status/1994724990835724322",
+          "start": 26,
+          "url": "https://t.co/bkaZ7I7IfV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995029643750248738",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994724990835724322",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我被关进不死就出不去的人类身体了怎么办怎么办怎么办 https://t.co/bkaZ7I7IfV"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1995029643750248738",
+        "created_at": "2025-11-30T07:18:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T08:18:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995029643750248738"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/revive_myne/st…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/revive_myne/status/1994724990835724322",
+              "start": 26,
+              "url": "https://t.co/bkaZ7I7IfV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995029643750248738",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994724990835724322",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我被关进不死就出不去的人类身体了怎么办怎么办怎么办 https://t.co/bkaZ7I7IfV"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884627325398212611",
+        "conversation_id": "1994724990835724322",
+        "created_at": "2025-11-29T11:07:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T12:07:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994724990835724322"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ACldJP/status/…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/ACldJP/status/1994712577088393294",
+              "start": 26,
+              "url": "https://t.co/HGlVr9qqPY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994724990835724322",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 106,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994712577088393294",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我被关进不死就出不去的人类身体了怎么办怎么办怎么办 https://t.co/HGlVr9qqPY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜🥺@NashiMoe233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "NashiMoe233"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1967335109767692560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 382,
+          "following_count": 345,
+          "like_count": 5171,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 4828
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-29T15:39:13.000Z",
+        "description": "enby，无性别\n|\n二十二月系统\n|\n里推：@knimaisey\n（包括但不限于 触发、病态思维、暴论）\n|\n呃画的都放这里好了：@Victimized_P",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 23,
+                "username": "knimaisey"
+              },
+              {
+                "end": 79,
+                "start": 66,
+                "username": "Victimized_P"
+              }
+            ]
+          }
+        },
+        "id": "1884627325398212611",
+        "location": "SilverLawn",
+        "name": "铭（前世莱铭系统）💛🤍💜🖤",
+        "pinned_tweet_id": "1967642148142248263",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993487738260103168/5Q9rYO2X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 815,
+          "following_count": 255,
+          "like_count": 10684,
+          "listed_count": 3,
+          "media_count": 848,
+          "tweet_count": 5204
+        },
+        "username": "revive_myne",
+        "verified": false
+      }
+    ]
+  }
+}

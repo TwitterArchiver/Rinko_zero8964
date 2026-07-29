@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1955863742362836992"
+      ],
+      "media_source_tweet_id": [
+        "1955863756778692670"
+      ]
+    },
+    "author_id": "1849043039496617984",
+    "conversation_id": "1956027996994981980",
+    "created_at": "2025-08-14T16:19:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-14T17:19:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956027996994981980"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1042070984663162880",
+          "start": 3,
+          "username": "tw111111111111"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/D7VyTY1Mxg",
+          "end": 43,
+          "expanded_url": "https://x.com/tw111111111111/status/1955863756778692670/photo/1",
+          "media_key": "3_1955863742362836992",
+          "start": 20,
+          "url": "https://t.co/D7VyTY1Mxg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956027996994981980",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955863756778692670",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tw111111111111: https://t.co/D7VyTY1Mxg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1332,
+        "media_key": "3_1955863742362836992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GySftgiaYAAQNEp.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955863742362836992"
+          ],
+          "media_source_tweet_id": [
+            "1955863756778692670"
+          ]
+        },
+        "author_id": "1849043039496617984",
+        "conversation_id": "1956027996994981980",
+        "created_at": "2025-08-14T16:19:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T17:19:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956027996994981980"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1042070984663162880",
+              "start": 3,
+              "username": "tw111111111111"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/D7VyTY1Mxg",
+              "end": 43,
+              "expanded_url": "https://x.com/tw111111111111/status/1955863756778692670/photo/1",
+              "media_key": "3_1955863742362836992",
+              "start": 20,
+              "url": "https://t.co/D7VyTY1Mxg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956027996994981980",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955863756778692670",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tw111111111111: https://t.co/D7VyTY1Mxg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955863742362836992"
+          ]
+        },
+        "author_id": "1042070984663162880",
+        "conversation_id": "1955863756778692670",
+        "created_at": "2025-08-14T05:27:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T06:27:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955863756778692670"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/D7VyTY1Mxg",
+              "end": 23,
+              "expanded_url": "https://x.com/tw111111111111/status/1955863756778692670/photo/1",
+              "media_key": "3_1955863742362836992",
+              "start": 0,
+              "url": "https://t.co/D7VyTY1Mxg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955863756778692670",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 10948,
+          "like_count": 477,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/D7VyTY1Mxg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849043147487420416/0nrEqJTK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249,
+          "following_count": 235,
+          "like_count": 1652,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 2913
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2018-09-18T15:20:58.000Z",
+        "description": "新增：0624防災資訊-網友整理及連結\n\n防災資訊彙整見置頂推文串\n\n0407防災包清單：\nhttps://t.co/nRW7026r3a",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "reurl.cc/zqQMap",
+                "end": 69,
+                "expanded_url": "https://reurl.cc/zqQMap",
+                "start": 46,
+                "url": "https://t.co/nRW7026r3a"
+              }
+            ]
+          }
+        },
+        "id": "1042070984663162880",
+        "name": "🌑",
+        "pinned_tweet_id": "1866626794574712967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937732699034386436/0IFPRP_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15818,
+          "following_count": 964,
+          "like_count": 246026,
+          "listed_count": 58,
+          "media_count": 41014,
+          "tweet_count": 106360
+        },
+        "username": "tw111111111111",
+        "verified": false
+      }
+    ]
+  }
+}

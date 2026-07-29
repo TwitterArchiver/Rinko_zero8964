@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1966626498808360961"
+      ],
+      "media_source_tweet_id": [
+        "1966626507612139809"
+      ]
+    },
+    "author_id": "1849043039496617984",
+    "conversation_id": "1967200474203127968",
+    "created_at": "2025-09-14T12:15:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T13:15:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967200474203127968"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1601165444118880256",
+          "start": 3,
+          "username": "slimestirrr"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CiTI07WGXF",
+          "end": 40,
+          "expanded_url": "https://x.com/slimestirrr/status/1966626507612139809/photo/1",
+          "media_key": "3_1966626498808360961",
+          "start": 17,
+          "url": "https://t.co/CiTI07WGXF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967200474203127968",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 73
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966626507612139809",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @slimestirrr: https://t.co/CiTI07WGXF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1966626498808360961",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0rcYYtXsAEAU2o.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966626498808360961"
+          ],
+          "media_source_tweet_id": [
+            "1966626507612139809"
+          ]
+        },
+        "author_id": "1849043039496617984",
+        "conversation_id": "1967200474203127968",
+        "created_at": "2025-09-14T12:15:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T13:15:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967200474203127968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1601165444118880256",
+              "start": 3,
+              "username": "slimestirrr"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CiTI07WGXF",
+              "end": 40,
+              "expanded_url": "https://x.com/slimestirrr/status/1966626507612139809/photo/1",
+              "media_key": "3_1966626498808360961",
+              "start": 17,
+              "url": "https://t.co/CiTI07WGXF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967200474203127968",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 73
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966626507612139809",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @slimestirrr: https://t.co/CiTI07WGXF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966626498808360961"
+          ]
+        },
+        "author_id": "1601165444118880256",
+        "conversation_id": "1966626507612139809",
+        "created_at": "2025-09-12T22:14:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T23:14:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966626507612139809"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CiTI07WGXF",
+              "end": 23,
+              "expanded_url": "https://x.com/slimestirrr/status/1966626507612139809/photo/1",
+              "media_key": "3_1966626498808360961",
+              "start": 0,
+              "url": "https://t.co/CiTI07WGXF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966626507612139809",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 11671,
+          "like_count": 471,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 73
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/CiTI07WGXF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 267,
+          "like_count": 2742,
+          "listed_count": 2,
+          "media_count": 67,
+          "tweet_count": 3824
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-09T10:43:08.000Z",
+        "description": "Neighborhood Pharmacist",
+        "id": "1601165444118880256",
+        "location": "Newark, NJ",
+        "name": "Stunt.cbfw",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962680013662146560/0I82hA2F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 29,
+          "like_count": 102,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 101
+        },
+        "username": "slimestirrr",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1989744596612735109",
+    "created_at": "2025-11-16T01:00:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T02:00:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989861158837522809"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1600148543125090305",
+          "start": 0,
+          "username": "NakaharaBulbel"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989861158837522809",
+    "in_reply_to_user_id": "1600148543125090305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989744596612735109",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NakaharaBulbel 这个头发染的好好！可爱捏"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1989744582570250243",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5z-J93bkAMOFfx.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1989744582557630464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5z-J90bAAAQXwZ.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1989744582524047360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5z-J9sakAAxteM.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1989744596612735109",
+        "created_at": "2025-11-16T01:00:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T02:00:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989861158837522809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1600148543125090305",
+              "start": 0,
+              "username": "NakaharaBulbel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989861158837522809",
+        "in_reply_to_user_id": "1600148543125090305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989744596612735109",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NakaharaBulbel 这个头发染的好好！可爱捏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989744582570250243",
+            "3_1989744582557630464",
+            "3_1989744582524047360"
+          ]
+        },
+        "author_id": "1600148543125090305",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1989744596612735109",
+        "created_at": "2025-11-15T17:17:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T18:17:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989744596612735109"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/90oE6F1jRu",
+              "end": 23,
+              "expanded_url": "https://x.com/NakaharaBulbel/status/1989744596612735109/photo/1",
+              "media_key": "3_1989744582570250243",
+              "start": 0,
+              "url": "https://t.co/90oE6F1jRu"
+            },
+            {
+              "display_url": "pic.x.com/90oE6F1jRu",
+              "end": 23,
+              "expanded_url": "https://x.com/NakaharaBulbel/status/1989744596612735109/photo/1",
+              "media_key": "3_1989744582557630464",
+              "start": 0,
+              "url": "https://t.co/90oE6F1jRu"
+            },
+            {
+              "display_url": "pic.x.com/90oE6F1jRu",
+              "end": 23,
+              "expanded_url": "https://x.com/NakaharaBulbel/status/1989744596612735109/photo/1",
+              "media_key": "3_1989744582524047360",
+              "start": 0,
+              "url": "https://t.co/90oE6F1jRu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989744596612735109",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 334,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/90oE6F1jRu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜🥺@NashiMoe233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "NashiMoe233"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1967335109767692560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 308,
+          "like_count": 3984,
+          "listed_count": 1,
+          "media_count": 84,
+          "tweet_count": 4391
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-06T15:22:19.000Z",
+        "description": "目前在向第二人格发展。",
+        "id": "1600148543125090305",
+        "location": "🚪38，但是我很废",
+        "name": "珠芽",
+        "pinned_tweet_id": "1919210984415363220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985967335484899328/p1aw0IoQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 938,
+          "following_count": 395,
+          "like_count": 8596,
+          "listed_count": 4,
+          "media_count": 108,
+          "tweet_count": 1043
+        },
+        "username": "NakaharaBulbel",
+        "verified": false
+      }
+    ]
+  }
+}

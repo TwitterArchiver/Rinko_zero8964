@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2003493433332424754",
+    "created_at": "2025-12-23T23:35:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-24T00:35:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003610434197434778"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1763381254035251200",
+          "start": 0,
+          "username": "yowamushi120720"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003610434197434778",
+    "in_reply_to_user_id": "1763381254035251200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003493433332424754",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yowamushi120720 抱抱你，说不定他会回来的，肯定还有机会再联系上"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2003493433332424754",
+        "created_at": "2025-12-23T23:35:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T00:35:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003610434197434778"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1763381254035251200",
+              "start": 0,
+              "username": "yowamushi120720"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003610434197434778",
+        "in_reply_to_user_id": "1763381254035251200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003493433332424754",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yowamushi120720 抱抱你，说不定他会回来的，肯定还有机会再联系上"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1763381254035251200",
+        "conversation_id": "2003493433332424754",
+        "created_at": "2025-12-23T15:50:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T16:50:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003493433332424754"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2003493433332424754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 81,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "班里有个同学休学了。我和他不熟，第一次听到他的名字是通过我前同桌谈老同学。他是我们班另一个打舞萌的，平日沉默寡言，他留给同学们的印象是一直在睡觉。之前班里排人去听心理讲座，选中了我俩，那时我心情非常的郁闷，和他聊了很久的天。真可惜，如果有加他联系方式就好了，我们可以成为朋友的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜如果没有回关请私信提醒我！｜我不吸毒！！！｜小猫我喜欢你超喜欢我爱你@psych_angel_｜性别为无、",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 45,
+                "username": "psych_angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNh89"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1999352315241988490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 446,
+          "following_count": 409,
+          "like_count": 7263,
+          "listed_count": 1,
+          "media_count": 110,
+          "tweet_count": 5513
+        },
+        "url": "https://t.co/rCvc9RNh89",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-01T01:50:39.000Z",
+        "description": "若要通行，必须通过创口｜奋斗百年，我是禁毒宣传大使🤓️ （doge）｜社交问题见谅，如无意冒犯请多多包容不用当真｜就是这样，一切都没什么可期待的。",
+        "id": "1763381254035251200",
+        "location": "掌声存在之地",
+        "name": "弱虫モンブラン#朝仓一",
+        "pinned_tweet_id": "1994782842002575702",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000056813635641344/_3hKwSgk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 536,
+          "like_count": 39202,
+          "listed_count": 2,
+          "media_count": 138,
+          "tweet_count": 3498
+        },
+        "username": "yowamushi120720",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "1997145676023828972",
+    "created_at": "2025-12-06T03:26:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T04:26:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997145676023828972"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1741220157463379968",
+          "start": 3,
+          "username": "xialing253446"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997145676023828972",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997139762399137937",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xialing253446: 现发布DPT一级警戒\n为了您和您的旅行保姆的身心健康，请在滥用dpt的时候时刻保证您的ass对准马桶以免发生悲剧（特别是在别人家的时候）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1997145676023828972",
+        "created_at": "2025-12-06T03:26:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T04:26:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997145676023828972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1741220157463379968",
+              "start": 3,
+              "username": "xialing253446"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997145676023828972",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997139762399137937",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xialing253446: 现发布DPT一级警戒\n为了您和您的旅行保姆的身心健康，请在滥用dpt的时候时刻保证您的ass对准马桶以免发生悲剧（特别是在别人家的时候）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741220157463379968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1997139762399137937",
+        "created_at": "2025-12-06T03:03:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T04:03:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997139762399137937"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1997139762399137937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 89,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "现发布DPT一级警戒\n为了您和您的旅行保姆的身心健康，请在滥用dpt的时候时刻保证您的ass对准马桶以免发生悲剧（特别是在别人家的时候）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜🥺@NashiMoe233｜如果没有回关请私信提醒我！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "NashiMoe233"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1967335109767692560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 350,
+          "like_count": 5491,
+          "listed_count": 1,
+          "media_count": 94,
+          "tweet_count": 4975
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-30T22:10:20.000Z",
+        "description": "配乐低手/计算机低手/提供免费药物咨询/日本語勉強中/LGBT or mtf friendly/耐o王/FOW参与者/日留/烂片爱好者/求互fo😭😭😭\n\n/特别承接---✝天国行超特急✝\n\n目前正在限时活动传奇药圈厨师",
+        "id": "1741220157463379968",
+        "location": "✝天国✝",
+        "name": "xialingXD🚥",
+        "pinned_tweet_id": "1994129849892688183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985039472711634944/HAf4aZYF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 239,
+          "like_count": 850,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 796
+        },
+        "username": "xialing253446",
+        "verified": false
+      }
+    ]
+  }
+}

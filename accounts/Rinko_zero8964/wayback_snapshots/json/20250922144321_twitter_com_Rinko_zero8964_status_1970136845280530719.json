@@ -1,0 +1,357 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1970136839047798785"
+      ]
+    },
+    "author_id": "1849043039496617984",
+    "conversation_id": "1970002736558321783",
+    "created_at": "2025-09-22T14:43:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-22T15:43:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970136845280530719"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1846704473751560192",
+          "start": 0,
+          "username": "xiaowusama55555"
+        },
+        {
+          "end": 30,
+          "id": "1969958648542883840",
+          "start": 17,
+          "username": "94114iz56057"
+        },
+        {
+          "end": 44,
+          "id": "1700948552078467072",
+          "start": 31,
+          "username": "Overdose_DBD"
+        },
+        {
+          "end": 57,
+          "id": "1911828872334831616",
+          "start": 45,
+          "username": "Edward_8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rgmMOd5AyU",
+          "end": 116,
+          "expanded_url": "https://x.com/Rinko_zero8964/status/1970136845280530719/photo/1",
+          "media_key": "3_1970136839047798785",
+          "start": 93,
+          "url": "https://t.co/rgmMOd5AyU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970136845280530719",
+    "in_reply_to_user_id": "1846704473751560192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970125996239298664",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaowusama55555 @94114iz56057 @Overdose_DBD @Edward_8964 左脑攻击右脑这一块，没意思还吵，你要是安安静静跑路咱还能给你留个清净 https://t.co/rgmMOd5AyU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 902,
+        "media_key": "3_1970136839047798785",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1dVBFJa4AEIWKX.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970136839047798785"
+          ]
+        },
+        "author_id": "1849043039496617984",
+        "conversation_id": "1970002736558321783",
+        "created_at": "2025-09-22T14:43:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T15:43:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970136845280530719"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1846704473751560192",
+              "start": 0,
+              "username": "xiaowusama55555"
+            },
+            {
+              "end": 30,
+              "id": "1969958648542883840",
+              "start": 17,
+              "username": "94114iz56057"
+            },
+            {
+              "end": 44,
+              "id": "1700948552078467072",
+              "start": 31,
+              "username": "Overdose_DBD"
+            },
+            {
+              "end": 57,
+              "id": "1911828872334831616",
+              "start": 45,
+              "username": "Edward_8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rgmMOd5AyU",
+              "end": 116,
+              "expanded_url": "https://x.com/Rinko_zero8964/status/1970136845280530719/photo/1",
+              "media_key": "3_1970136839047798785",
+              "start": 93,
+              "url": "https://t.co/rgmMOd5AyU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970136845280530719",
+        "in_reply_to_user_id": "1846704473751560192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970125996239298664",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaowusama55555 @94114iz56057 @Overdose_DBD @Edward_8964 左脑攻击右脑这一块，没意思还吵，你要是安安静静跑路咱还能给你留个清净 https://t.co/rgmMOd5AyU"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1846704473751560192",
+        "conversation_id": "1970002736558321783",
+        "created_at": "2025-09-22T14:00:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T15:00:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970125996239298664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1969958648542883840",
+              "start": 0,
+              "username": "94114iz56057"
+            },
+            {
+              "end": 29,
+              "id": "1849043039496617984",
+              "start": 14,
+              "username": "Rinko_zero8964"
+            },
+            {
+              "end": 43,
+              "id": "1700948552078467072",
+              "start": 30,
+              "username": "Overdose_DBD"
+            },
+            {
+              "end": 56,
+              "id": "1911828872334831616",
+              "start": 44,
+              "username": "Edward_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970125996239298664",
+        "in_reply_to_user_id": "1969958648542883840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970124460750729309",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@94114iz56057 @Rinko_zero8964 @Overdose_DBD @Edward_8964 你不知道維護伺服器是什麼意思嗎？需要我給你解釋嗎？需要扣1\n轉生只為了你們這群Cyka啊😘，對線別開小號別拉黑，沒意思。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 278,
+          "like_count": 3176,
+          "listed_count": 2,
+          "media_count": 80,
+          "tweet_count": 4090
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-17T00:08:06.000Z",
+        "description": "希望世界上再也没有痛苦，无论任何形式",
+        "id": "1846704473751560192",
+        "name": "55555",
+        "pinned_tweet_id": "1921759475200860164",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952308156433866752/c9CkfHpl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 10,
+          "like_count": 383,
+          "listed_count": 4,
+          "media_count": 21,
+          "tweet_count": 140
+        },
+        "username": "xiaowusama55555",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-22T02:55:23.000Z",
+        "description": "泥沼",
+        "id": "1969958648542883840",
+        "name": "94114iz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969959400610889728/aF41zWwZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 13,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 26
+        },
+        "username": "94114iz56057",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-10T19:05:21.000Z",
+        "description": "旧名义：エフェメラリズム ~ Ephemeralism 刹那之物主义\n谁的附庸？",
+        "id": "1700948552078467072",
+        "name": "超级后后后藤",
+        "pinned_tweet_id": "1777999878117097536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969951860279975936/NhjtbqPh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3689,
+          "following_count": 57,
+          "like_count": 11,
+          "listed_count": 10,
+          "media_count": 415,
+          "tweet_count": 5656
+        },
+        "username": "Overdose_DBD",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-14T17:08:26.000Z",
+        "description": "第4次转生 生理男｜退役OIer｜OD｜重精神病｜ADHD｜右美沙芬 ｜freeODwiki参与者｜NEwiki维护员｜自由、梦想、进取｜没有任何盈利",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nonexistent.wiki",
+                "end": 23,
+                "expanded_url": "http://nonexistent.wiki",
+                "start": 0,
+                "url": "https://t.co/l3ALBiEbNl"
+              }
+            ]
+          }
+        },
+        "id": "1911828872334831616",
+        "location": "NE",
+        "name": "💊爱德华",
+        "pinned_tweet_id": "1966808800771371204",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968709578079764480/7M5DfbwN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 558,
+          "following_count": 446,
+          "like_count": 4065,
+          "listed_count": 3,
+          "media_count": 136,
+          "tweet_count": 2351
+        },
+        "url": "https://t.co/l3ALBiEbNl",
+        "username": "Edward_8964",
+        "verified": false
+      }
+    ]
+  }
+}

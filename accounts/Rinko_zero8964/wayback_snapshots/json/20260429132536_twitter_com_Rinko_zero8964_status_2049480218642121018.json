@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2049480218642121018",
+    "created_at": "2026-04-29T13:25:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T14:25:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049480218642121018"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1736712034811785216",
+          "start": 3,
+          "username": "BY801333"
+        },
+        {
+          "end": 29,
+          "id": "1849043039496617984",
+          "start": 14,
+          "username": "Rinko_zero8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049480218642121018",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049479594580013499",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BY801333: @Rinko_zero8964 请别乱说，所有订单都结清了，停业后还做了反诈宣传频道，到最后的最后都没有出现过黑料，我和图上当事人本质区别在于风险及时处理，该处理的都是我主动联系，我无愧于心没有对不起任何人..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2049480218642121018",
+        "created_at": "2026-04-29T13:25:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T14:25:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049480218642121018"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1736712034811785216",
+              "start": 3,
+              "username": "BY801333"
+            },
+            {
+              "end": 29,
+              "id": "1849043039496617984",
+              "start": 14,
+              "username": "Rinko_zero8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049480218642121018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049479594580013499",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BY801333: @Rinko_zero8964 请别乱说，所有订单都结清了，停业后还做了反诈宣传频道，到最后的最后都没有出现过黑料，我和图上当事人本质区别在于风险及时处理，该处理的都是我主动联系，我无愧于心没有对不起任何人..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1736712034811785216",
+        "conversation_id": "2049002901067239880",
+        "created_at": "2026-04-29T13:23:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T14:23:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049479594580013499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1849043039496617984",
+              "start": 0,
+              "username": "Rinko_zero8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049479594580013499",
+        "in_reply_to_user_id": "1849043039496617984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049002901067239880",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rinko_zero8964 请别乱说，所有订单都结清了，停业后还做了反诈宣传频道，到最后的最后都没有出现过黑料，我和图上当事人本质区别在于风险及时处理，该处理的都是我主动联系，我无愧于心没有对不起任何人..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思う、ゆえに我あり｜ 我是林子｜性别为无、｜寒くなってきたね……もう少しだけ、いい？｜intp-t｜ASD/OCD/焦虑障碍｜🧬今日也想成为biohacker｜好妈妈们@Misaki11137 @loveforeversfy|bro @BelovedUren8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 85,
+                "username": "Misaki11137"
+              },
+              {
+                "end": 113,
+                "start": 98,
+                "username": "loveforeversfy"
+              },
+              {
+                "end": 134,
+                "start": 118,
+                "username": "BelovedUren8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wakaba_rinko",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wakaba_rinko",
+                "start": 0,
+                "url": "https://t.co/zWqK1n9RJg"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "Ask me any u want→",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 712,
+          "following_count": 703,
+          "like_count": 17646,
+          "listed_count": 1,
+          "media_count": 180,
+          "tweet_count": 8569
+        },
+        "url": "https://t.co/zWqK1n9RJg",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-18T11:36:39.000Z",
+        "description": "“过往尘埃落定 自在清白独行”\n只想安安静静 请不要打扰我 谢谢\n已永久隐退 勿相信任何回归消息！\n\n通知频道https://t.co/dklqSxlyk2 \n以上已交为友人进行运营 非本人",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/OLAIYAFZ",
+                "end": 78,
+                "expanded_url": "http://t.me/OLAIYAFZ",
+                "start": 55,
+                "url": "https://t.co/dklqSxlyk2"
+              }
+            ]
+          }
+        },
+        "id": "1736712034811785216",
+        "name": "OLAIYA",
+        "pinned_tweet_id": "1820746281515688006",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049176409277595648/a2Ef5Ve1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3086,
+          "following_count": 2905,
+          "like_count": 349,
+          "listed_count": 3,
+          "media_count": 0,
+          "tweet_count": 23
+        },
+        "username": "BY801333",
+        "verified": false
+      }
+    ]
+  }
+}

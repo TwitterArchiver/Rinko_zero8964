@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2004939092463943837",
+    "created_at": "2025-12-28T15:48:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T16:48:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005304768957403450"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1929782343889248257",
+          "start": 0,
+          "username": "ZhanSJRT"
+        },
+        {
+          "end": 23,
+          "id": "1879395690230738944",
+          "start": 10,
+          "username": "Psych_Angel_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005304768957403450",
+    "in_reply_to_user_id": "1929782343889248257",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005304235668439371",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZhanSJRT @Psych_Angel_ 没有cd，药效下去了就行，口服会被mao代谢，鼻吸/肌注比较好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2004939092463943837",
+        "created_at": "2025-12-28T15:48:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T16:48:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005304768957403450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1929782343889248257",
+              "start": 0,
+              "username": "ZhanSJRT"
+            },
+            {
+              "end": 23,
+              "id": "1879395690230738944",
+              "start": 10,
+              "username": "Psych_Angel_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005304768957403450",
+        "in_reply_to_user_id": "1929782343889248257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005304235668439371",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZhanSJRT @Psych_Angel_ 没有cd，药效下去了就行，口服会被mao代谢，鼻吸/肌注比较好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929782343889248257",
+        "conversation_id": "2004939092463943837",
+        "created_at": "2025-12-28T15:46:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T16:46:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005304235668439371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1879395690230738944",
+              "start": 0,
+              "username": "Psych_Angel_"
+            },
+            {
+              "end": 29,
+              "id": "1849043039496617984",
+              "start": 14,
+              "username": "Rinko_zero8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005304235668439371",
+        "in_reply_to_user_id": "1879395690230738944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004940094327963712",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Psych_Angel_ @Rinko_zero8964 cd多少天哇 我感觉dpt我口服效果总是不理想"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜如果没有回关请私信提醒我！｜我不吸毒！！！｜小猫我喜欢你超喜欢我爱你@psych_angel_｜性别为无、",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 45,
+                "username": "psych_angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNh89"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1999352315241988490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 462,
+          "following_count": 424,
+          "like_count": 8216,
+          "listed_count": 1,
+          "media_count": 116,
+          "tweet_count": 5780
+        },
+        "url": "https://t.co/rCvc9RNh89",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-03T06:09:27.000Z",
+        "description": "不要让致幻剂成为你生活的全部",
+        "id": "1929782343889248257",
+        "location": "ego death",
+        "name": "felixx",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989307794369970177/RtYFOw7L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 179,
+          "like_count": 75,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 168
+        },
+        "username": "ZhanSJRT",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-15T05:10:34.000Z",
+        "description": "Scientist | Philosopher | Lab Rat｜💊#Drugtwt｜BD/DPDR｜🫶Rinko:@Rinko_zero8964｜Soulmate:@BelovedUren8964｜🍜:@shungleemain｜👩:@DXM8964LXM｜🍊:@citrus_amara",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 43,
+                "start": 35,
+                "tag": "Drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 74,
+                "start": 59,
+                "username": "Rinko_zero8964"
+              },
+              {
+                "end": 100,
+                "start": 84,
+                "username": "BelovedUren8964"
+              },
+              {
+                "end": 116,
+                "start": 103,
+                "username": "shungleemain"
+              },
+              {
+                "end": 130,
+                "start": 119,
+                "username": "DXM8964LXM"
+              },
+              {
+                "end": 146,
+                "start": 133,
+                "username": "citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cutekitteno3o",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cutekitteno3o",
+                "start": 0,
+                "url": "https://t.co/OpK0ArxHft"
+              }
+            ]
+          }
+        },
+        "id": "1879395690230738944",
+        "location": "Ask me any u want→",
+        "name": "Merciless",
+        "pinned_tweet_id": "2005036045461811517",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984317319691243521/rbczbPan_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 663,
+          "following_count": 710,
+          "like_count": 25557,
+          "listed_count": 1,
+          "media_count": 771,
+          "tweet_count": 11615
+        },
+        "url": "https://t.co/OpK0ArxHft",
+        "username": "Psych_Angel_",
+        "verified": false
+      }
+    ]
+  }
+}

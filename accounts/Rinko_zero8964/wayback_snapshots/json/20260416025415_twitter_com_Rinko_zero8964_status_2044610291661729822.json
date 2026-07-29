@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2044460596721029542",
+    "created_at": "2026-04-16T02:54:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T03:54:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044610291661729822"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1866458229527764992",
+          "start": 0,
+          "username": "Citrus_amara"
+        },
+        {
+          "end": 27,
+          "id": "1902046879166468096",
+          "start": 14,
+          "username": "awaTsuki1111"
+        },
+        {
+          "end": 39,
+          "id": "1810692687789694976",
+          "start": 28,
+          "username": "lonelyfumo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044610291661729822",
+    "in_reply_to_user_id": "1866458229527764992",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044558070345244915",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Citrus_amara @awaTsuki1111 @lonelyfumo"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2044558070345244915].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2044558070345244915",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2044558070345244915"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2044460596721029542",
+        "created_at": "2026-04-16T02:54:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T03:54:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044610291661729822"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            },
+            {
+              "end": 27,
+              "id": "1902046879166468096",
+              "start": 14,
+              "username": "awaTsuki1111"
+            },
+            {
+              "end": 39,
+              "id": "1810692687789694976",
+              "start": 28,
+              "username": "lonelyfumo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044610291661729822",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044558070345244915",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara @awaTsuki1111 @lonelyfumo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思う、ゆえに我あり｜ 我是林子｜性别为无、｜寒くなってきたね……もう少しだけ、いい？｜intp-t｜ASD/OCD/焦虑障碍｜🧬今日也想成为biohacker｜好妈妈们@Misaki11137 @loveforeversfy|bro @BelovedUren8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 85,
+                "username": "Misaki11137"
+              },
+              {
+                "end": 113,
+                "start": 98,
+                "username": "loveforeversfy"
+              },
+              {
+                "end": 134,
+                "start": 118,
+                "username": "BelovedUren8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wakaba_rinko",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wakaba_rinko",
+                "start": 0,
+                "url": "https://t.co/zWqK1n9RJg"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "Ask me any u want→",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 679,
+          "following_count": 665,
+          "like_count": 17308,
+          "listed_count": 1,
+          "media_count": 174,
+          "tweet_count": 8437
+        },
+        "url": "https://t.co/zWqK1n9RJg",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "谁的橙子🍊？\nπ@vacue138950丨妹妹 @shsh548866｜主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 8,
+                "username": "vacue138950"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "shsh548866"
+              },
+              {
+                "end": 52,
+                "start": 38,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/dk3VYjA2Iv"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊超级苦苦苦橙🍊",
+        "pinned_tweet_id": "2037521210972479644",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041014657167802368/WOq5BhqV_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1234,
+          "following_count": 1009,
+          "like_count": 18706,
+          "listed_count": 6,
+          "media_count": 398,
+          "tweet_count": 10769
+        },
+        "url": "https://t.co/dk3VYjA2Iv",
+        "username": "Citrus_amara",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-18T17:18:28.000Z",
+        "description": "04年男生，od自残，疑似抑郁焦虑\n总之就是烂人一个\n欢迎找我匿名提问\nhttps://t.co/01BuPOlAXf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/awatsuki1111",
+                "end": 59,
+                "expanded_url": "https://ngl.link/awatsuki1111",
+                "start": 36,
+                "url": "https://t.co/01BuPOlAXf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+4bD-ndvMmSIzM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+4bD-ndvMmSIzMWJl",
+                "start": 0,
+                "url": "https://t.co/gFG7IsvbtC"
+              }
+            ]
+          }
+        },
+        "id": "1902046879166468096",
+        "location": "石家庄",
+        "name": "awaTsuki",
+        "pinned_tweet_id": "2036433369165340797",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902047683457822720/JCNa0cDK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 55,
+          "like_count": 372,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 461
+        },
+        "url": "https://t.co/gFG7IsvbtC",
+        "username": "awaTsuki1111",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-09T15:09:28.000Z",
+        "description": "第一次转生/笑气批发 联系https://t.co/KMBaiTdtdy\n原号@popcat1234566\n互关寻回！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 39,
+                "username": "popcat1234566"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/opodoge",
+                "end": 36,
+                "expanded_url": "http://t.me/opodoge",
+                "start": 13,
+                "url": "https://t.co/KMBaiTdtdy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/popcat1234566",
+                "end": 23,
+                "expanded_url": "https://ngl.link/popcat1234566",
+                "start": 0,
+                "url": "https://t.co/BEZRzr0LCc"
+              }
+            ]
+          }
+        },
+        "id": "1810692687789694976",
+        "location": "fumo island",
+        "name": "popcat12345666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1810696532620107776/AZkUpTIP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 63,
+          "like_count": 92,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 76
+        },
+        "url": "https://t.co/BEZRzr0LCc",
+        "username": "lonelyfumo",
+        "verified": false
+      }
+    ]
+  }
+}

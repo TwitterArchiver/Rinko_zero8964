@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2003855402283499556",
+    "created_at": "2025-12-24T15:48:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-24T16:48:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2003855402283499556"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/2003745196094509498",
+          "start": 17,
+          "url": "https://t.co/CC4txvDKzU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003855402283499556",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003745196094509498",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "包ai的，画院供奉根本设计不出来 https://t.co/CC4txvDKzU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 852,
+        "media_key": "3_2003745120693432321",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G867kitasAExUKr.png",
+        "width": 778
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2003855402283499556",
+        "created_at": "2025-12-24T15:48:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T16:48:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003855402283499556"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2003745196094509498",
+              "start": 17,
+              "url": "https://t.co/CC4txvDKzU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003855402283499556",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003745196094509498",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "包ai的，画院供奉根本设计不出来 https://t.co/CC4txvDKzU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003745120693432321"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2003745196094509498",
+        "created_at": "2025-12-24T08:30:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T09:30:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003745196094509498"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/013J3ZxCdu",
+              "end": 68,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2003745196094509498/photo/1",
+              "media_key": "3_2003745120693432321",
+              "start": 45,
+              "url": "https://t.co/013J3ZxCdu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003745196094509498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 254,
+          "impression_count": 377158,
+          "like_count": 911,
+          "quote_count": 26,
+          "reply_count": 128,
+          "retweet_count": 64
+        },
+        "reply_settings": "everyone",
+        "text": "网友投稿内部文件：“关于2026年春晚四马吉祥物存在重大对外传播风险需紧急干预的建议”。 https://t.co/013J3ZxCdu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜如果没有回关请私信提醒我！｜我不吸毒！！！｜小猫我喜欢你超喜欢我爱你@psych_angel_｜性别为无、",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 45,
+                "username": "psych_angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNh89"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1999352315241988490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 451,
+          "following_count": 411,
+          "like_count": 7438,
+          "listed_count": 1,
+          "media_count": 111,
+          "tweet_count": 5577
+        },
+        "url": "https://t.co/rCvc9RNh89",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2001620917701501364",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998464594226839552/OmoQEWXX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2169363,
+          "following_count": 988,
+          "like_count": 8519,
+          "listed_count": 8449,
+          "media_count": 38998,
+          "tweet_count": 45912
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

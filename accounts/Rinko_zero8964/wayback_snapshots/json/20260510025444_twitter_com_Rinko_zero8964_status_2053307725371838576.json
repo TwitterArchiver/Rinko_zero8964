@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053307718312894464"
+      ]
+    },
+    "author_id": "1849043039496617984",
+    "conversation_id": "2053307725371838576",
+    "created_at": "2026-05-10T02:54:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T03:54:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053307725371838576"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/SE3lE59Vox",
+          "end": 23,
+          "expanded_url": "https://x.com/Rinko_zero8964/status/2053307725371838576/photo/1",
+          "media_key": "3_2053307718312894464",
+          "start": 0,
+          "url": "https://t.co/SE3lE59Vox"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053307725371838576",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/SE3lE59Vox"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1007,
+        "media_key": "3_2053307718312894464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH7QfayboAA70MN.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053307718312894464"
+          ]
+        },
+        "author_id": "1849043039496617984",
+        "conversation_id": "2053307725371838576",
+        "created_at": "2026-05-10T02:54:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T03:54:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053307725371838576"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SE3lE59Vox",
+              "end": 23,
+              "expanded_url": "https://x.com/Rinko_zero8964/status/2053307725371838576/photo/1",
+              "media_key": "3_2053307718312894464",
+              "start": 0,
+              "url": "https://t.co/SE3lE59Vox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053307725371838576",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/SE3lE59Vox"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思う、ゆえに我あり｜ 我是林子｜性别为无、｜寒くなってきたね……もう少しだけ、いい？｜intp-t｜ASD/OCD/焦虑障碍｜🧬今日也想成为biohacker｜好妈妈们@Misaki11137 @loveforeversfy|bro @BelovedUren8964｜vico酱@vicoOci_Olvidar",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 85,
+                "username": "Misaki11137"
+              },
+              {
+                "end": 113,
+                "start": 98,
+                "username": "loveforeversfy"
+              },
+              {
+                "end": 134,
+                "start": 118,
+                "username": "BelovedUren8964"
+              },
+              {
+                "end": 156,
+                "start": 140,
+                "username": "vicoOci_Olvidar"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wakaba_rinko",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wakaba_rinko",
+                "start": 0,
+                "url": "https://t.co/zWqK1n9RJg"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "Ask me any u want→",
+        "name": "Rinko",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 726,
+          "following_count": 712,
+          "like_count": 17820,
+          "listed_count": 1,
+          "media_count": 184,
+          "tweet_count": 8610
+        },
+        "url": "https://t.co/zWqK1n9RJg",
+        "username": "Rinko_zero8964",
+        "verified": false
+      }
+    ]
+  }
+}

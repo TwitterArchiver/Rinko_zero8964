@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2004465013231357990",
+    "created_at": "2025-12-26T09:37:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-26T10:37:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004486593181298943"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1960187829687885824",
+          "start": 0,
+          "username": "taikongjile"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004486593181298943",
+    "in_reply_to_user_id": "1960187829687885824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004465013231357990",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@taikongjile 我低压翻三倍才能达到这个高压"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2004464846717571072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9FKKHFb0AAxnHO.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2004464846721761280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9FKKHGbwAADN1h.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2004465013231357990",
+        "created_at": "2025-12-26T09:37:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T10:37:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004486593181298943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1960187829687885824",
+              "start": 0,
+              "username": "taikongjile"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004486593181298943",
+        "in_reply_to_user_id": "1960187829687885824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004465013231357990",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@taikongjile 我低压翻三倍才能达到这个高压"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004464846717571072",
+            "3_2004464846721761280"
+          ]
+        },
+        "author_id": "1960187829687885824",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2004465013231357990",
+        "created_at": "2025-12-26T08:11:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T09:11:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004465013231357990"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qv9WwzasDr",
+              "end": 46,
+              "expanded_url": "https://x.com/taikongjile/status/2004465013231357990/photo/1",
+              "media_key": "3_2004464846717571072",
+              "start": 23,
+              "url": "https://t.co/Qv9WwzasDr"
+            },
+            {
+              "display_url": "pic.x.com/Qv9WwzasDr",
+              "end": 46,
+              "expanded_url": "https://x.com/taikongjile/status/2004465013231357990/photo/1",
+              "media_key": "3_2004464846721761280",
+              "start": 23,
+              "url": "https://t.co/Qv9WwzasDr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004465013231357990",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 248,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "夜之城没有活着的传奇\n\n高压上200了，升天 https://t.co/Qv9WwzasDr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜如果没有回关请私信提醒我！｜我不吸毒！！！｜小猫我喜欢你超喜欢我爱你@psych_angel_｜性别为无、",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 45,
+                "username": "psych_angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNh89"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1999352315241988490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 452,
+          "following_count": 412,
+          "like_count": 7705,
+          "listed_count": 1,
+          "media_count": 111,
+          "tweet_count": 5632
+        },
+        "url": "https://t.co/rCvc9RNh89",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-26T03:49:38.000Z",
+        "description": "官方网站:https://t.co/ZQnAUQt63U\n交流群:https://t.co/FvFWw9Jk8E\nDC交流群：https://t.co/JtSA2uwb28\n社区:https://t.co/JwQ9mOTHUy\n官方直推交流群:https://t.co/JX0NvsiL46",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 28,
+                "expanded_url": "https://overdose.day",
+                "start": 5,
+                "url": "https://t.co/ZQnAUQt63U"
+              },
+              {
+                "display_url": "t.me/huaxuejilebaik…",
+                "end": 56,
+                "expanded_url": "https://t.me/huaxuejilebaike666",
+                "start": 33,
+                "url": "https://t.co/FvFWw9Jk8E"
+              },
+              {
+                "display_url": "discord.gg/XmNt8AXCEb",
+                "end": 86,
+                "expanded_url": "https://discord.gg/XmNt8AXCEb",
+                "start": 63,
+                "url": "https://t.co/JtSA2uwb28"
+              },
+              {
+                "display_url": "pr80.bid",
+                "end": 113,
+                "expanded_url": "https://pr80.bid/",
+                "start": 90,
+                "url": "https://t.co/JwQ9mOTHUy"
+              },
+              {
+                "display_url": "wwbwm.lanzouq.com/ioHif3e",
+                "end": 145,
+                "expanded_url": "https://wwbwm.lanzouq.com/ioHif3e",
+                "start": 122,
+                "url": "https://t.co/JX0NvsiL46"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "shangtaikong.com",
+                "end": 23,
+                "expanded_url": "http://www.shangtaikong.com/",
+                "start": 0,
+                "url": "https://t.co/i6JxOs4twU"
+              }
+            ]
+          }
+        },
+        "id": "1960187829687885824",
+        "name": "太空极乐百科🍥",
+        "pinned_tweet_id": "2004064227003416995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002586355323502592/8QOsOMbS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4989,
+          "following_count": 1581,
+          "like_count": 1014,
+          "listed_count": 3,
+          "media_count": 291,
+          "tweet_count": 1782
+        },
+        "url": "https://t.co/i6JxOs4twU",
+        "username": "taikongjile",
+        "verified": false
+      }
+    ]
+  }
+}

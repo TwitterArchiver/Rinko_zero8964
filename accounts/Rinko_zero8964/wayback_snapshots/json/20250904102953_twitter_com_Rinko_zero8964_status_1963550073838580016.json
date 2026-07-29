@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1963484421916664212",
+    "created_at": "2025-09-04T10:29:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-04T11:29:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963550073838580016"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1366512947015520259",
+          "start": 0,
+          "username": "gsjzyyy"
+        },
+        {
+          "end": 22,
+          "id": "1960026902418321408",
+          "start": 9,
+          "username": "Drugs_Kitten"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963550073838580016",
+    "in_reply_to_user_id": "1366512947015520259",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963485737481117717",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gsjzyyy @Drugs_Kitten 叫东东"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1963484421916664212",
+        "created_at": "2025-09-04T10:29:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T11:29:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963550073838580016"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1366512947015520259",
+              "start": 0,
+              "username": "gsjzyyy"
+            },
+            {
+              "end": 22,
+              "id": "1960026902418321408",
+              "start": 9,
+              "username": "Drugs_Kitten"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963550073838580016",
+        "in_reply_to_user_id": "1366512947015520259",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963485737481117717",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gsjzyyy @Drugs_Kitten 叫东东"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1366512947015520259",
+        "conversation_id": "1963484421916664212",
+        "created_at": "2025-09-04T06:14:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T07:14:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963485737481117717"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1960026902418321408",
+              "start": 0,
+              "username": "Drugs_Kitten"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963485737481117717",
+        "in_reply_to_user_id": "1960026902418321408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963485079310922086",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Drugs_Kitten 董先生以前是不是叫咚咚来着"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849043147487420416/0nrEqJTK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 258,
+          "like_count": 2359,
+          "listed_count": 2,
+          "media_count": 64,
+          "tweet_count": 3561
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-01T22:17:43.000Z",
+        "description": "02/身高192/🇦🇺BNE/无政府主义者Ⓐ/极端反殖民主义/od紫餐🈶/集体意识论/ziq与🍐老师的好学生🥰/🇮🇱🙏/🈲🇵🇸🇺🇦🇷🇺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "goresee.com/w/aCB6wp6TYaMy…",
+                "end": 23,
+                "expanded_url": "https://goresee.com/w/aCB6wp6TYaMyPNc1zG7MRN",
+                "start": 0,
+                "url": "https://t.co/w5WnMfQV3I"
+              }
+            ]
+          }
+        },
+        "id": "1366512947015520259",
+        "location": "距离您的位置50米",
+        "name": "Mr.焚蒿🎩⭐️🔥",
+        "pinned_tweet_id": "1905459125469020289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956954922458775552/0UbX2eeV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1743,
+          "following_count": 1546,
+          "like_count": 122441,
+          "listed_count": 9,
+          "media_count": 1786,
+          "tweet_count": 26316
+        },
+        "url": "https://t.co/w5WnMfQV3I",
+        "username": "gsjzyyy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-25T17:10:16.000Z",
+        "description": "💖你好，这里是小猫。｜药物百科副Wiki主｜有任何药物相关问题都可以私信免费咨询哦💕｜ 私信回fo｜谨慎关注里推:@CuteKittenO3O会有大量负能/药物使用",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 57,
+                "username": "CuteKittenO3O"
+              }
+            ]
+          }
+        },
+        "id": "1960026902418321408",
+        "name": "💊MediKitty🌌",
+        "pinned_tweet_id": "1960031991401005577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960036096215224320/DqeocQbY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 404,
+          "following_count": 132,
+          "like_count": 357,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 156
+        },
+        "username": "Drugs_Kitten",
+        "verified": false
+      }
+    ]
+  }
+}

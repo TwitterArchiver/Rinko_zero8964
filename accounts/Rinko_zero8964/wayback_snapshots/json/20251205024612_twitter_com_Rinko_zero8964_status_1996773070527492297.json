@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1996773070527492297",
+    "created_at": "2025-12-05T02:46:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T03:46:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1996773070527492297"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/d41d8cd98f0/st…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/d41d8cd98f0/status/1996598681894875333",
+          "start": 17,
+          "url": "https://t.co/iSZWj4RXFt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996773070527492297",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996598681894875333",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "何本桜的4-ho真的很好吃快来买 https://t.co/iSZWj4RXFt"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1996773070527492297",
+        "created_at": "2025-12-05T02:46:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T03:46:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996773070527492297"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/d41d8cd98f0/st…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/d41d8cd98f0/status/1996598681894875333",
+              "start": 17,
+              "url": "https://t.co/iSZWj4RXFt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996773070527492297",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996598681894875333",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "何本桜的4-ho真的很好吃快来买 https://t.co/iSZWj4RXFt"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662439435726905344",
+        "conversation_id": "1996598681894875333",
+        "created_at": "2025-12-04T15:13:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T16:13:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996598681894875333"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1996598681894875333",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1046,
+          "like_count": 10,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "4-ho-met重新开始售卖\n同时接日本药物代购\n基本市面上有的药都可以代购\n私信发你需要什么就行\n其他RC还在准备中\n现在有一些原料供售卖，需要的可以咨询"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜🥺@NashiMoe233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "NashiMoe233"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1967335109767692560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 393,
+          "following_count": 349,
+          "like_count": 5439,
+          "listed_count": 1,
+          "media_count": 93,
+          "tweet_count": 4938
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-27T12:44:05.000Z",
+        "description": "愛是在派出所你說你不認識我",
+        "id": "1662439435726905344",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "Mohanmmed",
+        "pinned_tweet_id": "1996598681894875333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994717962134327297/2KIp9H-T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 857,
+          "following_count": 98,
+          "like_count": 10427,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 1301
+        },
+        "username": "d41d8cd98f0",
+        "verified": true
+      }
+    ]
+  }
+}

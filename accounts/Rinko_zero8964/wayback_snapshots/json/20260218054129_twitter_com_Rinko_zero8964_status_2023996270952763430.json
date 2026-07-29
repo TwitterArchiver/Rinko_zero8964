@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2023996270952763430",
+    "created_at": "2026-02-18T05:41:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T06:41:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023996270952763430"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/waifu8964/stat…",
+          "end": 68,
+          "expanded_url": "https://twitter.com/waifu8964/status/2023912460084777372",
+          "start": 45,
+          "url": "https://t.co/0LGJ6MhlVB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023996270952763430",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023912460084777372",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "waifu离开了，灰产还会有更多waifu这样的\n但是waifu给大家留下的痕迹一直会在 https://t.co/0LGJ6MhlVB"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2023996270952763430",
+        "created_at": "2026-02-18T05:41:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T06:41:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023996270952763430"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/waifu8964/stat…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/waifu8964/status/2023912460084777372",
+              "start": 45,
+              "url": "https://t.co/0LGJ6MhlVB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023996270952763430",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023912460084777372",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "waifu离开了，灰产还会有更多waifu这样的\n但是waifu给大家留下的痕迹一直会在 https://t.co/0LGJ6MhlVB"
+      },
+      {
+        "article": {
+          "title": "致还在黑产圈里摸爬滚打、每天跟死线赛跑的兄弟姐妹们："
+        },
+        "attachments": {},
+        "author_id": "1419403960696385546",
+        "conversation_id": "2023912460084777372",
+        "created_at": "2026-02-18T00:08:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T01:08:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023912460084777372"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2023…",
+              "end": 23,
+              "expanded_url": "http://x.com/i/article/2023340921496936448",
+              "start": 0,
+              "status": 500,
+              "unwound_url": "https://x.com/i/article/2023340921496936448",
+              "url": "https://t.co/L2MIxjun93"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023912460084777372",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 59,
+          "impression_count": 20202,
+          "like_count": 95,
+          "quote_count": 4,
+          "reply_count": 5,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/L2MIxjun93"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思う、ゆえに我あり｜ 我是林子｜性别为无、｜寒くなってきたね……もう少しだけ、いい？｜intp-t｜asd/焦虑障碍｜🧬今日也想成为biohacker｜輪郭の定まらない位置にいた人@Psych_Angel_｜好妈妈们@asabakasaiko @loveforeversfy|bro @BelovedUren8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 91,
+                "username": "Psych_Angel_"
+              },
+              {
+                "end": 122,
+                "start": 109,
+                "username": "asabakasaiko"
+              },
+              {
+                "end": 138,
+                "start": 123,
+                "username": "loveforeversfy"
+              },
+              {
+                "end": 159,
+                "start": 143,
+                "username": "BelovedUren8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wakaba_rinko",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wakaba_rinko",
+                "start": 0,
+                "url": "https://t.co/zWqK1n9RJg"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "Ask me any u want→",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 580,
+          "following_count": 540,
+          "like_count": 15037,
+          "listed_count": 1,
+          "media_count": 149,
+          "tweet_count": 7504
+        },
+        "url": "https://t.co/zWqK1n9RJg",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-25T21:07:49.000Z",
+        "description": "退休时间已定，现已启用付费消息，用来过滤垃圾信息。如果您是别人推荐来的客户请让Ta通知我加联系人即可免费发信息，聊天的话可以在任意群喊我看心情回复。付费信息100%回复. #USDT hodler",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 91,
+                "start": 86,
+                "tag": "USDT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/saomei",
+                "end": 23,
+                "expanded_url": "https://t.me/saomei",
+                "start": 0,
+                "url": "https://t.co/GrZymHku4e"
+              }
+            ]
+          }
+        },
+        "id": "1419403960696385546",
+        "location": "IP归属地:深圳",
+        "name": "Waifu终于要退休了！",
+        "pinned_tweet_id": "2008135237100826920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999617518881701893/dlgBtwTi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7547,
+          "following_count": 2335,
+          "like_count": 5192,
+          "listed_count": 18,
+          "media_count": 837,
+          "tweet_count": 7208
+        },
+        "url": "https://t.co/GrZymHku4e",
+        "username": "WaiFu8964",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1954010912727478676",
+    "created_at": "2025-08-10T12:00:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-10T13:00:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954513056375201799"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1279702935102865409",
+          "start": 0,
+          "username": "YoselinXana"
+        },
+        {
+          "end": 29,
+          "id": "1456231777224347651",
+          "start": 13,
+          "username": "dDguwkiRkZcCSrt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954513056375201799",
+    "in_reply_to_user_id": "1279702935102865409",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954234029726957980",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YoselinXana @dDguwkiRkZcCSrt 这个确实是鸡哥的问题"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1954010912727478676",
+        "created_at": "2025-08-10T12:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T13:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954513056375201799"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1279702935102865409",
+              "start": 0,
+              "username": "YoselinXana"
+            },
+            {
+              "end": 29,
+              "id": "1456231777224347651",
+              "start": 13,
+              "username": "dDguwkiRkZcCSrt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954513056375201799",
+        "in_reply_to_user_id": "1279702935102865409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954234029726957980",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YoselinXana @dDguwkiRkZcCSrt 这个确实是鸡哥的问题"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1279702935102865409",
+        "conversation_id": "1954010912727478676",
+        "created_at": "2025-08-09T17:31:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T18:31:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954234029726957980"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1456231777224347651",
+              "start": 0,
+              "username": "dDguwkiRkZcCSrt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954234029726957980",
+        "in_reply_to_user_id": "1456231777224347651",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954010912727478676",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dDguwkiRkZcCSrt 我也想说。沐雨天天发的那些让我感到很疑惑，意义是…？也就骗骗啥都不了解的小孩了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849043147487420416/0nrEqJTK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 234,
+          "like_count": 1433,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 2711
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-05T09:05:40.000Z",
+        "description": "赛博八字ISFP, 168/50kg, 07, LGBTQ+友好但皮下一爱顺直女, 重抑重焦, ⚠️血图涩图常常忘记打预警, 里推才会露脸, Brat(BDSM), 中文/ENG OK, 买美瞳外烟电子烟请找我非常感谢您 ｜👩🏻‍❤️‍👩🏻@coiloffaraday",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 120,
+                "username": "coiloffaraday"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mylifeallfucke…",
+                "end": 23,
+                "expanded_url": "https://t.me/mylifeallfuckedup",
+                "start": 0,
+                "url": "https://t.co/PAY0hcecwZ"
+              }
+            ]
+          }
+        },
+        "id": "1279702935102865409",
+        "location": "🚪88/128/158，坐标线下过门详聊，绿非绿都接",
+        "name": "Yoselin🪬💊🩸",
+        "pinned_tweet_id": "1946090177505689972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947177584891936768/JyIXTLSH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1068,
+          "following_count": 339,
+          "like_count": 11592,
+          "listed_count": 1,
+          "media_count": 98,
+          "tweet_count": 2278
+        },
+        "url": "https://t.co/PAY0hcecwZ",
+        "username": "YoselinXana",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-04T12:08:26.000Z",
+        "description": "",
+        "id": "1456231777224347651",
+        "name": "无名",
+        "pinned_tweet_id": "1922871209764560922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932707072468217856/Yd5nKEM7_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 56,
+          "like_count": 2814,
+          "listed_count": 0,
+          "media_count": 547,
+          "tweet_count": 7701
+        },
+        "username": "dDguwkiRkZcCSrt",
+        "verified": false
+      }
+    ]
+  }
+}

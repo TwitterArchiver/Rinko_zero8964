@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1970227606202310790",
+    "created_at": "2025-09-22T20:44:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-22T21:44:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970227606202310790"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1735700650472955904",
+          "start": 3,
+          "username": "ErQiu8013"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970227606202310790",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970189672942051623",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ErQiu8013: 当今o圈正经历百年未有之变局\n我们站在毁灭与新生的重要历史节点\n\n这是风险与希望交织的时代。\n稳定、协作、发展、共享，是我们不变的追求。\n我们主张安宁与互助，我们坚持包容与共享，我们反对停滞与分裂。\n正视过往的波折，不是为了重蹈覆辙，而是为了寻找更…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1970227606202310790",
+        "created_at": "2025-09-22T20:44:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T21:44:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970227606202310790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1735700650472955904",
+              "start": 3,
+              "username": "ErQiu8013"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970227606202310790",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970189672942051623",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ErQiu8013: 当今o圈正经历百年未有之变局\n我们站在毁灭与新生的重要历史节点\n\n这是风险与希望交织的时代。\n稳定、协作、发展、共享，是我们不变的追求。\n我们主张安宁与互助，我们坚持包容与共享，我们反对停滞与分裂。\n正视过往的波折，不是为了重蹈覆辙，而是为了寻找更…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1735700650472955904",
+        "conversation_id": "1970189672942051623",
+        "created_at": "2025-09-22T18:13:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T19:13:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970189672942051623"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1970189672942051623",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 95,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "当今o圈正经历百年未有之变局\n我们站在毁灭与新生的重要历史节点\n\n这是风险与希望交织的时代。\n稳定、协作、发展、共享，是我们不变的追求。\n我们主张安宁与互助，我们坚持包容与共享，我们反对停滞与分裂。\n正视过往的波折，不是为了重蹈覆辙，而是为了寻找更稳的局面。\n\\😭/ ✍🏻✍🏻✍🏻\\😭/"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 279,
+          "like_count": 3193,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 4142
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-15T16:37:52.000Z",
+        "description": "初音ミク/後藤 ひとり/葬送のフリーレン/Cyberpunk: Edgerunners/よふかしのうた/進撃の巨人/86，eva，……/genshin，hsr\n   薬物⚠️，低能量⚠️，日常/欢迎互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/Iri023r",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/Iri023r",
+                "start": 0,
+                "url": "https://t.co/Azm3By59d0"
+              }
+            ]
+          }
+        },
+        "id": "1735700650472955904",
+        "location": "垃圾场",
+        "name": "𝓦𝓪𝓷𝓰 𝓠𝓲𝓾𝓮𝓻（秋儿）降临派",
+        "pinned_tweet_id": "1966174113590095918",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967985654865989634/AOuJ3T6N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 768,
+          "following_count": 1631,
+          "like_count": 21845,
+          "listed_count": 5,
+          "media_count": 524,
+          "tweet_count": 4074
+        },
+        "url": "https://t.co/Azm3By59d0",
+        "username": "ErQiu8013",
+        "verified": false
+      }
+    ]
+  }
+}

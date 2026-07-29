@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1954917879981506739",
+    "created_at": "2025-08-12T11:35:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-12T12:35:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955231546023240162"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1697915168532086785",
+          "start": 0,
+          "username": "CH32767"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955231546023240162",
+    "in_reply_to_user_id": "1697915168532086785",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954917879981506739",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CH32767 ？你考虑做了卖我吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1954917879981506739",
+        "created_at": "2025-08-12T11:35:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T12:35:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955231546023240162"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1697915168532086785",
+              "start": 0,
+              "username": "CH32767"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955231546023240162",
+        "in_reply_to_user_id": "1697915168532086785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954917879981506739",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CH32767 ？你考虑做了卖我吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1697915168532086785",
+        "conversation_id": "1954917879981506739",
+        "created_at": "2025-08-11T14:48:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T15:48:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954917879981506739"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1954917879981506739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 68,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "目前在着手去了解色胺类，暂时放弃5-MeO类，考虑dpt一类，但肯定不会去买，因为自己做同样的钱可以获得的物质量是买的数百倍，仅是体验一下效果的话自己做一点点就够用"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849043147487420416/0nrEqJTK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 235,
+          "like_count": 1567,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 2841
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-02T10:12:28.000Z",
+        "description": "反对od的oder/精分/男娘（友跨）/EMer/化学爱好者\n19/188cm/61kg\n不卖皮鼓，私聊询问省市等敏感信息直接拉黑\n让我们在没有黑暗的地方再见",
+        "id": "1697915168532086785",
+        "location": "DXM的孤对电子上",
+        "name": "氯酸甲酯",
+        "pinned_tweet_id": "1941532229538283544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916214654743023618/taTLRcdx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 67,
+          "like_count": 2069,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 68
+        },
+        "username": "CH32767",
+        "verified": false
+      }
+    ]
+  }
+}

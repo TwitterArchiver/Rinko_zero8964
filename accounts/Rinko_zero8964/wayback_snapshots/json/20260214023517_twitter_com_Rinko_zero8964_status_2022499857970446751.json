@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2022498660303671662",
+    "created_at": "2026-02-14T02:35:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T03:35:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022499857970446751"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1937692741305352192",
+          "start": 0,
+          "username": "wangduanxu2007"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022499857970446751",
+    "in_reply_to_user_id": "1937692741305352192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022499618228178944",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wangduanxu2007 每个人都有自己喜好的嘛…不喜欢才是正常的人吧（（喜欢这个叫猎奇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2022498660303671662",
+        "created_at": "2026-02-14T02:35:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T03:35:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022499857970446751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1937692741305352192",
+              "start": 0,
+              "username": "wangduanxu2007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022499857970446751",
+        "in_reply_to_user_id": "1937692741305352192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022499618228178944",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wangduanxu2007 每个人都有自己喜好的嘛…不喜欢才是正常的人吧（（喜欢这个叫猎奇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1937692741305352192",
+        "conversation_id": "2022498660303671662",
+        "created_at": "2026-02-14T02:34:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T03:34:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022499618228178944"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1849043039496617984",
+              "start": 0,
+              "username": "Rinko_zero8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022499618228178944",
+        "in_reply_to_user_id": "1849043039496617984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022498660303671662",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rinko_zero8964 我好怕血，我甚至怕处女"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜如果没有回关请私信提醒我！｜我不吸毒！！！｜性别为无、｜輪郭の定まらない位置にいた人@Psych_Angel_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 53,
+                "username": "Psych_Angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNh89"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 568,
+          "following_count": 528,
+          "like_count": 14382,
+          "listed_count": 1,
+          "media_count": 146,
+          "tweet_count": 7310
+        },
+        "url": "https://t.co/rCvc9RNh89",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-25T02:02:19.000Z",
+        "description": "做个好人，然后昆虫、花妖、左轮手枪",
+        "id": "1937692741305352192",
+        "location": "索科特拉岛",
+        "name": "王断续",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956881227119755264/amZt5xe0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 124,
+          "like_count": 2799,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 894
+        },
+        "username": "wangduanxu2007",
+        "verified": false
+      }
+    ]
+  }
+}

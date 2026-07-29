@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1992975556233822286",
+    "created_at": "2025-11-24T22:38:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T23:38:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993086773648580774"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1892114014563598339",
+          "start": 0,
+          "username": "3He2_Ka1R0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993086773648580774",
+    "in_reply_to_user_id": "1892114014563598339",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992975556233822286",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3He2_Ka1R0 80分，我喜欢，指甲有点长了，干干的我可以给你舔prpr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1992975553302011904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6h4tNyaoAAkppm.jpg",
+        "width": 1455
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1992975553322954752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6h4tN3aMAASULp.jpg",
+        "width": 1455
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1992975556233822286",
+        "created_at": "2025-11-24T22:38:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T23:38:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993086773648580774"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1892114014563598339",
+              "start": 0,
+              "username": "3He2_Ka1R0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993086773648580774",
+        "in_reply_to_user_id": "1892114014563598339",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992975556233822286",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3He2_Ka1R0 80分，我喜欢，指甲有点长了，干干的我可以给你舔prpr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992975553302011904",
+            "3_1992975553322954752"
+          ]
+        },
+        "author_id": "1892114014563598339",
+        "conversation_id": "1992975556233822286",
+        "created_at": "2025-11-24T15:16:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T16:16:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992975556233822286"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/shPpRJqCc8",
+              "end": 33,
+              "expanded_url": "https://x.com/3He2_Ka1R0/status/1992975556233822286/photo/1",
+              "media_key": "3_1992975553302011904",
+              "start": 10,
+              "url": "https://t.co/shPpRJqCc8"
+            },
+            {
+              "display_url": "pic.x.com/shPpRJqCc8",
+              "end": 33,
+              "expanded_url": "https://x.com/3He2_Ka1R0/status/1992975556233822286/photo/1",
+              "media_key": "3_1992975553322954752",
+              "start": 10,
+              "url": "https://t.co/shPpRJqCc8"
+            },
+            {
+              "display_url": "x.com/Madarame_NZM/s…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/Madarame_NZM/status/1992838773768593819",
+              "start": 34,
+              "url": "https://t.co/EBNVnkLTsn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992975556233822286",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 172,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992838773768593819",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🥺🥺\n0-100分 https://t.co/shPpRJqCc8 https://t.co/EBNVnkLTsn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜🥺@NashiMoe233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "NashiMoe233"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1967335109767692560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362,
+          "following_count": 337,
+          "like_count": 4896,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 4706
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-19T07:28:41.000Z",
+        "description": "‣  你有尝试变得真实吗?叫我 𝗞𝗮𝗶𝗿𝗼 就好ɪɴᴛᴘ⁃ᴍ𝔱𝖝⁃ᴏᴠᴇʀᴅᴏsᴇ﹠ᴅʀᴜɢ⁃Ⓐ☜",
+        "id": "1892114014563598339",
+        "name": "xX梅妻鹤子Xx",
+        "pinned_tweet_id": "1962443374633644505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984261889027895296/4bprvd8Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 398,
+          "like_count": 64726,
+          "listed_count": 1,
+          "media_count": 147,
+          "tweet_count": 2533
+        },
+        "username": "3He2_Ka1R0",
+        "verified": false
+      }
+    ]
+  }
+}

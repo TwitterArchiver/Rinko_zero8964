@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1970183488549855565",
+    "created_at": "2025-09-22T17:54:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-22T18:54:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970184911350022285"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1846704473751560192",
+          "start": 0,
+          "username": "xiaowusama55555"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/rinko_zero8964…",
+          "end": 120,
+          "expanded_url": "https://twitter.com/rinko_zero8964/status/1970174986603409862",
+          "start": 97,
+          "url": "https://t.co/vIWyIMQaip"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970184911350022285",
+    "in_reply_to_user_id": "1846704473751560192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970174986603409862",
+        "type": "quoted"
+      },
+      {
+        "id": "1970183488549855565",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaowusama55555 你阅读障碍我就跟你再说一遍，后藤死了活了跟我无关，我就看不惯你跳楼逼人回归，也不需要你干什么你直接闭嘴离开药圈我就给你们一个清净，看懂了吗这些话我今天说3遍了 https://t.co/vIWyIMQaip"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1970183488549855565",
+        "created_at": "2025-09-22T17:54:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T18:54:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970184911350022285"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1846704473751560192",
+              "start": 0,
+              "username": "xiaowusama55555"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/rinko_zero8964…",
+              "end": 120,
+              "expanded_url": "https://twitter.com/rinko_zero8964/status/1970174986603409862",
+              "start": 97,
+              "url": "https://t.co/vIWyIMQaip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970184911350022285",
+        "in_reply_to_user_id": "1846704473751560192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970174986603409862",
+            "type": "quoted"
+          },
+          {
+            "id": "1970183488549855565",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaowusama55555 你阅读障碍我就跟你再说一遍，后藤死了活了跟我无关，我就看不惯你跳楼逼人回归，也不需要你干什么你直接闭嘴离开药圈我就给你们一个清净，看懂了吗这些话我今天说3遍了 https://t.co/vIWyIMQaip"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1970173819089559758",
+        "created_at": "2025-09-22T17:14:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T18:14:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970174986603409862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1846704473751560192",
+              "start": 0,
+              "username": "xiaowusama55555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970174986603409862",
+        "in_reply_to_user_id": "1846704473751560192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970173819089559758",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaowusama55555 你是看不懂人话吗我都说了多少遍我和藤没关系我和藤没关系，我就纯粹看不惯你跳楼逼迫别人，这个人无论是藤还是谁我都会开团骂你，你也说了我有跟团的自由，把你555干退圈就是我的自由我想干的事"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1846704473751560192",
+        "conversation_id": "1970183488549855565",
+        "created_at": "2025-09-22T17:48:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T18:48:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970183488549855565"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Rinko_zero8964…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/Rinko_zero8964/status/1970180785593610474",
+              "start": 143,
+              "url": "https://t.co/KSFx10eFUt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970183488549855565",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970180785593610474",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我到底要跟你这个b说多少遍呢，我只负责重建，旧编辑组的权限我也都给了，药师管我几把事情，我ADHD阅读障碍，你不会也有吧，胡搅蛮缠，复活你认为真正的药师也不行，我活着也不行，现在怎么左脑攻击后脑呢，我真就是得给你和🍐刨腹谢罪？就只因为我复活了后藤？还是说我玩命死一个半吊子药师不可以？ https://t.co/KSFx10eFUt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 277,
+          "like_count": 3184,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 4129
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-17T00:08:06.000Z",
+        "description": "希望世界上再也没有痛苦，无论任何形式",
+        "id": "1846704473751560192",
+        "name": "55555",
+        "pinned_tweet_id": "1921759475200860164",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952308156433866752/c9CkfHpl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 9,
+          "like_count": 385,
+          "listed_count": 4,
+          "media_count": 24,
+          "tweet_count": 175
+        },
+        "username": "xiaowusama55555",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1989472278271361460",
+    "created_at": "2025-11-16T02:38:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T03:38:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989885743855239591"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1840720004620361728",
+          "start": 0,
+          "username": "KaoriAoii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989885743855239591",
+    "in_reply_to_user_id": "1840720004620361728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989472278271361460",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KaoriAoii 皇帝来了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1989472272286167040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5wGfbAbMAAWXaH.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1989472278271361460",
+        "created_at": "2025-11-16T02:38:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T03:38:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989885743855239591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1840720004620361728",
+              "start": 0,
+              "username": "KaoriAoii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989885743855239591",
+        "in_reply_to_user_id": "1840720004620361728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989472278271361460",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KaoriAoii 皇帝来了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989472272286167040"
+          ]
+        },
+        "author_id": "1840720004620361728",
+        "conversation_id": "1989472278271361460",
+        "created_at": "2025-11-14T23:15:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T00:15:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989472278271361460"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 129,
+              "start": 124,
+              "tag": "猎奇重口"
+            },
+            {
+              "end": 135,
+              "start": 130,
+              "tag": "重口慎入"
+            },
+            {
+              "end": 141,
+              "start": 136,
+              "tag": "鸡哥TV"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/c6tjxbQPr5",
+              "end": 165,
+              "expanded_url": "https://x.com/KaoriAoii/status/1989472278271361460/photo/1",
+              "media_key": "3_1989472272286167040",
+              "start": 142,
+              "url": "https://t.co/c6tjxbQPr5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989472278271361460",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5419,
+          "like_count": 38,
+          "quote_count": 2,
+          "reply_count": 10,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "請注意，這圖片的內容過於重口味，可能會使人產生惡心、頭暈等不適症狀，亦有可能使閣下情緒有負面影響，因此我們認為這個圖片不適合任何人仕觀看。如閣下仍然執意決定要觀看，請閣下自行承受觀看後的後果。若有任何不適症狀，請立刻停止觀看並及時向醫師尋求幫助。\n#猎奇重口 #重口慎入 #鸡哥TV https://t.co/c6tjxbQPr5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜🥺@NashiMoe233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "NashiMoe233"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1967335109767692560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 308,
+          "like_count": 4000,
+          "listed_count": 1,
+          "media_count": 84,
+          "tweet_count": 4394
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-30T11:47:15.000Z",
+        "description": "=小香丨生理女心理不定丨画师丨utau+vocaloid丨od西毒丨第五人格丨無言フォロー失礼します丨🚪88",
+        "id": "1840720004620361728",
+        "location": "高原",
+        "name": "苍井香绪里",
+        "pinned_tweet_id": "1980685233134633169",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983957677228355584/zLyXkWyV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 102,
+          "like_count": 84,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 263
+        },
+        "username": "KaoriAoii",
+        "verified": false
+      }
+    ]
+  }
+}

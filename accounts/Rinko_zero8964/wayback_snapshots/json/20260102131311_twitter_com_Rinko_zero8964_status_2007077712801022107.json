@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2007068680862183424"
+      ],
+      "media_source_tweet_id": [
+        "2007068763305431045"
+      ]
+    },
+    "author_id": "1849043039496617984",
+    "conversation_id": "2007077712801022107",
+    "created_at": "2026-01-02T13:13:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T14:13:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007077712801022107"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2007068022750814208",
+          "start": 3,
+          "username": "futi78999"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eV3kj4ogFC",
+          "end": 48,
+          "expanded_url": "https://x.com/futi78999/status/2007068763305431045/video/1",
+          "media_key": "13_2007068680862183424",
+          "start": 25,
+          "url": "https://t.co/eV3kj4ogFC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007077712801022107",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007068763305431045",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @futi78999: 这是扶梯第二个账号 https://t.co/eV3kj4ogFC"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2007077712801022107].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2007077712801022107",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2007077712801022107"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5500,
+        "height": 1280,
+        "media_key": "13_2007068680862183424",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2007068680862183424/img/Bgka7ykmb7-zbqYj.jpg",
+        "public_metrics": {
+          "view_count": 15
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2007068680862183424/vid/avc1/320x568/X2J7Ag3E2d2jj1tZ.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2007068680862183424/vid/avc1/480x852/Aq7YaYUywpis6jR-.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2007068680862183424/vid/avc1/720x1280/ucFalQmUCrgj3QJ_.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2007068680862183424/pl/aneK9-N4cUUNS6dH.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2007068680862183424"
+          ]
+        },
+        "author_id": "2007068022750814208",
+        "conversation_id": "2007068763305431045",
+        "created_at": "2026-01-02T12:37:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T13:37:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007068763305431045"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eV3kj4ogFC",
+              "end": 33,
+              "expanded_url": "https://x.com/futi78999/status/2007068763305431045/video/1",
+              "media_key": "13_2007068680862183424",
+              "start": 10,
+              "url": "https://t.co/eV3kj4ogFC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007068763305431045",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "这是扶梯第二个账号 https://t.co/eV3kj4ogFC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜如果没有回关请私信提醒我！｜我不吸毒！！！｜小猫我喜欢你超喜欢我爱你@psych_angel_｜性别为无、",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 45,
+                "username": "psych_angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNh89"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1999352315241988490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 488,
+          "following_count": 459,
+          "like_count": 9269,
+          "listed_count": 1,
+          "media_count": 128,
+          "tweet_count": 6019
+        },
+        "url": "https://t.co/rCvc9RNh89",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-02T12:34:56.000Z",
+        "description": "前世@kkndjhbh",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "kkndjhbh"
+              }
+            ]
+          }
+        },
+        "id": "2007068022750814208",
+        "name": "扶梯（二世）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007068170629386240/UIUrDwBm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 7,
+          "like_count": 23,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 5
+        },
+        "username": "futi78999",
+        "verified": false
+      }
+    ]
+  }
+}

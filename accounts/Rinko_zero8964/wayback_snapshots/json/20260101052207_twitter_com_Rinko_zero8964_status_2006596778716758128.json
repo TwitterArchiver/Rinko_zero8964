@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2006429703494603064",
+    "created_at": "2026-01-01T05:22:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T06:22:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006596778716758128"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1965531250447568896",
+          "start": 0,
+          "username": "jingyin_8964"
+        },
+        {
+          "end": 19,
+          "id": "1720665183188922368",
+          "start": 14,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006596778716758128",
+    "in_reply_to_user_id": "1965531250447568896",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006433638901268546",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jingyin_8964 @grok 好朋友🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2006429703494603064",
+        "created_at": "2026-01-01T05:22:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T06:22:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006596778716758128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1965531250447568896",
+              "start": 0,
+              "username": "jingyin_8964"
+            },
+            {
+              "end": 19,
+              "id": "1720665183188922368",
+              "start": 14,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006596778716758128",
+        "in_reply_to_user_id": "1965531250447568896",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006433638901268546",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jingyin_8964 @grok 好朋友🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965531250447568896",
+        "conversation_id": "2006429703494603064",
+        "created_at": "2025-12-31T18:33:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T19:33:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006433638901268546"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1849043039496617984",
+              "start": 0,
+              "username": "Rinko_zero8964"
+            },
+            {
+              "end": 21,
+              "id": "1720665183188922368",
+              "start": 16,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006433638901268546",
+        "in_reply_to_user_id": "1849043039496617984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006429703494603064",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rinko_zero8964 @grok 好朋友好朋友！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜如果没有回关请私信提醒我！｜我不吸毒！！！｜小猫我喜欢你超喜欢我爱你@psych_angel_｜性别为无、",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 45,
+                "username": "psych_angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNh89"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1999352315241988490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 488,
+          "following_count": 450,
+          "like_count": 8862,
+          "listed_count": 1,
+          "media_count": 125,
+          "tweet_count": 5910
+        },
+        "url": "https://t.co/rCvc9RNh89",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-09T21:43:35.000Z",
+        "description": "我看着幸福的日子被我亲手摧毁以后开心地闭上了眼 \n/freeodwiki参与者\n/独家阿片类策划药“湮灭”食品级pea及更多RC有售\n/姐姐❣️：@shuijiaozzz233\n/老公❤️：@Edward_8964\n/随意提问：https://t.co/Ko843XKMQP\n口粮：@420420420CTL",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 73,
+                "username": "shuijiaozzz233"
+              },
+              {
+                "end": 107,
+                "start": 95,
+                "username": "Edward_8964"
+              },
+              {
+                "end": 154,
+                "start": 141,
+                "username": "420420420CTL"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jingyin_8964",
+                "end": 137,
+                "expanded_url": "https://ngl.link/jingyin_8964",
+                "start": 114,
+                "url": "https://t.co/Ko843XKMQP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeod.wiki",
+                "end": 23,
+                "expanded_url": "https://freeod.wiki/",
+                "start": 0,
+                "url": "https://t.co/p3AyZyGkrj"
+              }
+            ]
+          }
+        },
+        "id": "1965531250447568896",
+        "location": "🚪52/88/288/520/1314",
+        "name": "和泉镜音能成为真正的RC之神吗",
+        "pinned_tweet_id": "2005224156351311887",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996595366100361216/GWBNbt7G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 393,
+          "following_count": 174,
+          "like_count": 2718,
+          "listed_count": 1,
+          "media_count": 137,
+          "tweet_count": 1201
+        },
+        "url": "https://t.co/p3AyZyGkrj",
+        "username": "jingyin_8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "pinned_tweet_id": "1955006865332638036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6920818,
+          "following_count": 3,
+          "like_count": 80,
+          "listed_count": 5574,
+          "media_count": 3639606,
+          "tweet_count": 79880748
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

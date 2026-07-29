@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2012887988691181829",
+    "created_at": "2026-01-18T14:01:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T15:01:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012887988691181829"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2007068022750814208",
+          "start": 3,
+          "username": "futi78999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012887988691181829",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012687716660527228",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @futi78999: 4-ho-met不是毒品\n你可以把他看作合法的模拟蘑菇\n也就是裸盖菇素的下位\n他的体验是不输裸盖菇素的，这个很多人印证过\n来吧，这奇妙的色胺宇宙充满着无限可能"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2012887988691181829",
+        "created_at": "2026-01-18T14:01:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T15:01:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012887988691181829"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2007068022750814208",
+              "start": 3,
+              "username": "futi78999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012887988691181829",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012687716660527228",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @futi78999: 4-ho-met不是毒品\n你可以把他看作合法的模拟蘑菇\n也就是裸盖菇素的下位\n他的体验是不输裸盖菇素的，这个很多人印证过\n来吧，这奇妙的色胺宇宙充满着无限可能"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007068022750814208",
+        "conversation_id": "2012687716660527228",
+        "created_at": "2026-01-18T00:45:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T01:45:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012687716660527228"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2012687716660527228",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 642,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "4-ho-met不是毒品\n你可以把他看作合法的模拟蘑菇\n也就是裸盖菇素的下位\n他的体验是不输裸盖菇素的，这个很多人印证过\n来吧，这奇妙的色胺宇宙充满着无限可能"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜如果没有回关请私信提醒我！｜我不吸毒！！！｜性别为无、",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNh89"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 521,
+          "following_count": 472,
+          "like_count": 12055,
+          "listed_count": 1,
+          "media_count": 142,
+          "tweet_count": 6613
+        },
+        "url": "https://t.co/rCvc9RNh89",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-02T12:34:56.000Z",
+        "description": "我是扶梯 我存在中重度精分发散中 色胺宇宙的精灵 所有展示的药品均为化学研究 欢迎互fo lgbt全友好",
+        "id": "2007068022750814208",
+        "name": "扶梯（二世）",
+        "pinned_tweet_id": "2007078563661623386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012641969843945472/mP8dcabp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 285,
+          "like_count": 1366,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 252
+        },
+        "username": "futi78999",
+        "verified": false
+      }
+    ]
+  }
+}

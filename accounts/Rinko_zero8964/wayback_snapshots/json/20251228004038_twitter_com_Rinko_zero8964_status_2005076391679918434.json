@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2005076391679918434",
+    "created_at": "2025-12-28T00:40:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T01:40:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005076391679918434"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1783914174101274624",
+          "start": 3,
+          "username": "amywantsuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005076391679918434",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 474
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005011654527111520",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amywantsuu: i hope i can kill myself im so tired"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2005076391679918434",
+        "created_at": "2025-12-28T00:40:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T01:40:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005076391679918434"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1783914174101274624",
+              "start": 3,
+              "username": "amywantsuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005076391679918434",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 474
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005011654527111520",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amywantsuu: i hope i can kill myself im so tired"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1783914174101274624",
+        "conversation_id": "2005011654527111520",
+        "created_at": "2025-12-27T20:23:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T21:23:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005011654527111520"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2005011654527111520",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 61,
+          "impression_count": 18828,
+          "like_count": 1614,
+          "quote_count": 6,
+          "reply_count": 14,
+          "retweet_count": 474
+        },
+        "reply_settings": "everyone",
+        "text": "i hope i can kill myself im so tired"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜如果没有回关请私信提醒我！｜我不吸毒！！！｜小猫我喜欢你超喜欢我爱你@psych_angel_｜性别为无、",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 45,
+                "username": "psych_angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNh89"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1999352315241988490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 420,
+          "like_count": 8019,
+          "listed_count": 1,
+          "media_count": 113,
+          "tweet_count": 5733
+        },
+        "url": "https://t.co/rCvc9RNh89",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-26T17:41:06.000Z",
+        "description": "free 🇵🇸",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amyistired",
+                "end": 23,
+                "expanded_url": "https://ngl.link/amyistired",
+                "start": 0,
+                "url": "https://t.co/BsaqlIv11f"
+              }
+            ]
+          }
+        },
+        "id": "1783914174101274624",
+        "location": "25 - nsfw dni",
+        "name": "amy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884918581227364352/EbVbF9kh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4226,
+          "following_count": 742,
+          "like_count": 42989,
+          "listed_count": 35,
+          "media_count": 110,
+          "tweet_count": 15691
+        },
+        "url": "https://t.co/BsaqlIv11f",
+        "username": "amywantsuu",
+        "verified": false
+      }
+    ]
+  }
+}

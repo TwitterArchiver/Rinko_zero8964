@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1966813628193271812",
+        "3_1966813628264550400"
+      ],
+      "media_source_tweet_id": [
+        "1966813631116415297",
+        "1966813631116415297"
+      ]
+    },
+    "author_id": "1849043039496617984",
+    "conversation_id": "1967054165383000202",
+    "created_at": "2025-09-14T02:33:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T03:33:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967054165383000202"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1850190622784991232",
+          "start": 3,
+          "username": "KANGELP1LLED"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5TEU9OV7Vp",
+          "end": 61,
+          "expanded_url": "https://x.com/KANGELP1LLED/status/1966813631116415297/photo/1",
+          "media_key": "3_1966813628193271812",
+          "start": 38,
+          "url": "https://t.co/5TEU9OV7Vp"
+        },
+        {
+          "display_url": "pic.x.com/5TEU9OV7Vp",
+          "end": 61,
+          "expanded_url": "https://x.com/KANGELP1LLED/status/1966813631116415297/photo/1",
+          "media_key": "3_1966813628264550400",
+          "start": 38,
+          "url": "https://t.co/5TEU9OV7Vp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967054165383000202",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 410
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966813631116415297",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KANGELP1LLED: Sharing is caring ♡ https://t.co/5TEU9OV7Vp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1966813628193271812",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0uGkv_bcAQowQa.jpg",
+        "width": 1460
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1966813628264550400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0uGkwQbEAAyERZ.jpg",
+        "width": 1364
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966813628193271812",
+            "3_1966813628264550400"
+          ],
+          "media_source_tweet_id": [
+            "1966813631116415297",
+            "1966813631116415297"
+          ]
+        },
+        "author_id": "1849043039496617984",
+        "conversation_id": "1967054165383000202",
+        "created_at": "2025-09-14T02:33:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T03:33:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967054165383000202"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1850190622784991232",
+              "start": 3,
+              "username": "KANGELP1LLED"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5TEU9OV7Vp",
+              "end": 61,
+              "expanded_url": "https://x.com/KANGELP1LLED/status/1966813631116415297/photo/1",
+              "media_key": "3_1966813628193271812",
+              "start": 38,
+              "url": "https://t.co/5TEU9OV7Vp"
+            },
+            {
+              "display_url": "pic.x.com/5TEU9OV7Vp",
+              "end": 61,
+              "expanded_url": "https://x.com/KANGELP1LLED/status/1966813631116415297/photo/1",
+              "media_key": "3_1966813628264550400",
+              "start": 38,
+              "url": "https://t.co/5TEU9OV7Vp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967054165383000202",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 410
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966813631116415297",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KANGELP1LLED: Sharing is caring ♡ https://t.co/5TEU9OV7Vp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966813628193271812",
+            "3_1966813628264550400"
+          ]
+        },
+        "author_id": "1850190622784991232",
+        "conversation_id": "1966813631116415297",
+        "created_at": "2025-09-13T10:38:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T11:38:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966813631116415297"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5TEU9OV7Vp",
+              "end": 43,
+              "expanded_url": "https://x.com/KANGELP1LLED/status/1966813631116415297/photo/1",
+              "media_key": "3_1966813628193271812",
+              "start": 20,
+              "url": "https://t.co/5TEU9OV7Vp"
+            },
+            {
+              "display_url": "pic.x.com/5TEU9OV7Vp",
+              "end": 43,
+              "expanded_url": "https://x.com/KANGELP1LLED/status/1966813631116415297/photo/1",
+              "media_key": "3_1966813628264550400",
+              "start": 20,
+              "url": "https://t.co/5TEU9OV7Vp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966813631116415297",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 92,
+          "impression_count": 17325,
+          "like_count": 2672,
+          "quote_count": 3,
+          "reply_count": 13,
+          "retweet_count": 410
+        },
+        "reply_settings": "everyone",
+        "text": "Sharing is caring ♡ https://t.co/5TEU9OV7Vp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 266,
+          "like_count": 2691,
+          "listed_count": 2,
+          "media_count": 66,
+          "tweet_count": 3796
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-26T15:00:02.000Z",
+        "description": "𓊆　  ໒꒱ . ۫ 　𝓽he i͟n͟t͟e͟r͟n͟e͟t͟ 𝓪ngel has https://t.co/BUGno2fafD \n𝓾ncensored 𝓬uts ☆ 　→ #shtwt #nsotwt ♪ 　𐦯 \n　　　　read 𝓮xtended bio!",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 95,
+                "start": 89,
+                "tag": "shtwt"
+              },
+              {
+                "end": 103,
+                "start": 96,
+                "tag": "nsotwt"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "descended.⠀",
+                "end": 66,
+                "expanded_url": "http://descended.xn--6ii",
+                "start": 43,
+                "url": "https://t.co/BUGno2fafD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kangelp1lled.straw.page",
+                "end": 23,
+                "expanded_url": "https://kangelp1lled.straw.page",
+                "start": 0,
+                "url": "https://t.co/OcduofN93Q"
+              }
+            ]
+          }
+        },
+        "id": "1850190622784991232",
+        "location": ".ᐟ ɞ　7teen　、、　he　angel",
+        "name": "𝜗𝜚 𝓲chigo ꒰𓏼´ `𓏼 ೀ 超天ちゃん of shtwt",
+        "pinned_tweet_id": "1962210251568263479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964914858157334528/_8m5K6A-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6869,
+          "following_count": 1738,
+          "like_count": 52528,
+          "listed_count": 53,
+          "media_count": 2187,
+          "tweet_count": 10324
+        },
+        "url": "https://t.co/OcduofN93Q",
+        "username": "KANGELP1LLED",
+        "verified": false
+      }
+    ]
+  }
+}

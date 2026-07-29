@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1991020693497262489",
+    "created_at": "2025-11-19T05:48:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T06:48:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991020693497262489"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1709928872920469504",
+          "start": 3,
+          "username": "mahoshojopikapi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991020693497262489",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990625429921923403",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mahoshojopikapi: 有人喜歡犬系女孩嗎  我活的像狗一樣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1991020693497262489",
+        "created_at": "2025-11-19T05:48:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T06:48:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991020693497262489"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1709928872920469504",
+              "start": 3,
+              "username": "mahoshojopikapi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991020693497262489",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990625429921923403",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mahoshojopikapi: 有人喜歡犬系女孩嗎  我活的像狗一樣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1709928872920469504",
+        "conversation_id": "1990625429921923403",
+        "created_at": "2025-11-18T03:37:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T04:37:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990625429921923403"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1990625429921923403",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 769,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "有人喜歡犬系女孩嗎  我活的像狗一樣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜🥺@NashiMoe233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "NashiMoe233"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1967335109767692560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344,
+          "following_count": 315,
+          "like_count": 4170,
+          "listed_count": 1,
+          "media_count": 84,
+          "tweet_count": 4428
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-05T13:49:57.000Z",
+        "description": "互fo私信 會查成分 成分相似會回fo 盜圖4000+ 🚪199/288/520/1314/5200 都是台幣 不開非綠",
+        "id": "1709928872920469504",
+        "location": "天國",
+        "name": "✞︎ 魔法少女淺淺 ✞︎",
+        "pinned_tweet_id": "1989132784909336785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744442846533603329/SEKrTqv4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 463,
+          "like_count": 2141,
+          "listed_count": 0,
+          "media_count": 229,
+          "tweet_count": 1765
+        },
+        "username": "mahoshojopikapi",
+        "verified": false
+      }
+    ]
+  }
+}

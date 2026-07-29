@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1970072343541334016"
+      ]
+    },
+    "author_id": "1849043039496617984",
+    "conversation_id": "1970071318600249764",
+    "created_at": "2025-09-22T10:27:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-22T11:27:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970072350914961614"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1798724969695977472",
+          "start": 0,
+          "username": "overdosewiki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CIcb79vprz",
+          "end": 63,
+          "expanded_url": "https://x.com/Rinko_zero8964/status/1970072350914961614/photo/1",
+          "media_key": "3_1970072343541334016",
+          "start": 40,
+          "url": "https://t.co/CIcb79vprz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970072350914961614",
+    "in_reply_to_user_id": "1798724969695977472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970071318600249764",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@overdosewiki 小五上天台逼藤好厉害好厉害后藤竟然真的活了也好厉害 https://t.co/CIcb79vprz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1970072343541334016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1caW8qaQAAnXVB.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970072343541334016"
+          ]
+        },
+        "author_id": "1849043039496617984",
+        "conversation_id": "1970071318600249764",
+        "created_at": "2025-09-22T10:27:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T11:27:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970072350914961614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1798724969695977472",
+              "start": 0,
+              "username": "overdosewiki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CIcb79vprz",
+              "end": 63,
+              "expanded_url": "https://x.com/Rinko_zero8964/status/1970072350914961614/photo/1",
+              "media_key": "3_1970072343541334016",
+              "start": 40,
+              "url": "https://t.co/CIcb79vprz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970072350914961614",
+        "in_reply_to_user_id": "1798724969695977472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970071318600249764",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@overdosewiki 小五上天台逼藤好厉害好厉害后藤竟然真的活了也好厉害 https://t.co/CIcb79vprz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1798724969695977472",
+        "conversation_id": "1970071318600249764",
+        "created_at": "2025-09-22T10:22:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T11:22:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970071318600249764"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Rinko_zero8964…",
+              "end": 143,
+              "expanded_url": "https://twitter.com/Rinko_zero8964/status/1970015236125339898",
+              "start": 120,
+              "url": "https://t.co/c05Fa7rdVF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970071318600249764",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970015236125339898",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "后藤没骂我≈没意见\n怎么就跟🍐玩的你又意见\n你又是个什么✓吧\n你跟后藤关系很好吗，维持的关系全靠药药大人让你幻想吗，还是说你他妈就是他大脑里的寄生虫能够知道他想什么，吃大粪去吧😄飞你叶子去，没有人爱管你们的爱恨情仇，我555只想平静的生活 https://t.co/c05Fa7rdVF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 277,
+          "like_count": 3139,
+          "listed_count": 2,
+          "media_count": 77,
+          "tweet_count": 4042
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-06T14:33:54.000Z",
+        "description": "https://t.co/6fVCD4QQ92 官方站点。\n                                                         有关问题可以联系我们；\n 非个人账户。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "overdose.wiki",
+                "end": 23,
+                "expanded_url": "https://overdose.wiki",
+                "start": 0,
+                "url": "https://t.co/6fVCD4QQ92"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.wiki",
+                "end": 23,
+                "expanded_url": "https://overdose.wiki",
+                "start": 0,
+                "url": "https://t.co/6fVCD4QQ92"
+              }
+            ]
+          }
+        },
+        "id": "1798724969695977472",
+        "location": "但愿世间人无病 何妨架上药生尘",
+        "name": "Overdosewiki",
+        "pinned_tweet_id": "1965855137060319684",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969602419240943619/GcbhpGc5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3696,
+          "following_count": 11,
+          "like_count": 396,
+          "listed_count": 5,
+          "media_count": 98,
+          "tweet_count": 584
+        },
+        "url": "https://t.co/6fVCD4QQ92",
+        "username": "overdosewiki",
+        "verified": false
+      }
+    ]
+  }
+}

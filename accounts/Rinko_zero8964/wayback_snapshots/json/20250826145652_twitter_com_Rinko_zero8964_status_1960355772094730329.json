@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1960330177898311895",
+    "created_at": "2025-08-26T14:56:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-26T15:56:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960355772094730329"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1900779126245769216",
+          "start": 0,
+          "username": "fawpv25"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960355772094730329",
+    "in_reply_to_user_id": "1900779126245769216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960330177898311895",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fawpv25 我也是，我觉得都是淡淡的，甚至不是强效苯二氮卓类对我的焦虑甚至都没办法控制，pr我虽然会欣快但是我的副作用太大了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1960330177898311895",
+        "created_at": "2025-08-26T14:56:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T15:56:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960355772094730329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1900779126245769216",
+              "start": 0,
+              "username": "fawpv25"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960355772094730329",
+        "in_reply_to_user_id": "1900779126245769216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960330177898311895",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fawpv25 我也是，我觉得都是淡淡的，甚至不是强效苯二氮卓类对我的焦虑甚至都没办法控制，pr我虽然会欣快但是我的副作用太大了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1900779126245769216",
+        "conversation_id": "1960330177898311895",
+        "created_at": "2025-08-26T13:15:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T14:15:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960330177898311895"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1960330177898311895",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "说起来我感觉我对幸福感的某些感知是不是有问题，我吃玉米也没觉得什么快感幸福感，吃白兔感觉幸福感淡淡的，比起副作用来说太不值了。地雷女说什么晕晕的很幸福我之前还以为是地雷女有受虐癖。o苯二氮卓类我也只是觉得焦虑解除，没啥欣快🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849043147487420416/0nrEqJTK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 288,
+          "following_count": 245,
+          "like_count": 2116,
+          "listed_count": 2,
+          "media_count": 46,
+          "tweet_count": 3300
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-15T05:20:44.000Z",
+        "description": "如果你知道怎么变成一只乌鸦，请告诉我",
+        "id": "1900779126245769216",
+        "name": "少女人形手枪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957828191445479427/G6DedXhI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 131,
+          "like_count": 2053,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 309
+        },
+        "username": "fawpv25",
+        "verified": false
+      }
+    ]
+  }
+}

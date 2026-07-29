@@ -1,0 +1,362 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1992510820887216615",
+    "created_at": "2025-12-14T13:35:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T14:35:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000197902833213504"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1726969617850286080",
+          "start": 0,
+          "username": "NashiMoe233"
+        },
+        {
+          "end": 29,
+          "id": "1272405078683430913",
+          "start": 13,
+          "username": "PaitangOfficial"
+        },
+        {
+          "end": 41,
+          "id": "1912109703133646848",
+          "start": 30,
+          "username": "jzm1919810"
+        },
+        {
+          "end": 55,
+          "id": "1811843582229381123",
+          "start": 42,
+          "username": "RainduRhinns"
+        },
+        {
+          "end": 66,
+          "id": "1943704460813041665",
+          "start": 56,
+          "username": "misakixyg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000197902833213504",
+    "in_reply_to_user_id": "1726969617850286080",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000197256570720595",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NashiMoe233 @PaitangOfficial @jzm1919810 @RainduRhinns @misakixyg sell the 🍐"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2000197256570720595].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2000197256570720595",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2000197256570720595"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1992510820887216615",
+        "created_at": "2025-12-14T13:35:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T14:35:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000197902833213504"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1726969617850286080",
+              "start": 0,
+              "username": "NashiMoe233"
+            },
+            {
+              "end": 29,
+              "id": "1272405078683430913",
+              "start": 13,
+              "username": "PaitangOfficial"
+            },
+            {
+              "end": 41,
+              "id": "1912109703133646848",
+              "start": 30,
+              "username": "jzm1919810"
+            },
+            {
+              "end": 55,
+              "id": "1811843582229381123",
+              "start": 42,
+              "username": "RainduRhinns"
+            },
+            {
+              "end": 66,
+              "id": "1943704460813041665",
+              "start": 56,
+              "username": "misakixyg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000197902833213504",
+        "in_reply_to_user_id": "1726969617850286080",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000197256570720595",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NashiMoe233 @PaitangOfficial @jzm1919810 @RainduRhinns @misakixyg sell the 🍐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜🥺@NashiMoe233｜如果没有回关请私信提醒我！｜我不吸毒！！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "NashiMoe233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNOXH"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1999352315241988490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 418,
+          "following_count": 382,
+          "like_count": 6035,
+          "listed_count": 1,
+          "media_count": 99,
+          "tweet_count": 5158
+        },
+        "url": "https://t.co/rCvc9RNOXH",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-21T14:23:48.000Z",
+        "description": "梨子丨我的情感应该被埋葬在马里亚纳海沟下丨intp-t丨non-binary丨osdd-1a丨不回答药物滥用相关问题丨💜@Rinko_zero8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 60,
+                "username": "Rinko_zero8964"
+              }
+            ]
+          }
+        },
+        "id": "1726969617850286080",
+        "location": "天目山路305号",
+        "name": "涙の販売機",
+        "pinned_tweet_id": "1942953404315394445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999357653324341248/uRkSVIJt_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1835,
+          "following_count": 209,
+          "like_count": 22806,
+          "listed_count": 3,
+          "media_count": 620,
+          "tweet_count": 12546
+        },
+        "username": "NashiMoe233",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-15T05:46:41.000Z",
+        "description": "Biohacker/认知提升剂 （nootropics）X/ADHD 专注商品/推特第二大促智商 “本研究化合物仅供实验室研究使用，严禁用于人体和动物” \n\n客服 @paipaipaitang ⚠️TG客服已死 不要联系⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 82,
+                "username": "paipaipaitang"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/paitangcuzhi",
+                "end": 23,
+                "expanded_url": "https://t.me/paitangcuzhi",
+                "start": 0,
+                "url": "https://t.co/r6ojtqNEYk"
+              }
+            ]
+          }
+        },
+        "id": "1272405078683430913",
+        "location": "下ネタ〇 |病み垢|不登校|",
+        "name": "☯️🧬無極 利他林和专注达",
+        "pinned_tweet_id": "1903330051837530420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985270408904376320/SHUUETVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10061,
+          "following_count": 540,
+          "like_count": 8316,
+          "listed_count": 26,
+          "media_count": 1673,
+          "tweet_count": 14062
+        },
+        "url": "https://t.co/r6ojtqNEYk",
+        "username": "PaitangOfficial",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-15T11:44:19.000Z",
+        "description": "昼と夜の間で 時が止まる 終わりのない 永遠の夕暮れ時",
+        "id": "1912109703133646848",
+        "name": "Zemin Jiang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994454700624928768/48DA8PMu_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 214,
+          "like_count": 258,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 1120
+        },
+        "username": "jzm1919810",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-12T19:22:45.000Z",
+        "description": "NSFW 友跨 top 今天届到正太了吗bot 性压抑国男PhD 打HEMA和冷兵器兵击 兴趣是被砍 特长是砍人 锁推fo我会拉黑 Psychedelic lover 业余致幻剂使用和研究爱好者 #Drugtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 106,
+                "start": 98,
+                "tag": "Drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "popibox.top/p/h4s7lhlr",
+                "end": 23,
+                "expanded_url": "http://popibox.top/p/h4s7lhlr",
+                "start": 0,
+                "url": "https://t.co/bbS8wDOc10"
+              }
+            ]
+          }
+        },
+        "id": "1811843582229381123",
+        "name": "Rhinnschneevall",
+        "pinned_tweet_id": "1971994688623427777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811850889470103552/M46HQocY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 468,
+          "following_count": 852,
+          "like_count": 3439,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 1666
+        },
+        "url": "https://t.co/bbS8wDOc10",
+        "username": "RainduRhinns",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-11T16:10:40.000Z",
+        "description": "三崎，是🐟而已，没什么",
+        "id": "1943704460813041665",
+        "name": "三崎（前前前前世）",
+        "pinned_tweet_id": "1967513968437862416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967897431917596672/s-g3H3pD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2672,
+          "following_count": 904,
+          "like_count": 17086,
+          "listed_count": 5,
+          "media_count": 159,
+          "tweet_count": 4813
+        },
+        "username": "misakixyg",
+        "verified": false
+      }
+    ]
+  }
+}

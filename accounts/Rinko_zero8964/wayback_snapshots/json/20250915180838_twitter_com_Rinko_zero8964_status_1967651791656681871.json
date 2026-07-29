@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1967549728985604320",
+    "created_at": "2025-09-15T18:08:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-15T19:08:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967651791656681871"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1341766476609462274",
+          "start": 0,
+          "username": "mentallychels"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967651791656681871",
+    "in_reply_to_user_id": "1341766476609462274",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967549728985604320",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mentallychels 好好看我也想住这里"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1967549705371750400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G04kCFKbkAAPbCK.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1967549705375895552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G04kCFLa0AAR6YA.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1967549728985604320",
+        "created_at": "2025-09-15T18:08:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T19:08:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967651791656681871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1341766476609462274",
+              "start": 0,
+              "username": "mentallychels"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967651791656681871",
+        "in_reply_to_user_id": "1341766476609462274",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967549728985604320",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mentallychels 好好看我也想住这里"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967549705371750400",
+            "3_1967549705375895552"
+          ]
+        },
+        "author_id": "1341766476609462274",
+        "conversation_id": "1967549728985604320",
+        "created_at": "2025-09-15T11:23:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T12:23:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967549728985604320"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/H8K9LrCFfr",
+              "end": 27,
+              "expanded_url": "https://x.com/mentallychels/status/1967549728985604320/photo/1",
+              "media_key": "3_1967549705371750400",
+              "start": 4,
+              "url": "https://t.co/H8K9LrCFfr"
+            },
+            {
+              "display_url": "pic.x.com/H8K9LrCFfr",
+              "end": 27,
+              "expanded_url": "https://x.com/mentallychels/status/1967549728985604320/photo/1",
+              "media_key": "3_1967549705375895552",
+              "start": 4,
+              "url": "https://t.co/H8K9LrCFfr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967549728985604320",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1980,
+          "like_count": 52,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "TvT https://t.co/H8K9LrCFfr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 268,
+          "like_count": 2806,
+          "listed_count": 2,
+          "media_count": 67,
+          "tweet_count": 3860
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-23T15:24:07.000Z",
+        "description": "我是壑｜shtwt｜双性恋｜双相I型｜天秤infp-t｜重度酥皮枕p｜素晴日全角色全肯定bot｜三無少女全肯定bot｜舞萌dx學習中｜我就這樣等著誰和我一起建設*卓希*｜很久沒有更新就應該是死掉了｜咔我先咔 @scutigera_8964 🚪200",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 104,
+                "username": "scutigera_8964"
+              }
+            ]
+          }
+        },
+        "id": "1341766476609462274",
+        "location": "北校C栋天台",
+        "name": "mentallychels",
+        "pinned_tweet_id": "1465787319303159808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1341766993821671426/K8xmFlJg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13241,
+          "following_count": 207,
+          "like_count": 1488,
+          "listed_count": 23,
+          "media_count": 265,
+          "tweet_count": 1133
+        },
+        "username": "mentallychels",
+        "verified": false
+      }
+    ]
+  }
+}

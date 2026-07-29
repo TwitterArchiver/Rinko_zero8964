@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2021817701786918988",
+    "created_at": "2026-02-12T05:24:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T06:24:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021817701786918988"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1960187829687885824",
+          "start": 3,
+          "username": "taikongjile"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021817701786918988",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021513935485321708",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @taikongjile: 我算是明白了 不要和地雷女聊三观 聊过去 互相夸夸米米嘟就够了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2021817701786918988",
+        "created_at": "2026-02-12T05:24:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T06:24:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021817701786918988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1960187829687885824",
+              "start": 3,
+              "username": "taikongjile"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021817701786918988",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021513935485321708",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @taikongjile: 我算是明白了 不要和地雷女聊三观 聊过去 互相夸夸米米嘟就够了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1960187829687885824",
+        "conversation_id": "2021513935485321708",
+        "created_at": "2026-02-11T09:17:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T10:17:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021513935485321708"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2021513935485321708",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 24739,
+          "like_count": 297,
+          "quote_count": 1,
+          "reply_count": 19,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "我算是明白了 不要和地雷女聊三观 聊过去 互相夸夸米米嘟就够了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ZA",
+              "full_name": "South Africa",
+              "geo": {
+                "coordinates": [
+                  24.0,
+                  -29.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我思即我在｜我是林子｜如果没有回关请私信提醒我！｜我不吸毒！！！｜性别为无、｜輪郭の定まらない位置にいた人@Psych_Angel_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 53,
+                "username": "Psych_Angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNh89"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 563,
+          "following_count": 520,
+          "like_count": 14027,
+          "listed_count": 1,
+          "media_count": 146,
+          "tweet_count": 7207
+        },
+        "url": "https://t.co/rCvc9RNh89",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-26T03:49:38.000Z",
+        "description": "官方网站:https://t.co/VeEdMA5WjF\n交流群:https://t.co/FvFWw9JRYc\nDC交流群：https://t.co/JtSA2uwIRG\n备用号：@taikongjile003",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 91,
+                "username": "taikongjile003"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "taikong.mom",
+                "end": 28,
+                "expanded_url": "https://taikong.mom/",
+                "start": 5,
+                "url": "https://t.co/VeEdMA5WjF"
+              },
+              {
+                "display_url": "t.me/huaxuejilebaik…",
+                "end": 56,
+                "expanded_url": "https://t.me/huaxuejilebaike666",
+                "start": 33,
+                "url": "https://t.co/FvFWw9JRYc"
+              },
+              {
+                "display_url": "discord.gg/XmNt8AXCEb",
+                "end": 86,
+                "expanded_url": "https://discord.gg/XmNt8AXCEb",
+                "start": 63,
+                "url": "https://t.co/JtSA2uwIRG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "taikong.mom",
+                "end": 23,
+                "expanded_url": "https://taikong.mom/",
+                "start": 0,
+                "url": "https://t.co/VeEdMA5WjF"
+              }
+            ]
+          }
+        },
+        "id": "1960187829687885824",
+        "name": "太空极乐百科🍥",
+        "pinned_tweet_id": "2020784490113638451",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020048291472502785/ZSwT67hY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6189,
+          "following_count": 1927,
+          "like_count": 1247,
+          "listed_count": 3,
+          "media_count": 368,
+          "tweet_count": 2226
+        },
+        "url": "https://t.co/VeEdMA5WjF",
+        "username": "taikongjile",
+        "verified": false
+      }
+    ]
+  }
+}

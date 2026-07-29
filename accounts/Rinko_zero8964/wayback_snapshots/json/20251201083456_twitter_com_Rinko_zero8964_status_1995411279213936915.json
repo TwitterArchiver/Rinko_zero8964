@@ -1,0 +1,445 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10034069954",
+          "name": "ドクターX"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Television",
+          "id": "1072937043393560576",
+          "name": "Television"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1281303016411291652",
+          "name": "Medical drama"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1281304160487370752",
+          "name": "Drama TV"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1447694984786837504",
+          "name": "Doctor X"
+        }
+      },
+      {
+        "domain": {
+          "description": "For global/conceptual TV shows without localization.",
+          "id": "172",
+          "name": "Global TV Show"
+        },
+        "entity": {
+          "id": "1447694984786837504",
+          "name": "Doctor X"
+        }
+      }
+    ],
+    "conversation_id": "1995411279213936915",
+    "created_at": "2025-12-01T08:34:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T09:34:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995411279213936915"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1256377778192084992",
+          "start": 3,
+          "username": "LuvLetter_moe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995411279213936915",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 30
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995014741606158683",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LuvLetter_moe: 很多人不知道美国芬太尼泛滥的前奏, 其实是对阿片类药物的管制过度加强, 导致原本的阿片类成瘾者、正常需要阿片类止痛的患者难以获得, 从而转向了更易获得但更危险的芬太尼药物.\n而日本很多人可能看过 Doctor X, 以为那种做了大外科手术结…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10034069954",
+              "name": "ドクターX"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281303016411291652",
+              "name": "Medical drama"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281304160487370752",
+              "name": "Drama TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1447694984786837504",
+              "name": "Doctor X"
+            }
+          },
+          {
+            "domain": {
+              "description": "For global/conceptual TV shows without localization.",
+              "id": "172",
+              "name": "Global TV Show"
+            },
+            "entity": {
+              "id": "1447694984786837504",
+              "name": "Doctor X"
+            }
+          }
+        ],
+        "conversation_id": "1995411279213936915",
+        "created_at": "2025-12-01T08:34:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T09:34:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995411279213936915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1256377778192084992",
+              "start": 3,
+              "username": "LuvLetter_moe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995411279213936915",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 30
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995014741606158683",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LuvLetter_moe: 很多人不知道美国芬太尼泛滥的前奏, 其实是对阿片类药物的管制过度加强, 导致原本的阿片类成瘾者、正常需要阿片类止痛的患者难以获得, 从而转向了更易获得但更危险的芬太尼药物.\n而日本很多人可能看过 Doctor X, 以为那种做了大外科手术结…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1256377778192084992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10034069954",
+              "name": "ドクターX"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281303016411291652",
+              "name": "Medical drama"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281304160487370752",
+              "name": "Drama TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1447694984786837504",
+              "name": "Doctor X"
+            }
+          },
+          {
+            "domain": {
+              "description": "For global/conceptual TV shows without localization.",
+              "id": "172",
+              "name": "Global TV Show"
+            },
+            "entity": {
+              "id": "1447694984786837504",
+              "name": "Doctor X"
+            }
+          }
+        ],
+        "conversation_id": "1995014741606158683",
+        "created_at": "2025-11-30T06:19:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T07:19:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995014741606158683"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1995014741606158683",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "很多人不知道美国芬太尼泛滥的前奏, 其实是对阿片类药物的管制过度加强, 导致原本的阿片类成瘾者、正常需要阿片类止痛的患者难以获得, 从而转向了更易获得但更危险的芬太尼药物.\n而日本很多人可能看过 Doctor X, 以为那种做了大外科手术结果第二天就能下床的情况有点科幻. 实际上日本就是术后大量使用芬太尼以及舒芬太尼的国家, 而且让患者自己控制止痛泵. 因为有足够的止痛, 因此术后活动恢复和 PTSD/抑郁问题要低很多.\n甚至最近中国网上妖魔化专注达, 实际上真正的专注达因为派甲酯本身的特性+药片缓释设计, 正常服用(不嚼碎、不OD)的成瘾性很低; 而黑市聪明药通常是派甲酯+安, 加上没有缓释设计, 危险和成瘾性要高得多; 所以问题就是公立医院 ADHD 处方不能门槛过高, 现在派甲酯归到一类其实是高于国际平均水平的, 这间接让追求分数的家长获取到危险的非法药物.\n包括最近讨论的吸毒档案封存, 就从上面的情况可以发现, 围绕药品毒品的公共政策其实是非常复杂的. 不是说你把这些人彻底标签化就可以杜绝毒品泛滥, 实际上毒品泛滥的基础往往是竞争压力过大、福利不足. \n很多时候药品需求, 包括毒瘾, 并不是以主观意志为转移; 从统计上看, 强制戒毒和意志力戒毒的成功率远低于通过体系化的替代药物戒毒. 而最终成功戒毒的关键, 其实是重回正常生活, 从正常的工作生活中获得积极情绪. 一切严重影响吸毒者就业生活的桎梏都可能把这些人推回毒品."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 108,
+          "impression_count": 53461,
+          "like_count": 314,
+          "quote_count": 4,
+          "reply_count": 19,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "很多人不知道美国芬太尼泛滥的前奏, 其实是对阿片类药物的管制过度加强, 导致原本的阿片类成瘾者、正常需要阿片类止痛的患者难以获得, 从而转向了更易获得但更危险的芬太尼药物.\n而日本很多人可能看过 Doctor X, 以为那种做了大外科手术结果第二天就能下床的情况有点科幻."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜🥺@NashiMoe233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "NashiMoe233"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1967335109767692560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 384,
+          "following_count": 347,
+          "like_count": 5237,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 4855
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-02T00:21:09.000Z",
+        "description": "Life can be much broader.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/rainbow8loop",
+                "end": 23,
+                "expanded_url": "http://t.me/rainbow8loop",
+                "start": 0,
+                "url": "https://t.co/IZs416pyTF"
+              }
+            ]
+          }
+        },
+        "id": "1256377778192084992",
+        "name": "Luv Letter",
+        "pinned_tweet_id": "1988267824096350508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1256379106431651841/phJ9TAHB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9683,
+          "following_count": 1064,
+          "like_count": 24150,
+          "listed_count": 58,
+          "media_count": 3199,
+          "tweet_count": 9871
+        },
+        "url": "https://t.co/IZs416pyTF",
+        "username": "LuvLetter_moe",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2018749434952294633",
+    "created_at": "2026-02-03T18:12:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T19:12:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018749434952294633"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1892114014563598339",
+          "start": 3,
+          "username": "3He2_Ka1R0"
+        },
+        {
+          "end": 28,
+          "id": "1802704441961017344",
+          "start": 16,
+          "username": "misumikaze3"
+        },
+        {
+          "end": 43,
+          "id": "1390652924481527810",
+          "start": 29,
+          "username": "zqtlovekris99"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018749434952294633",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018570688379142446",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @3He2_Ka1R0: @misumikaze3 @zqtlovekris99 那他们的造谣对当事人的伤害呢，也可以一笔勾销了吗🤐🤐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2018749434952294633",
+        "created_at": "2026-02-03T18:12:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T19:12:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018749434952294633"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1892114014563598339",
+              "start": 3,
+              "username": "3He2_Ka1R0"
+            },
+            {
+              "end": 28,
+              "id": "1802704441961017344",
+              "start": 16,
+              "username": "misumikaze3"
+            },
+            {
+              "end": 43,
+              "id": "1390652924481527810",
+              "start": 29,
+              "username": "zqtlovekris99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018749434952294633",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018570688379142446",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @3He2_Ka1R0: @misumikaze3 @zqtlovekris99 那他们的造谣对当事人的伤害呢，也可以一笔勾销了吗🤐🤐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892114014563598339",
+        "conversation_id": "2018538193021489246",
+        "created_at": "2026-02-03T06:22:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T07:22:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018570688379142446"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1802704441961017344",
+              "start": 0,
+              "username": "misumikaze3"
+            },
+            {
+              "end": 27,
+              "id": "1390652924481527810",
+              "start": 13,
+              "username": "zqtlovekris99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018570688379142446",
+        "in_reply_to_user_id": "1802704441961017344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 102,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018558413668757566",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@misumikaze3 @zqtlovekris99 那他们的造谣对当事人的伤害呢，也可以一笔勾销了吗🤐🤐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜如果没有回关请私信提醒我！｜我不吸毒！！！｜性别为无、｜輪郭の定まらない位置にいた人@Psych_Angel_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 53,
+                "username": "Psych_Angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNh89"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 548,
+          "following_count": 504,
+          "like_count": 13282,
+          "listed_count": 1,
+          "media_count": 144,
+          "tweet_count": 6957
+        },
+        "url": "https://t.co/rCvc9RNh89",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-19T07:28:41.000Z",
+        "description": "‣  巴普洛夫的狗😺/叫我 𝗞𝗮𝗶𝗿𝗼 ￴￴￴￴     ɪɴᴛᴘ⁃ᴍ𝔱𝖝⁃ᴏᴠᴇʀᴅᴏsᴇ﹠ᴅʀᴜɢ⁃Ⓐ☜",
+        "id": "1892114014563598339",
+        "name": "伊万",
+        "pinned_tweet_id": "2016884561297494289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001711038719496192/qTlefE2a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 419,
+          "like_count": 81589,
+          "listed_count": 1,
+          "media_count": 286,
+          "tweet_count": 3554
+        },
+        "username": "3He2_Ka1R0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-17T14:06:56.000Z",
+        "description": "2025.11.14 enby oder｜欲行动而不知，欲全知而不得，虚无，虚无，可识人心真面目？｜精神状态奇异 政治倾向奇特 想成为不走极端的人 喜欢我的请来和我交朋友 如果我发疯对不起请原谅我 恋人：@HCwufs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 109,
+                "start": 102,
+                "username": "HCwufs"
+              }
+            ]
+          }
+        },
+        "id": "1802704441961017344",
+        "location": "燃素与以太之地",
+        "name": "百八十無常🏳️‍⚧️#井宿三",
+        "pinned_tweet_id": "2017204505763512698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009448964886806528/m5QwCeN1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 428,
+          "following_count": 595,
+          "like_count": 14302,
+          "listed_count": 2,
+          "media_count": 135,
+          "tweet_count": 3842
+        },
+        "username": "misumikaze3",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | OSDD/od💊/ed BMI15 | 默认蓝v互关其他回fo请私信，求求你了多来点蓝v吧 | 防走丢小号 @nktblovekris99 小猫 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 76,
+                "username": "nktblovekris99"
+              },
+              {
+                "end": 108,
+                "start": 95,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "confess.ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://confess.ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/osSiOZZo04"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68搞黄128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "2004868318680023495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11357,
+          "following_count": 1173,
+          "like_count": 23938,
+          "listed_count": 15,
+          "media_count": 4247,
+          "tweet_count": 25723
+        },
+        "url": "https://t.co/osSiOZZo04",
+        "username": "zqtlovekris99",
+        "verified": true
+      }
+    ]
+  }
+}

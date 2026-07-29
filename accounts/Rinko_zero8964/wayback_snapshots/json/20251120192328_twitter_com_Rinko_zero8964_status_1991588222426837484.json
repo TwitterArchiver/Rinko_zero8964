@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1991578849960947962",
+    "created_at": "2025-11-20T19:23:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-20T20:23:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991588222426837484"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1755079335306752000",
+          "start": 0,
+          "username": "bieergemote"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991588222426837484",
+    "in_reply_to_user_id": "1755079335306752000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991578849960947962",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bieergemote 当oc妈每天光约稿饭都吃不起了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1991578849960947962",
+        "created_at": "2025-11-20T19:23:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-20T20:23:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991588222426837484"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1755079335306752000",
+              "start": 0,
+              "username": "bieergemote"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991588222426837484",
+        "in_reply_to_user_id": "1755079335306752000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991578849960947962",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bieergemote 当oc妈每天光约稿饭都吃不起了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755079335306752000",
+        "conversation_id": "1991578849960947962",
+        "created_at": "2025-11-20T18:46:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-20T19:46:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991578849960947962"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1991578849960947962",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我该回归现实生活还是接着当oc妈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜🥺@NashiMoe233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "NashiMoe233"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1967335109767692560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 320,
+          "like_count": 4493,
+          "listed_count": 1,
+          "media_count": 89,
+          "tweet_count": 4519
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-07T04:01:49.000Z",
+        "description": "蕾，他给你的糖果项链，再戴着就要融化弄脏衣服了/可以跟我说说话\n地下情人：@lgwxsczdngyy  \n\nhttps://t.co/Re431zOn4C",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 37,
+                "username": "lgwxsczdngyy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/frog79479",
+                "end": 77,
+                "expanded_url": "https://ngl.link/frog79479",
+                "start": 54,
+                "url": "https://t.co/Re431zOn4C"
+              }
+            ]
+          }
+        },
+        "id": "1755079335306752000",
+        "location": "曼彻斯特",
+        "name": "香槟星",
+        "pinned_tweet_id": "1945459591694913652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850964407645540352/DAIS_Wx9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1406,
+          "following_count": 284,
+          "like_count": 16985,
+          "listed_count": 2,
+          "media_count": 374,
+          "tweet_count": 5300
+        },
+        "username": "bieergemote",
+        "verified": false
+      }
+    ]
+  }
+}

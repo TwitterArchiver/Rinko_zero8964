@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2004727231185379514",
+    "created_at": "2025-12-27T05:23:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T06:23:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004785088492703959"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1986452594206838785",
+          "start": 0,
+          "username": "Idontselldrug"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004785088492703959",
+    "in_reply_to_user_id": "1986452594206838785",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004727231185379514",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Idontselldrug 解决完学业问题会很幸福"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2004727227959685121",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9I4ytYXMAEWTvo.jpg",
+        "width": 1845
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2004727227536039936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9I4yrzW4AAhDKy.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2004727228186181632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9I4yuOXQAA7-kN.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2004727231185379514",
+        "created_at": "2025-12-27T05:23:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T06:23:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004785088492703959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1986452594206838785",
+              "start": 0,
+              "username": "Idontselldrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004785088492703959",
+        "in_reply_to_user_id": "1986452594206838785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004727231185379514",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Idontselldrug 解决完学业问题会很幸福"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004727227959685121",
+            "3_2004727227536039936",
+            "3_2004727228186181632"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2004727231185379514",
+        "created_at": "2025-12-27T01:33:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T02:33:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004727231185379514"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OfiSe8sgv6",
+              "end": 134,
+              "expanded_url": "https://x.com/Idontselldrug/status/2004727231185379514/photo/1",
+              "media_key": "3_2004727227959685121",
+              "start": 111,
+              "url": "https://t.co/OfiSe8sgv6"
+            },
+            {
+              "display_url": "pic.x.com/OfiSe8sgv6",
+              "end": 134,
+              "expanded_url": "https://x.com/Idontselldrug/status/2004727231185379514/photo/1",
+              "media_key": "3_2004727227536039936",
+              "start": 111,
+              "url": "https://t.co/OfiSe8sgv6"
+            },
+            {
+              "display_url": "pic.x.com/OfiSe8sgv6",
+              "end": 134,
+              "expanded_url": "https://x.com/Idontselldrug/status/2004727231185379514/photo/1",
+              "media_key": "3_2004727228186181632",
+              "start": 111,
+              "url": "https://t.co/OfiSe8sgv6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004727231185379514",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 321,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "穿着防水的鞋子在柔软的雪地里漫步，多伦多的天气比埃德蒙顿真的好了太多，大麻带着沁人心脾的凉爽空气过肺，趁着食欲增强去吃自助烤肉，药效下变得nonverbal但一直在笑\n高压期末考后这么享受一下真的很爽，我感觉我抑郁症好了 https://t.co/OfiSe8sgv6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜如果没有回关请私信提醒我！｜我不吸毒！！！｜小猫我喜欢你超喜欢我爱你@psych_angel_｜性别为无、",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 45,
+                "username": "psych_angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNh89"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1999352315241988490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 455,
+          "following_count": 417,
+          "like_count": 7895,
+          "listed_count": 1,
+          "media_count": 113,
+          "tweet_count": 5699
+        },
+        "url": "https://t.co/rCvc9RNh89",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 685,
+          "following_count": 204,
+          "like_count": 529,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 896
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      }
+    ]
+  }
+}

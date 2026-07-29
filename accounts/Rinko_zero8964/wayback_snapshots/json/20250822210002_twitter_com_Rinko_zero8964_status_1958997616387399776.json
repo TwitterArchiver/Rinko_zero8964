@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1958739269448843385",
+    "created_at": "2025-08-22T21:00:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-22T22:00:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958997616387399776"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1914046337903190016",
+          "start": 0,
+          "username": "omiyagetw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958997616387399776",
+    "in_reply_to_user_id": "1914046337903190016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958739269448843385",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@omiyagetw 狗狗也不知道自己會嚇到人狗狗知道錯了舔舔歐米"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1958739269448843385",
+        "created_at": "2025-08-22T21:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T22:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958997616387399776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1914046337903190016",
+              "start": 0,
+              "username": "omiyagetw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958997616387399776",
+        "in_reply_to_user_id": "1914046337903190016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958739269448843385",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@omiyagetw 狗狗也不知道自己會嚇到人狗狗知道錯了舔舔歐米"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1914046337903190016",
+        "conversation_id": "1958739269448843385",
+        "created_at": "2025-08-22T03:53:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T04:53:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958739269448843385"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1958739269448843385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "悲報...\n早上工作時被沖出來的大狗嚇到，手機掉地上，螢幕的玻璃貼直接粉碎，目前看機體的螢幕沒受損，原本想罵狗主人，但狗狗出來汪了幾聲後就在舔我的手，一直撒嬌，氣不過...\n又要花錢去重貼了😥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849043147487420416/0nrEqJTK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 240,
+          "like_count": 1913,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 3156
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-20T19:59:56.000Z",
+        "description": "台灣/男/INTJ/極度厭惡約炮及嫖/\n喜愛遊戲、音樂/努力當個正常人/PC、steam小遊戲/\n匿名箱：https://t.co/Ym8YNh3M4i\n棉花糖：https://t.co/L96aYsO3hI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/omiyagetw",
+                "end": 76,
+                "expanded_url": "https://ngl.link/omiyagetw",
+                "start": 53,
+                "url": "https://t.co/Ym8YNh3M4i"
+              },
+              {
+                "display_url": "marshmallow-qa.com/gd5udj3tys3vcf…",
+                "end": 104,
+                "expanded_url": "https://marshmallow-qa.com/gd5udj3tys3vcf5?t=QW8iuu&utm_medium=url_text&utm_",
+                "start": 81,
+                "url": "https://t.co/L96aYsO3hI"
+              }
+            ]
+          }
+        },
+        "id": "1914046337903190016",
+        "name": "歐米Omi",
+        "pinned_tweet_id": "1953313796186918983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930669088738828289/BPD-zSvM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 89,
+          "like_count": 7239,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 3287
+        },
+        "username": "omiyagetw",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1985376141838795149",
+    "created_at": "2025-11-05T08:36:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T09:36:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985989633063416038"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1552238688590958592",
+          "start": 0,
+          "username": "Coccus_Swamer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985989633063416038",
+    "in_reply_to_user_id": "1552238688590958592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985773692731719853",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Coccus_Swamer 一个都市传说，说是有一对哥哥弟弟看见田里有一个白色的不明物体在扭来扭去结果哥哥就疯了！浆果配图就是扭来扭去！（扭来扭去）"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1985773692731719853].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1985773692731719853",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1985773692731719853"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1985376141838795149",
+        "created_at": "2025-11-05T08:36:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T09:36:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985989633063416038"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1552238688590958592",
+              "start": 0,
+              "username": "Coccus_Swamer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985989633063416038",
+        "in_reply_to_user_id": "1552238688590958592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985773692731719853",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Coccus_Swamer 一个都市传说，说是有一对哥哥弟弟看见田里有一个白色的不明物体在扭来扭去结果哥哥就疯了！浆果配图就是扭来扭去！（扭来扭去）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1970904695813329260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 284,
+          "like_count": 3278,
+          "listed_count": 2,
+          "media_count": 76,
+          "tweet_count": 4177
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "是一只小浆狗！\nu･ω･u\n日常推/带证MTX/恋血慕残/失明biid/DID/od/重度精分/ADHD/生物化学-植物医学方向/诗歌/日本語-Deutsch-Français-Español/互关慎重/爱人：@Yesmynamehaer1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 105,
+                "username": "Yesmynamehaer1"
+              }
+            ]
+          }
+        },
+        "id": "1552238688590958592",
+        "location": "Funabashi-shi, Chiba",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1973745736216158259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911311192213106688/2wcaqE_q_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 942,
+          "following_count": 2586,
+          "like_count": 10095,
+          "listed_count": 0,
+          "media_count": 651,
+          "tweet_count": 3548
+        },
+        "username": "Coccus_Swamer",
+        "verified": true
+      }
+    ]
+  }
+}

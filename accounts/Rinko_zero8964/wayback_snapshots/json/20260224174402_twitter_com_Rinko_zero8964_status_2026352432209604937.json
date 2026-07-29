@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2026304498721865911",
+    "created_at": "2026-02-24T17:44:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T18:44:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026352432209604937"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2007465888438706176",
+          "start": 0,
+          "username": "Kakuko42"
+        },
+        {
+          "end": 23,
+          "id": "1879395690230738944",
+          "start": 10,
+          "username": "Psych_Angel_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026352432209604937",
+    "in_reply_to_user_id": "2007465888438706176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026304498721865911",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kakuko42 @Psych_Angel_ 啊啊我就说好久没看到你了…没事就好w，牌子好好看"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3024,
+        "media_key": "3_2026304492275179520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB7hMyzXIAAwsPF.jpg",
+        "width": 4032
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2026304498721865911",
+        "created_at": "2026-02-24T17:44:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T18:44:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026352432209604937"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2007465888438706176",
+              "start": 0,
+              "username": "Kakuko42"
+            },
+            {
+              "end": 23,
+              "id": "1879395690230738944",
+              "start": 10,
+              "username": "Psych_Angel_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026352432209604937",
+        "in_reply_to_user_id": "2007465888438706176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026304498721865911",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kakuko42 @Psych_Angel_ 啊啊我就说好久没看到你了…没事就好w，牌子好好看"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026304492275179520"
+          ]
+        },
+        "author_id": "2007465888438706176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2026304498721865911",
+        "created_at": "2026-02-24T14:33:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T15:33:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026304498721865911"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5apY0RBgNF",
+              "end": 171,
+              "expanded_url": "https://x.com/Kakuko42/status/2026304498721865911/photo/1",
+              "media_key": "3_2026304492275179520",
+              "start": 148,
+              "url": "https://t.co/5apY0RBgNF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026304498721865911",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 344,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "大家好，我是核子，我转生了\n\n之前发的图被国内抖音营销号盗去，和别人的东西缝合在一起骗流量，搞得我被害妄想发作。虽然我在海外，晶哥应该找不到我，但还是觉得上个号不干净了，就注销换了个号(＞_＜)\n\n消失的这段时间我去搞了点物理防伪，弄了几个实体发光牌子当水印\n\n互关们，我回来了o(｀ω´ )o https://t.co/5apY0RBgNF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思う、ゆえに我あり｜ 我是林子｜性别为无、｜寒くなってきたね……もう少しだけ、いい？｜intp-t｜asd/焦虑障碍｜🧬今日也想成为biohacker｜静态变量@Psych_Angel_｜好妈妈们@asabakasaiko @loveforeversfy|bro @BelovedUren8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 81,
+                "username": "Psych_Angel_"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "asabakasaiko"
+              },
+              {
+                "end": 128,
+                "start": 113,
+                "username": "loveforeversfy"
+              },
+              {
+                "end": 149,
+                "start": 133,
+                "username": "BelovedUren8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wakaba_rinko",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wakaba_rinko",
+                "start": 0,
+                "url": "https://t.co/zWqK1n9RJg"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "Ask me any u want→",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 597,
+          "following_count": 562,
+          "like_count": 15869,
+          "listed_count": 1,
+          "media_count": 153,
+          "tweet_count": 7713
+        },
+        "url": "https://t.co/zWqK1n9RJg",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-03T14:55:51.000Z",
+        "description": "=核子/Kakuko｜20⬆️｜enby｜飛び込んでみたいと 思う｜不在国内不卖药｜Lay Back and Dive.",
+        "id": "2007465888438706176",
+        "location": "眠れない 午前二時",
+        "name": "核子融合炉 #室宿一",
+        "pinned_tweet_id": "2026304498721865911",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017663558406873088/puT6sL5a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 48,
+          "like_count": 84,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 14
+        },
+        "username": "Kakuko42",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-15T05:10:34.000Z",
+        "description": "Scientist | Philosopher | Lab Rat｜💊#Drugtwt｜BD/DPDR｜Lover💕Rinko:@Rinko_zero8964｜Soulmate:@BelovedUren8964｜🍜:@shungleemain｜👩:@DXM8964LXM｜🍊:@citrus_amara｜",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 43,
+                "start": 35,
+                "tag": "Drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 79,
+                "start": 64,
+                "username": "Rinko_zero8964"
+              },
+              {
+                "end": 105,
+                "start": 89,
+                "username": "BelovedUren8964"
+              },
+              {
+                "end": 121,
+                "start": 108,
+                "username": "shungleemain"
+              },
+              {
+                "end": 135,
+                "start": 124,
+                "username": "DXM8964LXM"
+              },
+              {
+                "end": 151,
+                "start": 138,
+                "username": "citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cutekitteno3o",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cutekitteno3o",
+                "start": 0,
+                "url": "https://t.co/OpK0Aryf51"
+              }
+            ]
+          }
+        },
+        "id": "1879395690230738944",
+        "location": "Ask me any u want→",
+        "name": "Mercy",
+        "pinned_tweet_id": "2017031778201194624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984317319691243521/rbczbPan_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 713,
+          "following_count": 803,
+          "like_count": 31795,
+          "listed_count": 1,
+          "media_count": 911,
+          "tweet_count": 14001
+        },
+        "url": "https://t.co/OpK0Aryf51",
+        "username": "Psych_Angel_",
+        "verified": false
+      }
+    ]
+  }
+}

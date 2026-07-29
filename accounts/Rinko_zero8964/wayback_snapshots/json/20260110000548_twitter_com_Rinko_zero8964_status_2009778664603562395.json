@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2009600904161628177",
+    "created_at": "2026-01-10T00:05:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T01:05:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009778664603562395"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1912109703133646848",
+          "start": 0,
+          "username": "jzm1919810"
+        },
+        {
+          "end": 23,
+          "id": "1892114014563598339",
+          "start": 12,
+          "username": "3He2_Ka1R0"
+        },
+        {
+          "end": 35,
+          "id": "1597468568290873344",
+          "start": 24,
+          "username": "jingzhny11"
+        },
+        {
+          "end": 50,
+          "id": "2006990578526072835",
+          "start": 36,
+          "username": "jingyinhequan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009778664603562395",
+    "in_reply_to_user_id": "1912109703133646848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009673861143638501",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jzm1919810 @3He2_Ka1R0 @jingzhny11 @jingyinhequan 找了一下他们官方介绍说是台湾相思树，感觉或许真……吗？"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2009673861143638501].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2009673861143638501",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2009673861143638501"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2009600904161628177",
+        "created_at": "2026-01-10T00:05:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T01:05:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009778664603562395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1912109703133646848",
+              "start": 0,
+              "username": "jzm1919810"
+            },
+            {
+              "end": 23,
+              "id": "1892114014563598339",
+              "start": 12,
+              "username": "3He2_Ka1R0"
+            },
+            {
+              "end": 35,
+              "id": "1597468568290873344",
+              "start": 24,
+              "username": "jingzhny11"
+            },
+            {
+              "end": 50,
+              "id": "2006990578526072835",
+              "start": 36,
+              "username": "jingyinhequan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009778664603562395",
+        "in_reply_to_user_id": "1912109703133646848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009673861143638501",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jzm1919810 @3He2_Ka1R0 @jingzhny11 @jingyinhequan 找了一下他们官方介绍说是台湾相思树，感觉或许真……吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜如果没有回关请私信提醒我！｜我不吸毒！！！｜小猫我喜欢你超喜欢我爱你@psych_angel_｜性别为无、",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 45,
+                "username": "psych_angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNh89"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 500,
+          "following_count": 472,
+          "like_count": 11139,
+          "listed_count": 1,
+          "media_count": 137,
+          "tweet_count": 6395
+        },
+        "url": "https://t.co/rCvc9RNh89",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-15T11:44:19.000Z",
+        "description": "瞳逸らさないで 大きく手を伸ばす 雪解けを待ってる\nsignal nanacan.58   注册signal不收费，大家都来用它，让sb杜洛夫爬爬",
+        "id": "1912109703133646848",
+        "name": "Zemin Jiang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009536370885165056/0mWVclNf_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 204,
+          "like_count": 380,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 1588
+        },
+        "username": "jzm1919810",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-19T07:28:41.000Z",
+        "description": "‣  巴普洛夫的狗😺/叫我 𝗞𝗮𝗶𝗿𝗼 ￴￴￴￴     ɪɴᴛᴘ⁃ᴍ𝔱𝖝⁃ᴏᴠᴇʀᴅᴏsᴇ﹠ᴅʀᴜɢ⁃Ⓐ☜",
+        "id": "1892114014563598339",
+        "name": "伊万",
+        "pinned_tweet_id": "2006743967904489953",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001711038719496192/qTlefE2a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 411,
+          "like_count": 77200,
+          "listed_count": 1,
+          "media_count": 241,
+          "tweet_count": 3162
+        },
+        "username": "3He2_Ka1R0",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-29T05:53:13.000Z",
+        "description": "99年 \n🍥​2023/05/07 srs2025/07/31 一米九超大只\n左下的，混乱善良的，激跨的，支持精神活性物质的，psychedic user但水平很差的，想当黄推的，下海预备的\n感性条拉满的理想主义者ENFP\n希望一个没人再感到痛苦的世界/如果可以我希望爱、原谅与理解而不是恶、仇恨与歧视",
+        "id": "1597468568290873344",
+        "location": "谁人的繁星之梦",
+        "name": "愿望天使DesireAngel",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948009299256786944/HotJFJvn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4584,
+          "following_count": 1990,
+          "like_count": 107412,
+          "listed_count": 19,
+          "media_count": 233,
+          "tweet_count": 15160
+        },
+        "username": "jingzhny11",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-02T07:27:32.000Z",
+        "description": "我看着幸福的日子被我亲手摧毁后开心地闭上了眼 \n/TG同X账号\n/老公@Edward_8964\n/姐姐@shuijiaozzz233\n/无论转生多少次都一定要找回我好吗🥹\n匿名提问：https://t.co/29rNkGg1gy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 35,
+                "username": "Edward_8964"
+              },
+              {
+                "end": 66,
+                "start": 51,
+                "username": "shuijiaozzz233"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jingyin_8964",
+                "end": 114,
+                "expanded_url": "https://ngl.link/jingyin_8964",
+                "start": 91,
+                "url": "https://t.co/29rNkGg1gy"
+              }
+            ]
+          }
+        },
+        "id": "2006990578526072835",
+        "name": "镜音五代目",
+        "pinned_tweet_id": "2008124298779939003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009307935659446272/1D19nedn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 107,
+          "like_count": 166,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 99
+        },
+        "username": "jingyinhequan",
+        "verified": false
+      }
+    ]
+  }
+}

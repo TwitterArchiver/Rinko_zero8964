@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1984854697644019712"
+      ],
+      "media_source_tweet_id": [
+        "1984854937482719541"
+      ]
+    },
+    "author_id": "1849043039496617984",
+    "conversation_id": "1985564067571077416",
+    "created_at": "2025-11-04T04:25:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T05:25:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985564067571077416"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1659962043460354050",
+          "start": 3,
+          "username": "SalviaSWC"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BysLyt8LK4",
+          "end": 55,
+          "expanded_url": "https://x.com/SalviaSWC/status/1984854937482719541/photo/1",
+          "media_key": "3_1984854697644019712",
+          "start": 32,
+          "url": "https://t.co/BysLyt8LK4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985564067571077416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984854937482719541",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SalviaSWC: 解离剂药效中可以做的有趣的活动。 https://t.co/BysLyt8LK4"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1985564067571077416].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1985564067571077416",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1985564067571077416"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 566,
+        "media_key": "3_1984854697644019712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4ue1M_WUAAyNr0.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984854697644019712"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "1984854937482719541",
+        "created_at": "2025-11-02T05:27:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T06:27:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984854937482719541"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BysLyt8LK4",
+              "end": 40,
+              "expanded_url": "https://x.com/SalviaSWC/status/1984854937482719541/photo/1",
+              "media_key": "3_1984854697644019712",
+              "start": 17,
+              "url": "https://t.co/BysLyt8LK4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984854937482719541",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 1238,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "解离剂药效中可以做的有趣的活动。 https://t.co/BysLyt8LK4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1970904695813329260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 334,
+          "following_count": 280,
+          "like_count": 3266,
+          "listed_count": 2,
+          "media_count": 76,
+          "tweet_count": 4160
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984830293103046656/fgZKegRL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1578,
+          "following_count": 649,
+          "like_count": 10188,
+          "listed_count": 7,
+          "media_count": 146,
+          "tweet_count": 3190
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

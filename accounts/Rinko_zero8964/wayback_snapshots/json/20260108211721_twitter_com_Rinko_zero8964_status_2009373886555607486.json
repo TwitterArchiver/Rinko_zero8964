@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2008675148761542657",
+        "3_2008675149113962496"
+      ],
+      "media_source_tweet_id": [
+        "2008675199773012463",
+        "2008675199773012463"
+      ]
+    },
+    "author_id": "1849043039496617984",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2009373886555607486",
+    "created_at": "2026-01-08T21:17:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T22:17:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009373886555607486"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2005173387870830595",
+          "start": 3,
+          "username": "666goree"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zuacxGNJhP",
+          "end": 37,
+          "expanded_url": "https://x.com/Sakurafresas/status/2008675199773012463/video/1",
+          "media_key": "7_2008675148761542657",
+          "start": 14,
+          "url": "https://t.co/zuacxGNJhP"
+        },
+        {
+          "display_url": "pic.x.com/zuacxGNJhP",
+          "end": 37,
+          "expanded_url": "https://x.com/Sakurafresas/status/2008675199773012463/video/1",
+          "media_key": "3_2008675149113962496",
+          "start": 14,
+          "url": "https://t.co/zuacxGNJhP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009373886555607486",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 279
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008754446503985412",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @666goree: https://t.co/zuacxGNJhP"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2009373886555607486].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2009373886555607486",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2009373886555607486"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13461,
+        "height": 818,
+        "media_key": "7_2008675148761542657",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2008675148761542657/pu/img/B8levQ4ahFbZnqGn.jpg",
+        "public_metrics": {
+          "view_count": 3595
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2008675148761542657/pu/vid/avc1/320x362/AqQLHwkTu0d02X2T.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2008675148761542657/pu/vid/avc1/480x544/0hORcuHFj0gfVBkA.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2008675148761542657/pu/vid/avc1/720x818/LmtKsxq8msx_hcPv.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2008675148761542657/pu/pl/X5lzvs_u9PJsoMr4.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1112,
+        "media_key": "3_2008675149113962496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-A_Z9wXsAAvxCE.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2008675148761542657",
+            "3_2008675149113962496"
+          ],
+          "media_source_tweet_id": [
+            "2008675199773012463",
+            "2008675199773012463"
+          ]
+        },
+        "author_id": "2005173387870830595",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2008754446503985412",
+        "created_at": "2026-01-07T04:15:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T05:15:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008754446503985412"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zuacxGNJhP",
+              "end": 23,
+              "expanded_url": "https://x.com/Sakurafresas/status/2008675199773012463/video/1",
+              "media_key": "7_2008675148761542657",
+              "start": 0,
+              "url": "https://t.co/zuacxGNJhP"
+            },
+            {
+              "display_url": "pic.x.com/zuacxGNJhP",
+              "end": 23,
+              "expanded_url": "https://x.com/Sakurafresas/status/2008675199773012463/video/1",
+              "media_key": "3_2008675149113962496",
+              "start": 0,
+              "url": "https://t.co/zuacxGNJhP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008754446503985412",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 193,
+          "impression_count": 7562,
+          "like_count": 1429,
+          "quote_count": 5,
+          "reply_count": 3,
+          "retweet_count": 279
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/zuacxGNJhP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜如果没有回关请私信提醒我！｜我不吸毒！！！｜小猫我喜欢你超喜欢我爱你@psych_angel_｜性别为无、",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 45,
+                "username": "psych_angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNh89"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 469,
+          "like_count": 10759,
+          "listed_count": 1,
+          "media_count": 133,
+          "tweet_count": 6313
+        },
+        "url": "https://t.co/rCvc9RNh89",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-28T07:06:45.000Z",
+        "description": "(⁠｡⁠•́⁠︿⁠•̀⁠｡⁠) me banearon la otra cuenta @gore_3330 tiktok: virtuallovegore_666 mi otra cuenta @suicidi0_6660",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 43,
+                "username": "gore_3330"
+              },
+              {
+                "end": 111,
+                "start": 97,
+                "username": "suicidi0_6660"
+              }
+            ]
+          }
+        },
+        "id": "2005173387870830595",
+        "name": "(⁠╥⁠﹏⁠╥⁠)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005176925212344320/zcsXyShV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 857,
+          "following_count": 10,
+          "like_count": 82,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 47
+        },
+        "username": "666goree",
+        "verified": false
+      }
+    ]
+  }
+}

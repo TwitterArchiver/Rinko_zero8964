@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1960203280144834806",
+    "created_at": "2025-08-26T05:16:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-26T06:16:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960209793794318710"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1960026902418321408",
+          "start": 0,
+          "username": "Drugs_Kitten"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960209793794318710",
+    "in_reply_to_user_id": "1960026902418321408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960203280144834806",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Drugs_Kitten 一颗不够我还要"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1023,
+        "media_key": "3_1960203270720557056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzQKfTbbkAAxMCO.jpg",
+        "width": 558
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1960203280144834806",
+        "created_at": "2025-08-26T05:16:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T06:16:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960209793794318710"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1960026902418321408",
+              "start": 0,
+              "username": "Drugs_Kitten"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960209793794318710",
+        "in_reply_to_user_id": "1960026902418321408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960203280144834806",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Drugs_Kitten 一颗不够我还要"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960203270720557056"
+          ]
+        },
+        "author_id": "1960026902418321408",
+        "conversation_id": "1960203280144834806",
+        "created_at": "2025-08-26T04:50:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T05:50:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960203280144834806"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kTBUfbUlSs",
+              "end": 33,
+              "expanded_url": "https://x.com/Drugs_Kitten/status/1960203280144834806/photo/1",
+              "media_key": "3_1960203270720557056",
+              "start": 10,
+              "url": "https://t.co/kTBUfbUlSs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960203280144834806",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "路过的人每人塞一颗 https://t.co/kTBUfbUlSs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849043147487420416/0nrEqJTK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 242,
+          "like_count": 2074,
+          "listed_count": 2,
+          "media_count": 46,
+          "tweet_count": 3269
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-25T17:10:16.000Z",
+        "description": "💖你好，这里是小猫。｜药物百科副Wiki主｜有任何药物相关问题都可以私信免费咨询哦💕｜ 私信回fo｜谨慎关注里推:@CuteKittenO3O会有大量负能/药物使用",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 57,
+                "username": "CuteKittenO3O"
+              }
+            ]
+          }
+        },
+        "id": "1960026902418321408",
+        "name": "💊DrugKitten🌌",
+        "pinned_tweet_id": "1960031991401005577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960036096215224320/DqeocQbY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 43,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 10
+        },
+        "username": "Drugs_Kitten",
+        "verified": false
+      }
+    ]
+  }
+}

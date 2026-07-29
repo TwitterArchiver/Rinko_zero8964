@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1972856185641714070",
+    "created_at": "2025-09-30T11:25:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-30T12:25:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972986116170191251"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1176077981099446272",
+          "start": 0,
+          "username": "Yesmynamehaer1"
+        },
+        {
+          "end": 28,
+          "id": "1726969617850286080",
+          "start": 16,
+          "username": "NashiMoe233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972986116170191251",
+    "in_reply_to_user_id": "1176077981099446272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972985549175873597",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yesmynamehaer1 @NashiMoe233 先给我吃一口我再评价🍽️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1972856185641714070",
+        "created_at": "2025-09-30T11:25:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T12:25:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972986116170191251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1176077981099446272",
+              "start": 0,
+              "username": "Yesmynamehaer1"
+            },
+            {
+              "end": 28,
+              "id": "1726969617850286080",
+              "start": 16,
+              "username": "NashiMoe233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972986116170191251",
+        "in_reply_to_user_id": "1176077981099446272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972985549175873597",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yesmynamehaer1 @NashiMoe233 先给我吃一口我再评价🍽️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176077981099446272",
+        "conversation_id": "1972856185641714070",
+        "created_at": "2025-09-30T11:23:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T12:23:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972985549175873597"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1849043039496617984",
+              "start": 0,
+              "username": "Rinko_zero8964"
+            },
+            {
+              "end": 28,
+              "id": "1726969617850286080",
+              "start": 16,
+              "username": "NashiMoe233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972985549175873597",
+        "in_reply_to_user_id": "1849043039496617984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972983153003552790",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rinko_zero8964 @NashiMoe233 评价是不如前俩联用"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1970904695813329260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 282,
+          "like_count": 3398,
+          "listed_count": 2,
+          "media_count": 74,
+          "tweet_count": 4141
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-23T10:17:06.000Z",
+        "description": "白鳥/白鳥形人。\n中立友善单位，幻想生物与死去的人。\n学习，药物，酒，音乐，文学，小政府，游牧与内在差异，自由主义——\n「Liberty/Freedom/Power」。\nFTX /Unitarian Universalists。\n@Coccus_Swamer /@Hawthor20853776 。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 129,
+                "start": 115,
+                "username": "Coccus_Swamer"
+              },
+              {
+                "end": 147,
+                "start": 131,
+                "username": "Hawthor20853776"
+              }
+            ]
+          }
+        },
+        "id": "1176077981099446272",
+        "location": "Seoul, Republic of Korea",
+        "name": "Hereditarystupidity",
+        "pinned_tweet_id": "1929155582314881086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966343942905147395/Jj-l4fUo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 672,
+          "like_count": 29290,
+          "listed_count": 3,
+          "media_count": 134,
+          "tweet_count": 3016
+        },
+        "username": "Yesmynamehaer1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-21T14:23:48.000Z",
+        "description": "我的情感应该被埋葬在马里亚纳海沟下丨intp-t丨non-binary丨不回答药物滥用相关问题",
+        "id": "1726969617850286080",
+        "location": "天目山路305号",
+        "name": "涙の販売機",
+        "pinned_tweet_id": "1942953404315394445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958667796151508995/HFxv1vlv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1778,
+          "following_count": 187,
+          "like_count": 19836,
+          "listed_count": 4,
+          "media_count": 570,
+          "tweet_count": 11369
+        },
+        "username": "NashiMoe233",
+        "verified": false
+      }
+    ]
+  }
+}

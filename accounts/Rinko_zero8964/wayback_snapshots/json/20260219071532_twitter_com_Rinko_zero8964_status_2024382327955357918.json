@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2024282072274391406",
+    "created_at": "2026-02-19T07:15:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T08:15:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024382327955357918"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2011873376445612032",
+          "start": 0,
+          "username": "zhinaqingchu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024382327955357918",
+    "in_reply_to_user_id": "2011873376445612032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024282072274391406",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhinaqingchu 抱抱！！x疯了吧…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2024282070009417728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBex0UwakAAamwJ.jpg",
+        "width": 1065
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2024282072274391406",
+        "created_at": "2026-02-19T07:15:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T08:15:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024382327955357918"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2011873376445612032",
+              "start": 0,
+              "username": "zhinaqingchu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024382327955357918",
+        "in_reply_to_user_id": "2011873376445612032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024282072274391406",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhinaqingchu 抱抱！！x疯了吧…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024282070009417728"
+          ]
+        },
+        "author_id": "2011873376445612032",
+        "conversation_id": "2024282072274391406",
+        "created_at": "2026-02-19T00:37:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T01:37:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024282072274391406"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7fjEnYrxgv",
+              "end": 95,
+              "expanded_url": "https://x.com/zhinaqingchu/status/2024282072274391406/photo/1",
+              "media_key": "3_2024282070009417728",
+              "start": 72,
+              "url": "https://t.co/7fjEnYrxgv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024282072274391406",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3338,
+          "like_count": 31,
+          "quote_count": 4,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小睦实在不应当受到这种惩罚。\n小睦没有鼓励任何人自杀或自残，小睦只是想为别人减轻痛苦...\n我是天使\n既然你们想让小睦消失的话\n那就随你们便叭 https://t.co/7fjEnYrxgv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思う、ゆえに我あり｜ 我是林子｜性别为无、｜寒くなってきたね……もう少しだけ、いい？｜intp-t｜asd/焦虑障碍｜🧬今日也想成为biohacker｜輪郭の定まらない位置にいた人@Psych_Angel_｜好妈妈们@asabakasaiko @loveforeversfy|bro @BelovedUren8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 91,
+                "username": "Psych_Angel_"
+              },
+              {
+                "end": 122,
+                "start": 109,
+                "username": "asabakasaiko"
+              },
+              {
+                "end": 138,
+                "start": 123,
+                "username": "loveforeversfy"
+              },
+              {
+                "end": 159,
+                "start": 143,
+                "username": "BelovedUren8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wakaba_rinko",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wakaba_rinko",
+                "start": 0,
+                "url": "https://t.co/zWqK1n9RJg"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "Ask me any u want→",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 577,
+          "following_count": 540,
+          "like_count": 15216,
+          "listed_count": 1,
+          "media_count": 150,
+          "tweet_count": 7554
+        },
+        "url": "https://t.co/zWqK1n9RJg",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-15T18:50:02.000Z",
+        "description": "小睦静待死亡中......\n如果这个账号突然不再更新了，那就是小睦抵挡不住自我消亡的诱惑了~\n      永远的好朋友：@Natsumeann13        必定回fo，没回请私信喵☆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 60,
+                "username": "Natsumeann13"
+              }
+            ]
+          }
+        },
+        "id": "2011873376445612032",
+        "name": "支那人种清除计划Ver2.0 🇯🇵",
+        "pinned_tweet_id": "2015471136423948295",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017682861751734274/47Gq_c2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 464,
+          "like_count": 2342,
+          "listed_count": 19,
+          "media_count": 35,
+          "tweet_count": 654
+        },
+        "username": "zhinaqingchu",
+        "verified": false
+      }
+    ]
+  }
+}

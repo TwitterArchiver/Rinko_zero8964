@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1999129393663483904"
+      ]
+    },
+    "author_id": "1849043039496617984",
+    "conversation_id": "1999129405008810464",
+    "created_at": "2025-12-11T14:49:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T15:49:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1999129405008810464"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/CHocPJILGP",
+          "end": 23,
+          "expanded_url": "https://x.com/Rinko_zero8964/status/1999129405008810464/photo/1",
+          "media_key": "3_1999129393663483904",
+          "start": 0,
+          "url": "https://t.co/CHocPJILGP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999129405008810464",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/CHocPJILGP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 430,
+        "media_key": "3_1999129393663483904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G75Vl3laoAA6bX6.jpg",
+        "width": 764
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999129393663483904"
+          ]
+        },
+        "author_id": "1849043039496617984",
+        "conversation_id": "1999129405008810464",
+        "created_at": "2025-12-11T14:49:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T15:49:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999129405008810464"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CHocPJILGP",
+              "end": 23,
+              "expanded_url": "https://x.com/Rinko_zero8964/status/1999129405008810464/photo/1",
+              "media_key": "3_1999129393663483904",
+              "start": 0,
+              "url": "https://t.co/CHocPJILGP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999129405008810464",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/CHocPJILGP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜🥺@NashiMoe233｜如果没有回关请私信提醒我！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "NashiMoe233"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1967335109767692560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 402,
+          "following_count": 364,
+          "like_count": 5720,
+          "listed_count": 1,
+          "media_count": 96,
+          "tweet_count": 5066
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      }
+    ]
+  }
+}

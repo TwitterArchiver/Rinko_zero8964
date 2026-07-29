@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1985565644998496278",
+    "created_at": "2025-11-04T04:31:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T05:31:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1985565644998496278"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/drug_artist1/s…",
+          "end": 66,
+          "expanded_url": "https://twitter.com/drug_artist1/status/1985030769220497853",
+          "start": 43,
+          "url": "https://t.co/vdKpIyxzZj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985565644998496278",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985030769220497853",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我登上第五高原了 我看见真相了 哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈 https://t.co/vdKpIyxzZj"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1985565644998496278",
+        "created_at": "2025-11-04T04:31:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T05:31:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985565644998496278"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/drug_artist1/s…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/drug_artist1/status/1985030769220497853",
+              "start": 43,
+              "url": "https://t.co/vdKpIyxzZj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985565644998496278",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985030769220497853",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我登上第五高原了 我看见真相了 哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈 https://t.co/vdKpIyxzZj"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1963867793776070656",
+        "conversation_id": "1985030769220497853",
+        "created_at": "2025-11-02T17:06:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T18:06:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985030769220497853"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1985030769220497853",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 10936,
+          "like_count": 87,
+          "quote_count": 5,
+          "reply_count": 12,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我登上第五高原了 我看见真相了 哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1970904695813329260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 334,
+          "following_count": 281,
+          "like_count": 3267,
+          "listed_count": 2,
+          "media_count": 76,
+          "tweet_count": 4163
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-05T07:32:46.000Z",
+        "description": "药物百科wiki主｜投稿报告请私信我｜长发视觉系4i男娘｜售卖合法物质｜提问箱:https://t.co/ez10SQHDdD｜愿每一位药物滥用者都能脱离深渊｜提供药物咨询 ｜im crazy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/drug_artist",
+                "end": 63,
+                "expanded_url": "https://ngl.link/drug_artist",
+                "start": 40,
+                "url": "https://t.co/ez10SQHDdD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/N4ZvRTnSIg"
+              }
+            ]
+          }
+        },
+        "id": "1963867793776070656",
+        "location": "Xanax天国12mg自治区",
+        "name": "沐雨",
+        "pinned_tweet_id": "1983475029259239573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984290837677965312/pwoAuV9f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1483,
+          "following_count": 86,
+          "like_count": 457,
+          "listed_count": 2,
+          "media_count": 43,
+          "tweet_count": 535
+        },
+        "url": "https://t.co/N4ZvRTnSIg",
+        "username": "drug_artist1",
+        "verified": false
+      }
+    ]
+  }
+}

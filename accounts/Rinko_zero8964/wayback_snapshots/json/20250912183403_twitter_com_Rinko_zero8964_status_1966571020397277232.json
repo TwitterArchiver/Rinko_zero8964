@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1966571020397277232",
+    "created_at": "2025-09-12T18:34:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-12T19:34:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966571020397277232"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1952405660836175873",
+          "start": 3,
+          "username": "FreeODwiki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966571020397277232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966537123533639992",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FreeODwiki: 我们的wiki自由与梦想的去中心化尝试\n\n开源共创为破历史周期，和之前任何一个wiki都不同，我们的性质决定了我们不会圈钱，我们是所有编辑者共有的，每一位编辑者都是wiki主\n\n无论您写下了什么，您的署名都将被保留\n\n唯一的开源的自由的wiki—…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1966571020397277232",
+        "created_at": "2025-09-12T18:34:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T19:34:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966571020397277232"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1952405660836175873",
+              "start": 3,
+              "username": "FreeODwiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966571020397277232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966537123533639992",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FreeODwiki: 我们的wiki自由与梦想的去中心化尝试\n\n开源共创为破历史周期，和之前任何一个wiki都不同，我们的性质决定了我们不会圈钱，我们是所有编辑者共有的，每一位编辑者都是wiki主\n\n无论您写下了什么，您的署名都将被保留\n\n唯一的开源的自由的wiki—…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1952405660836175873",
+        "conversation_id": "1966537123533639992",
+        "created_at": "2025-09-12T16:19:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T17:19:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966537123533639992"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1966537123533639992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 878,
+          "like_count": 19,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "我们的wiki自由与梦想的去中心化尝试\n\n开源共创为破历史周期，和之前任何一个wiki都不同，我们的性质决定了我们不会圈钱，我们是所有编辑者共有的，每一位编辑者都是wiki主\n\n无论您写下了什么，您的署名都将被保留\n\n唯一的开源的自由的wiki—freeODwiki"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 263,
+          "like_count": 2595,
+          "listed_count": 2,
+          "media_count": 66,
+          "tweet_count": 3733
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-04T16:26:43.000Z",
+        "description": "本账号是以FreeODwiki名义创建的账号，目的是防止假冒顶替者捣乱\n请勿过度关注本账号，以免哄抬本账号运营权价值，这有违去中心化初心\n下方给出的网址是最“官方”的FreeODwiki地址，此信息更新于2025.08.05。当你读到这条信息时，可能仍然是，可能已经不是了，请根据实际情况判断FreeODwiki的地址。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 0,
+                "url": "https://t.co/BciULABZoR"
+              }
+            ]
+          }
+        },
+        "id": "1952405660836175873",
+        "location": "Japan",
+        "name": "FreeODwiki",
+        "pinned_tweet_id": "1966537123533639992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954105546942070785/uSkUVqhz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 279,
+          "following_count": 18,
+          "like_count": 54,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 92
+        },
+        "url": "https://t.co/BciULABZoR",
+        "username": "FreeODwiki",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1991109952761721057",
+    "created_at": "2025-11-19T20:35:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T21:35:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991244024460501409"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1829589054452805632",
+          "start": 0,
+          "username": "wohenhaipaT"
+        },
+        {
+          "end": 23,
+          "id": "1874156960628482048",
+          "start": 13,
+          "username": "Sukilo_71"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991244024460501409",
+    "in_reply_to_user_id": "1829589054452805632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991114361642099082",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wohenhaipaT @Sukilo_71 麻辣烫很好吃啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1991109952761721057",
+        "created_at": "2025-11-19T20:35:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T21:35:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991244024460501409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1829589054452805632",
+              "start": 0,
+              "username": "wohenhaipaT"
+            },
+            {
+              "end": 23,
+              "id": "1874156960628482048",
+              "start": 13,
+              "username": "Sukilo_71"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991244024460501409",
+        "in_reply_to_user_id": "1829589054452805632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991114361642099082",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohenhaipaT @Sukilo_71 麻辣烫很好吃啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829589054452805632",
+        "conversation_id": "1991109952761721057",
+        "created_at": "2025-11-19T12:00:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T13:00:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991114361642099082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1874156960628482048",
+              "start": 0,
+              "username": "Sukilo_71"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991114361642099082",
+        "in_reply_to_user_id": "1874156960628482048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991109952761721057",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sukilo_71 麻辣烫梦女"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜🥺@NashiMoe233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "NashiMoe233"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1967335109767692560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 317,
+          "like_count": 4342,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 4488
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-30T18:36:44.000Z",
+        "description": "ゆかいはん",
+        "id": "1829589054452805632",
+        "location": "🚪52绿",
+        "name": "Endorphin",
+        "pinned_tweet_id": "1981396283140292750",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950767483985817600/VjgGYzNZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 760,
+          "following_count": 297,
+          "like_count": 8711,
+          "listed_count": 1,
+          "media_count": 271,
+          "tweet_count": 4608
+        },
+        "username": "wohenhaipaT",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-31T18:13:43.000Z",
+        "description": "可以叫我小圆｜喜欢一切萌宝宝💌",
+        "id": "1874156960628482048",
+        "location": "乌鲁鲁星",
+        "name": "咕噜咕噜圆",
+        "pinned_tweet_id": "1960449804460261586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991051949249265664/TMZuDFii_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 18,
+          "like_count": 2624,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 870
+        },
+        "username": "Sukilo_71",
+        "verified": false
+      }
+    ]
+  }
+}

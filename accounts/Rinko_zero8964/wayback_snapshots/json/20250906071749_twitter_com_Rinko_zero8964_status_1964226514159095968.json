@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1964070274761936926",
+    "created_at": "2025-09-06T07:17:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-06T08:17:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964226514159095968"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "622036546",
+          "start": 0,
+          "username": "oder_666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964226514159095968",
+    "in_reply_to_user_id": "622036546",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964070274761936926",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oder_666 很痛苦的死亡方式而且容易被救回，死不透才是最痛苦的了吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1964070274761936926",
+        "created_at": "2025-09-06T07:17:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T08:17:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964226514159095968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "622036546",
+              "start": 0,
+              "username": "oder_666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964226514159095968",
+        "in_reply_to_user_id": "622036546",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964070274761936926",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oder_666 很痛苦的死亡方式而且容易被救回，死不透才是最痛苦的了吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "622036546",
+        "conversation_id": "1964070274761936926",
+        "created_at": "2025-09-05T20:56:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T21:56:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964070274761936926"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1964070274761936926",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 292,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想喝盐了怎么办 放太久了不知道有没有用 但理论上喝盐死亡并不轻松"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849043147487420416/0nrEqJTK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 260,
+          "like_count": 2406,
+          "listed_count": 2,
+          "media_count": 64,
+          "tweet_count": 3606
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2012-06-29T16:18:50.000Z",
+        "description": "09|负能|自伤|od|非二元|精神病|偶尔性发电|欢迎互fo| 可以叫我Muno|中文名是無能🥰 我的互关可以找我扩列 LGBTQ🏳️‍🌈/mtf/ftm🏳️‍⚧️友好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/oder_6661",
+                "end": 23,
+                "expanded_url": "http://ngl.link/oder_6661",
+                "start": 0,
+                "url": "https://t.co/JP9NLRoDUd"
+              }
+            ]
+          }
+        },
+        "id": "622036546",
+        "location": "精神病院",
+        "name": "むのう",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962263595401760768/LXXU7WO3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 400,
+          "following_count": 177,
+          "like_count": 6128,
+          "listed_count": 2,
+          "media_count": 146,
+          "tweet_count": 1444
+        },
+        "url": "https://t.co/JP9NLRoDUd",
+        "username": "oder_666",
+        "verified": false
+      }
+    ]
+  }
+}

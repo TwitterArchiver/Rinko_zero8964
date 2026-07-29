@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1959692453222780986",
+    "created_at": "2025-08-24T19:06:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-24T20:06:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959693894318465467"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1124658845664653314",
+          "start": 0,
+          "username": "CY_Mystica"
+        },
+        {
+          "end": 26,
+          "id": "1879395690230738944",
+          "start": 12,
+          "username": "6thCuteK1tten"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959693894318465467",
+    "in_reply_to_user_id": "1124658845664653314",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959692453222780986",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CY_Mystica @6thCuteK1tten 哦哦哦哦致幻！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1959692453222780986",
+        "created_at": "2025-08-24T19:06:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T20:06:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959693894318465467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1124658845664653314",
+              "start": 0,
+              "username": "CY_Mystica"
+            },
+            {
+              "end": 26,
+              "id": "1879395690230738944",
+              "start": 12,
+              "username": "6thCuteK1tten"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959693894318465467",
+        "in_reply_to_user_id": "1124658845664653314",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959692453222780986",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CY_Mystica @6thCuteK1tten 哦哦哦哦致幻！！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "1959692451620478977"
+          ]
+        },
+        "author_id": "1124658845664653314",
+        "conversation_id": "1959692453222780986",
+        "created_at": "2025-08-24T19:01:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T20:01:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959692453222780986"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1959692453222780986",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "做一个用户调查，以下合法物质你更想要哪一个，得票最高的我会在后续发抽奖送出几份"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849043147487420416/0nrEqJTK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 242,
+          "like_count": 2039,
+          "listed_count": 2,
+          "media_count": 46,
+          "tweet_count": 3247
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "弦月是世界上最不安的人 | od |ed |自伤 | 中文/Eng/Ita/ESP🤍#shtwt #drugtwt @kagengetsu_1备用🩵",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 48,
+                "start": 42,
+                "tag": "shtwt"
+              },
+              {
+                "end": 57,
+                "start": 49,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 71,
+                "start": 58,
+                "username": "kagengetsu_1"
+              }
+            ]
+          }
+        },
+        "id": "1124658845664653314",
+        "location": "棺材",
+        "name": "calante🌙",
+        "pinned_tweet_id": "1954639888181252378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925972758321582080/Uqi7ntt0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1247,
+          "following_count": 272,
+          "like_count": 1395,
+          "listed_count": 1,
+          "media_count": 144,
+          "tweet_count": 1654
+        },
+        "username": "CY_Mystica",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-15T05:10:34.000Z",
+        "description": "𝓢𝓬𝓲𝓮𝓷𝓽𝓲𝓼𝓽 | 𝓟𝓱𝓲𝓵𝓸𝓼𝓸𝓹𝓱𝓮𝓻 | 𝓛𝓪𝓫 𝓡𝓪𝓽｜🍧:@Chufeinya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 36,
+                "username": "Chufeinya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/6thcutek1tten1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/6thcutek1tten1",
+                "start": 0,
+                "url": "https://t.co/nRpYRqPS2U"
+              }
+            ]
+          }
+        },
+        "id": "1879395690230738944",
+        "name": "小猫",
+        "pinned_tweet_id": "1954629209571381509",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957018728383885312/iBf5ugWJ_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 420,
+          "following_count": 480,
+          "like_count": 10511,
+          "listed_count": 0,
+          "media_count": 267,
+          "tweet_count": 4441
+        },
+        "url": "https://t.co/nRpYRqPS2U",
+        "username": "6thCuteK1tten",
+        "verified": false
+      }
+    ]
+  }
+}

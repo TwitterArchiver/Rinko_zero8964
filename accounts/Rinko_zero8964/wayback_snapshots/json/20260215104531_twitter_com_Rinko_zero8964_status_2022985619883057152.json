@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2022685633484038641",
+    "created_at": "2026-02-15T10:45:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T11:45:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022985619883057152"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1609844142313553921",
+          "start": 0,
+          "username": "Nijika_overdose"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022985619883057152",
+    "in_reply_to_user_id": "1609844142313553921",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022946597890584681",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nijika_overdose 🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2022685633484038641",
+        "created_at": "2026-02-15T10:45:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T11:45:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022985619883057152"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1609844142313553921",
+              "start": 0,
+              "username": "Nijika_overdose"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022985619883057152",
+        "in_reply_to_user_id": "1609844142313553921",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022946597890584681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nijika_overdose 🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1609844142313553921",
+        "conversation_id": "2022685633484038641",
+        "created_at": "2026-02-15T08:10:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T09:10:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022946597890584681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1849043039496617984",
+              "start": 0,
+              "username": "Rinko_zero8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022946597890584681",
+        "in_reply_to_user_id": "1849043039496617984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022685633484038641",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rinko_zero8964 好萌w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ZA",
+              "full_name": "South Africa",
+              "geo": {
+                "coordinates": [
+                  24.0,
+                  -29.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我思即我在｜我是林子｜如果没有回关请私信提醒我！｜我不吸毒！！！｜性别为无、｜輪郭の定まらない位置にいた人@Psych_Angel_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 53,
+                "username": "Psych_Angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNh89"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 573,
+          "following_count": 531,
+          "like_count": 14512,
+          "listed_count": 1,
+          "media_count": 147,
+          "tweet_count": 7357
+        },
+        "url": "https://t.co/rCvc9RNh89",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-02T09:28:57.000Z",
+        "description": "💛🤍💜🖤在读医学牲｜喜欢fps和单机丨这是什么？@Nijika_Dark\n｜from @_mucha_000｜小姑子猫猫@ZTYQ_0319｜欢迎重庆推油找我玩（",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 24,
+                "username": "Nijika_Dark"
+              },
+              {
+                "end": 54,
+                "start": 43,
+                "username": "_mucha_000"
+              },
+              {
+                "end": 70,
+                "start": 60,
+                "username": "ZTYQ_0319"
+              }
+            ]
+          }
+        },
+        "id": "1609844142313553921",
+        "location": "参宿四",
+        "name": "虹夏🖤胺樂天使",
+        "pinned_tweet_id": "2018816555757564410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009316971104620545/f4923SY0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1151,
+          "following_count": 301,
+          "like_count": 2894,
+          "listed_count": 2,
+          "media_count": 200,
+          "tweet_count": 2382
+        },
+        "username": "Nijika_overdose",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1988447798736388096"
+      ],
+      "media_source_tweet_id": [
+        "1988447808958197921"
+      ]
+    },
+    "author_id": "1849043039496617984",
+    "conversation_id": "1988642447086526536",
+    "created_at": "2025-11-12T16:18:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T17:18:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988642447086526536"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1786782750877302784",
+          "start": 3,
+          "username": "strwbberishortc"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0nAj2DOVvX",
+          "end": 44,
+          "expanded_url": "https://x.com/strwbberishortc/status/1988447808958197921/photo/1",
+          "media_key": "3_1988447798736388096",
+          "start": 21,
+          "url": "https://t.co/0nAj2DOVvX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988642447086526536",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 875
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988447808958197921",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @strwbberishortc: https://t.co/0nAj2DOVvX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 363,
+        "media_key": "3_1988447798736388096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5hivNoXAAAp_pB.jpg",
+        "width": 682
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988447798736388096"
+          ],
+          "media_source_tweet_id": [
+            "1988447808958197921"
+          ]
+        },
+        "author_id": "1849043039496617984",
+        "conversation_id": "1988642447086526536",
+        "created_at": "2025-11-12T16:18:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T17:18:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988642447086526536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1786782750877302784",
+              "start": 3,
+              "username": "strwbberishortc"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0nAj2DOVvX",
+              "end": 44,
+              "expanded_url": "https://x.com/strwbberishortc/status/1988447808958197921/photo/1",
+              "media_key": "3_1988447798736388096",
+              "start": 21,
+              "url": "https://t.co/0nAj2DOVvX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988642447086526536",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 875
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988447808958197921",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @strwbberishortc: https://t.co/0nAj2DOVvX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988447798736388096"
+          ]
+        },
+        "author_id": "1786782750877302784",
+        "conversation_id": "1988447808958197921",
+        "created_at": "2025-11-12T03:24:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T04:24:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988447808958197921"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0nAj2DOVvX",
+              "end": 23,
+              "expanded_url": "https://x.com/strwbberishortc/status/1988447808958197921/photo/1",
+              "media_key": "3_1988447798736388096",
+              "start": 0,
+              "url": "https://t.co/0nAj2DOVvX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988447808958197921",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 216,
+          "impression_count": 21536,
+          "like_count": 3436,
+          "quote_count": 17,
+          "reply_count": 6,
+          "retweet_count": 875
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/0nAj2DOVvX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜🥺@NashiMoe233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "NashiMoe233"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1967335109767692560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 286,
+          "like_count": 3575,
+          "listed_count": 1,
+          "media_count": 80,
+          "tweet_count": 4286
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-04T15:40:08.000Z",
+        "description": "pull it together ︴proud femboy owner ︴ DMs open",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "strwbberishortc.straw.page",
+                "end": 23,
+                "expanded_url": "https://strwbberishortc.straw.page",
+                "start": 0,
+                "url": "https://t.co/cZgl66jYWa"
+              }
+            ]
+          }
+        },
+        "id": "1786782750877302784",
+        "location": "１６  ︴C W : ? ? ?",
+        "name": "♡",
+        "pinned_tweet_id": "1965456954098417859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988093904990715904/ezDVE-75_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2903,
+          "following_count": 497,
+          "like_count": 1438,
+          "listed_count": 33,
+          "media_count": 1395,
+          "tweet_count": 3510
+        },
+        "url": "https://t.co/cZgl66jYWa",
+        "username": "strwbberishortc",
+        "verified": false
+      }
+    ]
+  }
+}

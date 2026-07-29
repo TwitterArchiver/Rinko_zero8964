@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1967660923444924817",
+    "created_at": "2025-09-15T18:44:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-15T19:44:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1967660923444924817"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/newpsg_officia…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/newpsg_official/status/1967513734672257306",
+          "start": 14,
+          "url": "https://t.co/rKCxA4hWZx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967660923444924817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967513734672257306",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个s妹好萌我喜欢这个丸子 https://t.co/rKCxA4hWZx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1967256653738446848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G00ZgOwakAATMRn.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1967660923444924817",
+        "created_at": "2025-09-15T18:44:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T19:44:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967660923444924817"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/newpsg_officia…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/newpsg_official/status/1967513734672257306",
+              "start": 14,
+              "url": "https://t.co/rKCxA4hWZx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967660923444924817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967513734672257306",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个s妹好萌我喜欢这个丸子 https://t.co/rKCxA4hWZx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967256653738446848"
+          ]
+        },
+        "author_id": "1800825642935865344",
+        "conversation_id": "1967513734672257306",
+        "created_at": "2025-09-15T09:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T10:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967513734672257306"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 110,
+              "start": 102,
+              "tag": "Newパンスト"
+            },
+            {
+              "end": 118,
+              "start": 111,
+              "tag": "NewPSG"
+            }
+          ],
+          "urls": [
+            {
+              "description": "ビッチ天使が還ってきた!! 今石洋之×TRIGGERによる新作アニメーション『New PANTY & STOCKING with GARTERBELT』2025年7月9日スタート！",
+              "display_url": "newpsg.com/onair/",
+              "end": 99,
+              "expanded_url": "http://newpsg.com/onair/",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1967611702503157761/cjGVl0wv?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1967611702503157761/cjGVl0wv?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 76,
+              "status": 200,
+              "title": "ON AIR｜New PANTY & STOCKING with GARTERBELT",
+              "unwound_url": "https://newpsg.com/onair/",
+              "url": "https://t.co/DwKeKTW39p"
+            },
+            {
+              "display_url": "pic.x.com/l8gVv4YGD4",
+              "end": 142,
+              "expanded_url": "https://x.com/NEWPSG_official/status/1967513734672257306/photo/1",
+              "media_key": "3_1967256653738446848",
+              "start": 119,
+              "url": "https://t.co/l8gVv4YGD4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967513734672257306",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 230,
+          "impression_count": 88193,
+          "like_count": 4559,
+          "quote_count": 144,
+          "reply_count": 14,
+          "retweet_count": 514
+        },
+        "reply_settings": "everyone",
+        "text": "⚡#11 先行カット公開⚡\n\n9月17日（水）25時～放送の#11の先行カットを公開！\n\n放送・配信をお楽しみに❤️‍🔥\n\n▼放送・配信情報はこちら▼\nhttps://t.co/DwKeKTW39p \n\n#Newパンスト #NewPSG https://t.co/l8gVv4YGD4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 269,
+          "like_count": 2840,
+          "listed_count": 2,
+          "media_count": 68,
+          "tweet_count": 3874
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-12T09:41:19.000Z",
+        "description": "『New PANTY ＆ STOCKING with GARTERBELT』 7月9日より好評放送・配信中！ 制作：#TRIGGER 監督：#今石洋之 Official account for the New PANTY ＆ STOCKING with GARTERBELT⚡️ #NewPSG／#Newパンスト",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "TRIGGER"
+              },
+              {
+                "end": 75,
+                "start": 70,
+                "tag": "今石洋之"
+              },
+              {
+                "end": 147,
+                "start": 140,
+                "tag": "NewPSG"
+              },
+              {
+                "end": 156,
+                "start": 148,
+                "tag": "Newパンスト"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "newpsg.com",
+                "end": 23,
+                "expanded_url": "https://newpsg.com/",
+                "start": 0,
+                "url": "https://t.co/YyM5mgjMWh"
+              }
+            ]
+          }
+        },
+        "id": "1800825642935865344",
+        "location": "Daten City",
+        "name": "New PANTY ＆ STOCKING with GARTERBELT Official",
+        "pinned_tweet_id": "1966951702999036000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809029454897033219/X5u3nk97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144546,
+          "following_count": 24,
+          "like_count": 7,
+          "listed_count": 258,
+          "media_count": 754,
+          "tweet_count": 1616
+        },
+        "url": "https://t.co/YyM5mgjMWh",
+        "username": "NEWPSG_official",
+        "verified": true
+      }
+    ]
+  }
+}

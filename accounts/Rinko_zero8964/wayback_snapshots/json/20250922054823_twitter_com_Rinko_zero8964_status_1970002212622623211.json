@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1970001857180570045",
+    "created_at": "2025-09-22T05:48:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-22T06:48:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970002212622623211"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1700948552078467072",
+          "start": 0,
+          "username": "Overdose_DBD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970002212622623211",
+    "in_reply_to_user_id": "1700948552078467072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970001857180570045",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Overdose_DBD 你自己实验那么多有成功案例吗，自己不也躁狂了，我就举例说彩加那个报告你真正反解离成功了吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1970001857180570045",
+        "created_at": "2025-09-22T05:48:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T06:48:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970002212622623211"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1700948552078467072",
+              "start": 0,
+              "username": "Overdose_DBD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970002212622623211",
+        "in_reply_to_user_id": "1700948552078467072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970001857180570045",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Overdose_DBD 你自己实验那么多有成功案例吗，自己不也躁狂了，我就举例说彩加那个报告你真正反解离成功了吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700948552078467072",
+        "conversation_id": "1970001857180570045",
+        "created_at": "2025-09-22T05:46:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T06:46:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970001857180570045"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Overdose_DBD/s…",
+              "end": 29,
+              "expanded_url": "https://x.com/Overdose_DBD/status/1760350107839418741",
+              "start": 6,
+              "url": "https://t.co/XoCl4zCfMW"
+            },
+            {
+              "display_url": "x.com/Rinko_zero8964…",
+              "end": 178,
+              "expanded_url": "https://twitter.com/Rinko_zero8964/status/1969999903767318655",
+              "start": 155,
+              "url": "https://t.co/hW4E94zI7o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970001857180570045",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969999903767318655",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "药物被验证\nhttps://t.co/XoCl4zCfMW\n2024.01我了解到苏镁。我自己实验了一个月，在这期间初版恢复术打码了苏镁，直到链接所示验证无误后释放\n随我本人继续实验和收报告，四五个月内，苏镁条目又是砍剂量，又是补上副作用，到现在你们能看到的样子\n只不过某些药卫军来得晚，没见过就以为没有罢了 https://t.co/hW4E94zI7o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 277,
+          "like_count": 3128,
+          "listed_count": 2,
+          "media_count": 74,
+          "tweet_count": 4025
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-10T19:05:21.000Z",
+        "description": "旧名义：エフェメラリズム ~ Ephemeralism 刹那之物主义\n谁的附庸？",
+        "id": "1700948552078467072",
+        "name": "超级后后后藤",
+        "pinned_tweet_id": "1777999878117097536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969951860279975936/NhjtbqPh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3661,
+          "following_count": 57,
+          "like_count": 3,
+          "listed_count": 10,
+          "media_count": 409,
+          "tweet_count": 5592
+        },
+        "username": "Overdose_DBD",
+        "verified": false
+      }
+    ]
+  }
+}

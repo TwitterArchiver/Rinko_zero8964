@@ -1,0 +1,377 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2006792995182407680"
+      ],
+      "media_source_tweet_id": [
+        "2006793003055329605"
+      ]
+    },
+    "author_id": "1849043039496617984",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2007079598794940714",
+    "created_at": "2026-01-02T13:20:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T14:20:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007079598794940714"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1777109233399459840",
+          "start": 3,
+          "username": "keyureii"
+        }
+      ],
+      "urls": [
+        {
+          "description": "𖤐 the official server for keyureii followers , lots of nso emotes / stickers too (˵> - <˵) | 256 members",
+          "display_url": "discord.gg/keyureii",
+          "end": 41,
+          "expanded_url": "https://discord.gg/keyureii",
+          "images": [
+            {
+              "height": 288,
+              "url": "https://pbs.twimg.com/news_img/2006793005609660416/8KMIDJju?format=jpg&name=orig",
+              "width": 512
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2006793005609660416/8KMIDJju?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 18,
+          "status": 200,
+          "title": "Join the keyureii Discord Server!",
+          "unwound_url": "https://discord.com/invite/keyureii",
+          "url": "https://t.co/Iep1inKrjK"
+        },
+        {
+          "display_url": "pic.x.com/jAdyKOfPdP",
+          "end": 69,
+          "expanded_url": "https://x.com/keyureii/status/2006793003055329605/photo/1",
+          "media_key": "16_2006792995182407680",
+          "start": 46,
+          "url": "https://t.co/jAdyKOfPdP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007079598794940714",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006793003055329605",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @keyureii: ˗ˏ𖤐 https://t.co/Iep1inKrjK 𖤐ˎ˗ https://t.co/jAdyKOfPdP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 498,
+        "media_key": "16_2006792995182407680",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/G9mPmL-W8AAAfXo.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/G9mPmL-W8AAAfXo.mp4"
+          }
+        ],
+        "width": 498
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2006792995182407680"
+          ],
+          "media_source_tweet_id": [
+            "2006793003055329605"
+          ]
+        },
+        "author_id": "1849043039496617984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2007079598794940714",
+        "created_at": "2026-01-02T13:20:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T14:20:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007079598794940714"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1777109233399459840",
+              "start": 3,
+              "username": "keyureii"
+            }
+          ],
+          "urls": [
+            {
+              "description": "𖤐 the official server for keyureii followers , lots of nso emotes / stickers too (˵> - <˵) | 256 members",
+              "display_url": "discord.gg/keyureii",
+              "end": 41,
+              "expanded_url": "https://discord.gg/keyureii",
+              "images": [
+                {
+                  "height": 288,
+                  "url": "https://pbs.twimg.com/news_img/2006793005609660416/8KMIDJju?format=jpg&name=orig",
+                  "width": 512
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2006793005609660416/8KMIDJju?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 18,
+              "status": 200,
+              "title": "Join the keyureii Discord Server!",
+              "unwound_url": "https://discord.com/invite/keyureii",
+              "url": "https://t.co/Iep1inKrjK"
+            },
+            {
+              "display_url": "pic.x.com/jAdyKOfPdP",
+              "end": 69,
+              "expanded_url": "https://x.com/keyureii/status/2006793003055329605/photo/1",
+              "media_key": "16_2006792995182407680",
+              "start": 46,
+              "url": "https://t.co/jAdyKOfPdP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007079598794940714",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006793003055329605",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @keyureii: ˗ˏ𖤐 https://t.co/Iep1inKrjK 𖤐ˎ˗ https://t.co/jAdyKOfPdP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2006792995182407680"
+          ]
+        },
+        "author_id": "1777109233399459840",
+        "conversation_id": "2006793003055329605",
+        "created_at": "2026-01-01T18:21:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T19:21:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006793003055329605"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "𖤐 the official server for keyureii followers , lots of nso emotes / stickers too (˵> - <˵) | 256 members",
+              "display_url": "discord.gg/keyureii",
+              "end": 27,
+              "expanded_url": "https://discord.gg/keyureii",
+              "images": [
+                {
+                  "height": 288,
+                  "url": "https://pbs.twimg.com/news_img/2006793005609660416/8KMIDJju?format=jpg&name=orig",
+                  "width": 512
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2006793005609660416/8KMIDJju?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 4,
+              "status": 200,
+              "title": "Join the keyureii Discord Server!",
+              "unwound_url": "https://discord.com/invite/keyureii",
+              "url": "https://t.co/Iep1inKrjK"
+            },
+            {
+              "display_url": "pic.x.com/jAdyKOfPdP",
+              "end": 55,
+              "expanded_url": "https://x.com/keyureii/status/2006793003055329605/photo/1",
+              "media_key": "16_2006792995182407680",
+              "start": 32,
+              "url": "https://t.co/jAdyKOfPdP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006793003055329605",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 3464,
+          "like_count": 220,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 25
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "˗ˏ𖤐 https://t.co/Iep1inKrjK 𖤐ˎ˗ https://t.co/jAdyKOfPdP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜如果没有回关请私信提醒我！｜我不吸毒！！！｜小猫我喜欢你超喜欢我爱你@psych_angel_｜性别为无、",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 45,
+                "username": "psych_angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNh89"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1999352315241988490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 488,
+          "following_count": 459,
+          "like_count": 9285,
+          "listed_count": 1,
+          "media_count": 128,
+          "tweet_count": 6022
+        },
+        "url": "https://t.co/rCvc9RNh89",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-07T23:00:59.000Z",
+        "description": "˗ˏ𖤐  vtuber / illustrator  (˵˃ -  ˂˵)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/keyureii",
+                "end": 23,
+                "expanded_url": "http://twitch.tv/keyureii",
+                "start": 0,
+                "url": "https://t.co/PGAFCYaXtQ"
+              }
+            ]
+          }
+        },
+        "id": "1777109233399459840",
+        "location": "they / them",
+        "name": "key",
+        "pinned_tweet_id": "2006793003055329605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999602205167382531/nUnWbU6M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5027,
+          "following_count": 16,
+          "like_count": 162,
+          "listed_count": 11,
+          "media_count": 26,
+          "tweet_count": 27
+        },
+        "url": "https://t.co/PGAFCYaXtQ",
+        "username": "keyureii",
+        "verified": false
+      }
+    ]
+  }
+}

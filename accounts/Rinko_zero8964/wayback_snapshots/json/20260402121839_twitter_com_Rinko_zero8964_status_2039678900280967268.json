@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2039362664212713555",
+    "created_at": "2026-04-02T12:18:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T13:18:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039678900280967268"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1986452594206838785",
+          "start": 0,
+          "username": "Idontselldrug"
+        },
+        {
+          "end": 26,
+          "id": "2029243756529238018",
+          "start": 15,
+          "username": "Kusutobi_7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039678900280967268",
+    "in_reply_to_user_id": "1986452594206838785",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039613603389792692",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Idontselldrug @Kusutobi_7 你也有一样的吗😯"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2039613601682685952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE4pw69aAAAqRcF.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2039362664212713555",
+        "created_at": "2026-04-02T12:18:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T13:18:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039678900280967268"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1986452594206838785",
+              "start": 0,
+              "username": "Idontselldrug"
+            },
+            {
+              "end": 26,
+              "id": "2029243756529238018",
+              "start": 15,
+              "username": "Kusutobi_7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039678900280967268",
+        "in_reply_to_user_id": "1986452594206838785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039613603389792692",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Idontselldrug @Kusutobi_7 你也有一样的吗😯"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039613601682685952"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2039362664212713555",
+        "created_at": "2026-04-02T07:59:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T08:59:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039613603389792692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2029243756529238018",
+              "start": 0,
+              "username": "Kusutobi_7"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JHOUgaP32R",
+              "end": 39,
+              "expanded_url": "https://x.com/Idontselldrug/status/2039613603389792692/photo/1",
+              "media_key": "3_2039613601682685952",
+              "start": 16,
+              "url": "https://t.co/JHOUgaP32R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039613603389792692",
+        "in_reply_to_user_id": "2029243756529238018",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 144,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039362664212713555",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kusutobi_7 我也有 https://t.co/JHOUgaP32R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思う、ゆえに我あり｜ 我是林子｜性别为无、｜寒くなってきたね……もう少しだけ、いい？｜intp-t｜asd/焦虑障碍｜🧬今日也想成为biohacker｜好妈妈们@asabakasaiko @loveforeversfy|bro @BelovedUren8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 81,
+                "username": "asabakasaiko"
+              },
+              {
+                "end": 110,
+                "start": 95,
+                "username": "loveforeversfy"
+              },
+              {
+                "end": 131,
+                "start": 115,
+                "username": "BelovedUren8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wakaba_rinko",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wakaba_rinko",
+                "start": 0,
+                "url": "https://t.co/zWqK1n9RJg"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "Ask me any u want→",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 650,
+          "following_count": 627,
+          "like_count": 16911,
+          "listed_count": 1,
+          "media_count": 164,
+          "tweet_count": 8147
+        },
+        "url": "https://t.co/zWqK1n9RJg",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 967,
+          "following_count": 237,
+          "like_count": 1536,
+          "listed_count": 0,
+          "media_count": 335,
+          "tweet_count": 2276
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-04T17:13:25.000Z",
+        "description": "Kusutobi秽土转生个人账号/oder/致幻剂的信徒/留学中/酒精大好き/精神状态可能良好?/可咨询药物或者产品问题/被封四次了详细产品咨询清私信/问题咨询https://t.co/cyNJPUUD8w /只发发日常或者有关NY化学的内容",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kusutobi",
+                "end": 103,
+                "expanded_url": "https://ngl.link/kusutobi",
+                "start": 80,
+                "url": "https://t.co/cyNJPUUD8w"
+              }
+            ]
+          }
+        },
+        "id": "2029243756529238018",
+        "name": "Kusutobi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033949396233072641/zRZ6XmJ3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 13,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 10
+        },
+        "username": "Kusutobi_7",
+        "verified": false
+      }
+    ]
+  }
+}

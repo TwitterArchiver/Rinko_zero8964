@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2042478508728074241"
+      ],
+      "media_source_tweet_id": [
+        "2042478630174146892"
+      ]
+    },
+    "author_id": "1849043039496617984",
+    "conversation_id": "2042687784872481252",
+    "created_at": "2026-04-10T19:34:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T20:34:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042687784872481252"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1935420089186336768",
+          "start": 3,
+          "username": "ASplendour15"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6NFyFVzrKi",
+          "end": 78,
+          "expanded_url": "https://x.com/ASplendour15/status/2042478630174146892/video/1",
+          "media_key": "13_2042478508728074241",
+          "start": 55,
+          "url": "https://t.co/6NFyFVzrKi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042687784872481252",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042478630174146892",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ASplendour15: 要是账号能拿回来就好了……我补档怎么可能补的完呀。可是希望已经越来越渺茫 https://t.co/6NFyFVzrKi"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 75800,
+        "height": 720,
+        "media_key": "13_2042478508728074241",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2042478508728074241/img/Xm75li-3dj-Zx0eu.jpg",
+        "public_metrics": {
+          "view_count": 366
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042478508728074241/vid/avc1/360x270/vpScvLS5kgxQxUae.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042478508728074241/vid/avc1/480x360/WnjAuC7D3Ei9x6nP.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042478508728074241/vid/avc1/960x720/lCi9ulAImrNNZVui.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2042478508728074241/pl/iRj94OLw-_oK1ish.m3u8"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2042478508728074241"
+          ],
+          "media_source_tweet_id": [
+            "2042478630174146892"
+          ]
+        },
+        "author_id": "1849043039496617984",
+        "conversation_id": "2042687784872481252",
+        "created_at": "2026-04-10T19:34:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T20:34:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042687784872481252"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1935420089186336768",
+              "start": 3,
+              "username": "ASplendour15"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6NFyFVzrKi",
+              "end": 78,
+              "expanded_url": "https://x.com/ASplendour15/status/2042478630174146892/video/1",
+              "media_key": "13_2042478508728074241",
+              "start": 55,
+              "url": "https://t.co/6NFyFVzrKi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042687784872481252",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042478630174146892",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ASplendour15: 要是账号能拿回来就好了……我补档怎么可能补的完呀。可是希望已经越来越渺茫 https://t.co/6NFyFVzrKi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2042478508728074241"
+          ]
+        },
+        "author_id": "1935420089186336768",
+        "conversation_id": "2042478630174146892",
+        "created_at": "2026-04-10T05:43:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T06:43:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042478630174146892"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6NFyFVzrKi",
+              "end": 60,
+              "expanded_url": "https://x.com/ASplendour15/status/2042478630174146892/video/1",
+              "media_key": "13_2042478508728074241",
+              "start": 37,
+              "url": "https://t.co/6NFyFVzrKi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042478630174146892",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 795,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "要是账号能拿回来就好了……我补档怎么可能补的完呀。可是希望已经越来越渺茫 https://t.co/6NFyFVzrKi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思う、ゆえに我あり｜ 我是林子｜性别为无、｜寒くなってきたね……もう少しだけ、いい？｜intp-t｜ASD/OCD/焦虑障碍｜🧬今日也想成为biohacker｜好妈妈们@Misaki11137 @loveforeversfy|bro @BelovedUren8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 85,
+                "username": "Misaki11137"
+              },
+              {
+                "end": 113,
+                "start": 98,
+                "username": "loveforeversfy"
+              },
+              {
+                "end": 134,
+                "start": 118,
+                "username": "BelovedUren8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wakaba_rinko",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wakaba_rinko",
+                "start": 0,
+                "url": "https://t.co/zWqK1n9RJg"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "Ask me any u want→",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 657,
+          "following_count": 636,
+          "like_count": 17230,
+          "listed_count": 1,
+          "media_count": 169,
+          "tweet_count": 8292
+        },
+        "url": "https://t.co/zWqK1n9RJg",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-18T19:31:31.000Z",
+        "description": "前世@AnIncandescence\n我会一直恨平台不公的判决和举报的人…",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "AnIncandescence"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/anincandescenc…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/anincandescence1",
+                "start": 0,
+                "url": "https://t.co/exk0RhRMOb"
+              }
+            ]
+          }
+        },
+        "id": "1935420089186336768",
+        "location": "夜航忒修斯",
+        "name": "炽烈已极 到此为止吧。",
+        "pinned_tweet_id": "2041092518423753008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041093049498079232/MhcvRoGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 462,
+          "following_count": 109,
+          "like_count": 323,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 173
+        },
+        "url": "https://t.co/exk0RhRMOb",
+        "username": "ASplendour15",
+        "verified": false
+      }
+    ]
+  }
+}

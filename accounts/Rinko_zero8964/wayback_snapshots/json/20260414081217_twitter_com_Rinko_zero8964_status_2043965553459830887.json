@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2043965553459830887",
+    "created_at": "2026-04-14T08:12:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T09:12:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043965553459830887"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1434571126273806338",
+          "start": 3,
+          "username": "KyoukoHori_cry"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043965553459830887",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043963022654484879",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KyoukoHori_cry: 我操你妈的为什么我朋友对象里头老是出现这样的傻逼，，，\n转帖并在这条底下评论“xy染mercy闹麻了”带截图找我可以以180/t 21mg4homet，，，，或者80/t 10mg3mepcp换购，仅限10人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2043965553459830887",
+        "created_at": "2026-04-14T08:12:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T09:12:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043965553459830887"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1434571126273806338",
+              "start": 3,
+              "username": "KyoukoHori_cry"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043965553459830887",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043963022654484879",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KyoukoHori_cry: 我操你妈的为什么我朋友对象里头老是出现这样的傻逼，，，\n转帖并在这条底下评论“xy染mercy闹麻了”带截图找我可以以180/t 21mg4homet，，，，或者80/t 10mg3mepcp换购，仅限10人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1434571126273806338",
+        "conversation_id": "2043963022654484879",
+        "created_at": "2026-04-14T08:02:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T09:02:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043963022654484879"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rinko_zero8964…",
+              "end": 128,
+              "expanded_url": "https://twitter.com/rinko_zero8964/status/2043951296869511406",
+              "start": 105,
+              "url": "https://t.co/ctmKjW6Yvl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043963022654484879",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043951296869511406",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我操你妈的为什么我朋友对象里头老是出现这样的傻逼，，，\n转帖并在这条底下评论“xy染mercy闹麻了”带截图找我可以以180/t 21mg4homet，，，，或者80/t 10mg3mepcp换购，仅限10人 https://t.co/ctmKjW6Yvl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思う、ゆえに我あり｜ 我是林子｜性别为无、｜寒くなってきたね……もう少しだけ、いい？｜intp-t｜ASD/OCD/焦虑障碍｜🧬今日也想成为biohacker｜好妈妈们@Misaki11137 @loveforeversfy|bro @BelovedUren8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 85,
+                "username": "Misaki11137"
+              },
+              {
+                "end": 113,
+                "start": 98,
+                "username": "loveforeversfy"
+              },
+              {
+                "end": 134,
+                "start": 118,
+                "username": "BelovedUren8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wakaba_rinko",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wakaba_rinko",
+                "start": 0,
+                "url": "https://t.co/zWqK1n9RJg"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "Ask me any u want→",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 658,
+          "following_count": 640,
+          "like_count": 17402,
+          "listed_count": 1,
+          "media_count": 172,
+          "tweet_count": 8362
+        },
+        "url": "https://t.co/zWqK1n9RJg",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-05T17:36:38.000Z",
+        "description": "堀京子在努力活下去｜随机掉落神秘魔法糖果｜messy｜双相I型｜重焦｜丢失了重要的东西｜惹了我我就要欺负人了💢｜好喜欢大家｜泉水复活点https://t.co/t060g3Tru9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me//KyoukoHori_ne…",
+                "end": 90,
+                "expanded_url": "http://t.me//KyoukoHori_never_cry",
+                "start": 67,
+                "url": "https://t.co/t060g3Tru9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+6QHKIGXTsg83N…",
+                "end": 23,
+                "expanded_url": "https://t.me/+6QHKIGXTsg83NWE5",
+                "start": 0,
+                "url": "https://t.co/Z5d6dx1Eft"
+              }
+            ]
+          }
+        },
+        "id": "1434571126273806338",
+        "location": "魔法糖果掉落点➡️",
+        "name": "KyoukoHori",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040098890008211456/uOX8wfWI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 45,
+          "like_count": 24,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 31
+        },
+        "url": "https://t.co/Z5d6dx1Eft",
+        "username": "KyoukoHori_cry",
+        "verified": false
+      }
+    ]
+  }
+}

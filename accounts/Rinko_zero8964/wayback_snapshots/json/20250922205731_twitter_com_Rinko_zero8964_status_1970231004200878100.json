@@ -1,0 +1,164 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1970231004200878100",
+    "created_at": "2025-09-22T20:57:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-22T21:57:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970231004200878100"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1849043039496617984",
+          "start": 3,
+          "username": "Rinko_zero8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970231004200878100",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970230263063142526",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rinko_zero8964: 我不在乎后藤是否回归，我不在乎后藤的罪名是否能洗清，我不在乎🍐和后藤之间发生了什么，我不在乎你们攻不攻击🍐，我只是在说事实，在说你555不应该再在这里待下去的事实，为了证明这一点我不得不联系odw以前那些人找证据，才会牵扯到有关🍐，但实际…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1970231004200878100",
+        "created_at": "2025-09-22T20:57:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T21:57:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970231004200878100"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1849043039496617984",
+              "start": 3,
+              "username": "Rinko_zero8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970231004200878100",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970230263063142526",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rinko_zero8964: 我不在乎后藤是否回归，我不在乎后藤的罪名是否能洗清，我不在乎🍐和后藤之间发生了什么，我不在乎你们攻不攻击🍐，我只是在说事实，在说你555不应该再在这里待下去的事实，为了证明这一点我不得不联系odw以前那些人找证据，才会牵扯到有关🍐，但实际…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1970229192852971663",
+        "created_at": "2025-09-22T20:54:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T21:54:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970230263063142526"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1970230263063142526",
+        "in_reply_to_user_id": "1849043039496617984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970229192852971663",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不在乎后藤是否回归，我不在乎后藤的罪名是否能洗清，我不在乎🍐和后藤之间发生了什么，我不在乎你们攻不攻击🍐，我只是在说事实，在说你555不应该再在这里待下去的事实，为了证明这一点我不得不联系odw以前那些人找证据，才会牵扯到有关🍐，但实际上我的截图没有一张是🍐提供的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 279,
+          "like_count": 3196,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 4148
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      }
+    ]
+  }
+}

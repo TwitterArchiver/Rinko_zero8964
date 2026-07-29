@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2038590326546538870",
+    "created_at": "2026-03-30T12:13:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T13:13:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038590326546538870"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/shungleemain/s…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/shungleemain/status/2038576639383318558",
+          "start": 13,
+          "url": "https://t.co/XLje487pDD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038590326546538870",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038576639383318558",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "媽媽⋯喜歡你，和我在一起 https://t.co/XLje487pDD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 466,
+        "media_key": "3_2038576617933721600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEp6ohdbUAA4RbZ.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2038590326546538870",
+        "created_at": "2026-03-30T12:13:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T13:13:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038590326546538870"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shungleemain/s…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/shungleemain/status/2038576639383318558",
+              "start": 13,
+              "url": "https://t.co/XLje487pDD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038590326546538870",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038576639383318558",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "媽媽⋯喜歡你，和我在一起 https://t.co/XLje487pDD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038576617933721600"
+          ]
+        },
+        "author_id": "1756246342676979713",
+        "conversation_id": "2038576639383318558",
+        "created_at": "2026-03-30T11:18:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T12:18:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038576639383318558"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WjxA2x6dcj",
+              "end": 26,
+              "expanded_url": "https://x.com/shungleemain/status/2038576639383318558/photo/1",
+              "media_key": "3_2038576617933721600",
+              "start": 3,
+              "url": "https://t.co/WjxA2x6dcj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038576639383318558",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 56,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "帥！ https://t.co/WjxA2x6dcj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思う、ゆえに我あり｜ 我是林子｜性别为无、｜寒くなってきたね……もう少しだけ、いい？｜intp-t｜asd/焦虑障碍｜🧬今日也想成为biohacker｜好妈妈们@asabakasaiko @loveforeversfy|bro @BelovedUren8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 81,
+                "username": "asabakasaiko"
+              },
+              {
+                "end": 110,
+                "start": 95,
+                "username": "loveforeversfy"
+              },
+              {
+                "end": 131,
+                "start": 115,
+                "username": "BelovedUren8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wakaba_rinko",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wakaba_rinko",
+                "start": 0,
+                "url": "https://t.co/zWqK1n9RJg"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "Ask me any u want→",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 638,
+          "following_count": 615,
+          "like_count": 16754,
+          "listed_count": 1,
+          "media_count": 164,
+          "tweet_count": 8101
+        },
+        "url": "https://t.co/zWqK1n9RJg",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-10T09:19:19.000Z",
+        "description": "斷糖順直男，性別認同真是男 | \n超級好詭秘 @bolckAshley\n可愛的Mercy @MercyWithU\n可愛的蜜獾 @kittymi030\n超級好詭秘 @Akinoyo_desu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "bolckAshley"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "MercyWithU"
+              },
+              {
+                "end": 74,
+                "start": 63,
+                "username": "kittymi030"
+              },
+              {
+                "end": 94,
+                "start": 81,
+                "username": "Akinoyo_desu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/shungleemain",
+                "end": 23,
+                "expanded_url": "https://t.me/shungleemain",
+                "start": 0,
+                "url": "https://t.co/ZWd7sZXvOA"
+              }
+            ]
+          }
+        },
+        "id": "1756246342676979713",
+        "location": "來看生力麵的TG→",
+        "name": "聖米格爾生力麵",
+        "pinned_tweet_id": "2020337956779962419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019219421693374464/PaBT0amc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2294,
+          "following_count": 610,
+          "like_count": 2791,
+          "listed_count": 7,
+          "media_count": 595,
+          "tweet_count": 6734
+        },
+        "url": "https://t.co/ZWd7sZXvOA",
+        "username": "shungleemain",
+        "verified": false
+      }
+    ]
+  }
+}

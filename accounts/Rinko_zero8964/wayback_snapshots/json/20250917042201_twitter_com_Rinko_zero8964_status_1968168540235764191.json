@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1968168532744736768"
+      ]
+    },
+    "author_id": "1849043039496617984",
+    "conversation_id": "1968168540235764191",
+    "created_at": "2025-09-17T04:22:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T05:22:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1968168540235764191"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/aEXh7oPBpc",
+          "end": 29,
+          "expanded_url": "https://x.com/Rinko_zero8964/status/1968168540235764191/photo/1",
+          "media_key": "3_1968168532744736768",
+          "start": 6,
+          "url": "https://t.co/aEXh7oPBpc"
+        },
+        {
+          "display_url": "x.com/rinko_zero8964…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/rinko_zero8964/status/1967661256946684127",
+          "start": 30,
+          "url": "https://t.co/2WXDUHZmU9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968168540235764191",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967661256946684127",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "先吃一点吧 https://t.co/aEXh7oPBpc https://t.co/2WXDUHZmU9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1968168532744736768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1BW2kxaEAAKgOX.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968168532744736768"
+          ]
+        },
+        "author_id": "1849043039496617984",
+        "conversation_id": "1968168540235764191",
+        "created_at": "2025-09-17T04:22:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T05:22:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968168540235764191"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aEXh7oPBpc",
+              "end": 29,
+              "expanded_url": "https://x.com/Rinko_zero8964/status/1968168540235764191/photo/1",
+              "media_key": "3_1968168532744736768",
+              "start": 6,
+              "url": "https://t.co/aEXh7oPBpc"
+            },
+            {
+              "display_url": "x.com/rinko_zero8964…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/rinko_zero8964/status/1967661256946684127",
+              "start": 30,
+              "url": "https://t.co/2WXDUHZmU9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968168540235764191",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967661256946684127",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "先吃一点吧 https://t.co/aEXh7oPBpc https://t.co/2WXDUHZmU9"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1967661256946684127",
+        "created_at": "2025-09-15T18:46:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T19:46:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967661256946684127"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rinko_zero8964…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/rinko_zero8964/status/1967197920593367324",
+              "start": 9,
+              "url": "https://t.co/taw70SgcbF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967661256946684127",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 324,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967197920593367324",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我想要就会得到😋 https://t.co/taw70SgcbF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 274,
+          "like_count": 2985,
+          "listed_count": 2,
+          "media_count": 69,
+          "tweet_count": 3924
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      }
+    ]
+  }
+}

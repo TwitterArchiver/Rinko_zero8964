@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1966870553819836889",
+    "created_at": "2025-09-14T02:29:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T03:29:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967053109152399726"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1124658845664653314",
+          "start": 0,
+          "username": "CY_Mystica"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967053109152399726",
+    "in_reply_to_user_id": "1124658845664653314",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966870553819836889",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CY_Mystica 已经不是全面打击策划药了，是你们搞啥他们追着咬啥"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1966870544105844736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0u6VsSbsAAT5IH.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1966870553819836889",
+        "created_at": "2025-09-14T02:29:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T03:29:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967053109152399726"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1124658845664653314",
+              "start": 0,
+              "username": "CY_Mystica"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967053109152399726",
+        "in_reply_to_user_id": "1124658845664653314",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966870553819836889",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CY_Mystica 已经不是全面打击策划药了，是你们搞啥他们追着咬啥"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966870544105844736"
+          ]
+        },
+        "author_id": "1124658845664653314",
+        "conversation_id": "1966870553819836889",
+        "created_at": "2025-09-13T14:24:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T15:24:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966870553819836889"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KG4MpWh5C5",
+              "end": 43,
+              "expanded_url": "https://x.com/CY_Mystica/status/1966870553819836889/photo/1",
+              "media_key": "3_1966870544105844736",
+              "start": 20,
+              "url": "https://t.co/KG4MpWh5C5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966870553819836889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 597,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哇哦wiki之争变成全面打击策划药了耶 https://t.co/KG4MpWh5C5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 266,
+          "like_count": 2682,
+          "listed_count": 2,
+          "media_count": 66,
+          "tweet_count": 3793
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "弦月是世界上最不安的人 | od | ed |自伤 | 中文/Eng/Ita/ESP🤍#shtwt #drugtwt @kagengetsu_1备用🩵",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 49,
+                "start": 43,
+                "tag": "shtwt"
+              },
+              {
+                "end": 58,
+                "start": 50,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 72,
+                "start": 59,
+                "username": "kagengetsu_1"
+              }
+            ]
+          }
+        },
+        "id": "1124658845664653314",
+        "location": "棺材",
+        "name": "calante🌙",
+        "pinned_tweet_id": "1966781907607396804",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925972758321582080/Uqi7ntt0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1597,
+          "following_count": 285,
+          "like_count": 1699,
+          "listed_count": 2,
+          "media_count": 151,
+          "tweet_count": 1899
+        },
+        "username": "CY_Mystica",
+        "verified": true
+      }
+    ]
+  }
+}

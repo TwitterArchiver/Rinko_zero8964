@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1999613115722522964",
+    "created_at": "2025-12-12T22:51:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T23:51:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1999613115722522964"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/popcat1234566/…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/popcat1234566/status/1999471611578319318",
+          "start": 12,
+          "url": "https://t.co/U9edcDWufw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999613115722522964",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999471611578319318",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "心理委员谢谢你我不哭了 https://t.co/U9edcDWufw"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1999613115722522964",
+        "created_at": "2025-12-12T22:51:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T23:51:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999613115722522964"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/popcat1234566/…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/popcat1234566/status/1999471611578319318",
+              "start": 12,
+              "url": "https://t.co/U9edcDWufw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999613115722522964",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999471611578319318",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "心理委员谢谢你我不哭了 https://t.co/U9edcDWufw"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1607388730914140160",
+        "conversation_id": "1999471611578319318",
+        "created_at": "2025-12-12T13:29:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T14:29:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999471611578319318"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1999471611578319318",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 706,
+          "like_count": 16,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "彳亍，心理委员来了。不哭不哭，吃右美，吃普瑞，吃烷胺，吃白兔，吃邮票，吃笑气，吃苯乙胺，吃仙人掌，吃met，吃dpt，吃iso，吃pce，吃2C-B，吃可卡因，吃甲基苯丙胺，吃噻奈普汀，吃闪莓，o氯硝西泮，o阿普唑仑，魔爪不喝？宝宝不哭 喝死藤水 喝牵牛花种子水 喝萃取lSD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜🥺@NashiMoe233｜如果没有回关请私信提醒我！｜我不吸毒！！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "NashiMoe233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNOXH"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1999352315241988490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 414,
+          "following_count": 376,
+          "like_count": 5811,
+          "listed_count": 1,
+          "media_count": 98,
+          "tweet_count": 5107
+        },
+        "url": "https://t.co/rCvc9RNOXH",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-26T14:52:00.000Z",
+        "description": "被嫉妒吞噬的人\n\nN2O/笑气 3.25r低价批发\n承接suki遗愿 我可能不卖致幻剂了\n\ndpt 1500/5g   麦司卡林 110/1t 中高剂量\n没有警察的义务！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/popcat1234566",
+                "end": 23,
+                "expanded_url": "https://ngl.link/popcat1234566",
+                "start": 0,
+                "url": "https://t.co/vYlpd7xmaY"
+              }
+            ]
+          }
+        },
+        "id": "1607388730914140160",
+        "name": "popcat1234566",
+        "pinned_tweet_id": "1996964226662027662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997609291507998720/J7qv1WAE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1025,
+          "following_count": 656,
+          "like_count": 36331,
+          "listed_count": 0,
+          "media_count": 377,
+          "tweet_count": 2068
+        },
+        "url": "https://t.co/vYlpd7xmaY",
+        "username": "popcat1234566",
+        "verified": false
+      }
+    ]
+  }
+}

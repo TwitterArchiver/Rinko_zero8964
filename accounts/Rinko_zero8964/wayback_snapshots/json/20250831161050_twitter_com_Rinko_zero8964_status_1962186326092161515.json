@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1962148539464929415",
+    "created_at": "2025-08-31T16:10:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T17:10:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962186326092161515"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "622036546",
+          "start": 0,
+          "username": "oder_666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962186326092161515",
+    "in_reply_to_user_id": "622036546",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962148539464929415",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oder_666 无所谓，我就没有好的器官，还不如让我开心点去死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1962148539464929415",
+        "created_at": "2025-08-31T16:10:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T17:10:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962186326092161515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "622036546",
+              "start": 0,
+              "username": "oder_666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962186326092161515",
+        "in_reply_to_user_id": "622036546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962148539464929415",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oder_666 无所谓，我就没有好的器官，还不如让我开心点去死"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "622036546",
+        "conversation_id": "1962148539464929415",
+        "created_at": "2025-08-31T13:40:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T14:40:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962148539464929415"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1962148539464929415",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 125,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天上厕所发现我的尿液中带有泡沫迟迟无法消散(蛋白尿）这是肾衰竭早期的信号之一肾衰竭的早期信号分为多个症状 如乏力 水肿 血压升高 腰酸背痛 睡眠障碍 食欲减退 尿液异常（如蛋白尿 尿量减少 尿色改变）如果发现请停止继续滥用药物 od的尽头是尿毒症 害人害己 拒绝od 从我做起"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849043147487420416/0nrEqJTK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 293,
+          "following_count": 250,
+          "like_count": 2249,
+          "listed_count": 2,
+          "media_count": 50,
+          "tweet_count": 3445
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2012-06-29T16:18:50.000Z",
+        "description": "09|负能|自伤|od|非二元|精神病|偶尔性发电|欢迎互fo| 可以叫我Munou|中文名是無能🥰 我的互关可以找我扩列 LGBTQ🏳️‍🌈/mtf/ftm🏳️‍⚧️友好",
+        "id": "622036546",
+        "location": "精神病院",
+        "name": "むのう",
+        "pinned_tweet_id": "1957930634078556221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953135385317449728/x6Sb1ZoT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 378,
+          "following_count": 173,
+          "like_count": 5775,
+          "listed_count": 1,
+          "media_count": 134,
+          "tweet_count": 1304
+        },
+        "username": "oder_666",
+        "verified": false
+      }
+    ]
+  }
+}

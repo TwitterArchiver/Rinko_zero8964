@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053032886551650304"
+      ],
+      "media_source_tweet_id": [
+        "2053032893329646077"
+      ]
+    },
+    "author_id": "1849043039496617984",
+    "conversation_id": "2053308326545670147",
+    "created_at": "2026-05-10T02:57:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T03:57:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053308326545670147"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1754795826713686016",
+          "start": 3,
+          "username": "xxxxinTvT"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6EIBt2G9wo",
+          "end": 38,
+          "expanded_url": "https://x.com/xxxxinTvT/status/2053032893329646077/photo/1",
+          "media_key": "3_2053032886551650304",
+          "start": 15,
+          "url": "https://t.co/6EIBt2G9wo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053308326545670147",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 106
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053032893329646077",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xxxxinTvT: https://t.co/6EIBt2G9wo"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2053308326545670147].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2053308326545670147",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2053308326545670147"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 671,
+        "media_key": "3_2053032886551650304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH3WiGsbIAAgknT.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053032886551650304"
+          ]
+        },
+        "author_id": "1754795826713686016",
+        "conversation_id": "2053032893329646077",
+        "created_at": "2026-05-09T08:42:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T09:42:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053032893329646077"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6EIBt2G9wo",
+              "end": 23,
+              "expanded_url": "https://x.com/xxxxinTvT/status/2053032893329646077/photo/1",
+              "media_key": "3_2053032886551650304",
+              "start": 0,
+              "url": "https://t.co/6EIBt2G9wo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053032893329646077",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 48,
+          "impression_count": 5361,
+          "like_count": 843,
+          "quote_count": 3,
+          "reply_count": 5,
+          "retweet_count": 106
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/6EIBt2G9wo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思う、ゆえに我あり｜ 我是林子｜性别为无、｜寒くなってきたね……もう少しだけ、いい？｜intp-t｜ASD/OCD/焦虑障碍｜🧬今日也想成为biohacker｜好妈妈们@Misaki11137 @loveforeversfy|bro @BelovedUren8964｜vico酱@vicoOci_Olvidar",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 85,
+                "username": "Misaki11137"
+              },
+              {
+                "end": 113,
+                "start": 98,
+                "username": "loveforeversfy"
+              },
+              {
+                "end": 134,
+                "start": 118,
+                "username": "BelovedUren8964"
+              },
+              {
+                "end": 156,
+                "start": 140,
+                "username": "vicoOci_Olvidar"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wakaba_rinko",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wakaba_rinko",
+                "start": 0,
+                "url": "https://t.co/zWqK1n9RJg"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "Ask me any u want→",
+        "name": "Rinko",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 726,
+          "following_count": 712,
+          "like_count": 17839,
+          "listed_count": 1,
+          "media_count": 184,
+          "tweet_count": 8613
+        },
+        "url": "https://t.co/zWqK1n9RJg",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-06T09:15:12.000Z",
+        "description": "乞丐",
+        "id": "1754795826713686016",
+        "name": "xxxxin",
+        "pinned_tweet_id": "1935684341797167406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840479748897849344/7GMzuxFp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4938,
+          "following_count": 582,
+          "like_count": 25201,
+          "listed_count": 5,
+          "media_count": 49,
+          "tweet_count": 9514
+        },
+        "username": "xxxxinTvT",
+        "verified": false
+      }
+    ]
+  }
+}

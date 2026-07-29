@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2006395834813026339",
+    "created_at": "2026-01-01T09:49:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T10:49:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006664032212890050"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1634536091792588803",
+          "start": 0,
+          "username": "rtn255"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006664032212890050",
+    "in_reply_to_user_id": "1634536091792588803",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006395834813026339",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rtn255 已经o大了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2006395834813026339",
+        "created_at": "2026-01-01T09:49:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T10:49:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006664032212890050"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1634536091792588803",
+              "start": 0,
+              "username": "rtn255"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006664032212890050",
+        "in_reply_to_user_id": "1634536091792588803",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006395834813026339",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rtn255 已经o大了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634536091792588803",
+        "conversation_id": "2006395834813026339",
+        "created_at": "2025-12-31T16:03:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T17:03:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006395834813026339"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2006395834813026339",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "跨年就别o了好吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜如果没有回关请私信提醒我！｜我不吸毒！！！｜小猫我喜欢你超喜欢我爱你@psych_angel_｜性别为无、",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 45,
+                "username": "psych_angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNh89"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1999352315241988490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 489,
+          "following_count": 452,
+          "like_count": 8936,
+          "listed_count": 1,
+          "media_count": 125,
+          "tweet_count": 5931
+        },
+        "url": "https://t.co/rCvc9RNh89",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-11T12:45:55.000Z",
+        "description": "ADHD|多动症|过检 |合法未管制|专注力UP | 合法效率工具 | 利他林|莫达非尼替代品\n联系我 https://t.co/234oq0J8P7",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "rtn8.top/us.html",
+                "end": 75,
+                "expanded_url": "https://rtn8.top/us.html",
+                "start": 52,
+                "url": "https://t.co/234oq0J8P7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "rtn8.top",
+                "end": 23,
+                "expanded_url": "https://rtn8.top",
+                "start": 0,
+                "url": "https://t.co/hdX6cjKcRX"
+              }
+            ]
+          }
+        },
+        "id": "1634536091792588803",
+        "location": "HK",
+        "name": "Joo",
+        "pinned_tweet_id": "2006408968986571168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976881282543239170/RTKm9c_N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 53,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 43
+        },
+        "url": "https://t.co/hdX6cjKcRX",
+        "username": "rtn255",
+        "verified": false
+      }
+    ]
+  }
+}

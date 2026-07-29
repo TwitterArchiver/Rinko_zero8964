@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1964745772504907838",
+    "created_at": "2025-09-09T02:53:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-09T03:53:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965247117230027180"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1812332654521618432",
+          "start": 0,
+          "username": "Milifo363999"
+        },
+        {
+          "end": 27,
+          "id": "1502654786453204994",
+          "start": 14,
+          "username": "uranus_chaos"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965247117230027180",
+    "in_reply_to_user_id": "1812332654521618432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965106731006231034",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Milifo363999 @uranus_chaos “合理”，我并未说是合法"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1964745772504907838",
+        "created_at": "2025-09-09T02:53:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T03:53:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965247117230027180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1812332654521618432",
+              "start": 0,
+              "username": "Milifo363999"
+            },
+            {
+              "end": 27,
+              "id": "1502654786453204994",
+              "start": 14,
+              "username": "uranus_chaos"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965247117230027180",
+        "in_reply_to_user_id": "1812332654521618432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965106731006231034",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Milifo363999 @uranus_chaos “合理”，我并未说是合法"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1812332654521618432",
+        "conversation_id": "1964745772504907838",
+        "created_at": "2025-09-08T17:35:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T18:35:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965106731006231034"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1849043039496617984",
+              "start": 0,
+              "username": "Rinko_zero8964"
+            },
+            {
+              "end": 29,
+              "id": "1502654786453204994",
+              "start": 16,
+              "username": "uranus_chaos"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965106731006231034",
+        "in_reply_to_user_id": "1849043039496617984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 114,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964970463362465903",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rinko_zero8964 @uranus_chaos “协助自杀罪”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849043147487420416/0nrEqJTK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 262,
+          "like_count": 2517,
+          "listed_count": 2,
+          "media_count": 65,
+          "tweet_count": 3683
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-14T03:45:58.000Z",
+        "description": "讲理主义/人道主义/意识形态至下，人民生活至上/万物明码标价的社会是可悲的/友跨顺男/x瘾（大概/车万/术术人/政哲/低级趣味/07高三牲/多元的社会应当容得下保守派",
+        "id": "1812332654521618432",
+        "name": "Milifo 咲樂团",
+        "pinned_tweet_id": "1965104993520034096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812333831287894016/qfYoOBMj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 260,
+          "like_count": 1223,
+          "listed_count": 2,
+          "media_count": 202,
+          "tweet_count": 1999
+        },
+        "username": "Milifo363999",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-12T14:36:45.000Z",
+        "description": "拯救，陪伴，热爱，绝不抛弃。 ‖ 双星系统/主恒星/Venus：@shiyulin_‖药学毕业/医学生/护理学毕业/心理学二专‖里推：@不告诉你！ 自己猜！‖客服瑶光猫：@yaoguangmao（在线时间am11:30-pm10:30❗）点击进入无限循环：@uranus_chaos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 32,
+                "username": "shiyulin_"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "yaoguangmao"
+              },
+              {
+                "end": 141,
+                "start": 128,
+                "username": "uranus_chaos"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mtf_great",
+                "end": 23,
+                "expanded_url": "https://t.me/mtf_great",
+                "start": 0,
+                "url": "https://t.co/ResOORYaTk"
+              }
+            ]
+          }
+        },
+        "id": "1502654786453204994",
+        "location": "是一个无条件接受倾诉的树洞，休息时间是a.m 01：00。",
+        "name": "二酸化炭素の🪼猫诺诺🍥🏴🏳️‍🌈【学术推】【南河三】",
+        "pinned_tweet_id": "1958099694309048384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958164515515957248/htMD0p97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1455,
+          "following_count": 307,
+          "like_count": 27739,
+          "listed_count": 1,
+          "media_count": 987,
+          "tweet_count": 7577
+        },
+        "url": "https://t.co/ResOORYaTk",
+        "username": "uranus_chaos",
+        "verified": true
+      }
+    ]
+  }
+}

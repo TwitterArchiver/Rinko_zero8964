@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1969803555205947845",
+    "created_at": "2025-09-21T16:38:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-21T17:38:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969803555205947845"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1849043039496617984",
+          "start": 3,
+          "username": "Rinko_zero8964"
+        },
+        {
+          "end": 33,
+          "id": "1700948552078467072",
+          "start": 20,
+          "username": "Overdose_DBD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969803555205947845",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969723687189512566",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rinko_zero8964: @Overdose_DBD 无人在乎你如何，我只想让这个到处惹事的555安静下来，另外你的事到现在还能找到证据你自己去搜吧有假的你就澄清不澄清我就当你默认😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1969803555205947845",
+        "created_at": "2025-09-21T16:38:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T17:38:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969803555205947845"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1849043039496617984",
+              "start": 3,
+              "username": "Rinko_zero8964"
+            },
+            {
+              "end": 33,
+              "id": "1700948552078467072",
+              "start": 20,
+              "username": "Overdose_DBD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969803555205947845",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969723687189512566",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rinko_zero8964: @Overdose_DBD 无人在乎你如何，我只想让这个到处惹事的555安静下来，另外你的事到现在还能找到证据你自己去搜吧有假的你就澄清不澄清我就当你默认😅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1969718856768995787",
+        "created_at": "2025-09-21T11:21:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T12:21:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969723687189512566"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1700948552078467072",
+              "start": 0,
+              "username": "Overdose_DBD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969723687189512566",
+        "in_reply_to_user_id": "1700948552078467072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 151,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969722562159726929",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Overdose_DBD 无人在乎你如何，我只想让这个到处惹事的555安静下来，另外你的事到现在还能找到证据你自己去搜吧有假的你就澄清不澄清我就当你默认😅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 322,
+          "following_count": 276,
+          "like_count": 3104,
+          "listed_count": 2,
+          "media_count": 71,
+          "tweet_count": 4011
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-10T19:05:21.000Z",
+        "description": "旧名义：超级后后后藤\n谁的附庸？",
+        "id": "1700948552078467072",
+        "name": "エフェメラリズム ~ Ephemeralism 刹那之物主义",
+        "pinned_tweet_id": "1777999878117097536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812051682609569792/8qRZNt0o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3641,
+          "following_count": 57,
+          "like_count": 3,
+          "listed_count": 9,
+          "media_count": 406,
+          "tweet_count": 5561
+        },
+        "username": "Overdose_DBD",
+        "verified": false
+      }
+    ]
+  }
+}

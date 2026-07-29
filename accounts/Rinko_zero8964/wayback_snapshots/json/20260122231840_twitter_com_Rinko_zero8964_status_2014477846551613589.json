@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2014443248149004318",
+    "created_at": "2026-01-22T23:18:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T00:18:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014477846551613589"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "927837770105610241",
+          "start": 0,
+          "username": "KulonheimSuka"
+        },
+        {
+          "end": 28,
+          "id": "1879395690230738944",
+          "start": 15,
+          "username": "Psych_Angel_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014477846551613589",
+    "in_reply_to_user_id": "927837770105610241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014472251848917029",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KulonheimSuka @Psych_Angel_ 其实就是带点咖啡香的果汁罢了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2014472251848917029].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2014472251848917029",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2014472251848917029"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2014443248149004318",
+        "created_at": "2026-01-22T23:18:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T00:18:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014477846551613589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "927837770105610241",
+              "start": 0,
+              "username": "KulonheimSuka"
+            },
+            {
+              "end": 28,
+              "id": "1879395690230738944",
+              "start": 15,
+              "username": "Psych_Angel_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014477846551613589",
+        "in_reply_to_user_id": "927837770105610241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014472251848917029",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KulonheimSuka @Psych_Angel_ 其实就是带点咖啡香的果汁罢了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜如果没有回关请私信提醒我！｜我不吸毒！！！｜性别为无、｜輪郭の定まらない位置にいた人@Psych_Angel_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 53,
+                "username": "Psych_Angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNh89"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 525,
+          "following_count": 486,
+          "like_count": 12638,
+          "listed_count": 1,
+          "media_count": 143,
+          "tweet_count": 6748
+        },
+        "url": "https://t.co/rCvc9RNh89",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-07T09:58:57.000Z",
+        "description": "我的高考第一志愿:想当小猫敷敷摸鱼。",
+        "id": "927837770105610241",
+        "location": "Südweststadt, Karlsruhe",
+        "name": "Zinsoldat",
+        "pinned_tweet_id": "2013935932651483216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1424980843467059213/0eEPKpQ-_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 870,
+          "following_count": 2652,
+          "like_count": 23414,
+          "listed_count": 3,
+          "media_count": 1264,
+          "tweet_count": 25642
+        },
+        "username": "KulonheimSuka",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-15T05:10:34.000Z",
+        "description": "Scientist | Philosopher | Lab Rat｜💊#Drugtwt｜BD/DPDR｜BestLove🫶Rinko:@Rinko_zero8964｜Soulmate:@BelovedUren8964｜🍜:@shungleemain｜👩:@DXM8964LXM｜🍊:@citrus_amara｜",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 43,
+                "start": 35,
+                "tag": "Drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 82,
+                "start": 67,
+                "username": "Rinko_zero8964"
+              },
+              {
+                "end": 108,
+                "start": 92,
+                "username": "BelovedUren8964"
+              },
+              {
+                "end": 124,
+                "start": 111,
+                "username": "shungleemain"
+              },
+              {
+                "end": 138,
+                "start": 127,
+                "username": "DXM8964LXM"
+              },
+              {
+                "end": 154,
+                "start": 141,
+                "username": "citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cutekitteno3o",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cutekitteno3o",
+                "start": 0,
+                "url": "https://t.co/OpK0ArxHft"
+              }
+            ]
+          }
+        },
+        "id": "1879395690230738944",
+        "location": "Ask me any u want→",
+        "name": "Mercy",
+        "pinned_tweet_id": "2013308146417123457",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984317319691243521/rbczbPan_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 696,
+          "following_count": 770,
+          "like_count": 29521,
+          "listed_count": 1,
+          "media_count": 855,
+          "tweet_count": 13217
+        },
+        "url": "https://t.co/OpK0ArxHft",
+        "username": "Psych_Angel_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1963513341999038593",
+    "created_at": "2025-09-04T10:24:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-04T11:24:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963548724166365241"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1914046337903190016",
+          "start": 0,
+          "username": "omiyagetw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963548724166365241",
+    "in_reply_to_user_id": "1914046337903190016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963513341999038593",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@omiyagetw 我想吃那个冰淇凌🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1963513267890061312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz_M6fxagAA6tYo.jpg",
+        "width": 1542
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1963513341999038593",
+        "created_at": "2025-09-04T10:24:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T11:24:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963548724166365241"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1914046337903190016",
+              "start": 0,
+              "username": "omiyagetw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963548724166365241",
+        "in_reply_to_user_id": "1914046337903190016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963513341999038593",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@omiyagetw 我想吃那个冰淇凌🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963513267890061312"
+          ]
+        },
+        "author_id": "1914046337903190016",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1963513341999038593",
+        "created_at": "2025-09-04T08:03:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T09:03:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963513341999038593"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/enoc8ziDcJ",
+              "end": 41,
+              "expanded_url": "https://x.com/omiyagetw/status/1963513341999038593/photo/1",
+              "media_key": "3_1963513267890061312",
+              "start": 18,
+              "url": "https://t.co/enoc8ziDcJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963513341999038593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我要讓這世界憎恨，獻上高熱量舒芙蕾 https://t.co/enoc8ziDcJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849043147487420416/0nrEqJTK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 258,
+          "like_count": 2352,
+          "listed_count": 2,
+          "media_count": 64,
+          "tweet_count": 3559
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-20T19:59:56.000Z",
+        "description": "台灣/男/INTJ(113)轉變ISTJ(114/0826)/極度厭惡約炮及嫖/\n喜愛遊戲、音樂/努力當個正常人/PC、steam小遊戲/\n匿名箱：https://t.co/Ym8YNh3M4i",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/omiyagetw",
+                "end": 97,
+                "expanded_url": "https://ngl.link/omiyagetw",
+                "start": 74,
+                "url": "https://t.co/Ym8YNh3M4i"
+              }
+            ]
+          }
+        },
+        "id": "1914046337903190016",
+        "name": "歐米Omi",
+        "pinned_tweet_id": "1960708508040749116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962400320237252609/ETCYXQ2l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 95,
+          "like_count": 7748,
+          "listed_count": 2,
+          "media_count": 61,
+          "tweet_count": 3498
+        },
+        "username": "omiyagetw",
+        "verified": false
+      }
+    ]
+  }
+}

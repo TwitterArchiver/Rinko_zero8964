@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2003704503120613824",
+    "created_at": "2025-12-24T05:49:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-24T06:49:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003704503120613824"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1867755654070349824",
+          "start": 3,
+          "username": "zezhe463149"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003704503120613824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003661066325447148",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zezhe463149: 从小到大都特别抗拒接电话，电话铃声响起来的一瞬间我就会浑身不舒服"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2003704503120613824",
+        "created_at": "2025-12-24T05:49:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T06:49:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003704503120613824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1867755654070349824",
+              "start": 3,
+              "username": "zezhe463149"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003704503120613824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003661066325447148",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zezhe463149: 从小到大都特别抗拒接电话，电话铃声响起来的一瞬间我就会浑身不舒服"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1867755654070349824",
+        "conversation_id": "2003661066325447148",
+        "created_at": "2025-12-24T02:56:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T03:56:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003661066325447148"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2003661066325447148",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "从小到大都特别抗拒接电话，电话铃声响起来的一瞬间我就会浑身不舒服"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜如果没有回关请私信提醒我！｜我不吸毒！！！｜小猫我喜欢你超喜欢我爱你@psych_angel_｜性别为无、",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 45,
+                "username": "psych_angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNh89"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1999352315241988490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 447,
+          "following_count": 409,
+          "like_count": 7319,
+          "listed_count": 1,
+          "media_count": 110,
+          "tweet_count": 5550
+        },
+        "url": "https://t.co/rCvc9RNh89",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-14T02:17:45.000Z",
+        "description": "一心/塑料织布做的银鱼",
+        "id": "1867755654070349824",
+        "location": "停尸房里的冰柜雅间",
+        "name": "Shiny fish fish",
+        "pinned_tweet_id": "1994444254114898125",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002938732819660801/0fqZN7ti_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 315,
+          "like_count": 14561,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 8300
+        },
+        "username": "zezhe463149",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2021810765259583490"
+      ],
+      "media_source_tweet_id": [
+        "2021810773266509951"
+      ]
+    },
+    "author_id": "1849043039496617984",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2021907756828201051",
+    "created_at": "2026-02-12T11:22:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T12:22:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021907756828201051"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1169463957016330241",
+          "start": 3,
+          "username": "KyuukoQ"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XgRogbw3bh",
+          "end": 36,
+          "expanded_url": "https://x.com/KyuukoQ/status/2021810773266509951/photo/1",
+          "media_key": "3_2021810765259583490",
+          "start": 13,
+          "url": "https://t.co/XgRogbw3bh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021907756828201051",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021810773266509951",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KyuukoQ: https://t.co/XgRogbw3bh"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2021907756828201051].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2021907756828201051",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2021907756828201051"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2021810765259583490",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA7qLdJbsAICwAk.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021810765259583490"
+          ]
+        },
+        "author_id": "1169463957016330241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2021810773266509951",
+        "created_at": "2026-02-12T04:57:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T05:57:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021810773266509951"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XgRogbw3bh",
+              "end": 23,
+              "expanded_url": "https://x.com/KyuukoQ/status/2021810773266509951/photo/1",
+              "media_key": "3_2021810765259583490",
+              "start": 0,
+              "url": "https://t.co/XgRogbw3bh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021810773266509951",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 598,
+          "like_count": 85,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/XgRogbw3bh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ZA",
+              "full_name": "South Africa",
+              "geo": {
+                "coordinates": [
+                  24.0,
+                  -29.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我思即我在｜我是林子｜如果没有回关请私信提醒我！｜我不吸毒！！！｜性别为无、｜輪郭の定まらない位置にいた人@Psych_Angel_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 53,
+                "username": "Psych_Angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNh89"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 565,
+          "following_count": 523,
+          "like_count": 14113,
+          "listed_count": 1,
+          "media_count": 146,
+          "tweet_count": 7224
+        },
+        "url": "https://t.co/rCvc9RNh89",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-05T04:15:20.000Z",
+        "description": "我是99 🩸血腥注意⚠️ shtwt 主要账号@KBDYD555",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 23,
+                "username": "KBDYD555"
+              }
+            ]
+          }
+        },
+        "id": "1169463957016330241",
+        "name": "不安定貓貓",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1563644325614874624/PRsSsuPq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 346,
+          "like_count": 291,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 14
+        },
+        "username": "KyuukoQ",
+        "verified": false
+      }
+    ]
+  }
+}

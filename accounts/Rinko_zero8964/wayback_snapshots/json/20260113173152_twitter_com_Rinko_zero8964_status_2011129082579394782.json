@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2010808933959811431",
+    "created_at": "2026-01-13T17:31:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-13T18:31:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011129082579394782"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1914611702747779072",
+          "start": 0,
+          "username": "asukayeyezi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011129082579394782",
+    "in_reply_to_user_id": "1914611702747779072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011102935158247480",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@asukayeyezi 最喜欢的中餐是糖醋排骨，食物对我来说是很有吸引力的，但是一吃上就会呕吐恶心觉得不想吃，我更喜欢喝糖分饮料"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2010808933959811431",
+        "created_at": "2026-01-13T17:31:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T18:31:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011129082579394782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1914611702747779072",
+              "start": 0,
+              "username": "asukayeyezi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011129082579394782",
+        "in_reply_to_user_id": "1914611702747779072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011102935158247480",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@asukayeyezi 最喜欢的中餐是糖醋排骨，食物对我来说是很有吸引力的，但是一吃上就会呕吐恶心觉得不想吃，我更喜欢喝糖分饮料"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1914611702747779072",
+        "conversation_id": "2010808933959811431",
+        "created_at": "2026-01-13T15:47:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T16:47:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011102935158247480"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1849043039496617984",
+              "start": 0,
+              "username": "Rinko_zero8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011102935158247480",
+        "in_reply_to_user_id": "1849043039496617984",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010808933959811431",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rinko_zero8964 54"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜如果没有回关请私信提醒我！｜我不吸毒！！！｜小猫我喜欢你超喜欢我爱你@psych_angel_｜性别为无、",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 45,
+                "username": "psych_angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNh89"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 517,
+          "following_count": 474,
+          "like_count": 11639,
+          "listed_count": 1,
+          "media_count": 139,
+          "tweet_count": 6510
+        },
+        "url": "https://t.co/rCvc9RNh89",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-22T09:26:32.000Z",
+        "description": "🔪and💊｜LGBTQ+友好｜友跨或许暂时不会翻车（）｜oder｜守护每一个互fo｜恋人@anturn228216｜https://t.co/to7wTTpYGV提问箱\n叫我夜酱或者小夜都行，压力大的话就试试彻夜不眠吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 44,
+                "username": "anturn228216"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/asukayeyezi",
+                "end": 81,
+                "expanded_url": "https://ngl.link/asukayeyezi",
+                "start": 58,
+                "url": "https://t.co/to7wTTpYGV"
+              }
+            ]
+          }
+        },
+        "id": "1914611702747779072",
+        "location": "永远是夜晚该多好",
+        "name": "奏铭夜#参宿四",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009282362987929600/Tb9MRRna_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 225,
+          "like_count": 2814,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 288
+        },
+        "username": "asukayeyezi",
+        "verified": false
+      }
+    ]
+  }
+}

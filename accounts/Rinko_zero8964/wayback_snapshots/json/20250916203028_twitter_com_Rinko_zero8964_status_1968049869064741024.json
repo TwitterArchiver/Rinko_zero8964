@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1967841674941567438",
+    "created_at": "2025-09-16T20:30:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T21:30:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968049869064741024"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1355178308460187653",
+          "start": 0,
+          "username": "CoilofFaraday"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968049869064741024",
+    "in_reply_to_user_id": "1355178308460187653",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967841674941567438",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CoilofFaraday ✅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1967841674941567438",
+        "created_at": "2025-09-16T20:30:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T21:30:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968049869064741024"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1355178308460187653",
+              "start": 0,
+              "username": "CoilofFaraday"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968049869064741024",
+        "in_reply_to_user_id": "1355178308460187653",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967841674941567438",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CoilofFaraday ✅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1355178308460187653",
+        "conversation_id": "1967841674941567438",
+        "created_at": "2025-09-16T06:43:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T07:43:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967841674941567438"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/uranus_chaos/s…",
+              "end": 92,
+              "expanded_url": "https://twitter.com/uranus_chaos/status/1967783669550219391",
+              "start": 69,
+              "url": "https://t.co/1hK65MaqWA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967841674941567438",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 588,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967783669550219391",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "而且一堆杂质打谱都打不出来 常见化合物的异构还好办些，搞些乱七八糟的化合物，就象征性吊点甘露醇，穿个股动脉透析，在上个降压泵，生死由命了 https://t.co/1hK65MaqWA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 322,
+          "following_count": 273,
+          "like_count": 2956,
+          "listed_count": 2,
+          "media_count": 68,
+          "tweet_count": 3911
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-29T15:37:49.000Z",
+        "description": "no I don’t have a fucking profile 🦁@yoselindead",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 35,
+                "username": "yoselindead"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/coiloffaraday",
+                "end": 23,
+                "expanded_url": "http://www.github.com/coiloffaraday",
+                "start": 0,
+                "url": "https://t.co/dtOyzU6pkE"
+              }
+            ]
+          }
+        },
+        "id": "1355178308460187653",
+        "location": "Zhejiang",
+        "name": "Faraday",
+        "pinned_tweet_id": "1957155056010289461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701293293311762432/aTu-krXp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 342,
+          "following_count": 460,
+          "like_count": 402,
+          "listed_count": 1,
+          "media_count": 77,
+          "tweet_count": 2238
+        },
+        "url": "https://t.co/dtOyzU6pkE",
+        "username": "CoilofFaraday",
+        "verified": false
+      }
+    ]
+  }
+}

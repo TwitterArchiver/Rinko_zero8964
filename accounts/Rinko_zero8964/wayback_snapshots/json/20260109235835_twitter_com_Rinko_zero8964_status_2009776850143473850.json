@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2009175095512846609",
+    "created_at": "2026-01-09T23:58:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T00:58:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009776850143473850"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2006990578526072835",
+          "start": 0,
+          "username": "jingyinhequan"
+        },
+        {
+          "end": 28,
+          "id": "1879395690230738944",
+          "start": 15,
+          "username": "Psych_Angel_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009776850143473850",
+    "in_reply_to_user_id": "2006990578526072835",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009775525016010785",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jingyinhequan @Psych_Angel_ win1168-3是美沙酮类似物但阿片全通道，你中间还吃了曲马多，所以这样很正常"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2009175095512846609",
+        "created_at": "2026-01-09T23:58:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T00:58:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009776850143473850"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2006990578526072835",
+              "start": 0,
+              "username": "jingyinhequan"
+            },
+            {
+              "end": 28,
+              "id": "1879395690230738944",
+              "start": 15,
+              "username": "Psych_Angel_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009776850143473850",
+        "in_reply_to_user_id": "2006990578526072835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009775525016010785",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jingyinhequan @Psych_Angel_ win1168-3是美沙酮类似物但阿片全通道，你中间还吃了曲马多，所以这样很正常"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006990578526072835",
+        "conversation_id": "2009175095512846609",
+        "created_at": "2026-01-09T23:53:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T00:53:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009775525016010785"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1879395690230738944",
+              "start": 0,
+              "username": "Psych_Angel_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009775525016010785",
+        "in_reply_to_user_id": "1879395690230738944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009774031428346211",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Psych_Angel_ 我不知道为什么我戒断反应这么大而且痛的要命"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜如果没有回关请私信提醒我！｜我不吸毒！！！｜小猫我喜欢你超喜欢我爱你@psych_angel_｜性别为无、",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 45,
+                "username": "psych_angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNh89"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 500,
+          "following_count": 472,
+          "like_count": 11127,
+          "listed_count": 1,
+          "media_count": 137,
+          "tweet_count": 6392
+        },
+        "url": "https://t.co/rCvc9RNh89",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-02T07:27:32.000Z",
+        "description": "我看着幸福的日子被我亲手摧毁后开心地闭上了眼 \n/TG同X账号\n/老公@Edward_8964\n/姐姐@shuijiaozzz233\n/无论转生多少次都一定要找回我好吗🥹\n匿名提问：https://t.co/29rNkGg1gy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 35,
+                "username": "Edward_8964"
+              },
+              {
+                "end": 66,
+                "start": 51,
+                "username": "shuijiaozzz233"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jingyin_8964",
+                "end": 114,
+                "expanded_url": "https://ngl.link/jingyin_8964",
+                "start": 91,
+                "url": "https://t.co/29rNkGg1gy"
+              }
+            ]
+          }
+        },
+        "id": "2006990578526072835",
+        "name": "镜音五代目",
+        "pinned_tweet_id": "2008124298779939003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009307935659446272/1D19nedn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 106,
+          "like_count": 164,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 99
+        },
+        "username": "jingyinhequan",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-15T05:10:34.000Z",
+        "description": "Scientist | Philosopher | Lab Rat｜💊#Drugtwt｜BD/DPDR｜BestLove🫶Rinko:@Rinko_zero8964｜Soulmate:@BelovedUren8964｜🍜:@shungleemain｜👩:@DXM8964LXM｜🍊:@citrus_amara",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 43,
+                "start": 35,
+                "tag": "Drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 82,
+                "start": 67,
+                "username": "Rinko_zero8964"
+              },
+              {
+                "end": 108,
+                "start": 92,
+                "username": "BelovedUren8964"
+              },
+              {
+                "end": 124,
+                "start": 111,
+                "username": "shungleemain"
+              },
+              {
+                "end": 138,
+                "start": 127,
+                "username": "DXM8964LXM"
+              },
+              {
+                "end": 154,
+                "start": 141,
+                "username": "citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cutekitteno3o",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cutekitteno3o",
+                "start": 0,
+                "url": "https://t.co/OpK0ArxHft"
+              }
+            ]
+          }
+        },
+        "id": "1879395690230738944",
+        "location": "Ask me any u want→",
+        "name": "Mercy",
+        "pinned_tweet_id": "2005036045461811517",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984317319691243521/rbczbPan_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 687,
+          "following_count": 741,
+          "like_count": 27581,
+          "listed_count": 1,
+          "media_count": 817,
+          "tweet_count": 12554
+        },
+        "url": "https://t.co/OpK0ArxHft",
+        "username": "Psych_Angel_",
+        "verified": false
+      }
+    ]
+  }
+}

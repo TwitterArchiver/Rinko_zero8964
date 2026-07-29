@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1996905411191230646",
+    "created_at": "2025-12-05T11:32:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T12:32:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996905411191230646"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1462208415837655043",
+          "start": 3,
+          "username": "Prechaska"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996905411191230646",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996151879777329427",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Prechaska: 这禁毒教育只让人们学会了恐惧毒品，却对具体毒品的性质一无所知，抛开不同物质的效果成瘾性毒性不谈只学会把这所有都用一个“毒品”来概括，并且把对毒品的恐惧和厌恶一并加到了吸毒者身上，最终构建起一个危险的、在道德上失败的刻板形象。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1996905411191230646",
+        "created_at": "2025-12-05T11:32:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T12:32:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996905411191230646"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1462208415837655043",
+              "start": 3,
+              "username": "Prechaska"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996905411191230646",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996151879777329427",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Prechaska: 这禁毒教育只让人们学会了恐惧毒品，却对具体毒品的性质一无所知，抛开不同物质的效果成瘾性毒性不谈只学会把这所有都用一个“毒品”来概括，并且把对毒品的恐惧和厌恶一并加到了吸毒者身上，最终构建起一个危险的、在道德上失败的刻板形象。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "1996148690357231887",
+        "created_at": "2025-12-03T09:37:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T10:37:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996151879777329427"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1996151879777329427",
+        "in_reply_to_user_id": "1462208415837655043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 10868,
+          "like_count": 43,
+          "quote_count": 3,
+          "reply_count": 4,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996148690357231887",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这禁毒教育只让人们学会了恐惧毒品，却对具体毒品的性质一无所知，抛开不同物质的效果成瘾性毒性不谈只学会把这所有都用一个“毒品”来概括，并且把对毒品的恐惧和厌恶一并加到了吸毒者身上，最终构建起一个危险的、在道德上失败的刻板形象。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜🥺@NashiMoe233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "NashiMoe233"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1967335109767692560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 393,
+          "following_count": 349,
+          "like_count": 5492,
+          "listed_count": 1,
+          "media_count": 94,
+          "tweet_count": 4968
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能｜无病呻吟｜或许有精神病或许没有｜Kentish Plover lover｜🐦‍⬛watching｜“我知道你的行为，你也不冷也不热；我巴不得你或冷或热。你既如温水，也不冷也不热，所以我必从我口中把你吐出去。 ”(启示录 3:15-16)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "pinned_tweet_id": "1992336210233286845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 94,
+          "like_count": 955,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 848
+        },
+        "username": "Prechaska",
+        "verified": false
+      }
+    ]
+  }
+}

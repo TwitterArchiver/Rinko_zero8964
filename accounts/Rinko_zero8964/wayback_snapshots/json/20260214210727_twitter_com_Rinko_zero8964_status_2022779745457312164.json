@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022597768389304320",
+        "3_2022597768515325959"
+      ],
+      "media_source_tweet_id": [
+        "2022597776563974499",
+        "2022597776563974499"
+      ]
+    },
+    "author_id": "1849043039496617984",
+    "conversation_id": "2022779745457312164",
+    "created_at": "2026-02-14T21:07:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T22:07:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022779745457312164"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1959181970820231168",
+          "start": 3,
+          "username": "junyyyzz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rx57OnWzZo",
+          "end": 108,
+          "expanded_url": "https://x.com/junyyyzz/status/2022597776563974499/photo/1",
+          "media_key": "3_2022597768389304320",
+          "start": 85,
+          "url": "https://t.co/rx57OnWzZo"
+        },
+        {
+          "display_url": "pic.x.com/rx57OnWzZo",
+          "end": 108,
+          "expanded_url": "https://x.com/junyyyzz/status/2022597776563974499/photo/1",
+          "media_key": "3_2022597768515325959",
+          "start": 85,
+          "url": "https://t.co/rx57OnWzZo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022779745457312164",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1569
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022597776563974499",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @junyyyzz: I actually have two valentines… woah woh ladies one at a time please 🙏 https://t.co/rx57OnWzZo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 236,
+        "media_key": "3_2022597768389304320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBG19ERXoAAHCFX.jpg",
+        "width": 236
+      },
+      {
+        "height": 981,
+        "media_key": "3_2022597768515325959",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBG19EvakAcJUOW.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022597768389304320",
+            "3_2022597768515325959"
+          ],
+          "media_source_tweet_id": [
+            "2022597776563974499",
+            "2022597776563974499"
+          ]
+        },
+        "author_id": "1849043039496617984",
+        "conversation_id": "2022779745457312164",
+        "created_at": "2026-02-14T21:07:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T22:07:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022779745457312164"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1959181970820231168",
+              "start": 3,
+              "username": "junyyyzz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rx57OnWzZo",
+              "end": 108,
+              "expanded_url": "https://x.com/junyyyzz/status/2022597776563974499/photo/1",
+              "media_key": "3_2022597768389304320",
+              "start": 85,
+              "url": "https://t.co/rx57OnWzZo"
+            },
+            {
+              "display_url": "pic.x.com/rx57OnWzZo",
+              "end": 108,
+              "expanded_url": "https://x.com/junyyyzz/status/2022597776563974499/photo/1",
+              "media_key": "3_2022597768515325959",
+              "start": 85,
+              "url": "https://t.co/rx57OnWzZo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022779745457312164",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1569
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022597776563974499",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @junyyyzz: I actually have two valentines… woah woh ladies one at a time please 🙏 https://t.co/rx57OnWzZo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022597768389304320",
+            "3_2022597768515325959"
+          ]
+        },
+        "author_id": "1959181970820231168",
+        "conversation_id": "2022597776563974499",
+        "created_at": "2026-02-14T09:04:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T10:04:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022597776563974499"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rx57OnWzZo",
+              "end": 94,
+              "expanded_url": "https://x.com/junyyyzz/status/2022597776563974499/photo/1",
+              "media_key": "3_2022597768389304320",
+              "start": 71,
+              "url": "https://t.co/rx57OnWzZo"
+            },
+            {
+              "display_url": "pic.x.com/rx57OnWzZo",
+              "end": 94,
+              "expanded_url": "https://x.com/junyyyzz/status/2022597776563974499/photo/1",
+              "media_key": "3_2022597768515325959",
+              "start": 71,
+              "url": "https://t.co/rx57OnWzZo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022597776563974499",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 254,
+          "impression_count": 62764,
+          "like_count": 7685,
+          "quote_count": 9,
+          "reply_count": 16,
+          "retweet_count": 1569
+        },
+        "reply_settings": "everyone",
+        "text": "I actually have two valentines… woah woh ladies one at a time please 🙏 https://t.co/rx57OnWzZo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ZA",
+              "full_name": "South Africa",
+              "geo": {
+                "coordinates": [
+                  24.0,
+                  -29.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我思即我在｜我是林子｜如果没有回关请私信提醒我！｜我不吸毒！！！｜性别为无、｜輪郭の定まらない位置にいた人@Psych_Angel_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 53,
+                "username": "Psych_Angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNh89"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 572,
+          "following_count": 530,
+          "like_count": 14476,
+          "listed_count": 1,
+          "media_count": 147,
+          "tweet_count": 7348
+        },
+        "url": "https://t.co/rCvc9RNh89",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-23T09:12:46.000Z",
+        "description": "let’s all have a nyanful day",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "junnysll.straw.page",
+                "end": 23,
+                "expanded_url": "https://junnysll.straw.page",
+                "start": 0,
+                "url": "https://t.co/jsaSq7ts0f"
+              }
+            ]
+          }
+        },
+        "id": "1959181970820231168",
+        "location": "Honami land 🐑",
+        "name": "づに ᛝ HONAMI OF SHEDTWT",
+        "pinned_tweet_id": "2015142747884147134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013018371529322496/DasJbYz6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1088,
+          "following_count": 1081,
+          "like_count": 6712,
+          "listed_count": 21,
+          "media_count": 740,
+          "tweet_count": 2420
+        },
+        "url": "https://t.co/jsaSq7ts0f",
+        "username": "junyyyzz",
+        "verified": false
+      }
+    ]
+  }
+}

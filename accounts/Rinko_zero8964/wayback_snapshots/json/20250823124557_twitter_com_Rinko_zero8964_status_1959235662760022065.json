@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1959222204194824477",
+    "created_at": "2025-08-23T12:45:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-23T13:45:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959235662760022065"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1911828872334831616",
+          "start": 0,
+          "username": "Edward_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959235662760022065",
+    "in_reply_to_user_id": "1911828872334831616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959222204194824477",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Edward_8964 某种意义上也挺好的？至少花钱的人是傻子很清楚明了了，但凡有脑子都不至于来买这个"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1959222204194824477",
+        "created_at": "2025-08-23T12:45:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T13:45:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959235662760022065"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1911828872334831616",
+              "start": 0,
+              "username": "Edward_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959235662760022065",
+        "in_reply_to_user_id": "1911828872334831616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959222204194824477",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Edward_8964 某种意义上也挺好的？至少花钱的人是傻子很清楚明了了，但凡有脑子都不至于来买这个"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1911828872334831616",
+        "conversation_id": "1959222204194824477",
+        "created_at": "2025-08-23T11:52:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T12:52:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959222204194824477"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/moneyrain03/st…",
+              "end": 82,
+              "expanded_url": "https://twitter.com/moneyrain03/status/1959219269868437907",
+              "start": 59,
+              "url": "https://t.co/F6JTVnzxTz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959222204194824477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 68,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959219269868437907",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这一方案我早就发布过了，我不会售卖处方和任何东西，我只是看着有人拿着个免费软件和不一定能成功的高风险方案招摇撞骗很火 https://t.co/F6JTVnzxTz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849043147487420416/0nrEqJTK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 241,
+          "like_count": 1976,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 3197
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-14T17:08:26.000Z",
+        "description": "od不扩散就是个笑话，要是没扩散的话我tm就不会出现在这里 自由意志主义者 前世：@XuaEdward",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 41,
+                "username": "XuaEdward"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nonexistent.wiki",
+                "end": 23,
+                "expanded_url": "http://nonexistent.wiki",
+                "start": 0,
+                "url": "https://t.co/l3ALBiDDXN"
+              }
+            ]
+          }
+        },
+        "id": "1911828872334831616",
+        "location": "NE",
+        "name": "💊爱德华 gen4 转生体",
+        "pinned_tweet_id": "1959034919428268061",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950996785687908352/8FndmWCE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 381,
+          "like_count": 3584,
+          "listed_count": 1,
+          "media_count": 109,
+          "tweet_count": 1842
+        },
+        "url": "https://t.co/l3ALBiDDXN",
+        "username": "Edward_8964",
+        "verified": false
+      }
+    ]
+  }
+}

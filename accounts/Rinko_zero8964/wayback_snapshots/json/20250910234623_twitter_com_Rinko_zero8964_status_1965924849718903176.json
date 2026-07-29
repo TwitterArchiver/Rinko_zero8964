@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1965924849718903176",
+    "created_at": "2025-09-10T23:46:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-11T00:46:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1965924849718903176"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1965924849718903176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "声明：如果你是从墙内某厕过来看到我的尝试所以来问我用药方式的，我拒绝回复任何，把我的帖子转到wb并询问我普瑞鼻吸方式太蠢了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1965924849718903176",
+        "created_at": "2025-09-10T23:46:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T00:46:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965924849718903176"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1965924849718903176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "声明：如果你是从墙内某厕过来看到我的尝试所以来问我用药方式的，我拒绝回复任何，把我的帖子转到wb并询问我普瑞鼻吸方式太蠢了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 262,
+          "like_count": 2585,
+          "listed_count": 2,
+          "media_count": 66,
+          "tweet_count": 3719
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      }
+    ]
+  }
+}

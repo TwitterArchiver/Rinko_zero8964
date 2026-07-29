@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2008671432822185984"
+      ],
+      "media_source_tweet_id": [
+        "2008671526489645366"
+      ]
+    },
+    "author_id": "1849043039496617984",
+    "conversation_id": "2008920131976692105",
+    "created_at": "2026-01-07T15:14:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T16:14:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008920131976692105"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 31,
+          "start": 15,
+          "tag": "cigburngrindset"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1855268777652633600",
+          "start": 3,
+          "username": "strif1998"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MuHSwhWpjI",
+          "end": 55,
+          "expanded_url": "https://x.com/strif1998/status/2008671526489645366/video/1",
+          "media_key": "13_2008671432822185984",
+          "start": 32,
+          "url": "https://t.co/MuHSwhWpjI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008920131976692105",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 709
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008671526489645366",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @strif1998: #cigburngrindset https://t.co/MuHSwhWpjI"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10083,
+        "height": 720,
+        "media_key": "13_2008671432822185984",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2008671432822185984/img/23dwIgDZo5T-BYtC.jpg",
+        "public_metrics": {
+          "view_count": 31728
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2008671432822185984/vid/avc1/480x270/0Gh6Sue11fGmKqJs.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2008671432822185984/vid/avc1/640x360/kvWFx4UomeP7A-RQ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2008671432822185984/vid/avc1/1280x720/MXXx8z71AxP7tP-5.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2008671432822185984/pl/11AcURBuT938FtgU.m3u8?v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2008671432822185984"
+          ],
+          "media_source_tweet_id": [
+            "2008671526489645366"
+          ]
+        },
+        "author_id": "1849043039496617984",
+        "conversation_id": "2008920131976692105",
+        "created_at": "2026-01-07T15:14:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T16:14:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008920131976692105"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 15,
+              "tag": "cigburngrindset"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1855268777652633600",
+              "start": 3,
+              "username": "strif1998"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MuHSwhWpjI",
+              "end": 55,
+              "expanded_url": "https://x.com/strif1998/status/2008671526489645366/video/1",
+              "media_key": "13_2008671432822185984",
+              "start": 32,
+              "url": "https://t.co/MuHSwhWpjI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008920131976692105",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 709
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008671526489645366",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @strif1998: #cigburngrindset https://t.co/MuHSwhWpjI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2008671432822185984"
+          ]
+        },
+        "author_id": "1855268777652633600",
+        "conversation_id": "2008671526489645366",
+        "created_at": "2026-01-06T22:46:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T23:46:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008671526489645366"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 0,
+              "tag": "cigburngrindset"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MuHSwhWpjI",
+              "end": 40,
+              "expanded_url": "https://x.com/strif1998/status/2008671526489645366/video/1",
+              "media_key": "13_2008671432822185984",
+              "start": 17,
+              "url": "https://t.co/MuHSwhWpjI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008671526489645366",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 723,
+          "impression_count": 73987,
+          "like_count": 3815,
+          "quote_count": 129,
+          "reply_count": 51,
+          "retweet_count": 709
+        },
+        "reply_settings": "everyone",
+        "text": "#cigburngrindset https://t.co/MuHSwhWpjI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜如果没有回关请私信提醒我！｜我不吸毒！！！｜小猫我喜欢你超喜欢我爱你@psych_angel_｜性别为无、",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 45,
+                "username": "psych_angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNh89"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 492,
+          "following_count": 465,
+          "like_count": 10460,
+          "listed_count": 1,
+          "media_count": 130,
+          "tweet_count": 6222
+        },
+        "url": "https://t.co/rCvc9RNh89",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-09T15:18:52.000Z",
+        "description": "",
+        "id": "1855268777652633600",
+        "location": "New York, USA",
+        "name": "strif",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878377759371665408/hKejW6B7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 381,
+          "following_count": 104,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 6
+        },
+        "username": "strif1998",
+        "verified": false
+      }
+    ]
+  }
+}

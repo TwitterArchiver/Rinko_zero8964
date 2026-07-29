@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2009130446739918848"
+      ],
+      "media_source_tweet_id": [
+        "2009130511697105412"
+      ]
+    },
+    "author_id": "1849043039496617984",
+    "conversation_id": "2009380199171760525",
+    "created_at": "2026-01-08T21:42:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T22:42:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009380199171760525"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1766820553191751680",
+          "start": 3,
+          "username": "motyai_pp"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/468VpcXEs0",
+          "end": 48,
+          "expanded_url": "https://x.com/motyai_pp/status/2009130511697105412/video/1",
+          "media_key": "13_2009130446739918848",
+          "start": 25,
+          "url": "https://t.co/468VpcXEs0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009380199171760525",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2357
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009130511697105412",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @motyai_pp: マウスウォッシング https://t.co/468VpcXEs0"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14600,
+        "height": 720,
+        "media_key": "13_2009130446739918848",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2009130446739918848/img/6rNsRnYTr_r7Y_mQ.jpg",
+        "public_metrics": {
+          "view_count": 191295
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2009130446739918848/vid/avc1/480x270/HEtDz8xEY2vd87Vu.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2009130446739918848/vid/avc1/640x360/IBO1Y3KRK7VTZTge.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2009130446739918848/vid/avc1/1280x720/yf5HHgQn16NQ8O9o.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2009130446739918848/pl/gE6NUM9C0yZ0sIo8.m3u8?v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2009130446739918848"
+          ],
+          "media_source_tweet_id": [
+            "2009130511697105412"
+          ]
+        },
+        "author_id": "1849043039496617984",
+        "conversation_id": "2009380199171760525",
+        "created_at": "2026-01-08T21:42:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T22:42:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009380199171760525"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1766820553191751680",
+              "start": 3,
+              "username": "motyai_pp"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/468VpcXEs0",
+              "end": 48,
+              "expanded_url": "https://x.com/motyai_pp/status/2009130511697105412/video/1",
+              "media_key": "13_2009130446739918848",
+              "start": 25,
+              "url": "https://t.co/468VpcXEs0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009380199171760525",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2357
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009130511697105412",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @motyai_pp: マウスウォッシング https://t.co/468VpcXEs0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2009130446739918848"
+          ]
+        },
+        "author_id": "1766820553191751680",
+        "conversation_id": "2009130511697105412",
+        "created_at": "2026-01-08T05:10:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T06:10:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009130511697105412"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/468VpcXEs0",
+              "end": 33,
+              "expanded_url": "https://x.com/motyai_pp/status/2009130511697105412/video/1",
+              "media_key": "13_2009130446739918848",
+              "start": 10,
+              "url": "https://t.co/468VpcXEs0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009130511697105412",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3969,
+          "impression_count": 403351,
+          "like_count": 17630,
+          "quote_count": 171,
+          "reply_count": 3,
+          "retweet_count": 2357
+        },
+        "reply_settings": "following",
+        "text": "マウスウォッシング https://t.co/468VpcXEs0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜如果没有回关请私信提醒我！｜我不吸毒！！！｜小猫我喜欢你超喜欢我爱你@psych_angel_｜性别为无、",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 45,
+                "username": "psych_angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNh89"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 470,
+          "like_count": 10776,
+          "listed_count": 1,
+          "media_count": 133,
+          "tweet_count": 6319
+        },
+        "url": "https://t.co/rCvc9RNh89",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-10T13:38:03.000Z",
+        "description": "済｜漫画家志望·雑多｜3L｜絵とピアスが好き｜ネーム進捗･創作絵｜感想▶︎https://t.co/EWJPL5R4CB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/n59833e3boo5kfi",
+                "end": 60,
+                "expanded_url": "https://marshmallow-qa.com/n59833e3boo5kfi",
+                "start": 37,
+                "url": "https://t.co/EWJPL5R4CB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@motyaipp?_t=Z…",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@motyaipp?_t=ZS-90A38k1gCQO&_r=1",
+                "start": 0,
+                "url": "https://t.co/QIBPZG1MvR"
+              }
+            ]
+          }
+        },
+        "id": "1766820553191751680",
+        "location": "気ままに",
+        "name": "片山 餅🍡",
+        "pinned_tweet_id": "1892524737915486610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896404929989976064/a_mN8-pd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1505,
+          "following_count": 173,
+          "like_count": 19394,
+          "listed_count": 4,
+          "media_count": 364,
+          "tweet_count": 886
+        },
+        "url": "https://t.co/QIBPZG1MvR",
+        "username": "motyai_pp",
+        "verified": false
+      }
+    ]
+  }
+}

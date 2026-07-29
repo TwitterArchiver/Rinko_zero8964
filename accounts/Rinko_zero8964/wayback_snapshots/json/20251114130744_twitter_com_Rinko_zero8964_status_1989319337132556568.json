@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1989319337132556568",
+    "created_at": "2025-11-14T13:07:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T14:07:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989319337132556568"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1587693577588846592",
+          "start": 3,
+          "username": "qishnlng20"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989319337132556568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989257027634516352",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qishnlng20: 作为小县城唯一OD过右美沙芬的人，我的眼神里总是透着同龄人不懂的肃穆，每次家里跳闸停电，我都会平静地抬手轻按空气开关：“右美沙芬，此身容你戒断，但绝对不可逃离高原。”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1989319337132556568",
+        "created_at": "2025-11-14T13:07:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T14:07:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989319337132556568"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1587693577588846592",
+              "start": 3,
+              "username": "qishnlng20"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989319337132556568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989257027634516352",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qishnlng20: 作为小县城唯一OD过右美沙芬的人，我的眼神里总是透着同龄人不懂的肃穆，每次家里跳闸停电，我都会平静地抬手轻按空气开关：“右美沙芬，此身容你戒断，但绝对不可逃离高原。”"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1587693577588846592",
+        "conversation_id": "1989257027634516352",
+        "created_at": "2025-11-14T09:00:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T10:00:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989257027634516352"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1989257027634516352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2680,
+          "like_count": 47,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "作为小县城唯一OD过右美沙芬的人，我的眼神里总是透着同龄人不懂的肃穆，每次家里跳闸停电，我都会平静地抬手轻按空气开关：“右美沙芬，此身容你戒断，但绝对不可逃离高原。”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜🥺@NashiMoe233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "NashiMoe233"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1967335109767692560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 300,
+          "like_count": 3737,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 4338
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-02T06:30:28.000Z",
+        "description": "漸変色的枝桠 生出水母花",
+        "id": "1587693577588846592",
+        "location": "16h 29m 24s、−26° 25′ 55″",
+        "name": "👁️‍🗨️Lapin9",
+        "pinned_tweet_id": "1969892292946465242",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988302613532864512/Wgdko59g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 607,
+          "following_count": 76,
+          "like_count": 215,
+          "listed_count": 4,
+          "media_count": 46,
+          "tweet_count": 350
+        },
+        "username": "qishnlng20",
+        "verified": false
+      }
+    ]
+  }
+}

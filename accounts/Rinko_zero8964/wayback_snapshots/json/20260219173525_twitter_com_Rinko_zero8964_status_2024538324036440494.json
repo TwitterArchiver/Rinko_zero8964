@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2024143064227610624"
+      ],
+      "media_source_tweet_id": [
+        "2024143074751050004"
+      ]
+    },
+    "author_id": "1849043039496617984",
+    "conversation_id": "2024538324036440494",
+    "created_at": "2026-02-19T17:35:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T18:35:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024538324036440494"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1803372139929829376",
+          "start": 3,
+          "username": "h_s_sinrin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vt0D3OYP73",
+          "end": 39,
+          "expanded_url": "https://x.com/h_s_sinrin/status/2024143074751050004/video/1",
+          "media_key": "13_2024143064227610624",
+          "start": 16,
+          "url": "https://t.co/vt0D3OYP73"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024538324036440494",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2569
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024143074751050004",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @h_s_sinrin: https://t.co/vt0D3OYP73"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4800,
+        "height": 866,
+        "media_key": "13_2024143064227610624",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2024143064227610624/img/TknSAxdJY8IK-67H.jpg",
+        "public_metrics": {
+          "view_count": 48852
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024143064227610624/vid/avc1/320x384/1Xcx6tykYaieSgVv.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024143064227610624/vid/avc1/480x576/rrVzeLgcLQFLaeVC.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024143064227610624/vid/avc1/720x866/yCZx4xsEG_EhhnkB.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2024143064227610624/pl/zQ7an4f-LkCDhoho.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2024143064227610624"
+          ],
+          "media_source_tweet_id": [
+            "2024143074751050004"
+          ]
+        },
+        "author_id": "1849043039496617984",
+        "conversation_id": "2024538324036440494",
+        "created_at": "2026-02-19T17:35:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T18:35:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024538324036440494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1803372139929829376",
+              "start": 3,
+              "username": "h_s_sinrin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vt0D3OYP73",
+              "end": 39,
+              "expanded_url": "https://x.com/h_s_sinrin/status/2024143074751050004/video/1",
+              "media_key": "13_2024143064227610624",
+              "start": 16,
+              "url": "https://t.co/vt0D3OYP73"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024538324036440494",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2569
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024143074751050004",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @h_s_sinrin: https://t.co/vt0D3OYP73"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2024143064227610624"
+          ]
+        },
+        "author_id": "1803372139929829376",
+        "conversation_id": "2024143074751050004",
+        "created_at": "2026-02-18T15:24:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T16:24:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024143074751050004"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vt0D3OYP73",
+              "end": 23,
+              "expanded_url": "https://x.com/h_s_sinrin/status/2024143074751050004/video/1",
+              "media_key": "13_2024143064227610624",
+              "start": 0,
+              "url": "https://t.co/vt0D3OYP73"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024143074751050004",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1877,
+          "impression_count": 148297,
+          "like_count": 18249,
+          "quote_count": 54,
+          "reply_count": 5,
+          "retweet_count": 2569
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/vt0D3OYP73"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思う、ゆえに我あり｜ 我是林子｜性别为无、｜寒くなってきたね……もう少しだけ、いい？｜intp-t｜asd/焦虑障碍｜🧬今日也想成为biohacker｜輪郭の定まらない位置にいた人@Psych_Angel_｜好妈妈们@asabakasaiko @loveforeversfy|bro @BelovedUren8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 91,
+                "username": "Psych_Angel_"
+              },
+              {
+                "end": 122,
+                "start": 109,
+                "username": "asabakasaiko"
+              },
+              {
+                "end": 138,
+                "start": 123,
+                "username": "loveforeversfy"
+              },
+              {
+                "end": 159,
+                "start": 143,
+                "username": "BelovedUren8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wakaba_rinko",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wakaba_rinko",
+                "start": 0,
+                "url": "https://t.co/zWqK1n9RJg"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "Ask me any u want→",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 581,
+          "following_count": 546,
+          "like_count": 15416,
+          "listed_count": 1,
+          "media_count": 152,
+          "tweet_count": 7603
+        },
+        "url": "https://t.co/zWqK1n9RJg",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-19T10:20:06.000Z",
+        "description": "🔪https://t.co/maQm6Z7PVw☀️",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/rou1hs",
+                "end": 24,
+                "expanded_url": "https://lit.link/rou1hs",
+                "start": 1,
+                "url": "https://t.co/maQm6Z7PVw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@h_s_sinrin",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@h_s_sinrin",
+                "start": 0,
+                "url": "https://t.co/bYRagQm7Lo"
+              }
+            ]
+          }
+        },
+        "id": "1803372139929829376",
+        "location": "ᴜɴᴏꜰꜰɪᴄɪᴀʟ",
+        "name": "ろう",
+        "pinned_tweet_id": "1981986559437009404",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932952662175330304/Wc3Ob2_R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12232,
+          "following_count": 24,
+          "like_count": 1355,
+          "listed_count": 23,
+          "media_count": 129,
+          "tweet_count": 210
+        },
+        "url": "https://t.co/bYRagQm7Lo",
+        "username": "h_s_sinrin",
+        "verified": false
+      }
+    ]
+  }
+}

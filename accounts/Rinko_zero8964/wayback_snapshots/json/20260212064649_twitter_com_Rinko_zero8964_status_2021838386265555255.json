@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2021526498801496192",
+    "created_at": "2026-02-12T06:46:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T07:46:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021838386265555255"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1462208415837655043",
+          "start": 0,
+          "username": "Prechaska"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021838386265555255",
+    "in_reply_to_user_id": "1462208415837655043",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021526498801496192",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Prechaska 哇这个真的好艺术好看"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1932,
+        "media_key": "3_2021526495538339841",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA3nox6aYAEjQTz.jpg",
+        "width": 1932
+      },
+      {
+        "height": 2003,
+        "media_key": "3_2021526483081240577",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA3noDgaIAEHvR-.jpg",
+        "width": 2003
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2021526498801496192",
+        "created_at": "2026-02-12T06:46:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T07:46:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021838386265555255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1462208415837655043",
+              "start": 0,
+              "username": "Prechaska"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021838386265555255",
+        "in_reply_to_user_id": "1462208415837655043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021526498801496192",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Prechaska 哇这个真的好艺术好看"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021526495538339841",
+            "3_2021526483081240577"
+          ]
+        },
+        "author_id": "1462208415837655043",
+        "conversation_id": "2021526498801496192",
+        "created_at": "2026-02-11T10:07:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T11:07:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021526498801496192"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q92rFXwTLp",
+              "end": 161,
+              "expanded_url": "https://x.com/Prechaska/status/2021526498801496192/photo/1",
+              "media_key": "3_2021526495538339841",
+              "start": 138,
+              "url": "https://t.co/q92rFXwTLp"
+            },
+            {
+              "display_url": "pic.x.com/q92rFXwTLp",
+              "end": 161,
+              "expanded_url": "https://x.com/Prechaska/status/2021526498801496192/photo/1",
+              "media_key": "3_2021526483081240577",
+              "start": 138,
+              "url": "https://t.co/q92rFXwTLp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021526498801496192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 154,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这枚实在是完美，没有任何文字进行解释，简单的几何符号反而能承载无限种象征和隐喻，它可以仅仅作为一种秩序之美，平衡、稳定、循环；也可以是绵延不绝轮回反复的生命象征；还可以是AA的标志：Recovery, Unity, Service，在混乱中建立秩序，并且永远追寻着清醒的步伐 https://t.co/q92rFXwTLp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ZA",
+              "full_name": "South Africa",
+              "geo": {
+                "coordinates": [
+                  24.0,
+                  -29.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我思即我在｜我是林子｜如果没有回关请私信提醒我！｜我不吸毒！！！｜性别为无、｜輪郭の定まらない位置にいた人@Psych_Angel_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 53,
+                "username": "Psych_Angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNh89"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 563,
+          "following_count": 520,
+          "like_count": 14076,
+          "listed_count": 1,
+          "media_count": 146,
+          "tweet_count": 7218
+        },
+        "url": "https://t.co/rCvc9RNh89",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能（再社会化…失败了？）｜或许有精神病或许没有｜Kentish Plover lover｜🐦‍⬛watching｜“现在斧子已经放在树根上，凡不结好果子的树就砍下来，丢在火里。” (马太福音 3:10)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "pinned_tweet_id": "2006381608522445059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 116,
+          "like_count": 2125,
+          "listed_count": 1,
+          "media_count": 143,
+          "tweet_count": 1347
+        },
+        "username": "Prechaska",
+        "verified": false
+      }
+    ]
+  }
+}

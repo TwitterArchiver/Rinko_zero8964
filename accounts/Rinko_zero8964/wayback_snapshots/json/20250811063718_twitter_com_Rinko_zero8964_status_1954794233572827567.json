@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1954794233572827567",
+    "created_at": "2025-08-11T06:37:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-11T07:37:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1954794233572827567"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1954794233572827567",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我不懂啊为什么要不承认我的精神疾病不承认我有很严重的心理问题而且拿别人的痛苦和我做比较来证明我其实什么都没经历过我的痛苦是存在的不要否认我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1954794233572827567",
+        "created_at": "2025-08-11T06:37:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T07:37:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954794233572827567"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1954794233572827567",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不懂啊为什么要不承认我的精神疾病不承认我有很严重的心理问题而且拿别人的痛苦和我做比较来证明我其实什么都没经历过我的痛苦是存在的不要否认我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849043147487420416/0nrEqJTK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 234,
+          "like_count": 1486,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 2770
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      }
+    ]
+  }
+}

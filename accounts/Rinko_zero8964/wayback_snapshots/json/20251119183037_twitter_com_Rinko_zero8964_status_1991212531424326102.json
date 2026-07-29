@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1990825350486700032"
+      ],
+      "media_source_tweet_id": [
+        "1990825427867406842"
+      ]
+    },
+    "author_id": "1849043039496617984",
+    "conversation_id": "1991212531424326102",
+    "created_at": "2025-11-19T18:30:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T19:30:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991212531424326102"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1662439435726905344",
+          "start": 3,
+          "username": "moya_michaeI"
+        },
+        {
+          "end": 31,
+          "id": "1989627406391635968",
+          "start": 18,
+          "username": "drug_artist2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7VvEBngplK",
+          "end": 101,
+          "expanded_url": "https://x.com/moya_michaeI/status/1990825427867406842/video/1",
+          "media_key": "13_1990825350486700032",
+          "start": 78,
+          "url": "https://t.co/7VvEBngplK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991212531424326102",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990825427867406842",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @moya_michaeI: @drug_artist2 感觉像在学孩子王假死然后先开个号狠狠恰流量等粉丝回的差不多了再堂堂复活是吗，哈基沐你这家伙 https://t.co/7VvEBngplK"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8063,
+        "height": 1280,
+        "media_key": "13_1990825350486700032",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1990825350486700032/img/aFjSjy6sY4Rs7ZYZ.jpg",
+        "public_metrics": {
+          "view_count": 906
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1990825350486700032/vid/avc1/320x568/xOFmmlBqJZvxyuRV.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1990825350486700032/vid/avc1/480x852/DcmSSjyO0yt9ntt5.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1990825350486700032/vid/avc1/720x1280/APqcwXrETNm9dbgW.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1990825350486700032/pl/ncrWKqD1CxRg7AuI.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1990825350486700032"
+          ],
+          "media_source_tweet_id": [
+            "1990825427867406842"
+          ]
+        },
+        "author_id": "1849043039496617984",
+        "conversation_id": "1991212531424326102",
+        "created_at": "2025-11-19T18:30:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T19:30:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991212531424326102"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1662439435726905344",
+              "start": 3,
+              "username": "moya_michaeI"
+            },
+            {
+              "end": 31,
+              "id": "1989627406391635968",
+              "start": 18,
+              "username": "drug_artist2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7VvEBngplK",
+              "end": 101,
+              "expanded_url": "https://x.com/moya_michaeI/status/1990825427867406842/video/1",
+              "media_key": "13_1990825350486700032",
+              "start": 78,
+              "url": "https://t.co/7VvEBngplK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991212531424326102",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990825427867406842",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @moya_michaeI: @drug_artist2 感觉像在学孩子王假死然后先开个号狠狠恰流量等粉丝回的差不多了再堂堂复活是吗，哈基沐你这家伙 https://t.co/7VvEBngplK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1990825350486700032"
+          ]
+        },
+        "author_id": "1662439435726905344",
+        "conversation_id": "1990764217734144224",
+        "created_at": "2025-11-18T16:52:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T17:52:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990825427867406842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1989627406391635968",
+              "start": 0,
+              "username": "drug_artist2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7VvEBngplK",
+              "end": 83,
+              "expanded_url": "https://x.com/moya_michaeI/status/1990825427867406842/video/1",
+              "media_key": "13_1990825350486700032",
+              "start": 60,
+              "url": "https://t.co/7VvEBngplK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990825427867406842",
+        "in_reply_to_user_id": "1989627406391635968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2996,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990764217734144224",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@drug_artist2 感觉像在学孩子王假死然后先开个号狠狠恰流量等粉丝回的差不多了再堂堂复活是吗，哈基沐你这家伙 https://t.co/7VvEBngplK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜🥺@NashiMoe233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "NashiMoe233"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1967335109767692560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 316,
+          "like_count": 4289,
+          "listed_count": 1,
+          "media_count": 84,
+          "tweet_count": 4451
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-27T12:44:05.000Z",
+        "description": "您好 我叫何本櫻 來自美國華盛頓特區 曾就讀於普林斯頓大學专攻医学 現居日本東京 從事十五年医药相關工作 現在是南島第一Dealer有什麼需要的可以聯繫我 感謝您的關注",
+        "id": "1662439435726905344",
+        "location": "東京 渋谷区",
+        "name": "南島魔女S4kura-Dealer2539號",
+        "pinned_tweet_id": "1990857601547227566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983926637260660736/jix4stR1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 621,
+          "following_count": 100,
+          "like_count": 8718,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 1267
+        },
+        "username": "moya_michaeI",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-15T09:32:30.000Z",
+        "description": "我是沐雨 | 药物百科wiki主 | 复活了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/CuWdphrWhF"
+              }
+            ]
+          }
+        },
+        "id": "1989627406391635968",
+        "location": "ICU",
+        "name": "沐雨（复活版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989627623304302594/iRhfipvR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 481,
+          "following_count": 7,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 15
+        },
+        "url": "https://t.co/CuWdphrWhF",
+        "username": "drug_artist2",
+        "verified": false
+      }
+    ]
+  }
+}

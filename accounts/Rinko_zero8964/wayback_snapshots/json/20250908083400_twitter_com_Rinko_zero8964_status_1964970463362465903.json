@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1964745772504907838",
+    "created_at": "2025-09-08T08:34:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-08T09:34:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964970463362465903"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1502654786453204994",
+          "start": 0,
+          "username": "uranus_chaos"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964970463362465903",
+    "in_reply_to_user_id": "1502654786453204994",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964745772504907838",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uranus_chaos 我觉得提供放弃生命权的渠道不算是干涉他人自由。正因为是自由的所以售卖和购买都是自由的合理行为，你不能阻止想死的人花钱为自己选择死法"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1964745764183445505",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0Qt3OQbkAEFaVY.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1964745772504907838",
+        "created_at": "2025-09-08T08:34:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T09:34:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964970463362465903"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1502654786453204994",
+              "start": 0,
+              "username": "uranus_chaos"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964970463362465903",
+        "in_reply_to_user_id": "1502654786453204994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964745772504907838",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uranus_chaos 我觉得提供放弃生命权的渠道不算是干涉他人自由。正因为是自由的所以售卖和购买都是自由的合理行为，你不能阻止想死的人花钱为自己选择死法"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1964745764183445505"
+          ]
+        },
+        "author_id": "1502654786453204994",
+        "conversation_id": "1964745772504907838",
+        "created_at": "2025-09-07T17:41:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T18:41:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964745772504907838"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q8ajDNwWGL",
+              "end": 72,
+              "expanded_url": "https://x.com/uranus_chaos/status/1964745772504907838/photo/1",
+              "media_key": "3_1964745764183445505",
+              "start": 49,
+              "url": "https://t.co/Q8ajDNwWGL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964745772504907838",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1246,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "请举报。\n生命权是自由的，放弃生命权也是你的自由。\n但是提供放弃生命权的渠道，干涉了他人的自由。 https://t.co/Q8ajDNwWGL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849043147487420416/0nrEqJTK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 263,
+          "like_count": 2496,
+          "listed_count": 2,
+          "media_count": 65,
+          "tweet_count": 3675
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-12T14:36:45.000Z",
+        "description": "拯救，陪伴，热爱，绝不抛弃。 ‖ 双星系统/主恒星/Venus：@shiyulin_‖药学毕业/医学生/护理学毕业/心理学二专‖里推：@不告诉你！ 自己猜！‖客服瑶光猫：@yaoguangmao（在线时间am11:30-pm10:30❗）点击进入无限循环：@uranus_chaos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 32,
+                "username": "shiyulin_"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "yaoguangmao"
+              },
+              {
+                "end": 141,
+                "start": 128,
+                "username": "uranus_chaos"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mtf_great",
+                "end": 23,
+                "expanded_url": "https://t.me/mtf_great",
+                "start": 0,
+                "url": "https://t.co/ResOORYaTk"
+              }
+            ]
+          }
+        },
+        "id": "1502654786453204994",
+        "location": "是一个无条件接受倾诉的树洞，休息时间是a.m 01：00。",
+        "name": "二酸化炭素の🪼猫诺诺🍥🏴🏳️‍🌈【学术推】【南河三】",
+        "pinned_tweet_id": "1958099694309048384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958164515515957248/htMD0p97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1428,
+          "following_count": 307,
+          "like_count": 27582,
+          "listed_count": 1,
+          "media_count": 978,
+          "tweet_count": 7508
+        },
+        "url": "https://t.co/ResOORYaTk",
+        "username": "uranus_chaos",
+        "verified": true
+      }
+    ]
+  }
+}

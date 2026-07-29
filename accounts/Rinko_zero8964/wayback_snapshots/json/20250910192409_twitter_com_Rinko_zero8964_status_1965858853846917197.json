@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1965458285152407954",
+    "created_at": "2025-09-10T19:24:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-10T20:24:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965858853846917197"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "622036546",
+          "start": 0,
+          "username": "overdose_six"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965858853846917197",
+    "in_reply_to_user_id": "622036546",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965458285152407954",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@overdose_six 这么贵你为什么不吃策划药"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1965458282254057472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0a15O6aQAAPH6a.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1965458285152407954",
+        "created_at": "2025-09-10T19:24:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T20:24:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965858853846917197"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "622036546",
+              "start": 0,
+              "username": "overdose_six"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965858853846917197",
+        "in_reply_to_user_id": "622036546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965458285152407954",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@overdose_six 这么贵你为什么不吃策划药"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965458282254057472"
+          ]
+        },
+        "author_id": "622036546",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1965458285152407954",
+        "created_at": "2025-09-09T16:52:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T17:52:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965458285152407954"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WNtXIF2n9R",
+              "end": 91,
+              "expanded_url": "https://x.com/oder_666/status/1965458285152407954/photo/1",
+              "media_key": "3_1965458282254057472",
+              "start": 68,
+              "url": "https://t.co/WNtXIF2n9R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965458285152407954",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 2205,
+          "like_count": 29,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "发现一个外国版poli右美沙芬糖浆 成分不含愈创木酚甘油醚 可直接口服 12小时版本的右美沙芬 可以放水里面沉淀自动变成氢溴酸右美沙芬 https://t.co/WNtXIF2n9R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849043147487420416/0nrEqJTK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 261,
+          "like_count": 2538,
+          "listed_count": 2,
+          "media_count": 66,
+          "tweet_count": 3700
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2012-06-29T16:18:50.000Z",
+        "description": "overdose|病み垢|提问箱：https://t.co/JP9NLRoDUd|里人格@fuck_8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 44,
+                "username": "fuck_8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/oder_6661",
+                "end": 40,
+                "expanded_url": "http://ngl.link/oder_6661",
+                "start": 17,
+                "url": "https://t.co/JP9NLRoDUd"
+              }
+            ]
+          }
+        },
+        "id": "622036546",
+        "location": "参宿四",
+        "name": "むのう",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965430796367679488/C1QbG9XO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 451,
+          "following_count": 179,
+          "like_count": 6432,
+          "listed_count": 2,
+          "media_count": 168,
+          "tweet_count": 1736
+        },
+        "username": "overdose_six",
+        "verified": false
+      }
+    ]
+  }
+}

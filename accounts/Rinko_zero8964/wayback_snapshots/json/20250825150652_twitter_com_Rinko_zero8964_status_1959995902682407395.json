@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1959555320147308544"
+      ],
+      "media_source_tweet_id": [
+        "1959555322399600802"
+      ]
+    },
+    "author_id": "1849043039496617984",
+    "conversation_id": "1959995902682407395",
+    "created_at": "2025-08-25T15:06:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-25T16:06:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959995902682407395"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1238358430429007873",
+          "start": 3,
+          "username": "Kodokuna_kingyo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/agHSaVEVLG",
+          "end": 55,
+          "expanded_url": "https://x.com/Kodokuna_kingyo/status/1959555322399600802/photo/1",
+          "media_key": "3_1959555320147308544",
+          "start": 32,
+          "url": "https://t.co/agHSaVEVLG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959995902682407395",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 543
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959555322399600802",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kodokuna_kingyo: はやくこれになりたい https://t.co/agHSaVEVLG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 237,
+        "media_key": "3_1959555320147308544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzG9LncbcAA8Mqn.jpg",
+        "width": 498
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959555320147308544"
+          ],
+          "media_source_tweet_id": [
+            "1959555322399600802"
+          ]
+        },
+        "author_id": "1849043039496617984",
+        "conversation_id": "1959995902682407395",
+        "created_at": "2025-08-25T15:06:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T16:06:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959995902682407395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1238358430429007873",
+              "start": 3,
+              "username": "Kodokuna_kingyo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/agHSaVEVLG",
+              "end": 55,
+              "expanded_url": "https://x.com/Kodokuna_kingyo/status/1959555322399600802/photo/1",
+              "media_key": "3_1959555320147308544",
+              "start": 32,
+              "url": "https://t.co/agHSaVEVLG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959995902682407395",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 543
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959555322399600802",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kodokuna_kingyo: はやくこれになりたい https://t.co/agHSaVEVLG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959555320147308544"
+          ]
+        },
+        "author_id": "1238358430429007873",
+        "conversation_id": "1959555322399600802",
+        "created_at": "2025-08-24T09:56:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T10:56:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959555322399600802"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/agHSaVEVLG",
+              "end": 34,
+              "expanded_url": "https://x.com/Kodokuna_kingyo/status/1959555322399600802/photo/1",
+              "media_key": "3_1959555320147308544",
+              "start": 11,
+              "url": "https://t.co/agHSaVEVLG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959555322399600802",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 318,
+          "impression_count": 93122,
+          "like_count": 5232,
+          "quote_count": 38,
+          "reply_count": 6,
+          "retweet_count": 543
+        },
+        "reply_settings": "everyone",
+        "text": "はやくこれになりたい https://t.co/agHSaVEVLG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849043147487420416/0nrEqJTK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 241,
+          "like_count": 2066,
+          "listed_count": 2,
+          "media_count": 46,
+          "tweet_count": 3263
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-13T06:57:34.000Z",
+        "description": "生きろ！知恵ちゃん！\n\n  サブ→ @Nezumi_no_Brain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 18,
+                "username": "Nezumi_no_Brain"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 23,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/4I5NF47NFNFT?ref_=wl_share",
+                "start": 0,
+                "url": "https://t.co/oV0W4rGmBh"
+              }
+            ]
+          }
+        },
+        "id": "1238358430429007873",
+        "location": "幸福のおかわり そして 人生にアンコールを",
+        "name": "知恵ちゃん",
+        "pinned_tweet_id": "1945590089918341185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1315548141869953025/uCIznIos_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14376,
+          "following_count": 173,
+          "like_count": 293206,
+          "listed_count": 34,
+          "media_count": 1205,
+          "tweet_count": 7066
+        },
+        "url": "https://t.co/oV0W4rGmBh",
+        "username": "Kodokuna_kingyo",
+        "verified": false
+      }
+    ]
+  }
+}

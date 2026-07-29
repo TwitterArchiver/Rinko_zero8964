@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2004869832685355219",
+    "created_at": "2025-12-27T10:59:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T11:59:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004869832685355219"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1736265610911428608",
+          "start": 3,
+          "username": "noname2095_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004869832685355219",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004407640869437813",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @noname2095_: 我这条帖子成功让中推从粉蛆到支黑，从右派到左派，从毛泽东到社民，都一并团结起来对我进行口诛笔伐，他们无非就是复读几句谎言或反动保话术，有的还会顺带附两张反跨图片，反倒证实了中国人确实有低素质和虐待动物的劣根性"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2004869832685355219",
+        "created_at": "2025-12-27T10:59:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T11:59:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004869832685355219"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1736265610911428608",
+              "start": 3,
+              "username": "noname2095_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004869832685355219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004407640869437813",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @noname2095_: 我这条帖子成功让中推从粉蛆到支黑，从右派到左派，从毛泽东到社民，都一并团结起来对我进行口诛笔伐，他们无非就是复读几句谎言或反动保话术，有的还会顺带附两张反跨图片，反倒证实了中国人确实有低素质和虐待动物的劣根性"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1736265610911428608",
+        "conversation_id": "2004407640869437813",
+        "created_at": "2025-12-26T04:23:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T05:23:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004407640869437813"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/noname2095_/st…",
+              "end": 128,
+              "expanded_url": "https://twitter.com/noname2095_/status/2004150270214000964",
+              "start": 105,
+              "url": "https://t.co/D6vPVVZmSh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004407640869437813",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 6617,
+          "like_count": 55,
+          "quote_count": 6,
+          "reply_count": 21,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004150270214000964",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我这条帖子成功让中推从粉蛆到支黑，从右派到左派，从毛泽东到社民，都一并团结起来对我进行口诛笔伐，他们无非就是复读几句谎言或反动保话术，有的还会顺带附两张反跨图片，反倒证实了中国人确实有低素质和虐待动物的劣根性 https://t.co/D6vPVVZmSh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜如果没有回关请私信提醒我！｜我不吸毒！！！｜小猫我喜欢你超喜欢我爱你@psych_angel_｜性别为无、",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 45,
+                "username": "psych_angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNh89"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1999352315241988490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 458,
+          "following_count": 419,
+          "like_count": 7918,
+          "listed_count": 1,
+          "media_count": 113,
+          "tweet_count": 5707
+        },
+        "url": "https://t.co/rCvc9RNh89",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-17T06:03:03.000Z",
+        "description": "🧡🤍🩷🏳️‍⚧️\n我很穷啥也不会请给我钱\n那你能帮帮我吗\n我是跨女给我往包裹里倒塞两盒日雌\nhttps://t.co/5wRZ4IDVG0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "noname2095.bsky.social",
+                "end": 69,
+                "expanded_url": "http://noname2095.bsky.social",
+                "start": 46,
+                "url": "https://t.co/5wRZ4IDVG0"
+              }
+            ]
+          }
+        },
+        "id": "1736265610911428608",
+        "location": "南极洲",
+        "name": "noname",
+        "pinned_tweet_id": "1772656363941908692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945223550417186816/HdhCpSMc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1811,
+          "following_count": 299,
+          "like_count": 3648,
+          "listed_count": 4,
+          "media_count": 261,
+          "tweet_count": 8528
+        },
+        "username": "noname2095_",
+        "verified": false
+      }
+    ]
+  }
+}

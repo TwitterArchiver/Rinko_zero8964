@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2007409184263024789",
+    "created_at": "2026-01-03T11:10:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T12:10:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007409184263024789"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2007068022750814208",
+          "start": 3,
+          "username": "futi78999"
+        },
+        {
+          "end": 31,
+          "id": "1580263959751319554",
+          "start": 22,
+          "username": "kkndjhbh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007409184263024789",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007324311498174512",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @futi78999: 我是扶梯\n前世@kkndjhbh永久冻结\n那些眼熟的朋友们\n我们再续前缘"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [kkndjhbh].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "kkndjhbh",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "kkndjhbh"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2007409184263024789",
+        "created_at": "2026-01-03T11:10:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T12:10:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007409184263024789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2007068022750814208",
+              "start": 3,
+              "username": "futi78999"
+            },
+            {
+              "end": 31,
+              "id": "1580263959751319554",
+              "start": 22,
+              "username": "kkndjhbh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007409184263024789",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007324311498174512",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @futi78999: 我是扶梯\n前世@kkndjhbh永久冻结\n那些眼熟的朋友们\n我们再续前缘"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007068022750814208",
+        "conversation_id": "2007324311498174512",
+        "created_at": "2026-01-03T05:33:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T06:33:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007324311498174512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1580263959751319554",
+              "start": 7,
+              "username": "kkndjhbh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007324311498174512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 494,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "我是扶梯\n前世@kkndjhbh永久冻结\n那些眼熟的朋友们\n我们再续前缘"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜如果没有回关请私信提醒我！｜我不吸毒！！！｜小猫我喜欢你超喜欢我爱你@psych_angel_｜性别为无、",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 45,
+                "username": "psych_angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNh89"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1999352315241988490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 489,
+          "following_count": 456,
+          "like_count": 9365,
+          "listed_count": 1,
+          "media_count": 128,
+          "tweet_count": 6045
+        },
+        "url": "https://t.co/rCvc9RNh89",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-02T12:34:56.000Z",
+        "description": "我是扶梯 我存在",
+        "id": "2007068022750814208",
+        "name": "扶梯（二世）",
+        "pinned_tweet_id": "2007078563661623386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007068170629386240/UIUrDwBm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 77,
+          "like_count": 115,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 18
+        },
+        "username": "futi78999",
+        "verified": false
+      }
+    ]
+  }
+}

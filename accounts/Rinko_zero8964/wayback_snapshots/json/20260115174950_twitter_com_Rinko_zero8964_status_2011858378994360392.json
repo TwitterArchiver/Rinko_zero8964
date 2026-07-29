@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2011840071440478719",
+    "created_at": "2026-01-15T17:49:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-15T18:49:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011858378994360392"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1919049320546086912",
+          "start": 0,
+          "username": "mizuame19953"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011858378994360392",
+    "in_reply_to_user_id": "1919049320546086912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011840071440478719",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mizuame19953 这是我妈妈我不允许你喊她女鬼🥹"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2011840067204235268",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-t94cabQAQ1mgH.jpg",
+        "width": 1535
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2011840071440478719",
+        "created_at": "2026-01-15T17:49:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T18:49:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011858378994360392"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1919049320546086912",
+              "start": 0,
+              "username": "mizuame19953"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011858378994360392",
+        "in_reply_to_user_id": "1919049320546086912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011840071440478719",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mizuame19953 这是我妈妈我不允许你喊她女鬼🥹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2011840067204235268"
+          ]
+        },
+        "author_id": "1919049320546086912",
+        "conversation_id": "2011840071440478719",
+        "created_at": "2026-01-15T16:37:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T17:37:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011840071440478719"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FVvm3j2xNQ",
+              "end": 28,
+              "expanded_url": "https://x.com/mizuame19953/status/2011840071440478719/photo/1",
+              "media_key": "3_2011840067204235268",
+              "start": 5,
+              "url": "https://t.co/FVvm3j2xNQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011840071440478719",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "鬼图打码 https://t.co/FVvm3j2xNQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜如果没有回关请私信提醒我！｜我不吸毒！！！｜小猫我喜欢你超喜欢我爱你@psych_angel_｜性别为无、",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 45,
+                "username": "psych_angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNh89"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 522,
+          "following_count": 474,
+          "like_count": 11965,
+          "listed_count": 1,
+          "media_count": 141,
+          "tweet_count": 6581
+        },
+        "url": "https://t.co/rCvc9RNh89",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-04T15:20:06.000Z",
+        "description": "于45%vol泥中｜男娘｜🚪40收口令",
+        "id": "1919049320546086912",
+        "location": "珠海",
+        "name": "バタフライ 🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999857118820884480/8MrT1iRR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 280,
+          "like_count": 27929,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 802
+        },
+        "username": "mizuame19953",
+        "verified": false
+      }
+    ]
+  }
+}

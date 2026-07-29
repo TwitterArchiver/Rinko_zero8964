@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1964397399981383849",
+    "created_at": "2025-09-07T05:49:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-07T06:49:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964566776320336346"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1690931822719606784",
+          "start": 0,
+          "username": "honxine8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964566776320336346",
+    "in_reply_to_user_id": "1690931822719606784",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964397399981383849",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@honxine8964 舔舔（prpr"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 24173,
+        "height": 1280,
+        "media_key": "7_1964396912531902464",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1964396912531902464/pu/img/FGamTdphoWzG8WMz.jpg",
+        "public_metrics": {
+          "view_count": 20
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1964396912531902464/pu/vid/avc1/320x568/mi2MI-XKOIe4Lt9_.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1964396912531902464/pu/vid/avc1/480x852/Zwfx-xTej5TmGTin.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1964396912531902464/pu/vid/avc1/720x1280/wiXXUyeg-wX5G4pZ.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1964396912531902464/pu/pl/b-hkImSjXulul9nA.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1964397399981383849",
+        "created_at": "2025-09-07T05:49:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T06:49:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964566776320336346"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1690931822719606784",
+              "start": 0,
+              "username": "honxine8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964566776320336346",
+        "in_reply_to_user_id": "1690931822719606784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964397399981383849",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@honxine8964 舔舔（prpr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1964396912531902464"
+          ]
+        },
+        "author_id": "1690931822719606784",
+        "conversation_id": "1964397399981383849",
+        "created_at": "2025-09-06T18:36:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T19:36:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964397399981383849"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/42TXpgdBmw",
+              "end": 28,
+              "expanded_url": "https://x.com/honxine8964/status/1964397399981383849/video/1",
+              "media_key": "7_1964396912531902464",
+              "start": 5,
+              "url": "https://t.co/42TXpgdBmw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964397399981383849",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 193,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "舒服多了 https://t.co/42TXpgdBmw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849043147487420416/0nrEqJTK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 262,
+          "like_count": 2463,
+          "listed_count": 2,
+          "media_count": 64,
+          "tweet_count": 3649
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-14T03:42:59.000Z",
+        "description": "樢㰴枂\n涑暮渘葵\n喵派\n🚪68\nhttps://t.co/KkBHWo0csR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/honxine1",
+                "end": 39,
+                "expanded_url": "https://ngl.link/honxine1",
+                "start": 16,
+                "url": "https://t.co/KkBHWo0csR"
+              }
+            ]
+          }
+        },
+        "id": "1690931822719606784",
+        "location": "Kitadaito-son, Okinawa",
+        "name": "汐馜栯",
+        "pinned_tweet_id": "1947862197310206054",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917157239468793856/s-NHcCmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2860,
+          "following_count": 2716,
+          "like_count": 267669,
+          "listed_count": 16,
+          "media_count": 1757,
+          "tweet_count": 64754
+        },
+        "username": "honxine8964",
+        "verified": false
+      }
+    ]
+  }
+}

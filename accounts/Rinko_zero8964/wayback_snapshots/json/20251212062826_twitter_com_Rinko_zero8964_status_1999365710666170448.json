@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1998751962125447436",
+    "created_at": "2025-12-12T06:28:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T07:28:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999365710666170448"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1847712034361659392",
+          "start": 0,
+          "username": "yumeng0721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999365710666170448",
+    "in_reply_to_user_id": "1847712034361659392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998751962125447436",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yumeng0721 日常用药5-MeO-AMT？？？哇这日子很丰富多彩了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1998751962125447436",
+        "created_at": "2025-12-12T06:28:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T07:28:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999365710666170448"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1847712034361659392",
+              "start": 0,
+              "username": "yumeng0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999365710666170448",
+        "in_reply_to_user_id": "1847712034361659392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998751962125447436",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yumeng0721 日常用药5-MeO-AMT？？？哇这日子很丰富多彩了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1847712034361659392",
+        "conversation_id": "1998751962125447436",
+        "created_at": "2025-12-10T13:49:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T14:49:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998751962125447436"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1998751962125447436",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1435,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "石杉碱甲评测\n\n报告者：？\n身高体重：188cm, 83kg\n基础身体疾病：心率过速、轻度高血压\n基础神经异常：焦虑症\n日常用药：右美沙芬、普瑞巴林、ISO、DPT、5-MeO-AMT、3-MeO-PCE\n报告有关药物：石杉碱甲\n\n约12：00 服用50μg*6 石杉碱甲\nT+0 正常睡眠"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜🥺@NashiMoe233｜如果没有回关请私信提醒我！｜我不吸毒！！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "NashiMoe233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNOXH"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1999352315241988490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 407,
+          "following_count": 372,
+          "like_count": 5782,
+          "listed_count": 1,
+          "media_count": 98,
+          "tweet_count": 5101
+        },
+        "url": "https://t.co/rCvc9RNOXH",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-19T18:51:20.000Z",
+        "description": "玩乐、性爱与嗑药。提问箱https://t.co/8eHnljmbAD\n个人频道https://t.co/mGkj2AAFom",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yumeng_0721",
+                "end": 35,
+                "expanded_url": "https://ngl.link/yumeng_0721",
+                "start": 12,
+                "url": "https://t.co/8eHnljmbAD"
+              },
+              {
+                "display_url": "t.me/Guisland",
+                "end": 63,
+                "expanded_url": "http://t.me/Guisland",
+                "start": 40,
+                "url": "https://t.co/mGkj2AAFom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "http://overdose.day",
+                "start": 0,
+                "url": "https://t.co/g7QcxnnBGT"
+              }
+            ]
+          }
+        },
+        "id": "1847712034361659392",
+        "name": "Meng",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939203974260768768/sFFZD2jj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 816,
+          "following_count": 845,
+          "like_count": 22103,
+          "listed_count": 2,
+          "media_count": 273,
+          "tweet_count": 2659
+        },
+        "url": "https://t.co/g7QcxnnBGT",
+        "username": "yumeng0721",
+        "verified": false
+      }
+    ]
+  }
+}

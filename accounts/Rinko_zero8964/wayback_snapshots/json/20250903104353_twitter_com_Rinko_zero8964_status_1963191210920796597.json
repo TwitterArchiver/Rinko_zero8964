@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1963191210920796597",
+    "created_at": "2025-09-03T10:43:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-03T11:43:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1963191210920796597"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tabaki640512/s…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/tabaki640512/status/1963102171832148439",
+          "start": 4,
+          "url": "https://t.co/vkE8qos3Xv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963191210920796597",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963102171832148439",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "没绷住 https://t.co/vkE8qos3Xv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1706,
+        "media_key": "3_1963102160146898945",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz5XA4FboAEoDQN.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1963191210920796597",
+        "created_at": "2025-09-03T10:43:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T11:43:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963191210920796597"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tabaki640512/s…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/tabaki640512/status/1963102171832148439",
+              "start": 4,
+              "url": "https://t.co/vkE8qos3Xv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963191210920796597",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963102171832148439",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "没绷住 https://t.co/vkE8qos3Xv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963102160146898945"
+          ]
+        },
+        "author_id": "1688292966614593536",
+        "conversation_id": "1963067896277696765",
+        "created_at": "2025-09-03T04:50:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T05:50:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963102171832148439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1684788633797287936",
+              "start": 0,
+              "username": "Moningmeng"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ov5dplLreC",
+              "end": 35,
+              "expanded_url": "https://x.com/tabaki640512/status/1963102171832148439/photo/1",
+              "media_key": "3_1963102160146898945",
+              "start": 12,
+              "url": "https://t.co/Ov5dplLreC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963102171832148439",
+        "in_reply_to_user_id": "1684788633797287936",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 24361,
+          "like_count": 236,
+          "quote_count": 2,
+          "reply_count": 10,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963067896277696765",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Moningmeng https://t.co/Ov5dplLreC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849043147487420416/0nrEqJTK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 293,
+          "following_count": 259,
+          "like_count": 2347,
+          "listed_count": 2,
+          "media_count": 61,
+          "tweet_count": 3541
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-06T20:56:42.000Z",
+        "description": "懒",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "4399.com",
+                "end": 23,
+                "expanded_url": "http://4399.com",
+                "start": 0,
+                "url": "https://t.co/MvwZIXSu3q"
+              }
+            ]
+          }
+        },
+        "id": "1688292966614593536",
+        "name": "避水",
+        "pinned_tweet_id": "1736258895482687939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1699671781764947968/9ZVA4or8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 338,
+          "like_count": 11944,
+          "listed_count": 2,
+          "media_count": 210,
+          "tweet_count": 1259
+        },
+        "url": "https://t.co/MvwZIXSu3q",
+        "username": "tabaki640512",
+        "verified": false
+      }
+    ]
+  }
+}

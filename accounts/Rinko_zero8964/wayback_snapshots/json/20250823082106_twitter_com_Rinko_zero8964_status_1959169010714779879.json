@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1958968447901249963",
+    "created_at": "2025-08-23T08:21:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-23T09:21:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959169010714779879"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1900779126245769216",
+          "start": 0,
+          "username": "fawpv25"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959169010714779879",
+    "in_reply_to_user_id": "1900779126245769216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958968447901249963",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fawpv25 有幻？但是我承受不了它会带来的体重上升我会焦虑爆炸的🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1958968447901249963",
+        "created_at": "2025-08-23T08:21:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T09:21:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959169010714779879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1900779126245769216",
+              "start": 0,
+              "username": "fawpv25"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959169010714779879",
+        "in_reply_to_user_id": "1900779126245769216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958968447901249963",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fawpv25 有幻？但是我承受不了它会带来的体重上升我会焦虑爆炸的🥲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1900779126245769216",
+        "conversation_id": "1958968447901249963",
+        "created_at": "2025-08-22T19:04:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T20:04:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958968447901249963"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1958968447901249963",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 86,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唑吡坦吃了真的很像psychedelic ，后台被占用所以不知道在想什么，思维被降智了……\n不过作为安眠药来讲，睡得快，睡前也不需要智商，有时候能看到幻，不焦虑，已经很好了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849043147487420416/0nrEqJTK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 241,
+          "like_count": 1954,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 3171
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-15T05:20:44.000Z",
+        "description": "如果你知道怎么变成一只乌鸦，请告诉我",
+        "id": "1900779126245769216",
+        "name": "少女人形手枪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957828191445479427/G6DedXhI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 123,
+          "like_count": 1807,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 287
+        },
+        "username": "fawpv25",
+        "verified": false
+      }
+    ]
+  }
+}

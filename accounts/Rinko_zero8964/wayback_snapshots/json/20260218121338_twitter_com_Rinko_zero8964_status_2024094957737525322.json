@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2024058099288395822",
+    "created_at": "2026-02-18T12:13:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T13:13:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024094957737525322"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2011873376445612032",
+          "start": 0,
+          "username": "zhinaqingchu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024094957737525322",
+    "in_reply_to_user_id": "2011873376445612032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024093899254276491",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhinaqingchu 呜呜呜呜谢谢小睦，我没事就是脸有点痛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2024058099288395822",
+        "created_at": "2026-02-18T12:13:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T13:13:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024094957737525322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2011873376445612032",
+              "start": 0,
+              "username": "zhinaqingchu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024094957737525322",
+        "in_reply_to_user_id": "2011873376445612032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024093899254276491",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhinaqingchu 呜呜呜呜谢谢小睦，我没事就是脸有点痛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2011873376445612032",
+        "conversation_id": "2024058099288395822",
+        "created_at": "2026-02-18T12:09:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T13:09:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024093899254276491"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1849043039496617984",
+              "start": 0,
+              "username": "Rinko_zero8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024093899254276491",
+        "in_reply_to_user_id": "1849043039496617984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024058099288395822",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rinko_zero8964 抱抱，希望没出太大问题，下一次一定要保证安全啊(*"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思う、ゆえに我あり｜ 我是林子｜性别为无、｜寒くなってきたね……もう少しだけ、いい？｜intp-t｜asd/焦虑障碍｜🧬今日也想成为biohacker｜輪郭の定まらない位置にいた人@Psych_Angel_｜好妈妈们@asabakasaiko @loveforeversfy|bro @BelovedUren8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 91,
+                "username": "Psych_Angel_"
+              },
+              {
+                "end": 122,
+                "start": 109,
+                "username": "asabakasaiko"
+              },
+              {
+                "end": 138,
+                "start": 123,
+                "username": "loveforeversfy"
+              },
+              {
+                "end": 159,
+                "start": 143,
+                "username": "BelovedUren8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wakaba_rinko",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wakaba_rinko",
+                "start": 0,
+                "url": "https://t.co/zWqK1n9RJg"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "Ask me any u want→",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 580,
+          "following_count": 539,
+          "like_count": 15116,
+          "listed_count": 1,
+          "media_count": 149,
+          "tweet_count": 7523
+        },
+        "url": "https://t.co/zWqK1n9RJg",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-15T18:50:02.000Z",
+        "description": "小睦静待死亡中......\n如果这个账号突然不再更新了，那就是小睦抵挡不住自我消亡的诱惑了~\n      永远的好朋友：@Natsumeann13        必定回fo，没回请私信喵☆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 60,
+                "username": "Natsumeann13"
+              }
+            ]
+          }
+        },
+        "id": "2011873376445612032",
+        "name": "支那人种清除计划Ver2.0 🇯🇵",
+        "pinned_tweet_id": "2015471136423948295",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017682861751734274/47Gq_c2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 453,
+          "like_count": 2264,
+          "listed_count": 19,
+          "media_count": 33,
+          "tweet_count": 637
+        },
+        "username": "zhinaqingchu",
+        "verified": false
+      }
+    ]
+  }
+}

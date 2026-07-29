@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1967547506717552696",
+    "created_at": "2025-09-15T18:47:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-15T19:47:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967661593023615131"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1717929027443539968",
+          "start": 0,
+          "username": "VVUUUVV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967661593023615131",
+    "in_reply_to_user_id": "1717929027443539968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967547506717552696",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@VVUUUVV 6，晶哥挨个找上去发现其实他们全是od对乙酰氨酚的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2012,
+        "media_key": "3_1967547499880894464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G04iBtEb0AAN-2U.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1967547506717552696",
+        "created_at": "2025-09-15T18:47:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T19:47:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967661593023615131"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1717929027443539968",
+              "start": 0,
+              "username": "VVUUUVV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967661593023615131",
+        "in_reply_to_user_id": "1717929027443539968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967547506717552696",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VVUUUVV 6，晶哥挨个找上去发现其实他们全是od对乙酰氨酚的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967547499880894464"
+          ]
+        },
+        "author_id": "1717929027443539968",
+        "conversation_id": "1967547506717552696",
+        "created_at": "2025-09-15T11:14:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T12:14:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967547506717552696"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5w4mruJgti",
+              "end": 27,
+              "expanded_url": "https://x.com/VVUUUVV/status/1967547506717552696/photo/1",
+              "media_key": "3_1967547499880894464",
+              "start": 4,
+              "url": "https://t.co/5w4mruJgti"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967547506717552696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 78,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "养成了 https://t.co/5w4mruJgti"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 269,
+          "like_count": 2842,
+          "listed_count": 2,
+          "media_count": 68,
+          "tweet_count": 3876
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-27T15:39:56.000Z",
+        "description": "👾",
+        "id": "1717929027443539968",
+        "location": "床",
+        "name": "J",
+        "pinned_tweet_id": "1913209184666919109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957506840495099904/eMv7uJhY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2027,
+          "following_count": 63,
+          "like_count": 5299,
+          "listed_count": 2,
+          "media_count": 45,
+          "tweet_count": 1349
+        },
+        "username": "VVUUUVV",
+        "verified": false
+      }
+    ]
+  }
+}

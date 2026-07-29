@@ -1,0 +1,397 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024385829062475776",
+        "3_2024385827611234304",
+        "3_2024385827397349376",
+        "3_2024385829070917633"
+      ],
+      "media_source_tweet_id": [
+        "2024385834368323848",
+        "2024385834368323848",
+        "2024385834368323848",
+        "2024385834368323848"
+      ]
+    },
+    "author_id": "1849043039496617984",
+    "conversation_id": "2024536343284748293",
+    "created_at": "2026-02-19T17:27:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T18:27:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024536343284748293"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1705961363343048704",
+          "start": 3,
+          "username": "nzawasaji777"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/t9lp030b1u",
+          "end": 77,
+          "expanded_url": "https://x.com/nzawasaji777/status/2024385834368323848/photo/1",
+          "media_key": "3_2024385829062475776",
+          "start": 54,
+          "url": "https://t.co/t9lp030b1u"
+        },
+        {
+          "display_url": "pic.x.com/t9lp030b1u",
+          "end": 77,
+          "expanded_url": "https://x.com/nzawasaji777/status/2024385834368323848/photo/1",
+          "media_key": "3_2024385827611234304",
+          "start": 54,
+          "url": "https://t.co/t9lp030b1u"
+        },
+        {
+          "display_url": "pic.x.com/t9lp030b1u",
+          "end": 77,
+          "expanded_url": "https://x.com/nzawasaji777/status/2024385834368323848/photo/1",
+          "media_key": "3_2024385827397349376",
+          "start": 54,
+          "url": "https://t.co/t9lp030b1u"
+        },
+        {
+          "display_url": "pic.x.com/t9lp030b1u",
+          "end": 77,
+          "expanded_url": "https://x.com/nzawasaji777/status/2024385834368323848/photo/1",
+          "media_key": "3_2024385829070917633",
+          "start": 54,
+          "url": "https://t.co/t9lp030b1u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024536343284748293",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 58
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024385834368323848",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nzawasaji777: 電線が五線譜に見えること\n照らされるリストカットが微分音に聴こえること https://t.co/t9lp030b1u"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_2024385829062475776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBgQL5WagAAFPoP.jpg",
+        "width": 474
+      },
+      {
+        "height": 800,
+        "media_key": "3_2024385827611234304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBgQLz8aUAAX7H3.jpg",
+        "width": 474
+      },
+      {
+        "height": 800,
+        "media_key": "3_2024385827397349376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBgQLzJasAA8lUq.jpg",
+        "width": 474
+      },
+      {
+        "height": 775,
+        "media_key": "3_2024385829070917633",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBgQL5YbUAEc-dv.jpg",
+        "width": 474
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024385829062475776",
+            "3_2024385827611234304",
+            "3_2024385827397349376",
+            "3_2024385829070917633"
+          ],
+          "media_source_tweet_id": [
+            "2024385834368323848",
+            "2024385834368323848",
+            "2024385834368323848",
+            "2024385834368323848"
+          ]
+        },
+        "author_id": "1849043039496617984",
+        "conversation_id": "2024536343284748293",
+        "created_at": "2026-02-19T17:27:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T18:27:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024536343284748293"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1705961363343048704",
+              "start": 3,
+              "username": "nzawasaji777"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/t9lp030b1u",
+              "end": 77,
+              "expanded_url": "https://x.com/nzawasaji777/status/2024385834368323848/photo/1",
+              "media_key": "3_2024385829062475776",
+              "start": 54,
+              "url": "https://t.co/t9lp030b1u"
+            },
+            {
+              "display_url": "pic.x.com/t9lp030b1u",
+              "end": 77,
+              "expanded_url": "https://x.com/nzawasaji777/status/2024385834368323848/photo/1",
+              "media_key": "3_2024385827611234304",
+              "start": 54,
+              "url": "https://t.co/t9lp030b1u"
+            },
+            {
+              "display_url": "pic.x.com/t9lp030b1u",
+              "end": 77,
+              "expanded_url": "https://x.com/nzawasaji777/status/2024385834368323848/photo/1",
+              "media_key": "3_2024385827397349376",
+              "start": 54,
+              "url": "https://t.co/t9lp030b1u"
+            },
+            {
+              "display_url": "pic.x.com/t9lp030b1u",
+              "end": 77,
+              "expanded_url": "https://x.com/nzawasaji777/status/2024385834368323848/photo/1",
+              "media_key": "3_2024385829070917633",
+              "start": 54,
+              "url": "https://t.co/t9lp030b1u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024536343284748293",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 58
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024385834368323848",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nzawasaji777: 電線が五線譜に見えること\n照らされるリストカットが微分音に聴こえること https://t.co/t9lp030b1u"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024385829062475776",
+            "3_2024385827611234304",
+            "3_2024385827397349376",
+            "3_2024385829070917633"
+          ]
+        },
+        "author_id": "1705961363343048704",
+        "conversation_id": "2024385834368323848",
+        "created_at": "2026-02-19T07:29:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T08:29:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024385834368323848"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/t9lp030b1u",
+              "end": 59,
+              "expanded_url": "https://x.com/nzawasaji777/status/2024385834368323848/photo/1",
+              "media_key": "3_2024385829062475776",
+              "start": 36,
+              "url": "https://t.co/t9lp030b1u"
+            },
+            {
+              "display_url": "pic.x.com/t9lp030b1u",
+              "end": 59,
+              "expanded_url": "https://x.com/nzawasaji777/status/2024385834368323848/photo/1",
+              "media_key": "3_2024385827611234304",
+              "start": 36,
+              "url": "https://t.co/t9lp030b1u"
+            },
+            {
+              "display_url": "pic.x.com/t9lp030b1u",
+              "end": 59,
+              "expanded_url": "https://x.com/nzawasaji777/status/2024385834368323848/photo/1",
+              "media_key": "3_2024385827397349376",
+              "start": 36,
+              "url": "https://t.co/t9lp030b1u"
+            },
+            {
+              "display_url": "pic.x.com/t9lp030b1u",
+              "end": 59,
+              "expanded_url": "https://x.com/nzawasaji777/status/2024385834368323848/photo/1",
+              "media_key": "3_2024385829070917633",
+              "start": 36,
+              "url": "https://t.co/t9lp030b1u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024385834368323848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 132,
+          "impression_count": 20719,
+          "like_count": 831,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 58
+        },
+        "reply_settings": "everyone",
+        "text": "電線が五線譜に見えること\n照らされるリストカットが微分音に聴こえること https://t.co/t9lp030b1u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思う、ゆえに我あり｜ 我是林子｜性别为无、｜寒くなってきたね……もう少しだけ、いい？｜intp-t｜asd/焦虑障碍｜🧬今日也想成为biohacker｜輪郭の定まらない位置にいた人@Psych_Angel_｜好妈妈们@asabakasaiko @loveforeversfy|bro @BelovedUren8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 91,
+                "username": "Psych_Angel_"
+              },
+              {
+                "end": 122,
+                "start": 109,
+                "username": "asabakasaiko"
+              },
+              {
+                "end": 138,
+                "start": 123,
+                "username": "loveforeversfy"
+              },
+              {
+                "end": 159,
+                "start": 143,
+                "username": "BelovedUren8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wakaba_rinko",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wakaba_rinko",
+                "start": 0,
+                "url": "https://t.co/zWqK1n9RJg"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "Ask me any u want→",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 581,
+          "following_count": 546,
+          "like_count": 15397,
+          "listed_count": 1,
+          "media_count": 152,
+          "tweet_count": 7601
+        },
+        "url": "https://t.co/zWqK1n9RJg",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-24T15:04:27.000Z",
+        "description": "んざわさじ 絵 動画 漫画 隣人を愛そうね✉️:nzawasaji777@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/nzawasaji777",
+                "end": 23,
+                "expanded_url": "https://lit.link/nzawasaji777",
+                "start": 0,
+                "url": "https://t.co/0RQYPNsnGn"
+              }
+            ]
+          }
+        },
+        "id": "1705961363343048704",
+        "name": "ん沢　匙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971735989354897408/7xq8Wocr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7521,
+          "following_count": 684,
+          "like_count": 6880,
+          "listed_count": 38,
+          "media_count": 293,
+          "tweet_count": 2520
+        },
+        "url": "https://t.co/0RQYPNsnGn",
+        "username": "nzawasaji777",
+        "verified": false
+      }
+    ]
+  }
+}

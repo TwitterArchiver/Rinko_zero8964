@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2021970488155943225",
+    "created_at": "2026-02-12T15:31:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T16:31:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021970488155943225"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1960187829687885824",
+          "start": 3,
+          "username": "Fayoubaike"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021970488155943225",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021960644619387296",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Fayoubaike: 我想重开然后下辈子重生为江浙沪独生女去上海读语校一个人住在东京大平层里面忧郁地来一句“法 为什么这个世界对我这么坏”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2021970488155943225",
+        "created_at": "2026-02-12T15:31:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T16:31:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021970488155943225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1960187829687885824",
+              "start": 3,
+              "username": "Fayoubaike"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021970488155943225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021960644619387296",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Fayoubaike: 我想重开然后下辈子重生为江浙沪独生女去上海读语校一个人住在东京大平层里面忧郁地来一句“法 为什么这个世界对我这么坏”"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1960187829687885824",
+        "conversation_id": "2021960644619387296",
+        "created_at": "2026-02-12T14:52:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T15:52:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021960644619387296"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2021960644619387296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 172,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我想重开然后下辈子重生为江浙沪独生女去上海读语校一个人住在东京大平层里面忧郁地来一句“法 为什么这个世界对我这么坏”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜如果没有回关请私信提醒我！｜我不吸毒！！！｜性别为无、｜輪郭の定まらない位置にいた人@Psych_Angel_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 53,
+                "username": "Psych_Angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNh89"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 567,
+          "following_count": 526,
+          "like_count": 14171,
+          "listed_count": 1,
+          "media_count": 146,
+          "tweet_count": 7241
+        },
+        "url": "https://t.co/rCvc9RNh89",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-26T03:49:38.000Z",
+        "description": "官方网站:https://t.co/FdtuDUHpUZ\n交流群:https://t.co/c5Z1bzBkfs\nDC交流群：https://t.co/JtSA2uwIRG\n备用号：@taikongjile003",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 91,
+                "username": "taikongjile003"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "fayou.club",
+                "end": 28,
+                "expanded_url": "https://fayou.club/",
+                "start": 5,
+                "url": "https://t.co/FdtuDUHpUZ"
+              },
+              {
+                "display_url": "t.me/fayoubaike",
+                "end": 56,
+                "expanded_url": "https://t.me/fayoubaike",
+                "start": 33,
+                "url": "https://t.co/c5Z1bzBkfs"
+              },
+              {
+                "display_url": "discord.gg/XmNt8AXCEb",
+                "end": 86,
+                "expanded_url": "https://discord.gg/XmNt8AXCEb",
+                "start": 63,
+                "url": "https://t.co/JtSA2uwIRG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fayou.club",
+                "end": 23,
+                "expanded_url": "https://fayou.club/",
+                "start": 0,
+                "url": "https://t.co/FdtuDUHpUZ"
+              }
+            ]
+          }
+        },
+        "id": "1960187829687885824",
+        "name": "法友百科🍥",
+        "pinned_tweet_id": "2021866362331906540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021958963810693120/RMSiZdpX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6237,
+          "following_count": 1932,
+          "like_count": 1276,
+          "listed_count": 3,
+          "media_count": 369,
+          "tweet_count": 2263
+        },
+        "url": "https://t.co/FdtuDUHpUZ",
+        "username": "Fayoubaike",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1968019489397657600"
+      ],
+      "media_source_tweet_id": [
+        "1968019494720409610"
+      ]
+    },
+    "author_id": "1849043039496617984",
+    "conversation_id": "1968188257814171652",
+    "created_at": "2025-09-17T05:40:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T06:40:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968188257814171652"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1890713764221083648",
+          "start": 3,
+          "username": "n0velart"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TfZZC8rXQ5",
+          "end": 37,
+          "expanded_url": "https://x.com/n0velart/status/1968019494720409610/photo/1",
+          "media_key": "3_1968019489397657600",
+          "start": 14,
+          "url": "https://t.co/TfZZC8rXQ5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968188257814171652",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1698
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968019494720409610",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @n0velart: https://t.co/TfZZC8rXQ5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1130,
+        "media_key": "3_1968019489397657600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0_PTHCX0AABS5A.jpg",
+        "width": 1130
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968019489397657600"
+          ],
+          "media_source_tweet_id": [
+            "1968019494720409610"
+          ]
+        },
+        "author_id": "1849043039496617984",
+        "conversation_id": "1968188257814171652",
+        "created_at": "2025-09-17T05:40:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T06:40:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968188257814171652"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1890713764221083648",
+              "start": 3,
+              "username": "n0velart"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TfZZC8rXQ5",
+              "end": 37,
+              "expanded_url": "https://x.com/n0velart/status/1968019494720409610/photo/1",
+              "media_key": "3_1968019489397657600",
+              "start": 14,
+              "url": "https://t.co/TfZZC8rXQ5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968188257814171652",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1698
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968019494720409610",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @n0velart: https://t.co/TfZZC8rXQ5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968019489397657600"
+          ]
+        },
+        "author_id": "1890713764221083648",
+        "conversation_id": "1968019494720409610",
+        "created_at": "2025-09-16T18:29:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T19:29:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968019494720409610"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TfZZC8rXQ5",
+              "end": 23,
+              "expanded_url": "https://x.com/n0velart/status/1968019494720409610/photo/1",
+              "media_key": "3_1968019489397657600",
+              "start": 0,
+              "url": "https://t.co/TfZZC8rXQ5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968019494720409610",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1741,
+          "impression_count": 280256,
+          "like_count": 12741,
+          "quote_count": 142,
+          "reply_count": 39,
+          "retweet_count": 1698
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/TfZZC8rXQ5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 276,
+          "like_count": 3001,
+          "listed_count": 2,
+          "media_count": 69,
+          "tweet_count": 3934
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-15T10:44:33.000Z",
+        "description": "ᴅᴀɪʟʏ ᴅᴏꜱᴇ ᴏꜰ ʟᴏᴠᴇ | ᴛᴜʀɴ ᴏɴ ɴᴏᴛɪꜱ 🤍@cinnam0nnn🤍 @dreamsuz @mangap1cs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 36,
+                "username": "cinnam0nnn"
+              },
+              {
+                "end": 58,
+                "start": 49,
+                "username": "dreamsuz"
+              },
+              {
+                "end": 69,
+                "start": 59,
+                "username": "mangap1cs"
+              }
+            ]
+          }
+        },
+        "id": "1890713764221083648",
+        "name": "ᥫ᭡",
+        "pinned_tweet_id": "1968019494720409610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939437318206586881/fbIy-Oog_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23609,
+          "following_count": 154,
+          "like_count": 7834,
+          "listed_count": 30,
+          "media_count": 290,
+          "tweet_count": 539
+        },
+        "username": "n0velart",
+        "verified": true
+      }
+    ]
+  }
+}

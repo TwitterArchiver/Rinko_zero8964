@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2013631502387466697",
+    "created_at": "2026-01-20T15:39:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T16:39:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013637565908156788"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1960187829687885824",
+          "start": 0,
+          "username": "taikongjile"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013637565908156788",
+    "in_reply_to_user_id": "1960187829687885824",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013631502387466697",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@taikongjile 贵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2013631498079875073",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_HbLceWsAETwoR.jpg",
+        "width": 960
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2013631497937317889",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_HbLb8XcAE2-v5.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2013631502387466697",
+        "created_at": "2026-01-20T15:39:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T16:39:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013637565908156788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1960187829687885824",
+              "start": 0,
+              "username": "taikongjile"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013637565908156788",
+        "in_reply_to_user_id": "1960187829687885824",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013631502387466697",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@taikongjile 贵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013631498079875073",
+            "3_2013631497937317889"
+          ]
+        },
+        "author_id": "1960187829687885824",
+        "conversation_id": "2013631502387466697",
+        "created_at": "2026-01-20T15:15:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T16:15:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013631502387466697"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/w3PFfhS7PH",
+              "end": 29,
+              "expanded_url": "https://x.com/taikongjile/status/2013631502387466697/photo/1",
+              "media_key": "3_2013631498079875073",
+              "start": 6,
+              "url": "https://t.co/w3PFfhS7PH"
+            },
+            {
+              "display_url": "pic.x.com/w3PFfhS7PH",
+              "end": 29,
+              "expanded_url": "https://x.com/taikongjile/status/2013631502387466697/photo/1",
+              "media_key": "3_2013631497937317889",
+              "start": 6,
+              "url": "https://t.co/w3PFfhS7PH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013631502387466697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 135,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想吃这个了 https://t.co/w3PFfhS7PH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜如果没有回关请私信提醒我！｜我不吸毒！！！｜性别为无、｜輪郭の定まらない位置にいた人@Psych_Angel_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 53,
+                "username": "Psych_Angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNh89"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 523,
+          "following_count": 483,
+          "like_count": 12460,
+          "listed_count": 1,
+          "media_count": 143,
+          "tweet_count": 6709
+        },
+        "url": "https://t.co/rCvc9RNh89",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-26T03:49:38.000Z",
+        "description": "官方网站:https://t.co/ZQnAUQt63U\n交流群:https://t.co/FvFWw9Jk8E\nDC交流群：https://t.co/JtSA2uwb28",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 28,
+                "expanded_url": "https://overdose.day",
+                "start": 5,
+                "url": "https://t.co/ZQnAUQt63U"
+              },
+              {
+                "display_url": "t.me/huaxuejilebaik…",
+                "end": 56,
+                "expanded_url": "https://t.me/huaxuejilebaike666",
+                "start": 33,
+                "url": "https://t.co/FvFWw9Jk8E"
+              },
+              {
+                "display_url": "discord.gg/XmNt8AXCEb",
+                "end": 86,
+                "expanded_url": "https://discord.gg/XmNt8AXCEb",
+                "start": 63,
+                "url": "https://t.co/JtSA2uwb28"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "shangtaikong.com",
+                "end": 23,
+                "expanded_url": "http://www.shangtaikong.com/",
+                "start": 0,
+                "url": "https://t.co/i6JxOs4twU"
+              }
+            ]
+          }
+        },
+        "id": "1960187829687885824",
+        "name": "太空极乐百科🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002586355323502592/8QOsOMbS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5787,
+          "following_count": 1777,
+          "like_count": 1117,
+          "listed_count": 3,
+          "media_count": 327,
+          "tweet_count": 2031
+        },
+        "url": "https://t.co/i6JxOs4twU",
+        "username": "taikongjile",
+        "verified": false
+      }
+    ]
+  }
+}

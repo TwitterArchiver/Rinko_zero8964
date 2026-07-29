@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1989334673651273728"
+      ],
+      "media_source_tweet_id": [
+        "1989334739833249831"
+      ]
+    },
+    "author_id": "1849043039496617984",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1989438580822077939",
+    "created_at": "2025-11-14T21:01:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T22:01:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989438580822077939"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1735725815462236161",
+          "start": 3,
+          "username": "unagidon_00"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/72K6eTLmjd",
+          "end": 46,
+          "expanded_url": "https://x.com/unagidon_00/status/1989334739833249831/video/1",
+          "media_key": "13_1989334673651273728",
+          "start": 23,
+          "url": "https://t.co/72K6eTLmjd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989438580822077939",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 346
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989334739833249831",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @unagidon_00: あたたかい https://t.co/72K6eTLmjd"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8973,
+        "height": 1280,
+        "media_key": "13_1989334673651273728",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1989334673651273728/img/52pyN73RZcynxNwe.jpg",
+        "public_metrics": {
+          "view_count": 11458
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1989334673651273728/vid/avc1/320x568/T7DbntfoHuRG8vGv.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1989334673651273728/vid/avc1/480x852/iOqMTJNZWHXInSa_.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1989334673651273728/vid/avc1/720x1280/7vRFhcbFc5hH8Wsq.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1989334673651273728/pl/nPnRQ-g9AYO1rO3S.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1989334673651273728"
+          ],
+          "media_source_tweet_id": [
+            "1989334739833249831"
+          ]
+        },
+        "author_id": "1849043039496617984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1989438580822077939",
+        "created_at": "2025-11-14T21:01:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T22:01:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989438580822077939"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1735725815462236161",
+              "start": 3,
+              "username": "unagidon_00"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/72K6eTLmjd",
+              "end": 46,
+              "expanded_url": "https://x.com/unagidon_00/status/1989334739833249831/video/1",
+              "media_key": "13_1989334673651273728",
+              "start": 23,
+              "url": "https://t.co/72K6eTLmjd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989438580822077939",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 346
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989334739833249831",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @unagidon_00: あたたかい https://t.co/72K6eTLmjd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1989334673651273728"
+          ]
+        },
+        "author_id": "1735725815462236161",
+        "conversation_id": "1989334739833249831",
+        "created_at": "2025-11-14T14:08:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T15:08:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989334739833249831"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/72K6eTLmjd",
+              "end": 29,
+              "expanded_url": "https://x.com/unagidon_00/status/1989334739833249831/video/1",
+              "media_key": "13_1989334673651273728",
+              "start": 6,
+              "url": "https://t.co/72K6eTLmjd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989334739833249831",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 518,
+          "impression_count": 23325,
+          "like_count": 2731,
+          "quote_count": 26,
+          "reply_count": 34,
+          "retweet_count": 346
+        },
+        "reply_settings": "everyone",
+        "text": "あたたかい https://t.co/72K6eTLmjd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜🥺@NashiMoe233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "NashiMoe233"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1967335109767692560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 303,
+          "like_count": 3831,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 4365
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-15T18:17:47.000Z",
+        "description": "絵を描いてます。https://t.co/nywYj3NNq6 sub @unaunano_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 36,
+                "username": "unaunano_"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "minne.com/@unagi0101",
+                "end": 31,
+                "expanded_url": "https://minne.com/@unagi0101",
+                "start": 8,
+                "url": "https://t.co/nywYj3NNq6"
+              }
+            ]
+          }
+        },
+        "id": "1735725815462236161",
+        "location": "︎︎☁",
+        "name": "鰻",
+        "pinned_tweet_id": "1986676991647752487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986638779575377925/YFsIKiwv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2590,
+          "following_count": 184,
+          "like_count": 9598,
+          "listed_count": 14,
+          "media_count": 374,
+          "tweet_count": 4888
+        },
+        "username": "unagidon_00",
+        "verified": false
+      }
+    ]
+  }
+}

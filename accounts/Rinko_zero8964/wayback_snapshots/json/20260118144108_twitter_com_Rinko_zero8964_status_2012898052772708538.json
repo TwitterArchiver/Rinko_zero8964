@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2012898052772708538",
+    "created_at": "2026-01-18T14:41:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T15:41:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012898052772708538"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2009488009180401667",
+          "start": 3,
+          "username": "asabakasaiko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012898052772708538",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010610836021383310",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @asabakasaiko: 发n55有流量是真的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2012898052772708538",
+        "created_at": "2026-01-18T14:41:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T15:41:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012898052772708538"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2009488009180401667",
+              "start": 3,
+              "username": "asabakasaiko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012898052772708538",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010610836021383310",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @asabakasaiko: 发n55有流量是真的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2009488009180401667",
+        "conversation_id": "2010610836021383310",
+        "created_at": "2026-01-12T07:12:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T08:12:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010610836021383310"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2010610836021383310",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 584,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "发n55有流量是真的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜如果没有回关请私信提醒我！｜我不吸毒！！！｜性别为无、",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNh89"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 524,
+          "following_count": 474,
+          "like_count": 12071,
+          "listed_count": 1,
+          "media_count": 142,
+          "tweet_count": 6627
+        },
+        "url": "https://t.co/rCvc9RNh89",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-09T04:51:10.000Z",
+        "description": "我是🐟，很无辜很好看，🚪58，88，平时什么都干哦无论是要人还是配料还是药都可以来私",
+        "id": "2009488009180401667",
+        "location": "香港",
+        "name": "三崎笠井子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011710429840752640/TVZQw9bs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 76,
+          "like_count": 290,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 99
+        },
+        "username": "asabakasaiko",
+        "verified": false
+      }
+    ]
+  }
+}

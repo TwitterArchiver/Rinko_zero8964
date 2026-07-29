@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2000684511701426226"
+      ],
+      "media_source_tweet_id": [
+        "2000684523445485574"
+      ]
+    },
+    "author_id": "1849043039496617984",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2001480282600554697",
+    "created_at": "2025-12-18T02:30:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-18T03:30:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001480282600554697"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1238520105841168386",
+          "start": 3,
+          "username": "cyborgh0st"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dRSOZwfMY3",
+          "end": 39,
+          "expanded_url": "https://x.com/cyborgh0st/status/2000684523445485574/video/1",
+          "media_key": "13_2000684511701426226",
+          "start": 16,
+          "url": "https://t.co/dRSOZwfMY3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001480282600554697",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1409
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000684523445485574",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cyborgh0st: https://t.co/dRSOZwfMY3"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8079,
+        "height": 626,
+        "media_key": "13_2000684511701426226",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2000684511701426226/img/EVkPbWleCTDLycTm.jpg",
+        "public_metrics": {
+          "view_count": 33670
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2000684511701426226/vid/avc1/320x346/b6SIADRR07gno5v_.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2000684511701426226/vid/avc1/480x520/DGgB5NZNoHgA7VQU.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2000684511701426226/vid/avc1/576x626/iSNBwRkZzKGwevRC.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2000684511701426226/pl/z136zzK4W_wPi1_n.m3u8"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2000684511701426226"
+          ],
+          "media_source_tweet_id": [
+            "2000684523445485574"
+          ]
+        },
+        "author_id": "1849043039496617984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2001480282600554697",
+        "created_at": "2025-12-18T02:30:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T03:30:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001480282600554697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1238520105841168386",
+              "start": 3,
+              "username": "cyborgh0st"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dRSOZwfMY3",
+              "end": 39,
+              "expanded_url": "https://x.com/cyborgh0st/status/2000684523445485574/video/1",
+              "media_key": "13_2000684511701426226",
+              "start": 16,
+              "url": "https://t.co/dRSOZwfMY3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001480282600554697",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1409
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000684523445485574",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cyborgh0st: https://t.co/dRSOZwfMY3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2000684511701426226"
+          ]
+        },
+        "author_id": "1238520105841168386",
+        "conversation_id": "2000684523445485574",
+        "created_at": "2025-12-15T21:48:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T22:48:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000684523445485574"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dRSOZwfMY3",
+              "end": 23,
+              "expanded_url": "https://x.com/cyborgh0st/status/2000684523445485574/video/1",
+              "media_key": "13_2000684511701426226",
+              "start": 0,
+              "url": "https://t.co/dRSOZwfMY3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000684523445485574",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1334,
+          "impression_count": 143672,
+          "like_count": 7930,
+          "quote_count": 23,
+          "reply_count": 10,
+          "retweet_count": 1409
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/dRSOZwfMY3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜🥺@NashiMoe233｜如果没有回关请私信提醒我！｜我不吸毒！！！｜小猫我喜欢你超喜欢我爱你@psych_angel_｜性别为无、",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "NashiMoe233"
+              },
+              {
+                "end": 72,
+                "start": 59,
+                "username": "psych_angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNh89"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1999352315241988490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 429,
+          "following_count": 395,
+          "like_count": 6652,
+          "listed_count": 1,
+          "media_count": 105,
+          "tweet_count": 5337
+        },
+        "url": "https://t.co/rCvc9RNh89",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-13T17:40:00.000Z",
+        "description": "yare yare",
+        "id": "1238520105841168386",
+        "name": "c y b o r g",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997871842023948288/3FU8CuwS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44281,
+          "following_count": 1,
+          "like_count": 275,
+          "listed_count": 51,
+          "media_count": 160,
+          "tweet_count": 171
+        },
+        "username": "cyborgh0st",
+        "verified": true
+      }
+    ]
+  }
+}

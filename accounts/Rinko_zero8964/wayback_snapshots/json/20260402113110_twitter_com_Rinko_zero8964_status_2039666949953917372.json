@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2039624295530508633",
+    "created_at": "2026-04-02T11:31:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T12:31:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039666949953917372"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1481172876589821952",
+          "start": 0,
+          "username": "pyke2076"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039666949953917372",
+    "in_reply_to_user_id": "1481172876589821952",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039624295530508633",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pyke2076 像雪碧（喝"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9171,
+        "height": 1280,
+        "media_key": "13_2039623988062937088",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2039623988062937088/img/0s60XPT0jsGVd1wu.jpg",
+        "public_metrics": {
+          "view_count": 289
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2039623988062937088/vid/avc1/320x568/atCJYXQll8Z1zYv-.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2039623988062937088/vid/avc1/480x852/_bQjgnAKbgpBDD00.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2039623988062937088/vid/avc1/720x1280/Xm0AEC3CjosPJ414.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2039623988062937088/pl/x4iWVgyxCofBihtI.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2039623809440092160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE4zDF0bEAASNPQ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2039624295530508633",
+        "created_at": "2026-04-02T11:31:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T12:31:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039666949953917372"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1481172876589821952",
+              "start": 0,
+              "username": "pyke2076"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039666949953917372",
+        "in_reply_to_user_id": "1481172876589821952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039624295530508633",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pyke2076 像雪碧（喝"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2039623988062937088",
+            "3_2039623809440092160"
+          ]
+        },
+        "author_id": "1481172876589821952",
+        "conversation_id": "2039624295530508633",
+        "created_at": "2026-04-02T08:41:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T09:41:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039624295530508633"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YS4oeWomOY",
+              "end": 51,
+              "expanded_url": "https://x.com/pyke2076/status/2039624295530508633/video/1",
+              "media_key": "13_2039623988062937088",
+              "start": 28,
+              "url": "https://t.co/YS4oeWomOY"
+            },
+            {
+              "display_url": "pic.x.com/YS4oeWomOY",
+              "end": 51,
+              "expanded_url": "https://x.com/pyke2076/status/2039624295530508633/video/1",
+              "media_key": "3_2039623809440092160",
+              "start": 28,
+              "url": "https://t.co/YS4oeWomOY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039624295530508633",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 708,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "鬼点子生成中，使用了未知浓度的双氧水+氰化钠来溶解白银 https://t.co/YS4oeWomOY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思う、ゆえに我あり｜ 我是林子｜性别为无、｜寒くなってきたね……もう少しだけ、いい？｜intp-t｜asd/焦虑障碍｜🧬今日也想成为biohacker｜好妈妈们@asabakasaiko @loveforeversfy|bro @BelovedUren8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 81,
+                "username": "asabakasaiko"
+              },
+              {
+                "end": 110,
+                "start": 95,
+                "username": "loveforeversfy"
+              },
+              {
+                "end": 131,
+                "start": 115,
+                "username": "BelovedUren8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wakaba_rinko",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wakaba_rinko",
+                "start": 0,
+                "url": "https://t.co/zWqK1n9RJg"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "Ask me any u want→",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 649,
+          "following_count": 626,
+          "like_count": 16906,
+          "listed_count": 1,
+          "media_count": 164,
+          "tweet_count": 8146
+        },
+        "url": "https://t.co/zWqK1n9RJg",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "description": "Don't let it be the day",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bunny2076",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bunny2076",
+                "start": 0,
+                "url": "https://t.co/ea8GmOUClU"
+              }
+            ]
+          }
+        },
+        "id": "1481172876589821952",
+        "location": "地狱 ",
+        "name": "bunny",
+        "pinned_tweet_id": "1948055006441320599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739460199323435008/cSDInbKL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8247,
+          "following_count": 1179,
+          "like_count": 64442,
+          "listed_count": 8,
+          "media_count": 3001,
+          "tweet_count": 18169
+        },
+        "url": "https://t.co/ea8GmOUClU",
+        "username": "pyke2076",
+        "verified": false
+      }
+    ]
+  }
+}

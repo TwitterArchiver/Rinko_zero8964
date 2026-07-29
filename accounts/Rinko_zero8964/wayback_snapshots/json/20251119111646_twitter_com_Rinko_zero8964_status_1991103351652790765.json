@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1991103351652790765",
+    "created_at": "2025-11-19T11:16:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T12:16:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1991103351652790765"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1991103351652790765",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "温暖的事物在胃中像是在掐死我一般，这是所带来的安全感，能量被身体汲取后可以帮助自己活下去，所带着这一意识，我不停的吞咽着。人总是要饥饿的啊这样才能意识到自己是活着的，如果连食欲都消失的话要以如何判断活着的幸福感呢。注视着冷掉的事物，何尝不是一种解脱，于是我将其放入锅中再次加热。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1991103351652790765",
+        "created_at": "2025-11-19T11:16:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T12:16:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991103351652790765"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1991103351652790765",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "温暖的事物在胃中像是在掐死我一般，这是所带来的安全感，能量被身体汲取后可以帮助自己活下去，所带着这一意识，我不停的吞咽着。人总是要饥饿的啊这样才能意识到自己是活着的，如果连食欲都消失的话要以如何判断活着的幸福感呢。注视着冷掉的事物，何尝不是一种解脱，于是我将其放入锅中再次加热。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜🥺@NashiMoe233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "NashiMoe233"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1967335109767692560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 345,
+          "following_count": 315,
+          "like_count": 4228,
+          "listed_count": 1,
+          "media_count": 84,
+          "tweet_count": 4436
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      }
+    ]
+  }
+}

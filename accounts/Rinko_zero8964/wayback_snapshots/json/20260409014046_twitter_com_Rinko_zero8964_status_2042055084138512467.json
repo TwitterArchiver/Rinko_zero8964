@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2042055084138512467",
+    "created_at": "2026-04-09T01:40:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T02:40:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042055084138512467"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1339446920511569920",
+          "start": 3,
+          "username": "shudesu00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042055084138512467",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041604259796615542",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shudesu00: 劝人不要od都劝到我头上了，魔怔了吧进入魔界了吧，劝我不要磕药的默认先死一个妈，说这种话就是ky，你没经历过我经历的，你不知道我现在下一步要干什么的，你都在那边自说自话，你想控制个陌生人，你很恐怖，老铁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2042055084138512467",
+        "created_at": "2026-04-09T01:40:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T02:40:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042055084138512467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1339446920511569920",
+              "start": 3,
+              "username": "shudesu00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042055084138512467",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041604259796615542",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shudesu00: 劝人不要od都劝到我头上了，魔怔了吧进入魔界了吧，劝我不要磕药的默认先死一个妈，说这种话就是ky，你没经历过我经历的，你不知道我现在下一步要干什么的，你都在那边自说自话，你想控制个陌生人，你很恐怖，老铁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1339446920511569920",
+        "conversation_id": "2041604259796615542",
+        "created_at": "2026-04-07T19:49:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T20:49:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041604259796615542"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041604259796615542",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3776,
+          "like_count": 116,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "劝人不要od都劝到我头上了，魔怔了吧进入魔界了吧，劝我不要磕药的默认先死一个妈，说这种话就是ky，你没经历过我经历的，你不知道我现在下一步要干什么的，你都在那边自说自话，你想控制个陌生人，你很恐怖，老铁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思う、ゆえに我あり｜ 我是林子｜性别为无、｜寒くなってきたね……もう少しだけ、いい？｜intp-t｜asd/焦虑障碍｜🧬今日也想成为biohacker｜好妈妈们@asabakasaiko @loveforeversfy|bro @BelovedUren8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 81,
+                "username": "asabakasaiko"
+              },
+              {
+                "end": 110,
+                "start": 95,
+                "username": "loveforeversfy"
+              },
+              {
+                "end": 131,
+                "start": 115,
+                "username": "BelovedUren8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wakaba_rinko",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wakaba_rinko",
+                "start": 0,
+                "url": "https://t.co/zWqK1n9RJg"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "Ask me any u want→",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 655,
+          "following_count": 639,
+          "like_count": 17176,
+          "listed_count": 1,
+          "media_count": 167,
+          "tweet_count": 8263
+        },
+        "url": "https://t.co/zWqK1n9RJg",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-17T05:46:58.000Z",
+        "description": "ftx__They/He/it_习惯性点赞_强迫症_bp-过量_aspd/ADHD_别来说教易爆炸_👾…🐱愛🩵👭 💕✝️想骂我先找@CoFfffEeeeE1 @Miekoudesu @Jscjnb 然后我们一起骂你",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 65,
+                "username": "CoFfffEeeeE1"
+              },
+              {
+                "end": 90,
+                "start": 79,
+                "username": "Miekoudesu"
+              },
+              {
+                "end": 98,
+                "start": 91,
+                "username": "Jscjnb"
+              }
+            ]
+          }
+        },
+        "id": "1339446920511569920",
+        "name": "小树（电子烟/外烟）",
+        "pinned_tweet_id": "1792758274967953516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031122814372294656/GXY7w6V2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4753,
+          "following_count": 2319,
+          "like_count": 116438,
+          "listed_count": 9,
+          "media_count": 1950,
+          "tweet_count": 19629
+        },
+        "username": "shudesu00",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-17T05:46:58.000Z",
+        "description": "ftx__They/He/it_习惯性点赞_强迫症_bp-过量_aspd/ADHD_别来说教易爆炸_👾…🐱愛🩵👭 💕✝️想骂我先找@CoFfffEeeeE1 @Miekoudesu @Jscjnb 然后我们一起骂你",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 65,
+                "username": "CoFfffEeeeE1"
+              },
+              {
+                "end": 90,
+                "start": 79,
+                "username": "Miekoudesu"
+              },
+              {
+                "end": 98,
+                "start": 91,
+                "username": "Jscjnb"
+              }
+            ]
+          }
+        },
+        "id": "1339446920511569920",
+        "name": "小树（电子烟/外烟）",
+        "pinned_tweet_id": "1792758274967953516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031122814372294656/GXY7w6V2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4753,
+          "following_count": 2319,
+          "like_count": 116438,
+          "listed_count": 9,
+          "media_count": 1950,
+          "tweet_count": 19629
+        },
+        "url": "",
+        "username": "shudesu00",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2030422426144948727",
+    "created_at": "2026-03-07T23:16:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T00:16:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030422426144948727"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1917988927409143812",
+          "start": 3,
+          "username": "OverSpeed_Wiki2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030422426144948727",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030421365388624135",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OverSpeed_Wiki2: 帝國海軍 第一航空戰隊 嘉禾號空母 艦戰中隊 中尉飛官 Edward 因服用突擊錠過量於昭和佰零壹年貳月貳日 壯烈玉碎\n\n以下為大本營發表 靖國神社靈璽簿確認之玉碎聲明"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2030422426144948727",
+        "created_at": "2026-03-07T23:16:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T00:16:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030422426144948727"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1917988927409143812",
+              "start": 3,
+              "username": "OverSpeed_Wiki2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030422426144948727",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030421365388624135",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @OverSpeed_Wiki2: 帝國海軍 第一航空戰隊 嘉禾號空母 艦戰中隊 中尉飛官 Edward 因服用突擊錠過量於昭和佰零壹年貳月貳日 壯烈玉碎\n\n以下為大本營發表 靖國神社靈璽簿確認之玉碎聲明"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917988927409143812",
+        "conversation_id": "2030421365388624135",
+        "created_at": "2026-03-07T23:12:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T00:12:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030421365388624135"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Rinko_zero8964…",
+              "end": 108,
+              "expanded_url": "https://twitter.com/Rinko_zero8964/status/2030420842996478070",
+              "start": 85,
+              "url": "https://t.co/QwHQhfx1lU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030421365388624135",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030420842996478070",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "帝國海軍 第一航空戰隊 嘉禾號空母 艦戰中隊 中尉飛官 Edward 因服用突擊錠過量於昭和佰零壹年貳月貳日 壯烈玉碎\n\n以下為大本營發表 靖國神社靈璽簿確認之玉碎聲明 https://t.co/QwHQhfx1lU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思う、ゆえに我あり｜ 我是林子｜性别为无、｜寒くなってきたね……もう少しだけ、いい？｜intp-t｜asd/焦虑障碍｜🧬今日也想成为biohacker｜好妈妈们@asabakasaiko @loveforeversfy|bro @BelovedUren8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 81,
+                "username": "asabakasaiko"
+              },
+              {
+                "end": 110,
+                "start": 95,
+                "username": "loveforeversfy"
+              },
+              {
+                "end": 131,
+                "start": 115,
+                "username": "BelovedUren8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wakaba_rinko",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wakaba_rinko",
+                "start": 0,
+                "url": "https://t.co/zWqK1n9RJg"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "Ask me any u want→",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 597,
+          "following_count": 572,
+          "like_count": 16154,
+          "listed_count": 1,
+          "media_count": 158,
+          "tweet_count": 7841
+        },
+        "url": "https://t.co/zWqK1n9RJg",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-01T17:06:19.000Z",
+        "description": "已与原站切割，原站已解散，本账户言论与原站人马无关\n即将重命名本账户",
+        "id": "1917988927409143812",
+        "name": "安卓跨➗ 安卓药蛆 安卓户晨风",
+        "pinned_tweet_id": "2009423003097199073",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975613813534957572/UyriMur8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 923,
+          "following_count": 275,
+          "like_count": 30719,
+          "listed_count": 0,
+          "media_count": 161,
+          "tweet_count": 4838
+        },
+        "username": "OverSpeed_Wiki2",
+        "verified": false
+      }
+    ]
+  }
+}

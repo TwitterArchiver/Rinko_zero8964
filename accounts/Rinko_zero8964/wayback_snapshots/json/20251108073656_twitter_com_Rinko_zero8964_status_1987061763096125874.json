@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1987061763096125874",
+    "created_at": "2025-11-08T07:36:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T08:36:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1987061763096125874"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/winterfruit_1/…",
+          "end": 77,
+          "expanded_url": "https://twitter.com/winterfruit_1/status/1987021916130148364",
+          "start": 54,
+          "url": "https://t.co/gdIDwSVtQv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987061763096125874",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987021916130148364",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我不能死，我还没有让颜文字再次伟大，我还要在15000fo时抽奖，我还要测试致幻剂，LSD很温柔我还要吃， https://t.co/gdIDwSVtQv"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1987061763096125874",
+        "created_at": "2025-11-08T07:36:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T08:36:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987061763096125874"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/winterfruit_1/…",
+              "end": 77,
+              "expanded_url": "https://twitter.com/winterfruit_1/status/1987021916130148364",
+              "start": 54,
+              "url": "https://t.co/gdIDwSVtQv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987061763096125874",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987021916130148364",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不能死，我还没有让颜文字再次伟大，我还要在15000fo时抽奖，我还要测试致幻剂，LSD很温柔我还要吃， https://t.co/gdIDwSVtQv"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "1987021916130148364",
+        "created_at": "2025-11-08T04:58:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T05:58:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987021916130148364"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1987021916130148364",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 289,
+          "like_count": 21,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不能死，我还没有让颜文字再次伟大，我还要在15000fo时抽奖，我还要测试致幻剂，LSD很温柔我还要吃，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜🥺@NashiMoe233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "NashiMoe233"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1970904695813329260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 336,
+          "following_count": 283,
+          "like_count": 3352,
+          "listed_count": 2,
+          "media_count": 77,
+          "tweet_count": 4217
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "请支持药物百科😋 / overdose / winterfruit / 互fo / 🐙🐙 里账：@_Yuyuko_FTZ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 48,
+                "username": "_Yuyuko_FTZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/PQZdMcJtJf"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "在下个将死未死的夏季",
+        "name": "Winit420 #天苑四",
+        "pinned_tweet_id": "1984669685821161673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986854989541875717/haykguZU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1301,
+          "following_count": 1244,
+          "like_count": 21197,
+          "listed_count": 5,
+          "media_count": 733,
+          "tweet_count": 6825
+        },
+        "url": "https://t.co/PQZdMcJtJf",
+        "username": "winterfruit_1",
+        "verified": false
+      }
+    ]
+  }
+}

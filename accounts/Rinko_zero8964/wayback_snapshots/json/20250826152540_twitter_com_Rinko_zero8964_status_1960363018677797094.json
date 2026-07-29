@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1960070837622722788",
+    "created_at": "2025-08-26T15:25:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-26T16:25:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960363018677797094"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1597257668313260033",
+          "start": 0,
+          "username": "Minokakay"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960363018677797094",
+    "in_reply_to_user_id": "1597257668313260033",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960070837622722788",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Minokakay 天啊好多"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1960070829854822400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzOSCOwaEAANQ0M.jpg",
+        "width": 1204
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1960070829796216833",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzOSCOib0AEopV0.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1960070837622722788",
+        "created_at": "2025-08-26T15:25:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T16:25:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960363018677797094"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1597257668313260033",
+              "start": 0,
+              "username": "Minokakay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960363018677797094",
+        "in_reply_to_user_id": "1597257668313260033",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960070837622722788",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minokakay 天啊好多"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960070829854822400",
+            "3_1960070829796216833"
+          ]
+        },
+        "author_id": "1597257668313260033",
+        "conversation_id": "1960070837622722788",
+        "created_at": "2025-08-25T20:04:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T21:04:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960070837622722788"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vrTt9h7ASp",
+              "end": 139,
+              "expanded_url": "https://x.com/Minokakay/status/1960070837622722788/photo/1",
+              "media_key": "3_1960070829854822400",
+              "start": 116,
+              "url": "https://t.co/vrTt9h7ASp"
+            },
+            {
+              "display_url": "pic.x.com/vrTt9h7ASp",
+              "end": 139,
+              "expanded_url": "https://x.com/Minokakay/status/1960070837622722788/photo/1",
+              "media_key": "3_1960070829796216833",
+              "start": 116,
+              "url": "https://t.co/vrTt9h7ASp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960070837622722788",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3890,
+          "like_count": 20,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Auvelity库存2170颗\n买多了，这个在中国大陆不允许二次销售，所以只能自己吃\n本来问了下某个高校的附属医院他们要不要，因为他们在做这个临床项目，结果人家不要仿制药，都是正规从美国采购的，需要发票的。\n不要问我卖不卖，不卖。 https://t.co/vrTt9h7ASp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849043147487420416/0nrEqJTK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 288,
+          "following_count": 246,
+          "like_count": 2123,
+          "listed_count": 2,
+          "media_count": 46,
+          "tweet_count": 3310
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら， ずっと一人で笑えよ。阿斯ADHD精分抑鬱焦慮 Pansexual MtX🏳️‍⚧️🏳️‍🌈买HRT补佳乐色普龙诺坤复比卡鲁胺/美白/减肥/促智/癌症靶向藥找 @ChosekiNoraneko，我在做客服兼代理店長 买电子烟找@weita2024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 96,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 139,
+                "start": 129,
+                "username": "weita2024"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（泰补色诺",
+        "pinned_tweet_id": "1951463657336086693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9113,
+          "following_count": 941,
+          "like_count": 44533,
+          "listed_count": 34,
+          "media_count": 1395,
+          "tweet_count": 20629
+        },
+        "username": "Minokakay",
+        "verified": true
+      }
+    ]
+  }
+}

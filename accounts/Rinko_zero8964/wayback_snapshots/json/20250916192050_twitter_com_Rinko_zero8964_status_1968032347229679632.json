@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1967729899587940352"
+      ],
+      "media_source_tweet_id": [
+        "1967729905996816400"
+      ]
+    },
+    "author_id": "1849043039496617984",
+    "conversation_id": "1968032347229679632",
+    "created_at": "2025-09-16T19:20:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T20:20:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968032347229679632"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1777176214652035072",
+          "start": 3,
+          "username": "7u7uqu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ggZSsLPubF",
+          "end": 35,
+          "expanded_url": "https://x.com/7u7uqu/status/1967729905996816400/photo/1",
+          "media_key": "3_1967729899587940352",
+          "start": 12,
+          "url": "https://t.co/ggZSsLPubF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968032347229679632",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1116
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967729905996816400",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @7u7uqu: https://t.co/ggZSsLPubF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1156,
+        "media_key": "3_1967729899587940352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G07H6w7asAAoc1z.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967729899587940352"
+          ],
+          "media_source_tweet_id": [
+            "1967729905996816400"
+          ]
+        },
+        "author_id": "1849043039496617984",
+        "conversation_id": "1968032347229679632",
+        "created_at": "2025-09-16T19:20:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T20:20:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968032347229679632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1777176214652035072",
+              "start": 3,
+              "username": "7u7uqu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ggZSsLPubF",
+              "end": 35,
+              "expanded_url": "https://x.com/7u7uqu/status/1967729905996816400/photo/1",
+              "media_key": "3_1967729899587940352",
+              "start": 12,
+              "url": "https://t.co/ggZSsLPubF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968032347229679632",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1116
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967729905996816400",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @7u7uqu: https://t.co/ggZSsLPubF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967729899587940352"
+          ]
+        },
+        "author_id": "1777176214652035072",
+        "conversation_id": "1967729905996816400",
+        "created_at": "2025-09-15T23:19:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T00:19:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967729905996816400"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ggZSsLPubF",
+              "end": 23,
+              "expanded_url": "https://x.com/7u7uqu/status/1967729905996816400/photo/1",
+              "media_key": "3_1967729899587940352",
+              "start": 0,
+              "url": "https://t.co/ggZSsLPubF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967729905996816400",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1172,
+          "impression_count": 145392,
+          "like_count": 12022,
+          "quote_count": 33,
+          "reply_count": 16,
+          "retweet_count": 1116
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ggZSsLPubF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 322,
+          "following_count": 273,
+          "like_count": 2947,
+          "listed_count": 2,
+          "media_count": 68,
+          "tweet_count": 3903
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-08T03:26:57.000Z",
+        "description": "この世界が終わるのが今ならいい。",
+        "id": "1777176214652035072",
+        "name": "吗啡天使",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822887119930699776/dLc82awk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1265,
+          "following_count": 3,
+          "like_count": 55,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 167
+        },
+        "username": "7u7uqu",
+        "verified": false
+      }
+    ]
+  }
+}

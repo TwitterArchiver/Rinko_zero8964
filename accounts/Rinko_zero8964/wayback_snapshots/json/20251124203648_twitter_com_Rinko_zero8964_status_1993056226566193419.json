@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1992952734027550750",
+    "created_at": "2025-11-24T20:36:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T21:36:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993056226566193419"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1900779126245769216",
+          "start": 0,
+          "username": "fawpv25"
+        },
+        {
+          "end": 19,
+          "id": "1735700650472955904",
+          "start": 9,
+          "username": "ErQiu8013"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993056226566193419",
+    "in_reply_to_user_id": "1900779126245769216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992954314990772513",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fawpv25 @ErQiu8013 玩这些要提前吃降压药和止吐，这是必要的"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1992954314990772513].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1992954314990772513",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1992954314990772513"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1992952734027550750",
+        "created_at": "2025-11-24T20:36:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T21:36:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993056226566193419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1900779126245769216",
+              "start": 0,
+              "username": "fawpv25"
+            },
+            {
+              "end": 19,
+              "id": "1735700650472955904",
+              "start": 9,
+              "username": "ErQiu8013"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993056226566193419",
+        "in_reply_to_user_id": "1900779126245769216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992954314990772513",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fawpv25 @ErQiu8013 玩这些要提前吃降压药和止吐，这是必要的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜🥺@NashiMoe233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "NashiMoe233"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1967335109767692560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362,
+          "following_count": 334,
+          "like_count": 4881,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 4683
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-15T05:20:44.000Z",
+        "description": "如果你知道怎么变成一只乌鸦，请告诉我/匿名提问箱：https://t.co/k5wuyYitnx致力于成为你们的互联网好朋鸦/艺术就是生命/学习像人类一样地活下去。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiyujin1/",
+                "end": 48,
+                "expanded_url": "https://ngl.link/jiyujin1/",
+                "start": 25,
+                "url": "https://t.co/k5wuyYitnx"
+              }
+            ]
+          }
+        },
+        "id": "1900779126245769216",
+        "name": "Anoko",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957828191445479427/G6DedXhI_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 196,
+          "like_count": 8004,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 1925
+        },
+        "username": "fawpv25",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-15T16:37:52.000Z",
+        "description": "初音ミク/後藤 ひとり/葬送のフリーレン/Cyberpunk: Edgerunners/よふかしのうた/進撃の巨人/86，eva，……/genshin，hs\n   薬物changing……，低能量changing……，日常/欢迎互fo\n拿空投投shi致歉",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/Iri023r",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/Iri023r",
+                "start": 0,
+                "url": "https://t.co/Azm3By4Bns"
+              }
+            ]
+          }
+        },
+        "id": "1735700650472955904",
+        "location": "自我",
+        "name": "𝓦𝓪𝓷𝓰 𝓠𝓲𝓾𝓮𝓻（秋儿）降临派",
+        "pinned_tweet_id": "1992520981651624367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967985654865989634/AOuJ3T6N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1168,
+          "following_count": 1716,
+          "like_count": 23041,
+          "listed_count": 5,
+          "media_count": 572,
+          "tweet_count": 4560
+        },
+        "url": "https://t.co/Azm3By4Bns",
+        "username": "ErQiu8013",
+        "verified": false
+      }
+    ]
+  }
+}

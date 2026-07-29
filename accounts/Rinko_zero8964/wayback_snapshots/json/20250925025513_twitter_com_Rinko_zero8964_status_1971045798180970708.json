@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1970682748605210629"
+      ],
+      "media_source_tweet_id": [
+        "1970682895019975127"
+      ]
+    },
+    "author_id": "1849043039496617984",
+    "conversation_id": "1971045798180970708",
+    "created_at": "2025-09-25T02:55:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-25T03:55:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971045798180970708"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1859031353565544448",
+          "start": 3,
+          "username": "faewings"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/e99HoY6k2X",
+          "end": 37,
+          "expanded_url": "https://x.com/faewings/status/1970682895019975127/video/1",
+          "media_key": "13_1970682748605210629",
+          "start": 14,
+          "url": "https://t.co/e99HoY6k2X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971045798180970708",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2712
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970682895019975127",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @faewings: https://t.co/e99HoY6k2X"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20111,
+        "height": 720,
+        "media_key": "13_1970682748605210629",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1970682748605210629/img/qbvsp3Y0O0pN5fJN.jpg",
+        "public_metrics": {
+          "view_count": 30014
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1970682748605210629/vid/avc1/320x320/UxQ6abKZRhBoBexy.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1970682748605210629/vid/avc1/540x540/vHOOy5sFMtbwGdXL.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1970682748605210629/vid/avc1/720x720/-jsu4JyUVGLy1zPH.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1970682748605210629/pl/MWyoK2Ze-8MQf1NY.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1970682748605210629"
+          ],
+          "media_source_tweet_id": [
+            "1970682895019975127"
+          ]
+        },
+        "author_id": "1849043039496617984",
+        "conversation_id": "1971045798180970708",
+        "created_at": "2025-09-25T02:55:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T03:55:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971045798180970708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1859031353565544448",
+              "start": 3,
+              "username": "faewings"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/e99HoY6k2X",
+              "end": 37,
+              "expanded_url": "https://x.com/faewings/status/1970682895019975127/video/1",
+              "media_key": "13_1970682748605210629",
+              "start": 14,
+              "url": "https://t.co/e99HoY6k2X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971045798180970708",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2712
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970682895019975127",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @faewings: https://t.co/e99HoY6k2X"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1970682748605210629"
+          ]
+        },
+        "author_id": "1859031353565544448",
+        "conversation_id": "1970682895019975127",
+        "created_at": "2025-09-24T02:53:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T03:53:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970682895019975127"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/e99HoY6k2X",
+              "end": 23,
+              "expanded_url": "https://x.com/faewings/status/1970682895019975127/video/1",
+              "media_key": "13_1970682748605210629",
+              "start": 0,
+              "url": "https://t.co/e99HoY6k2X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970682895019975127",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 821,
+          "impression_count": 119281,
+          "like_count": 10624,
+          "quote_count": 106,
+          "reply_count": 15,
+          "retweet_count": 2712
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/e99HoY6k2X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1970904695813329260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 280,
+          "like_count": 3371,
+          "listed_count": 2,
+          "media_count": 78,
+          "tweet_count": 4147
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-20T00:29:55.000Z",
+        "description": "digital diary.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blooming.⠀",
+                "end": 23,
+                "expanded_url": "https://blooming.xn--6ii/",
+                "start": 0,
+                "url": "https://t.co/uxixj4ttzK"
+              }
+            ]
+          }
+        },
+        "id": "1859031353565544448",
+        "location": "𓈒𓂂◌𓂂𓏸  she/her  ,  O6",
+        "name": "໊",
+        "pinned_tweet_id": "1861684852031959056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892178195245682688/I6HstnB7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24017,
+          "following_count": 229,
+          "like_count": 6150,
+          "listed_count": 0,
+          "media_count": 1629,
+          "tweet_count": 2480
+        },
+        "url": "https://t.co/uxixj4ttzK",
+        "username": "faewings",
+        "verified": false
+      }
+    ]
+  }
+}

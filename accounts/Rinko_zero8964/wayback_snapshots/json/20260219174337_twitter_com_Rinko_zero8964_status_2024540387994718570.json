@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024154623205163008"
+      ],
+      "media_source_tweet_id": [
+        "2024154629542719883"
+      ]
+    },
+    "author_id": "1849043039496617984",
+    "conversation_id": "2024540387994718570",
+    "created_at": "2026-02-19T17:43:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T18:43:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024540387994718570"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 22,
+          "normalized_text": "バジルくん",
+          "probability": 0.8027,
+          "start": 18,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2019273398229299203",
+          "start": 3,
+          "username": "qbi2xb"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ll7Gxdyd08",
+          "end": 62,
+          "expanded_url": "https://x.com/qbi2xb/status/2024154629542719883/photo/1",
+          "media_key": "3_2024154623205163008",
+          "start": 39,
+          "url": "https://t.co/ll7Gxdyd08"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024540387994718570",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 771
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024154629542719883",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qbi2xb: リハビリ絵…バジルくんお誕生日絵描けれなくてごめんね https://t.co/ll7Gxdyd08"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2024154623205163008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBc958abwAAjuk1.jpg",
+        "width": 1542
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024154623205163008"
+          ],
+          "media_source_tweet_id": [
+            "2024154629542719883"
+          ]
+        },
+        "author_id": "1849043039496617984",
+        "conversation_id": "2024540387994718570",
+        "created_at": "2026-02-19T17:43:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T18:43:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024540387994718570"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 22,
+              "normalized_text": "バジルくん",
+              "probability": 0.8027,
+              "start": 18,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2019273398229299203",
+              "start": 3,
+              "username": "qbi2xb"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ll7Gxdyd08",
+              "end": 62,
+              "expanded_url": "https://x.com/qbi2xb/status/2024154629542719883/photo/1",
+              "media_key": "3_2024154623205163008",
+              "start": 39,
+              "url": "https://t.co/ll7Gxdyd08"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024540387994718570",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 771
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024154629542719883",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qbi2xb: リハビリ絵…バジルくんお誕生日絵描けれなくてごめんね https://t.co/ll7Gxdyd08"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024154623205163008"
+          ]
+        },
+        "author_id": "2019273398229299203",
+        "conversation_id": "2024154629542719883",
+        "created_at": "2026-02-18T16:10:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T17:10:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024154629542719883"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 10,
+              "normalized_text": "バジルくん",
+              "probability": 0.7873,
+              "start": 6,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ll7Gxdyd08",
+              "end": 50,
+              "expanded_url": "https://x.com/qbi2xb/status/2024154629542719883/photo/1",
+              "media_key": "3_2024154623205163008",
+              "start": 27,
+              "url": "https://t.co/ll7Gxdyd08"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024154629542719883",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 939,
+          "impression_count": 73309,
+          "like_count": 9278,
+          "quote_count": 14,
+          "reply_count": 2,
+          "retweet_count": 771
+        },
+        "reply_settings": "everyone",
+        "text": "リハビリ絵…バジルくんお誕生日絵描けれなくてごめんね https://t.co/ll7Gxdyd08"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思う、ゆえに我あり｜ 我是林子｜性别为无、｜寒くなってきたね……もう少しだけ、いい？｜intp-t｜asd/焦虑障碍｜🧬今日也想成为biohacker｜輪郭の定まらない位置にいた人@Psych_Angel_｜好妈妈们@asabakasaiko @loveforeversfy|bro @BelovedUren8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 91,
+                "username": "Psych_Angel_"
+              },
+              {
+                "end": 122,
+                "start": 109,
+                "username": "asabakasaiko"
+              },
+              {
+                "end": 138,
+                "start": 123,
+                "username": "loveforeversfy"
+              },
+              {
+                "end": 159,
+                "start": 143,
+                "username": "BelovedUren8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wakaba_rinko",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wakaba_rinko",
+                "start": 0,
+                "url": "https://t.co/zWqK1n9RJg"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "Ask me any u want→",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 581,
+          "following_count": 549,
+          "like_count": 15420,
+          "listed_count": 1,
+          "media_count": 152,
+          "tweet_count": 7605
+        },
+        "url": "https://t.co/zWqK1n9RJg",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-05T04:55:04.000Z",
+        "description": "本垢→ @raddy_358 2次創作垢、主にomori、無断転載禁止No unauthorized reproduction、 AI学習禁止 AI study prohibited",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 4,
+                "username": "raddy_358"
+              }
+            ]
+          }
+        },
+        "id": "2019273398229299203",
+        "name": "miu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024236217819418625/VPU-BHAA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 7,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 5
+        },
+        "username": "qbi2xb",
+        "verified": false
+      }
+    ]
+  }
+}

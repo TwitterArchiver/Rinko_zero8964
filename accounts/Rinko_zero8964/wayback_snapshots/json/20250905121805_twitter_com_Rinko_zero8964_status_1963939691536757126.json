@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1963550680703991921",
+    "created_at": "2025-09-05T12:18:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-05T13:18:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963939691536757126"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1944351426827735040",
+          "start": 0,
+          "username": "kiss_u_back"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963939691536757126",
+    "in_reply_to_user_id": "1944351426827735040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963939301000991221",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kiss_u_back 我支持你去迪士尼踹掉那个黑人演员演最新那版美人鱼"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19020,
+        "height": 1280,
+        "media_key": "13_1963939223205191680",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1963939223205191680/img/Km5Ohjexc_pEqdAt.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1963939223205191680/vid/avc1/320x694/8kurw4HLWrQTb6Fv.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1963939223205191680/vid/avc1/480x1040/TpCk7Xf4OWAabiK5.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1963939223205191680/vid/avc1/590x1280/r0V2SJO_QWEM369f.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1963939223205191680/pl/RVPYqZfjDW-gQnry.m3u8"
+          }
+        ],
+        "width": 590
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1963550680703991921",
+        "created_at": "2025-09-05T12:18:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T13:18:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963939691536757126"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1944351426827735040",
+              "start": 0,
+              "username": "kiss_u_back"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963939691536757126",
+        "in_reply_to_user_id": "1944351426827735040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963939301000991221",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kiss_u_back 我支持你去迪士尼踹掉那个黑人演员演最新那版美人鱼"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1963939223205191680"
+          ]
+        },
+        "author_id": "1944351426827735040",
+        "conversation_id": "1963550680703991921",
+        "created_at": "2025-09-05T12:16:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T13:16:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963939301000991221"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1849043039496617984",
+              "start": 0,
+              "username": "Rinko_zero8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YnXMiOHdKR",
+              "end": 49,
+              "expanded_url": "https://x.com/kiss_u_back/status/1963939301000991221/video/1",
+              "media_key": "13_1963939223205191680",
+              "start": 26,
+              "url": "https://t.co/YnXMiOHdKR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963939301000991221",
+        "in_reply_to_user_id": "1849043039496617984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963938988466548814",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rinko_zero8964 之前的 这个是真像 https://t.co/YnXMiOHdKR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849043147487420416/0nrEqJTK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 259,
+          "like_count": 2391,
+          "listed_count": 2,
+          "media_count": 64,
+          "tweet_count": 3592
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-13T11:01:50.000Z",
+        "description": "已死亡💀会移动肉体with out soul 上一世@Cruc1fy_MyS0ul 🔞 已阳痿 FTX🔞 泛性恋 性别为meg 💙meg=Cindy=辛大迪=大迪💙无🚪不是🚪妹 欢迎来闲聊我真的很无聊",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 26,
+                "username": "Cruc1fy_MyS0ul"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ccccindy11",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ccccindy11",
+                "start": 0,
+                "url": "https://t.co/5cwDcyH0re"
+              }
+            ]
+          }
+        },
+        "id": "1944351426827735040",
+        "location": "火星",
+        "name": "我的泪口是心非",
+        "pinned_tweet_id": "1957691726635888962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950024167241502722/DbHwNpOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 79,
+          "like_count": 339,
+          "listed_count": 0,
+          "media_count": 143,
+          "tweet_count": 453
+        },
+        "url": "https://t.co/5cwDcyH0re",
+        "username": "kiss_u_back",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,377 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2010306894582399394",
+    "created_at": "2026-01-11T11:52:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T12:52:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010318986635092088"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1879395690230738944",
+          "start": 0,
+          "username": "Psych_Angel_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/beloveduren896…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/beloveduren8964/status/2006124087291121844",
+          "start": 28,
+          "url": "https://t.co/RelMCBqyNF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010318986635092088",
+    "in_reply_to_user_id": "1879395690230738944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006124087291121844",
+        "type": "quoted"
+      },
+      {
+        "id": "2010306894582399394",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Psych_Angel_ 毒电波之首老资历喵，致敬喵 https://t.co/RelMCBqyNF"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2010306894582399394].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2010306894582399394",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2010306894582399394"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2006124077757652992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9cvOEYaYAACr27.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2010306894582399394",
+        "created_at": "2026-01-11T11:52:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T12:52:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010318986635092088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1879395690230738944",
+              "start": 0,
+              "username": "Psych_Angel_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/beloveduren896…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/beloveduren8964/status/2006124087291121844",
+              "start": 28,
+              "url": "https://t.co/RelMCBqyNF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010318986635092088",
+        "in_reply_to_user_id": "1879395690230738944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006124087291121844",
+            "type": "quoted"
+          },
+          {
+            "id": "2010306894582399394",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Psych_Angel_ 毒电波之首老资历喵，致敬喵 https://t.co/RelMCBqyNF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006124077757652992"
+          ]
+        },
+        "author_id": "1484072544009347072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2006124087291121844",
+        "created_at": "2025-12-30T22:03:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T23:03:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006124087291121844"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qd5bBCzVQM",
+              "end": 26,
+              "expanded_url": "https://x.com/BelovedUren8964/status/2006124087291121844/photo/1",
+              "media_key": "3_2006124077757652992",
+              "start": 3,
+              "url": "https://t.co/qd5bBCzVQM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006124087291121844",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 707,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "会面 https://t.co/qd5bBCzVQM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜如果没有回关请私信提醒我！｜我不吸毒！！！｜小猫我喜欢你超喜欢我爱你@psych_angel_｜性别为无、",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 45,
+                "username": "psych_angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNh89"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 505,
+          "following_count": 470,
+          "like_count": 11312,
+          "listed_count": 1,
+          "media_count": 137,
+          "tweet_count": 6426
+        },
+        "url": "https://t.co/rCvc9RNh89",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-15T05:10:34.000Z",
+        "description": "Scientist | Philosopher | Lab Rat｜💊#Drugtwt｜BD/DPDR｜BestLove🫶Rinko:@Rinko_zero8964｜Soulmate:@BelovedUren8964｜🍜:@shungleemain｜👩:@DXM8964LXM｜🍊:@citrus_amara",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 43,
+                "start": 35,
+                "tag": "Drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 82,
+                "start": 67,
+                "username": "Rinko_zero8964"
+              },
+              {
+                "end": 108,
+                "start": 92,
+                "username": "BelovedUren8964"
+              },
+              {
+                "end": 124,
+                "start": 111,
+                "username": "shungleemain"
+              },
+              {
+                "end": 138,
+                "start": 127,
+                "username": "DXM8964LXM"
+              },
+              {
+                "end": 154,
+                "start": 141,
+                "username": "citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cutekitteno3o",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cutekitteno3o",
+                "start": 0,
+                "url": "https://t.co/OpK0ArxHft"
+              }
+            ]
+          }
+        },
+        "id": "1879395690230738944",
+        "location": "Ask me any u want→",
+        "name": "Mercy",
+        "pinned_tweet_id": "2005036045461811517",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984317319691243521/rbczbPan_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 687,
+          "following_count": 741,
+          "like_count": 27807,
+          "listed_count": 1,
+          "media_count": 825,
+          "tweet_count": 12655
+        },
+        "url": "https://t.co/OpK0ArxHft",
+        "username": "Psych_Angel_",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-20T07:57:36.000Z",
+        "description": "叫我雨怜，我是善良猫猫。 无性别者/💊oder 我支持为OD正名/自由万岁！自由永远高于一切/这还用说吗，我是汉奸哪🇯🇵 / 台湾支那，一边一国🇹🇼 / 反男反女反跨反人类反一切/支那人没有一个是无辜的/@ItoMasako8964 /知音难寻@Psych_Angel",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 102,
+                "username": "ItoMasako8964"
+              },
+              {
+                "end": 134,
+                "start": 122,
+                "username": "Psych_Angel"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/uren68329",
+                "end": 23,
+                "expanded_url": "https://ngl.link/uren68329",
+                "start": 0,
+                "url": "https://t.co/DgJHLTrKH9"
+              }
+            ]
+          }
+        },
+        "id": "1484072544009347072",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "滨边雨怜会成为真正的传奇",
+        "pinned_tweet_id": "2009339225901248808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009941021363507201/jjiJM8UQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 402,
+          "following_count": 480,
+          "like_count": 5073,
+          "listed_count": 1,
+          "media_count": 413,
+          "tweet_count": 3728
+        },
+        "url": "https://t.co/DgJHLTrKH9",
+        "username": "BelovedUren8964",
+        "verified": false
+      }
+    ]
+  }
+}

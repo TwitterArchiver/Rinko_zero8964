@@ -1,0 +1,408 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1989330320567746560"
+      ],
+      "media_source_tweet_id": [
+        "1989330423118545043"
+      ]
+    },
+    "author_id": "1849043039496617984",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "1989349086181695608",
+    "created_at": "2025-11-14T15:05:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T16:05:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989349086181695608"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1960187829687885824",
+          "start": 3,
+          "username": "huaxuejilebaike"
+        }
+      ],
+      "urls": [
+        {
+          "description": "一个自由又可爱的小宇宙 ✨",
+          "display_url": "pr80.bid",
+          "end": 58,
+          "expanded_url": "https://www.pr80.bid/",
+          "start": 35,
+          "status": 200,
+          "title": "化学极乐",
+          "unwound_url": "https://www.pr80.bid/",
+          "url": "https://t.co/jTkDdtF3kK"
+        },
+        {
+          "display_url": "pic.x.com/sXgNYOQDhG",
+          "end": 82,
+          "expanded_url": "https://x.com/huaxuejilebaike/status/1989330423118545043/video/1",
+          "media_key": "7_1989330320567746560",
+          "start": 59,
+          "url": "https://t.co/sXgNYOQDhG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989349086181695608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989330423118545043",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @huaxuejilebaike: 开服 加入 加入化学极乐喵\nhttps://t.co/jTkDdtF3kK https://t.co/sXgNYOQDhG"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16299,
+        "height": 720,
+        "media_key": "7_1989330320567746560",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1989330320567746560/pu/img/DOr1xo-yz5uODEVC.jpg",
+        "public_metrics": {
+          "view_count": 194
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1989330320567746560/pu/vid/avc1/480x270/1cyJkwgIIWfKo5QD.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1989330320567746560/pu/vid/avc1/640x360/pI40-cKwKi7lMJNU.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1989330320567746560/pu/vid/avc1/1280x720/NcU09EK-NaOrO3lH.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1989330320567746560/pu/pl/bpEn8tbHa9A6yDiO.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1989330320567746560"
+          ],
+          "media_source_tweet_id": [
+            "1989330423118545043"
+          ]
+        },
+        "author_id": "1849043039496617984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1989349086181695608",
+        "created_at": "2025-11-14T15:05:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T16:05:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989349086181695608"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1960187829687885824",
+              "start": 3,
+              "username": "huaxuejilebaike"
+            }
+          ],
+          "urls": [
+            {
+              "description": "一个自由又可爱的小宇宙 ✨",
+              "display_url": "pr80.bid",
+              "end": 58,
+              "expanded_url": "https://www.pr80.bid/",
+              "start": 35,
+              "status": 200,
+              "title": "化学极乐",
+              "unwound_url": "https://www.pr80.bid/",
+              "url": "https://t.co/jTkDdtF3kK"
+            },
+            {
+              "display_url": "pic.x.com/sXgNYOQDhG",
+              "end": 82,
+              "expanded_url": "https://x.com/huaxuejilebaike/status/1989330423118545043/video/1",
+              "media_key": "7_1989330320567746560",
+              "start": 59,
+              "url": "https://t.co/sXgNYOQDhG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989349086181695608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989330423118545043",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @huaxuejilebaike: 开服 加入 加入化学极乐喵\nhttps://t.co/jTkDdtF3kK https://t.co/sXgNYOQDhG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1989330320567746560"
+          ]
+        },
+        "author_id": "1960187829687885824",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1989330423118545043",
+        "created_at": "2025-11-14T13:51:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T14:51:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989330423118545043"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "一个自由又可爱的小宇宙 ✨",
+              "display_url": "pr80.bid",
+              "end": 37,
+              "expanded_url": "https://www.pr80.bid/",
+              "start": 14,
+              "status": 200,
+              "title": "化学极乐",
+              "unwound_url": "https://www.pr80.bid/",
+              "url": "https://t.co/jTkDdtF3kK"
+            },
+            {
+              "display_url": "pic.x.com/sXgNYOQDhG",
+              "end": 61,
+              "expanded_url": "https://x.com/huaxuejilebaike/status/1989330423118545043/video/1",
+              "media_key": "7_1989330320567746560",
+              "start": 38,
+              "url": "https://t.co/sXgNYOQDhG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989330423118545043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 609,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "开服 加入 加入化学极乐喵\nhttps://t.co/jTkDdtF3kK https://t.co/sXgNYOQDhG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜🥺@NashiMoe233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "NashiMoe233"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1967335109767692560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 300,
+          "like_count": 3765,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 4352
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-26T03:49:38.000Z",
+        "description": "化学极乐/享受化学物质带来的极致快乐/化学极乐不仅能够改变人的感知和意识/还可以让人们具备类似于超能力的能力，如超速反应、快速学习\n官方网站:https://t.co/DM4fmdhdkn\nTG频道:https://t.co/YoXqIDrwpe\n交流群:https://t.co/JfbYdIujGy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 94,
+                "expanded_url": "https://overdose.day/",
+                "start": 71,
+                "url": "https://t.co/DM4fmdhdkn"
+              },
+              {
+                "display_url": "t.me/huaxuejilebaike",
+                "end": 123,
+                "expanded_url": "https://t.me/huaxuejilebaike",
+                "start": 100,
+                "url": "https://t.co/YoXqIDrwpe"
+              },
+              {
+                "display_url": "t.me/huaxuejile",
+                "end": 151,
+                "expanded_url": "https://t.me/huaxuejile",
+                "start": 128,
+                "url": "https://t.co/JfbYdIujGy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "https://overdose.day/",
+                "start": 0,
+                "url": "https://t.co/DM4fmdhdkn"
+              }
+            ]
+          }
+        },
+        "id": "1960187829687885824",
+        "name": "化学极乐百科🍥",
+        "pinned_tweet_id": "1987887060079009801",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988121341233606656/UFOxlPsN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2084,
+          "following_count": 600,
+          "like_count": 304,
+          "listed_count": 2,
+          "media_count": 95,
+          "tweet_count": 540
+        },
+        "url": "https://t.co/DM4fmdhdkn",
+        "username": "huaxuejilebaike",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1964040468351914409",
+    "created_at": "2025-09-06T04:46:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-06T05:46:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964188422211506337"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1561334508212723713",
+          "start": 0,
+          "username": "VVV8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964188422211506337",
+    "in_reply_to_user_id": "1561334508212723713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964040468351914409",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@VVV8964 橙花鸡严格来说不算中餐，因为这玩意从研究出来到传播和中国一点没关系"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1964040465143255040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0GsZalbUAAwHn3.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1964040468351914409",
+        "created_at": "2025-09-06T04:46:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T05:46:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964188422211506337"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1561334508212723713",
+              "start": 0,
+              "username": "VVV8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964188422211506337",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964040468351914409",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VVV8964 橙花鸡严格来说不算中餐，因为这玩意从研究出来到传播和中国一点没关系"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1964040465143255040"
+          ]
+        },
+        "author_id": "1561334508212723713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1494700240905007105",
+              "name": "Panda Express"
+            }
+          }
+        ],
+        "conversation_id": "1964040468351914409",
+        "created_at": "2025-09-05T18:58:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T19:58:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964040468351914409"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NquIhIAy48",
+              "end": 89,
+              "expanded_url": "https://x.com/VVV8964/status/1964040468351914409/photo/1",
+              "media_key": "3_1964040465143255040",
+              "start": 66,
+              "url": "https://t.co/NquIhIAy48"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964040468351914409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 579,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Panda Express 14刀\n这个辣味橙花鸡还挺好吃，好像是海外才有的中餐料理，我在中国从来没听说过这个，也不知道是从哪来的 https://t.co/NquIhIAy48"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849043147487420416/0nrEqJTK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 293,
+          "following_count": 260,
+          "like_count": 2402,
+          "listed_count": 2,
+          "media_count": 64,
+          "tweet_count": 3599
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Edmonton, Alberta",
+        "name": "VVV",
+        "pinned_tweet_id": "1954539599566651501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1093,
+          "following_count": 333,
+          "like_count": 2873,
+          "listed_count": 4,
+          "media_count": 218,
+          "tweet_count": 3846
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

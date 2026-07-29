@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1966997362561478703",
+    "created_at": "2025-09-14T21:24:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T22:24:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967338782178591029"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1176535991454064640",
+          "start": 0,
+          "username": "nekomakiQAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967338782178591029",
+    "in_reply_to_user_id": "1176535991454064640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966997362561478703",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nekomakiQAQ 硬毒好戒就不叫硬毒了，但是戒掉也不是不可能，只是十分困难"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1966997362561478703",
+        "created_at": "2025-09-14T21:24:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T22:24:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967338782178591029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1176535991454064640",
+              "start": 0,
+              "username": "nekomakiQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967338782178591029",
+        "in_reply_to_user_id": "1176535991454064640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966997362561478703",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekomakiQAQ 硬毒好戒就不叫硬毒了，但是戒掉也不是不可能，只是十分困难"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1176535991454064640",
+        "conversation_id": "1966997362561478703",
+        "created_at": "2025-09-13T22:48:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T23:48:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966997362561478703"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1966997362561478703",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3178,
+          "like_count": 18,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Hard drugs 能戒掉吗 我好好奇😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 317,
+          "following_count": 266,
+          "like_count": 2775,
+          "listed_count": 2,
+          "media_count": 67,
+          "tweet_count": 3846
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-24T16:37:04.000Z",
+        "description": "| 💌 @HobartR6 | 🐱 @_FurryFur_ // 日雌380包邮",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 4,
+                "username": "HobartR6"
+              },
+              {
+                "end": 29,
+                "start": 18,
+                "username": "_FurryFur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lumigj",
+                "end": 23,
+                "expanded_url": "http://t.me/lumigj",
+                "start": 0,
+                "url": "https://t.co/HjMp9NwpfI"
+              }
+            ]
+          }
+        },
+        "id": "1176535991454064640",
+        "name": "猫卷（日雌380！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966519121811738624/fRB6xh7N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3118,
+          "following_count": 945,
+          "like_count": 28016,
+          "listed_count": 15,
+          "media_count": 1189,
+          "tweet_count": 14365
+        },
+        "url": "https://t.co/HjMp9NwpfI",
+        "username": "nekomakiQAQ",
+        "verified": false
+      }
+    ]
+  }
+}

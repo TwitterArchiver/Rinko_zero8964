@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2002083910864478425",
+    "created_at": "2025-12-20T03:53:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T04:53:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002225736669876547"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1927618351733657600",
+          "start": 0,
+          "username": "BaiChuan202505"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002225736669876547",
+    "in_reply_to_user_id": "1927618351733657600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002083910864478425",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BaiChuan202505 是文艺片啊，cult片怎么不算文艺片"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2002083910864478425",
+        "created_at": "2025-12-20T03:53:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T04:53:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002225736669876547"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1927618351733657600",
+              "start": 0,
+              "username": "BaiChuan202505"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002225736669876547",
+        "in_reply_to_user_id": "1927618351733657600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002083910864478425",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BaiChuan202505 是文艺片啊，cult片怎么不算文艺片"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1927618351733657600",
+        "conversation_id": "2002083910864478425",
+        "created_at": "2025-12-19T18:29:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T19:29:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002083910864478425"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2002083910864478425",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "珀尔三部曲\n谁说的文艺片\n😕😨😐😐😐\n看的我有点诗了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜🥺@NashiMoe233｜如果没有回关请私信提醒我！｜我不吸毒！！！｜小猫我喜欢你超喜欢我爱你@psych_angel_｜性别为无、",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "NashiMoe233"
+              },
+              {
+                "end": 72,
+                "start": 59,
+                "username": "psych_angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNh89"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1999352315241988490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 438,
+          "following_count": 403,
+          "like_count": 57,
+          "listed_count": 1,
+          "media_count": 106,
+          "tweet_count": 5396
+        },
+        "url": "https://t.co/rCvc9RNh89",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-28T06:50:22.000Z",
+        "description": "长的凶，说话刻薄，xp奇怪",
+        "id": "1927618351733657600",
+        "name": "不善言辞",
+        "pinned_tweet_id": "1996209973081375189",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927665929279967232/LYNDsqkz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 601,
+          "following_count": 2593,
+          "like_count": 208,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 505
+        },
+        "username": "BaiChuan202505",
+        "verified": false
+      }
+    ]
+  }
+}

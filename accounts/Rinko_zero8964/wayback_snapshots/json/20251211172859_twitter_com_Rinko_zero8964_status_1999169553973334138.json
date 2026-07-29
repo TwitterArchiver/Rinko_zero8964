@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1999123923787772333",
+    "created_at": "2025-12-11T17:28:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T18:28:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999169553973334138"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1763381254035251200",
+          "start": 0,
+          "username": "yowamushi120720"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999169553973334138",
+    "in_reply_to_user_id": "1763381254035251200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999123923787772333",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yowamushi120720 我自己炸了呜呜，犯病之后理智了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1999123916103761920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G75QnCFaQAADAA5.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1999123923787772333",
+        "created_at": "2025-12-11T17:28:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T18:28:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999169553973334138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1763381254035251200",
+              "start": 0,
+              "username": "yowamushi120720"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999169553973334138",
+        "in_reply_to_user_id": "1763381254035251200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999123923787772333",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yowamushi120720 我自己炸了呜呜，犯病之后理智了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999123916103761920"
+          ]
+        },
+        "author_id": "1763381254035251200",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1999123923787772333",
+        "created_at": "2025-12-11T14:27:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T15:27:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999123923787772333"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/11mTivn1My",
+              "end": 38,
+              "expanded_url": "https://x.com/yowamushi120720/status/1999123923787772333/photo/1",
+              "media_key": "3_1999123916103761920",
+              "start": 15,
+              "url": "https://t.co/11mTivn1My"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999123923787772333",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 300,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "？？注销吗，几分钟前号还在的 https://t.co/11mTivn1My"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜🥺@NashiMoe233｜如果没有回关请私信提醒我！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "NashiMoe233"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1967335109767692560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 364,
+          "like_count": 5733,
+          "listed_count": 1,
+          "media_count": 96,
+          "tweet_count": 5070
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-01T01:50:39.000Z",
+        "description": "若要通行，必须通过创口｜奋斗百年，我是禁毒宣传大使🤓️ （doge）｜社交问题见谅，如无意冒犯请多多包容不用当真｜就是这样，一切都没什么可期待的。",
+        "id": "1763381254035251200",
+        "location": "掌声存在之地",
+        "name": "弱虫モンブラン#朝仓一",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953663774495584258/aLd1fosg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 513,
+          "like_count": 37929,
+          "listed_count": 2,
+          "media_count": 132,
+          "tweet_count": 3398
+        },
+        "username": "yowamushi120720",
+        "verified": false
+      }
+    ]
+  }
+}

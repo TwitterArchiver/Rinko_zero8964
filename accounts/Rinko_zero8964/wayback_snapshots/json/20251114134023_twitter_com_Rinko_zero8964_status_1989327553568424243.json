@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1989315670455075262",
+    "created_at": "2025-11-14T13:40:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T14:40:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989327553568424243"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1986452594206838785",
+          "start": 0,
+          "username": "Idontselldrug"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989327553568424243",
+    "in_reply_to_user_id": "1986452594206838785",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989315670455075262",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Idontselldrug 这是什么我也想体验"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 124435,
+        "height": 1280,
+        "media_key": "7_1989292019643305984",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1989292019643305984/pu/img/K4n0SIu1t2QD1Lgq.jpg",
+        "public_metrics": {
+          "view_count": 16
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1989292019643305984/pu/vid/avc1/320x568/-Or-DDjcqJXrusqe.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1989292019643305984/pu/vid/avc1/480x852/1CSfod8MZsFvjByG.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1989292019643305984/pu/vid/avc1/720x1280/JuaehN4673PL7D3x.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1989292019643305984/pu/pl/GVghuQTtPQAnLIDS.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 42408,
+        "height": 1280,
+        "media_key": "7_1989292148148318208",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1989292148148318208/pu/img/ATnM1HqC6ByLNPyo.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1989292148148318208/pu/vid/avc1/320x568/aAK5c7Dm4_SnucLw.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1989292148148318208/pu/vid/avc1/480x852/OMQ6tRV_Q0PmLfGX.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1989292148148318208/pu/vid/avc1/720x1280/sS16yBb-SVKGaReV.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1989292148148318208/pu/pl/LGcMgHTiA_XSfyLy.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 30015,
+        "height": 720,
+        "media_key": "7_1989292214426726401",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1989292214426726401/pu/img/IgfSZSKnON4J40Hs.jpg",
+        "public_metrics": {
+          "view_count": 1
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1989292214426726401/pu/vid/avc1/480x270/pOra7zZRYc3uMnW1.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1989292214426726401/pu/vid/avc1/640x360/KDjwHm4DLb3I2Tj-.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1989292214426726401/pu/vid/avc1/1280x720/oqdy66BMNEQYPQTh.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1989292214426726401/pu/pl/zx8kbsq83CIiUA9D.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1989315670455075262",
+        "created_at": "2025-11-14T13:40:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T14:40:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989327553568424243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1986452594206838785",
+              "start": 0,
+              "username": "Idontselldrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989327553568424243",
+        "in_reply_to_user_id": "1986452594206838785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989315670455075262",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Idontselldrug 这是什么我也想体验"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1989292019643305984",
+            "7_1989292148148318208",
+            "7_1989292214426726401"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "1989315670455075262",
+        "created_at": "2025-11-14T12:53:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T13:53:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989315670455075262"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PVcMOQuZa3",
+              "end": 23,
+              "expanded_url": "https://x.com/Idontselldrug/status/1989315670455075262/video/1",
+              "media_key": "7_1989292019643305984",
+              "start": 0,
+              "url": "https://t.co/PVcMOQuZa3"
+            },
+            {
+              "display_url": "pic.x.com/PVcMOQuZa3",
+              "end": 23,
+              "expanded_url": "https://x.com/Idontselldrug/status/1989315670455075262/video/1",
+              "media_key": "7_1989292148148318208",
+              "start": 0,
+              "url": "https://t.co/PVcMOQuZa3"
+            },
+            {
+              "display_url": "pic.x.com/PVcMOQuZa3",
+              "end": 23,
+              "expanded_url": "https://x.com/Idontselldrug/status/1989315670455075262/video/1",
+              "media_key": "7_1989292214426726401",
+              "start": 0,
+              "url": "https://t.co/PVcMOQuZa3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989315670455075262",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/PVcMOQuZa3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜🥺@NashiMoe233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "NashiMoe233"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1967335109767692560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 300,
+          "like_count": 3744,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 4341
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 埃德蒙顿的推友快来找我玩",
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1986495207203086489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 336,
+          "following_count": 140,
+          "like_count": 113,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 152
+        },
+        "username": "Idontselldrug",
+        "verified": false
+      }
+    ]
+  }
+}

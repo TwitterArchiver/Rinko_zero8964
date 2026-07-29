@@ -1,0 +1,641 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10045675573",
+          "name": "Stranger Things (Netflix)"
+        }
+      },
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10051425401",
+          "name": "Stranger Things"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sci-fi and fantasy",
+          "id": "847869772129685504",
+          "name": "Sci-fi & fantasy"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Television",
+          "id": "1072937043393560576",
+          "name": "Television"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1223187634983292929",
+          "name": "Stranger Things"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1276514328007467008",
+          "name": "Movies & TV"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1283481070956998656",
+          "name": "Sci-fi & fantasy TV"
+        }
+      },
+      {
+        "domain": {
+          "description": "For global/conceptual TV shows without localization.",
+          "id": "172",
+          "name": "Global TV Show"
+        },
+        "entity": {
+          "id": "1223187634983292929",
+          "name": "Stranger Things"
+        }
+      },
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10045675573",
+          "name": "Stranger Things (Netflix)"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "10045675573",
+          "name": "Stranger Things (Netflix)"
+        }
+      }
+    ],
+    "conversation_id": "2009378339912351803",
+    "created_at": "2026-01-08T21:35:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T22:35:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009378339912351803"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1742643693348069376",
+          "start": 3,
+          "username": "doctornowhere_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009378339912351803",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1488
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008943703197368382",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @doctornowhere_: stranger things conformity gate believers feeling a fraction of the pain half life fans have felt for the last 2 decade…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9535,
+        "height": 720,
+        "media_key": "13_2008943645693485056",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2008943645693485056/img/1nLbbx-KZYu9hGR-.jpg",
+        "public_metrics": {
+          "view_count": 702018
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2008943645693485056/vid/avc1/368x270/XGwVngeTN_JFyu1R.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2008943645693485056/vid/avc1/490x360/CS447kA5LCip0a-Y.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2008943645693485056/vid/avc1/982x720/8gVNPThSIKhDDXvd.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2008943645693485056/pl/yjzpFVIuK951WjLM.m3u8"
+          }
+        ],
+        "width": 982
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10045675573",
+              "name": "Stranger Things (Netflix)"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10051425401",
+              "name": "Stranger Things"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sci-fi and fantasy",
+              "id": "847869772129685504",
+              "name": "Sci-fi & fantasy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1223187634983292929",
+              "name": "Stranger Things"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1276514328007467008",
+              "name": "Movies & TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1283481070956998656",
+              "name": "Sci-fi & fantasy TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "For global/conceptual TV shows without localization.",
+              "id": "172",
+              "name": "Global TV Show"
+            },
+            "entity": {
+              "id": "1223187634983292929",
+              "name": "Stranger Things"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10045675573",
+              "name": "Stranger Things (Netflix)"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "10045675573",
+              "name": "Stranger Things (Netflix)"
+            }
+          }
+        ],
+        "conversation_id": "2009378339912351803",
+        "created_at": "2026-01-08T21:35:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T22:35:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009378339912351803"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1742643693348069376",
+              "start": 3,
+              "username": "doctornowhere_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009378339912351803",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1488
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008943703197368382",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @doctornowhere_: stranger things conformity gate believers feeling a fraction of the pain half life fans have felt for the last 2 decade…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2008943645693485056"
+          ]
+        },
+        "author_id": "1742643693348069376",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10045675573",
+              "name": "Stranger Things (Netflix)"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10051425401",
+              "name": "Stranger Things"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sci-fi and fantasy",
+              "id": "847869772129685504",
+              "name": "Sci-fi & fantasy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1223187634983292929",
+              "name": "Stranger Things"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1276514328007467008",
+              "name": "Movies & TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1283481070956998656",
+              "name": "Sci-fi & fantasy TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "For global/conceptual TV shows without localization.",
+              "id": "172",
+              "name": "Global TV Show"
+            },
+            "entity": {
+              "id": "1223187634983292929",
+              "name": "Stranger Things"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10045675573",
+              "name": "Stranger Things (Netflix)"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "10045675573",
+              "name": "Stranger Things (Netflix)"
+            }
+          }
+        ],
+        "conversation_id": "2008943703197368382",
+        "created_at": "2026-01-07T16:47:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T17:47:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008943703197368382"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JpXfJzOKvP",
+              "end": 167,
+              "expanded_url": "https://x.com/doctornowhere_/status/2008943703197368382/video/1",
+              "media_key": "13_2008943645693485056",
+              "start": 144,
+              "url": "https://t.co/JpXfJzOKvP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008943703197368382",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3172,
+          "impression_count": 2030173,
+          "like_count": 15809,
+          "quote_count": 96,
+          "reply_count": 91,
+          "retweet_count": 1488
+        },
+        "reply_settings": "everyone",
+        "text": "stranger things conformity gate believers feeling a fraction of the pain half life fans have felt for the last 2 decades when it doesn’t happen https://t.co/JpXfJzOKvP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜如果没有回关请私信提醒我！｜我不吸毒！！！｜小猫我喜欢你超喜欢我爱你@psych_angel_｜性别为无、",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 45,
+                "username": "psych_angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNh89"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 470,
+          "like_count": 10776,
+          "listed_count": 1,
+          "media_count": 133,
+          "tweet_count": 6318
+        },
+        "url": "https://t.co/rCvc9RNh89",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-03T20:27:02.000Z",
+        "description": "19 yr old artist from way over yonder",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/DoctorNowhere4…",
+                "end": 23,
+                "expanded_url": "https://www.patreon.com/DoctorNowhere473?utm_campaign=creatorshare_creator",
+                "start": 0,
+                "url": "https://t.co/OSymT8T0or"
+              }
+            ]
+          }
+        },
+        "id": "1742643693348069376",
+        "location": "the corner of your bedroom",
+        "name": "the doc",
+        "pinned_tweet_id": "1831779565472972919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001514599170920448/hOKydmBA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121878,
+          "following_count": 51,
+          "like_count": 8583,
+          "listed_count": 153,
+          "media_count": 646,
+          "tweet_count": 2599
+        },
+        "url": "https://t.co/OSymT8T0or",
+        "username": "doctornowhere_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1966515740858572903",
+    "created_at": "2025-09-12T19:51:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-12T20:51:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966590636552839623"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1279702935102865409",
+          "start": 0,
+          "username": "Yoselindead"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966590636552839623",
+    "in_reply_to_user_id": "1279702935102865409",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966515740858572903",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yoselindead 你们怎么这么有钱我真哭了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1966515740858572903",
+        "created_at": "2025-09-12T19:51:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T20:51:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966590636552839623"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1279702935102865409",
+              "start": 0,
+              "username": "Yoselindead"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966590636552839623",
+        "in_reply_to_user_id": "1279702935102865409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966515740858572903",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yoselindead 你们怎么这么有钱我真哭了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1279702935102865409",
+        "conversation_id": "1966515740858572903",
+        "created_at": "2025-09-12T14:54:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T15:54:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966515740858572903"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/coiloffaraday/…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/coiloffaraday/status/1966481642673012898",
+              "start": 20,
+              "url": "https://t.co/KLy97gOiJO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966515740858572903",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1135,
+          "like_count": 5,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966481642673012898",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我老公给我卖iPhone17pm呵呵哒 https://t.co/KLy97gOiJO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 265,
+          "like_count": 2655,
+          "listed_count": 2,
+          "media_count": 66,
+          "tweet_count": 3772
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-05T09:05:40.000Z",
+        "description": "ISFP, 168/50kg, 07, LGBTQ+友好but sorry I’m一爱顺直女, 重抑重焦, 双向存疑, Brat(BDSM), 中文/ENG OK, 买美瞳外烟电子烟请找我,不贩卖任何药物",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mylifeallfucke…",
+                "end": 23,
+                "expanded_url": "https://t.me/mylifeallfuckedup",
+                "start": 0,
+                "url": "https://t.co/R0EDK2Lhy4"
+              }
+            ]
+          }
+        },
+        "id": "1279702935102865409",
+        "location": "🚪288/588，线下过门后详问",
+        "name": "Yoselin🪬💊🩸",
+        "pinned_tweet_id": "1946090177505689972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947177584891936768/JyIXTLSH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1215,
+          "following_count": 352,
+          "like_count": 12774,
+          "listed_count": 2,
+          "media_count": 119,
+          "tweet_count": 3028
+        },
+        "url": "https://t.co/R0EDK2Lhy4",
+        "username": "Yoselindead",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2041655715841110444",
+    "created_at": "2026-04-09T00:13:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T01:13:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042033085701878108"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2028205953380945920",
+          "start": 0,
+          "username": "psyopal"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042033085701878108",
+    "in_reply_to_user_id": "2028205953380945920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041655715841110444",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@psyopal 有树皮？！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2041655715841110444",
+        "created_at": "2026-04-09T00:13:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T01:13:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042033085701878108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2028205953380945920",
+              "start": 0,
+              "username": "psyopal"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042033085701878108",
+        "in_reply_to_user_id": "2028205953380945920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041655715841110444",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@psyopal 有树皮？！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028205953380945920",
+        "conversation_id": "2041655715841110444",
+        "created_at": "2026-04-07T23:13:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T00:13:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041655715841110444"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041655715841110444",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1581,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "话说有点想出点相思树皮有人想要么，个人用过（很纽币"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思う、ゆえに我あり｜ 我是林子｜性别为无、｜寒くなってきたね……もう少しだけ、いい？｜intp-t｜asd/焦虑障碍｜🧬今日也想成为biohacker｜好妈妈们@asabakasaiko @loveforeversfy|bro @BelovedUren8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 81,
+                "username": "asabakasaiko"
+              },
+              {
+                "end": 110,
+                "start": 95,
+                "username": "loveforeversfy"
+              },
+              {
+                "end": 131,
+                "start": 115,
+                "username": "BelovedUren8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wakaba_rinko",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wakaba_rinko",
+                "start": 0,
+                "url": "https://t.co/zWqK1n9RJg"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "Ask me any u want→",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 656,
+          "following_count": 638,
+          "like_count": 17145,
+          "listed_count": 1,
+          "media_count": 166,
+          "tweet_count": 8249
+        },
+        "url": "https://t.co/zWqK1n9RJg",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-01T20:29:23.000Z",
+        "description": "unnamed复活介绍点https://t.co/RIbaVNCNdD\n飞机同ID，神必物质欢迎观看\n同类超级大友好，之后会开提问箱接受咨询嘿嘿",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/auaquq",
+                "end": 35,
+                "expanded_url": "https://t.me/auaquq",
+                "start": 12,
+                "url": "https://t.co/RIbaVNCNdD"
+              }
+            ]
+          }
+        },
+        "id": "2028205953380945920",
+        "name": "psyopal",
+        "pinned_tweet_id": "2041271574804983994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038830668533334016/ktouiTat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 265,
+          "like_count": 24,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 144
+        },
+        "username": "psyopal",
+        "verified": false
+      }
+    ]
+  }
+}

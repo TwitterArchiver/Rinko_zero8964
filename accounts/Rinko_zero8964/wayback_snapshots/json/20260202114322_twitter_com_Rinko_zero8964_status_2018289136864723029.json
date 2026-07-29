@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2018174076624461838",
+    "created_at": "2026-02-02T11:43:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T12:43:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018289136864723029"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1763381254035251200",
+          "start": 0,
+          "username": "yowamushi120720"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018289136864723029",
+    "in_reply_to_user_id": "1763381254035251200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018174076624461838",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yowamushi120720 这个玩意鼻吸好难受感觉没必要直接吃也差不多"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2018174065627041792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAH-nrSbEAAIfxc.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2018174076624461838",
+        "created_at": "2026-02-02T11:43:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T12:43:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018289136864723029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1763381254035251200",
+              "start": 0,
+              "username": "yowamushi120720"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018289136864723029",
+        "in_reply_to_user_id": "1763381254035251200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018174076624461838",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yowamushi120720 这个玩意鼻吸好难受感觉没必要直接吃也差不多"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018174065627041792"
+          ]
+        },
+        "author_id": "1763381254035251200",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2018174076624461838",
+        "created_at": "2026-02-02T04:06:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T05:06:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018174076624461838"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E1pCZRRWYi",
+              "end": 194,
+              "expanded_url": "https://x.com/yowamushi120720/status/2018174076624461838/photo/1",
+              "media_key": "3_2018174065627041792",
+              "start": 171,
+              "url": "https://t.co/E1pCZRRWYi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018174076624461838",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 626,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "10:00–10:27，边看电影边给安非他酮去皮磨粉\n10:27-10:50，断断续续，看电影、看科普文章、吸入安非他酮。为防上颚痛而十分小心\n10:50-11:11，唱歌，想到安非他酮没啥味，不像dpt，上颚痛了不带异味便无妨\n11:11-11:32，试图一口气吸完，但鼻腔糊满黏膜受刺激而分泌的鼻涕\n11:32-11:43，发现漏网之鱼 https://t.co/E1pCZRRWYi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜如果没有回关请私信提醒我！｜我不吸毒！！！｜性别为无、｜輪郭の定まらない位置にいた人@Psych_Angel_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 53,
+                "username": "Psych_Angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNh89"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 541,
+          "following_count": 503,
+          "like_count": 13211,
+          "listed_count": 1,
+          "media_count": 144,
+          "tweet_count": 6913
+        },
+        "url": "https://t.co/rCvc9RNh89",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-01T01:50:39.000Z",
+        "description": "若要通行，必须通过创口｜奋斗百年，我是禁毒宣传大使🤓️ ｜社交问题见谅，如无意冒犯请多多包容不用当真 enby 恐惧型依恋请关照｜不负弱虫之名！*无心之过淹没了你",
+        "id": "1763381254035251200",
+        "location": "掌声存在之地",
+        "name": "弱虫モンブラン",
+        "pinned_tweet_id": "2007974697464647846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004604089381072896/T83RMACH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 386,
+          "following_count": 602,
+          "like_count": 42232,
+          "listed_count": 2,
+          "media_count": 177,
+          "tweet_count": 4081
+        },
+        "username": "yowamushi120720",
+        "verified": false
+      }
+    ]
+  }
+}

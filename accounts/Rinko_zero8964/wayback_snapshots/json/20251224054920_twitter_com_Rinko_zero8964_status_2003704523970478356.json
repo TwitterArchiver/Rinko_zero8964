@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2003704523970478356",
+    "created_at": "2025-12-24T05:49:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-24T06:49:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003704523970478356"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1437034228768595977",
+          "start": 3,
+          "username": "Kumamushi2021"
+        },
+        {
+          "end": 31,
+          "id": "1867755654070349824",
+          "start": 19,
+          "username": "zezhe463149"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003704523970478356",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003701963637350909",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kumamushi2021: @zezhe463149 因为电话就是侵入性特别强的东西…当电话铃声响起的那一刻个人的安全空间就被打破了  无论接不接都必须得面对“接电话”这件事  我有段时间听到电话铃和消息铃声会直接惊恐发作"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2003704523970478356",
+        "created_at": "2025-12-24T05:49:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T06:49:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003704523970478356"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1437034228768595977",
+              "start": 3,
+              "username": "Kumamushi2021"
+            },
+            {
+              "end": 31,
+              "id": "1867755654070349824",
+              "start": 19,
+              "username": "zezhe463149"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003704523970478356",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003701963637350909",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kumamushi2021: @zezhe463149 因为电话就是侵入性特别强的东西…当电话铃声响起的那一刻个人的安全空间就被打破了  无论接不接都必须得面对“接电话”这件事  我有段时间听到电话铃和消息铃声会直接惊恐发作"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437034228768595977",
+        "conversation_id": "2003661066325447148",
+        "created_at": "2025-12-24T05:39:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T06:39:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003701963637350909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1867755654070349824",
+              "start": 0,
+              "username": "zezhe463149"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003701963637350909",
+        "in_reply_to_user_id": "1867755654070349824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003661066325447148",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zezhe463149 因为电话就是侵入性特别强的东西…当电话铃声响起的那一刻个人的安全空间就被打破了  无论接不接都必须得面对“接电话”这件事  我有段时间听到电话铃和消息铃声会直接惊恐发作"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜如果没有回关请私信提醒我！｜我不吸毒！！！｜小猫我喜欢你超喜欢我爱你@psych_angel_｜性别为无、",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 45,
+                "username": "psych_angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNh89"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1999352315241988490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 447,
+          "following_count": 409,
+          "like_count": 7319,
+          "listed_count": 1,
+          "media_count": 110,
+          "tweet_count": 5550
+        },
+        "url": "https://t.co/rCvc9RNh89",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、幽灵、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/患有双相注意避雷/废话很多",
+        "id": "1437034228768595977",
+        "location": "你的身旁",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997689615113986048/TOzE4Ln8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 92,
+          "like_count": 2985,
+          "listed_count": 1,
+          "media_count": 142,
+          "tweet_count": 1378
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-14T02:17:45.000Z",
+        "description": "一心/塑料织布做的银鱼",
+        "id": "1867755654070349824",
+        "location": "停尸房里的冰柜雅间",
+        "name": "Shiny fish fish",
+        "pinned_tweet_id": "1994444254114898125",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002938732819660801/0fqZN7ti_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 315,
+          "like_count": 14561,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 8300
+        },
+        "username": "zezhe463149",
+        "verified": false
+      }
+    ]
+  }
+}

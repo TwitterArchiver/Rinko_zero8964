@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1970014902325755925",
+    "created_at": "2025-09-22T12:35:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-22T13:35:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970104697261629668"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1801534903626121216",
+          "start": 0,
+          "username": "qngshu988723424"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970104697261629668",
+    "in_reply_to_user_id": "1801534903626121216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970014902325755925",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qngshu988723424 小猫不懂那么多，小猫只知道你对他好，所以小猫对你也好，这就是为什么我最喜欢小猫咪的原因"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1970014902325755925",
+        "created_at": "2025-09-22T12:35:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T13:35:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970104697261629668"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1801534903626121216",
+              "start": 0,
+              "username": "qngshu988723424"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970104697261629668",
+        "in_reply_to_user_id": "1801534903626121216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970014902325755925",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qngshu988723424 小猫不懂那么多，小猫只知道你对他好，所以小猫对你也好，这就是为什么我最喜欢小猫咪的原因"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801534903626121216",
+        "conversation_id": "1970014902325755925",
+        "created_at": "2025-09-22T06:38:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T07:38:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970014902325755925"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1970014902325755925",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我还是喜欢和动物打交道，小时候经常喂野猫和给窗台撒小米，时间久了猫见我呼噜窗外的鸟也不过于见外，养的鹦鹉很单纯，对它们好它们对你好。\n想到以前学校里的人，对他们好就蹬鼻子上脸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 277,
+          "like_count": 3173,
+          "listed_count": 2,
+          "media_count": 79,
+          "tweet_count": 4080
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-14T08:39:35.000Z",
+        "description": "和鸟每天抢吃的。\n匿名箱https://t.co/Zk9zfZ9hhM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pome.vip/rotaka",
+                "end": 35,
+                "expanded_url": "https://pome.vip/rotaka",
+                "start": 12,
+                "url": "https://t.co/Zk9zfZ9hhM"
+              }
+            ]
+          }
+        },
+        "id": "1801534903626121216",
+        "location": "鸟笼",
+        "name": "rotaka",
+        "pinned_tweet_id": "1940443442192298200",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968860278877241344/_1PHGlWl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 287,
+          "like_count": 2813,
+          "listed_count": 1,
+          "media_count": 398,
+          "tweet_count": 3687
+        },
+        "username": "qngshu988723424",
+        "verified": false
+      }
+    ]
+  }
+}

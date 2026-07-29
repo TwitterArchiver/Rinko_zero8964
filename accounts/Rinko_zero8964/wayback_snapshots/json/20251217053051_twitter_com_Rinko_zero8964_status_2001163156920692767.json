@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2000946986355450299",
+    "created_at": "2025-12-17T05:30:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T06:30:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001163156920692767"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1657288224451203073",
+          "start": 0,
+          "username": "Cialloi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001163156920692767",
+    "in_reply_to_user_id": "1657288224451203073",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000946986355450299",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cialloi sino父母大部分总会有这么一个阶段。。太恐怖了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 672,
+        "media_key": "3_2000946983822090246",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8TKrika4AY8UKn.jpg",
+        "width": 983
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2000946986355450299",
+        "created_at": "2025-12-17T05:30:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T06:30:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001163156920692767"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1657288224451203073",
+              "start": 0,
+              "username": "Cialloi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001163156920692767",
+        "in_reply_to_user_id": "1657288224451203073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000946986355450299",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cialloi sino父母大部分总会有这么一个阶段。。太恐怖了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000946983822090246"
+          ]
+        },
+        "author_id": "1657288224451203073",
+        "conversation_id": "2000946986355450299",
+        "created_at": "2025-12-16T15:11:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T16:11:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000946986355450299"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wbHnRajkPc",
+              "end": 98,
+              "expanded_url": "https://x.com/Cialloi/status/2000946986355450299/photo/1",
+              "media_key": "3_2000946983822090246",
+              "start": 75,
+              "url": "https://t.co/wbHnRajkPc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000946986355450299",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 440,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "恶心死了不就是玩了会电脑吗又要砸又要我死的我根本就没病有病的是我的家人为什么要这么对我……什么都要管……一点也不自由，我什么都没有了，我就非死不可吗 https://t.co/wbHnRajkPc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜🥺@NashiMoe233｜如果没有回关请私信提醒我！｜我不吸毒！！！｜小猫我喜欢你超喜欢我爱你@psych_angel_｜性别为无、",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "NashiMoe233"
+              },
+              {
+                "end": 72,
+                "start": 59,
+                "username": "psych_angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNh89"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1999352315241988490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 424,
+          "following_count": 389,
+          "like_count": 6491,
+          "listed_count": 1,
+          "media_count": 103,
+          "tweet_count": 5297
+        },
+        "url": "https://t.co/rCvc9RNh89",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-13T07:34:48.000Z",
+        "description": "耶耶的主人@_NekoMoonLight",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 5,
+                "username": "_NekoMoonLight"
+              }
+            ]
+          }
+        },
+        "id": "1657288224451203073",
+        "name": "耶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999488524710739972/7OTUWxxP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1324,
+          "following_count": 618,
+          "like_count": 53863,
+          "listed_count": 6,
+          "media_count": 434,
+          "tweet_count": 14365
+        },
+        "username": "Cialloi",
+        "verified": false
+      }
+    ]
+  }
+}

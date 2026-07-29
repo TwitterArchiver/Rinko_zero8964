@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1992290813708316708",
+    "created_at": "2025-11-22T17:55:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T18:55:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992290813708316708"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1840720004620361728",
+          "start": 3,
+          "username": "KaoriAoii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992290813708316708",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992170635360165970",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KaoriAoii: 🐔新产品：鸡尘🐔\n解离麻醉剂，致幻剂\n强烈的外部幻觉\n副作用：？\n成分：盐酸金刚烷胺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1992290813708316708",
+        "created_at": "2025-11-22T17:55:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T18:55:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992290813708316708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1840720004620361728",
+              "start": 3,
+              "username": "KaoriAoii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992290813708316708",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992170635360165970",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KaoriAoii: 🐔新产品：鸡尘🐔\n解离麻醉剂，致幻剂\n强烈的外部幻觉\n副作用：？\n成分：盐酸金刚烷胺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840720004620361728",
+        "conversation_id": "1992170635360165970",
+        "created_at": "2025-11-22T09:57:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T10:57:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992170635360165970"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1992170635360165970",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2971,
+          "like_count": 71,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "🐔新产品：鸡尘🐔\n解离麻醉剂，致幻剂\n强烈的外部幻觉\n副作用：？\n成分：盐酸金刚烷胺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜🥺@NashiMoe233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "NashiMoe233"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1967335109767692560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 320,
+          "like_count": 4663,
+          "listed_count": 1,
+          "media_count": 90,
+          "tweet_count": 4581
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-30T11:47:15.000Z",
+        "description": "=小香丨生理女心理不定丨画师丨utau+vocaloid丨od丨第五人格丨無言フォロー失礼します丨🚪88",
+        "id": "1840720004620361728",
+        "location": "高原",
+        "name": "苍井香绪里",
+        "pinned_tweet_id": "1980685233134633169",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983957677228355584/zLyXkWyV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 110,
+          "like_count": 118,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 311
+        },
+        "username": "KaoriAoii",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1969876388619673600"
+      ]
+    },
+    "author_id": "1849043039496617984",
+    "conversation_id": "1969690948201574443",
+    "created_at": "2025-09-21T21:28:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-21T22:28:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969876398119772400"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1826984800390889472",
+          "start": 0,
+          "username": "rcwikixyz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YR7zaXPJ7X",
+          "end": 48,
+          "expanded_url": "https://x.com/Rinko_zero8964/status/1969876398119772400/photo/1",
+          "media_key": "3_1969876388619673600",
+          "start": 25,
+          "url": "https://t.co/YR7zaXPJ7X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969876398119772400",
+    "in_reply_to_user_id": "1826984800390889472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969690948201574443",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rcwikixyz 给你补一个\n数学天才555 https://t.co/YR7zaXPJ7X"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1969876388619673600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1ZoI3sa4AAAP7Y.jpg",
+        "width": 942
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1969690940429475840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1W_eXWaoAA93mC.jpg",
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969876388619673600"
+          ]
+        },
+        "author_id": "1849043039496617984",
+        "conversation_id": "1969690948201574443",
+        "created_at": "2025-09-21T21:28:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T22:28:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969876398119772400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1826984800390889472",
+              "start": 0,
+              "username": "rcwikixyz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YR7zaXPJ7X",
+              "end": 48,
+              "expanded_url": "https://x.com/Rinko_zero8964/status/1969876398119772400/photo/1",
+              "media_key": "3_1969876388619673600",
+              "start": 25,
+              "url": "https://t.co/YR7zaXPJ7X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969876398119772400",
+        "in_reply_to_user_id": "1826984800390889472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969690948201574443",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rcwikixyz 给你补一个\n数学天才555 https://t.co/YR7zaXPJ7X"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969690940429475840"
+          ]
+        },
+        "author_id": "1826984800390889472",
+        "conversation_id": "1969690948201574443",
+        "created_at": "2025-09-21T09:11:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T10:11:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969690948201574443"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4TbaAMWiru",
+              "end": 23,
+              "expanded_url": "https://x.com/rcwikixyz/status/1969690948201574443/photo/1",
+              "media_key": "3_1969690940429475840",
+              "start": 0,
+              "url": "https://t.co/4TbaAMWiru"
+            },
+            {
+              "display_url": "x.com/soyourmycurse/…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/soyourmycurse/status/1969666484453720214",
+              "start": 24,
+              "url": "https://t.co/jcvpMSshQJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969690948201574443",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 359,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969666484453720214",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/4TbaAMWiru https://t.co/jcvpMSshQJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 277,
+          "like_count": 3109,
+          "listed_count": 2,
+          "media_count": 72,
+          "tweet_count": 4021
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-23T14:08:22.000Z",
+        "description": "rcwiki官方账号｜ 化学品科普 https://t.co/qKJUyDNO1y ｜ 前高四爱博主合作私信",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "rcwiki.xyz",
+                "end": 41,
+                "expanded_url": "https://rcwiki.xyz/",
+                "start": 18,
+                "url": "https://t.co/qKJUyDNO1y"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "rcwiki.xyz",
+                "end": 23,
+                "expanded_url": "https://rcwiki.xyz/",
+                "start": 0,
+                "url": "https://t.co/qKJUyDNO1y"
+              }
+            ]
+          }
+        },
+        "id": "1826984800390889472",
+        "location": "天下社",
+        "name": "前列腺高潮大王（rcwiki.xyz）",
+        "pinned_tweet_id": "1943169008829944010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954620994288795648/ZuM-Pxtk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2614,
+          "following_count": 100,
+          "like_count": 329,
+          "listed_count": 2,
+          "media_count": 49,
+          "tweet_count": 247
+        },
+        "url": "https://t.co/qKJUyDNO1y",
+        "username": "rcwikixyz",
+        "verified": false
+      }
+    ]
+  }
+}

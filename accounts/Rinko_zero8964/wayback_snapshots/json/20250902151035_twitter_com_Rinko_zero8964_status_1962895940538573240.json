@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1962443374633644505",
+    "created_at": "2025-09-02T15:10:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T16:10:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962895940538573240"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1892114014563598339",
+          "start": 0,
+          "username": "tyumen1871"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962895940538573240",
+    "in_reply_to_user_id": "1892114014563598339",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962443374633644505",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tyumen1871 咱都是垃圾哦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 898,
+        "media_key": "3_1962443372364492800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gzv_2YWa8AAx4ge.jpg",
+        "width": 868
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1962443374633644505",
+        "created_at": "2025-09-02T15:10:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T16:10:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962895940538573240"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1892114014563598339",
+              "start": 0,
+              "username": "tyumen1871"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962895940538573240",
+        "in_reply_to_user_id": "1892114014563598339",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962443374633644505",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tyumen1871 咱都是垃圾哦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962443372364492800"
+          ]
+        },
+        "author_id": "1892114014563598339",
+        "conversation_id": "1962443374633644505",
+        "created_at": "2025-09-01T09:12:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T10:12:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962443374633644505"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LxswuVGGbA",
+              "end": 23,
+              "expanded_url": "https://x.com/tyumen1871/status/1962443374633644505/photo/1",
+              "media_key": "3_1962443372364492800",
+              "start": 0,
+              "url": "https://t.co/LxswuVGGbA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962443374633644505",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 608,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/LxswuVGGbA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849043147487420416/0nrEqJTK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 255,
+          "like_count": 2300,
+          "listed_count": 2,
+          "media_count": 58,
+          "tweet_count": 3500
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-19T07:28:41.000Z",
+        "description": "‣  你有尝试变得真实吗?叫我 𝗞𝗮𝗶𝗿𝗼 就好ɪɴғᴘ⁃ᴍ𝔱𝖝⁃ᴏᴠᴇʀᴅᴏsᴇ﹠ᴅʀᴜɢ⁃Ⓐ☜",
+        "id": "1892114014563598339",
+        "name": "xX梅妻鹤子Xx",
+        "pinned_tweet_id": "1962443374633644505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958953550865981441/LtgazIls_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 322,
+          "like_count": 35472,
+          "listed_count": 1,
+          "media_count": 69,
+          "tweet_count": 1617
+        },
+        "username": "tyumen1871",
+        "verified": false
+      }
+    ]
+  }
+}

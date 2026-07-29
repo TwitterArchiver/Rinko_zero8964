@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2003788206345695422",
+    "created_at": "2025-12-25T08:03:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-25T09:03:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004100745512321394"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1911828872334831616",
+          "start": 0,
+          "username": "Edward_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004100745512321394",
+    "in_reply_to_user_id": "1911828872334831616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003788206345695422",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Edward_8964 我也想去玩，愛德華可愛捏"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2003788194693988352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G87ivx3bQAAEzx6.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2003788194824007680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G87ivyWbMAA7lPD.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1736,
+        "media_key": "3_2003788194832400384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G87ivyYbQAA7sUR.jpg",
+        "width": 1797
+      },
+      {
+        "height": 533,
+        "media_key": "3_2003788194681434112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G87ivx0bsAA4wzl.jpg",
+        "width": 683
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2003788206345695422",
+        "created_at": "2025-12-25T08:03:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T09:03:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004100745512321394"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1911828872334831616",
+              "start": 0,
+              "username": "Edward_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004100745512321394",
+        "in_reply_to_user_id": "1911828872334831616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003788206345695422",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Edward_8964 我也想去玩，愛德華可愛捏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003788194693988352",
+            "3_2003788194824007680",
+            "3_2003788194832400384",
+            "3_2003788194681434112"
+          ]
+        },
+        "author_id": "1911828872334831616",
+        "conversation_id": "2003788206345695422",
+        "created_at": "2025-12-24T11:21:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T12:21:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003788206345695422"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nrb0Bu0jnD",
+              "end": 100,
+              "expanded_url": "https://x.com/Edward_8964/status/2003788206345695422/photo/1",
+              "media_key": "3_2003788194693988352",
+              "start": 77,
+              "url": "https://t.co/nrb0Bu0jnD"
+            },
+            {
+              "display_url": "pic.x.com/nrb0Bu0jnD",
+              "end": 100,
+              "expanded_url": "https://x.com/Edward_8964/status/2003788206345695422/photo/1",
+              "media_key": "3_2003788194824007680",
+              "start": 77,
+              "url": "https://t.co/nrb0Bu0jnD"
+            },
+            {
+              "display_url": "pic.x.com/nrb0Bu0jnD",
+              "end": 100,
+              "expanded_url": "https://x.com/Edward_8964/status/2003788206345695422/photo/1",
+              "media_key": "3_2003788194832400384",
+              "start": 77,
+              "url": "https://t.co/nrb0Bu0jnD"
+            },
+            {
+              "display_url": "pic.x.com/nrb0Bu0jnD",
+              "end": 100,
+              "expanded_url": "https://x.com/Edward_8964/status/2003788206345695422/photo/1",
+              "media_key": "3_2003788194681434112",
+              "start": 77,
+              "url": "https://t.co/nrb0Bu0jnD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003788206345695422",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2200,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "歌舞伎町这几天还是很快乐的\n虽然语言几乎不通，但是这里的环境相处非常融洽，还在英语沟通的前提下买到了氟硝西泮，歌舞伎町超级好玩，最好还是带上会日语的朋友 https://t.co/nrb0Bu0jnD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜如果没有回关请私信提醒我！｜我不吸毒！！！｜小猫我喜欢你超喜欢我爱你@psych_angel_｜性别为无、",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 45,
+                "username": "psych_angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNh89"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1999352315241988490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 451,
+          "following_count": 411,
+          "like_count": 7543,
+          "listed_count": 1,
+          "media_count": 111,
+          "tweet_count": 5603
+        },
+        "url": "https://t.co/rCvc9RNh89",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-14T17:08:26.000Z",
+        "description": "南湖之虎｜第4次转生｜ MTX ｜退役OIer/Oder｜ADHD｜freeODwiki站点维护｜自由、梦想、进取｜个人崇拜宗教政治团体反对｜大东亚共荣圈支持者｜#shtwt #drugtwt 女友：@jingyin_8964",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 81,
+                "tag": "shtwt"
+              },
+              {
+                "end": 96,
+                "start": 88,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 113,
+                "start": 100,
+                "username": "jingyin_8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeod.wiki",
+                "end": 23,
+                "expanded_url": "http://freeod.wiki",
+                "start": 0,
+                "url": "https://t.co/LISkhFoXg7"
+              }
+            ]
+          }
+        },
+        "id": "1911828872334831616",
+        "location": "NE",
+        "name": "💊Edward……",
+        "pinned_tweet_id": "2003788206345695422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983915986710667264/18Wn7FvD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 802,
+          "following_count": 663,
+          "like_count": 7323,
+          "listed_count": 2,
+          "media_count": 319,
+          "tweet_count": 4632
+        },
+        "url": "https://t.co/LISkhFoXg7",
+        "username": "Edward_8964",
+        "verified": true
+      }
+    ]
+  }
+}

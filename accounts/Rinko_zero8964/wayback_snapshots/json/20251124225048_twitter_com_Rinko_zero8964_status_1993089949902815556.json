@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1993089949902815556",
+    "created_at": "2025-11-24T22:50:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T23:50:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1993089949902815556"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hanji949540/st…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/hanji949540/status/1992962216518369568",
+          "start": 36,
+          "url": "https://t.co/vrp4rFXwOm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993089949902815556",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992962216518369568",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "致幻爽啊，晚安算什么，螺丝刀更爽，dpt肌注，死藤水伴maoi全喝，爽 https://t.co/vrp4rFXwOm"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1993089949902815556",
+        "created_at": "2025-11-24T22:50:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T23:50:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993089949902815556"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hanji949540/st…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/hanji949540/status/1992962216518369568",
+              "start": 36,
+              "url": "https://t.co/vrp4rFXwOm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993089949902815556",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992962216518369568",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "致幻爽啊，晚安算什么，螺丝刀更爽，dpt肌注，死藤水伴maoi全喝，爽 https://t.co/vrp4rFXwOm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1769077710637375488",
+        "conversation_id": "1992962216518369568",
+        "created_at": "2025-11-24T14:23:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T15:23:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992962216518369568"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1992962216518369568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我才不怕致幻，一听致幻我就高兴。烷胺算什么致幻？无非是谵妄手抖、精神分裂。死藤水才是真致幻，有分形宇宙，有刀子，听说还有剧烈变形。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜🥺@NashiMoe233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "NashiMoe233"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1967335109767692560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362,
+          "following_count": 337,
+          "like_count": 4896,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 4707
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-16T19:06:21.000Z",
+        "description": "",
+        "id": "1769077710637375488",
+        "name": "kanaiilq",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984284028623618048/VfY1LYxs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 253,
+          "like_count": 869,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 812
+        },
+        "username": "hanji949540",
+        "verified": false
+      }
+    ]
+  }
+}

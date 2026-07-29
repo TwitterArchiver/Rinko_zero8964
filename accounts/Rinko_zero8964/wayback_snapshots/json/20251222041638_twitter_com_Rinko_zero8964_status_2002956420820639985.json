@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2002723209184199080",
+    "created_at": "2025-12-22T04:16:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-22T05:16:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002956420820639985"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1900779126245769216",
+          "start": 0,
+          "username": "fawpv25"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002956420820639985",
+    "in_reply_to_user_id": "1900779126245769216",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002723209184199080",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fawpv25 摸摸你，又要动画又要工作真的要被耗完了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2002723209184199080].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2002723209184199080",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2002723209184199080"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2002723209184199080",
+        "created_at": "2025-12-22T04:16:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T05:16:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002956420820639985"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1900779126245769216",
+              "start": 0,
+              "username": "fawpv25"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002956420820639985",
+        "in_reply_to_user_id": "1900779126245769216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002723209184199080",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fawpv25 摸摸你，又要动画又要工作真的要被耗完了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜🥺💜@NashiMoe233｜如果没有回关请私信提醒我！｜我不吸毒！！！｜小猫我喜欢你超喜欢我爱你@psych_angel_｜性别为无、",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 13,
+                "username": "NashiMoe233"
+              },
+              {
+                "end": 73,
+                "start": 60,
+                "username": "psych_angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNh89"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1999352315241988490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 439,
+          "following_count": 404,
+          "like_count": 7002,
+          "listed_count": 1,
+          "media_count": 106,
+          "tweet_count": 5454
+        },
+        "url": "https://t.co/rCvc9RNh89",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-15T05:20:44.000Z",
+        "description": "如果你知道怎么变成一只乌鸦，请告诉我/匿名提问箱：https://t.co/k5wuyYitnx致力于成为你们的互联网好朋鸦/艺术就是生命/学习像人类一样地活下去。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiyujin1/",
+                "end": 48,
+                "expanded_url": "https://ngl.link/jiyujin1/",
+                "start": 25,
+                "url": "https://t.co/k5wuyYitnx"
+              }
+            ]
+          }
+        },
+        "id": "1900779126245769216",
+        "name": "Anoko",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999783052382449664/79HFPsz2_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 202,
+          "like_count": 9579,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 2479
+        },
+        "username": "fawpv25",
+        "verified": false
+      }
+    ]
+  }
+}

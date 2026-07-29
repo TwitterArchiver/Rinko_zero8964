@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1968188105527382079",
+    "created_at": "2025-09-17T05:39:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T06:39:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1968188105527382079"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/overdosewiki/s…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/overdosewiki/status/1967946187648167983",
+          "start": 17,
+          "url": "https://t.co/9DDkHpuU3d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968188105527382079",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967946187648167983",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我们！一起重组crychic吧！ https://t.co/9DDkHpuU3d"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1968188105527382079",
+        "created_at": "2025-09-17T05:39:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T06:39:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968188105527382079"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/overdosewiki/s…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/overdosewiki/status/1967946187648167983",
+              "start": 17,
+              "url": "https://t.co/9DDkHpuU3d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968188105527382079",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967946187648167983",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我们！一起重组crychic吧！ https://t.co/9DDkHpuU3d"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1798724969695977472",
+        "conversation_id": "1967946187648167983",
+        "created_at": "2025-09-16T13:38:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T14:38:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967946187648167983"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 21,
+              "id": "1700948552078467072",
+              "start": 8,
+              "username": "Overdose_DBD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967946187648167983",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 821,
+          "like_count": 10,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "复活啊~复活啊~@Overdose_DBD \n魂兮归来矣~！魂兮归来矣~！\n复活矣~超级后后后藤（overdose归来）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 276,
+          "like_count": 3000,
+          "listed_count": 2,
+          "media_count": 69,
+          "tweet_count": 3932
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-06T14:33:54.000Z",
+        "description": "https://t.co/6fVCD4QQ92 官方站点\nhttps://t.co/AMQ3wZ2ZaM 官方tg群\n有关问题可以联系我",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "overdose.wiki",
+                "end": 23,
+                "expanded_url": "https://overdose.wiki",
+                "start": 0,
+                "url": "https://t.co/6fVCD4QQ92"
+              },
+              {
+                "display_url": "t.me/o_d_wiki",
+                "end": 52,
+                "expanded_url": "https://t.me/o_d_wiki",
+                "start": 29,
+                "url": "https://t.co/AMQ3wZ2ZaM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.wiki",
+                "end": 23,
+                "expanded_url": "https://overdose.wiki",
+                "start": 0,
+                "url": "https://t.co/6fVCD4QQ92"
+              }
+            ]
+          }
+        },
+        "id": "1798724969695977472",
+        "location": "但愿世间人无病 何妨架上药生尘",
+        "name": "Overdosewiki",
+        "pinned_tweet_id": "1965855137060319684",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965374943165816832/HYecxADQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3667,
+          "following_count": 12,
+          "like_count": 383,
+          "listed_count": 4,
+          "media_count": 82,
+          "tweet_count": 507
+        },
+        "url": "https://t.co/6fVCD4QQ92",
+        "username": "overdosewiki",
+        "verified": false
+      }
+    ]
+  }
+}

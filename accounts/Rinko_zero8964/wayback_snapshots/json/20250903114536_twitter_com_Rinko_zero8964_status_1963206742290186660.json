@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1963206742290186660",
+    "created_at": "2025-09-03T11:45:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-03T12:45:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1963206742290186660"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/drug_artist/st…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/drug_artist/status/1962897867087208685",
+          "start": 3,
+          "url": "https://t.co/tnd01BOtlx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963206742290186660",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962897867087208685",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "神了 https://t.co/tnd01BOtlx"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1963206742290186660",
+        "created_at": "2025-09-03T11:45:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T12:45:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963206742290186660"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/drug_artist/st…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/drug_artist/status/1962897867087208685",
+              "start": 3,
+              "url": "https://t.co/tnd01BOtlx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963206742290186660",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962897867087208685",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "神了 https://t.co/tnd01BOtlx"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1893688350076542976",
+        "conversation_id": "1962896868943556957",
+        "created_at": "2025-09-02T15:18:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T16:18:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962897867087208685"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1798724969695977472",
+              "start": 0,
+              "username": "overdosewiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962897867087208685",
+        "in_reply_to_user_id": "1798724969695977472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1688,
+          "like_count": 2,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962896992822288525",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@overdosewiki 看过你大头照 你还挺有风韵的 想操你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849043147487420416/0nrEqJTK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 293,
+          "following_count": 259,
+          "like_count": 2348,
+          "listed_count": 2,
+          "media_count": 61,
+          "tweet_count": 3543
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-23T15:44:29.000Z",
+        "description": "药物百科wiki主\n投稿请私信我\n愿每一位药物滥用者都能脱离深渊\n提供药物咨询\nim crazy",
+        "id": "1893688350076542976",
+        "location": "Xanax天国2mg省",
+        "name": "沐雨",
+        "pinned_tweet_id": "1949973611667759422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923304720611024896/ImSJUBEb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2865,
+          "following_count": 158,
+          "like_count": 408,
+          "listed_count": 7,
+          "media_count": 34,
+          "tweet_count": 691
+        },
+        "username": "drug_artist",
+        "verified": false
+      }
+    ]
+  }
+}

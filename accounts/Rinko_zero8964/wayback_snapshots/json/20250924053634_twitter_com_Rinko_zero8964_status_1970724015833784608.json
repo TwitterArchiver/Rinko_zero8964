@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1970724015833784608",
+    "created_at": "2025-09-24T05:36:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-24T06:36:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970724015833784608"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1943704460813041665",
+          "start": 3,
+          "username": "kasaikoxyg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970724015833784608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970553580244672563",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kasaikoxyg: 昨天，2025年9月23日，这一天将永远成为令我们整个od人群耻辱的日子。oder们遭到了555和他的帮凶们的蓄意突然攻击。\nod的人们当时和555处于互不侵扰状态，应555邀请，为了维护药圈的和平，大家还在于555和他的嘴狗wiki进行谈判。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1970724015833784608",
+        "created_at": "2025-09-24T05:36:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T06:36:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970724015833784608"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1943704460813041665",
+              "start": 3,
+              "username": "kasaikoxyg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970724015833784608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970553580244672563",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kasaikoxyg: 昨天，2025年9月23日，这一天将永远成为令我们整个od人群耻辱的日子。oder们遭到了555和他的帮凶们的蓄意突然攻击。\nod的人们当时和555处于互不侵扰状态，应555邀请，为了维护药圈的和平，大家还在于555和他的嘴狗wiki进行谈判。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943704460813041665",
+        "conversation_id": "1970553580244672563",
+        "created_at": "2025-09-23T18:19:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T19:19:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970553580244672563"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1970553580244672563",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 961,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天，2025年9月23日，这一天将永远成为令我们整个od人群耻辱的日子。oder们遭到了555和他的帮凶们的蓄意突然攻击。\nod的人们当时和555处于互不侵扰状态，应555邀请，为了维护药圈的和平，大家还在于555和他的嘴狗wiki进行谈判。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1970723714062069870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 282,
+          "like_count": 3324,
+          "listed_count": 2,
+          "media_count": 83,
+          "tweet_count": 4215
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-11T16:10:40.000Z",
+        "description": "三崎耐杀王，成功又活一天",
+        "id": "1943704460813041665",
+        "name": "三崎（前前前前世）",
+        "pinned_tweet_id": "1967513968437862416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967897431917596672/s-g3H3pD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2326,
+          "following_count": 645,
+          "like_count": 11671,
+          "listed_count": 4,
+          "media_count": 99,
+          "tweet_count": 3621
+        },
+        "username": "kasaikoxyg",
+        "verified": false
+      }
+    ]
+  }
+}

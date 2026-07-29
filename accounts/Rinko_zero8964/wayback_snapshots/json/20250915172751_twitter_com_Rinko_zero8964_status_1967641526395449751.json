@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1967641526395449751",
+    "created_at": "2025-09-15T17:27:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-15T18:27:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967641526395449751"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1943704460813041665",
+          "start": 3,
+          "username": "kasaikoxyg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967641526395449751",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967305258948034928",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kasaikoxyg: 有人说策划药可能会有危险，那咋了，你又想体验毒品的感觉，还一点风险不愿意承担？本来吸毒就容易死，策划药已经改进的够安全了，还想怎么样，反正药效好就行，真这么怕死你别od啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1967641526395449751",
+        "created_at": "2025-09-15T17:27:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T18:27:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967641526395449751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1943704460813041665",
+              "start": 3,
+              "username": "kasaikoxyg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967641526395449751",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967305258948034928",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kasaikoxyg: 有人说策划药可能会有危险，那咋了，你又想体验毒品的感觉，还一点风险不愿意承担？本来吸毒就容易死，策划药已经改进的够安全了，还想怎么样，反正药效好就行，真这么怕死你别od啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943704460813041665",
+        "conversation_id": "1967305258948034928",
+        "created_at": "2025-09-14T19:11:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T20:11:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967305258948034928"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1967305258948034928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3171,
+          "like_count": 37,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "有人说策划药可能会有危险，那咋了，你又想体验毒品的感觉，还一点风险不愿意承担？本来吸毒就容易死，策划药已经改进的够安全了，还想怎么样，反正药效好就行，真这么怕死你别od啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 317,
+          "following_count": 266,
+          "like_count": 2789,
+          "listed_count": 2,
+          "media_count": 67,
+          "tweet_count": 3852
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-11T16:10:40.000Z",
+        "description": "我快要回来了",
+        "id": "1943704460813041665",
+        "name": "浅羽笠井子",
+        "pinned_tweet_id": "1967513968437862416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943704888426582016/8p8MdfCk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2108,
+          "following_count": 538,
+          "like_count": 10805,
+          "listed_count": 3,
+          "media_count": 92,
+          "tweet_count": 3302
+        },
+        "username": "kasaikoxyg",
+        "verified": false
+      }
+    ]
+  }
+}

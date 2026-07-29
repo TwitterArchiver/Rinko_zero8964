@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1992871088221810935",
+    "created_at": "2025-11-24T23:01:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T00:01:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993092622832021744"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1680544465671561216",
+          "start": 0,
+          "username": "LXL0102"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993092622832021744",
+    "in_reply_to_user_id": "1680544465671561216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992871931146805521",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LXL0102 这玩意没用，不是煮死藤水的种类"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1992871088221810935",
+        "created_at": "2025-11-24T23:01:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T00:01:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993092622832021744"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1680544465671561216",
+              "start": 0,
+              "username": "LXL0102"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993092622832021744",
+        "in_reply_to_user_id": "1680544465671561216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992871931146805521",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LXL0102 这玩意没用，不是煮死藤水的种类"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680544465671561216",
+        "conversation_id": "1992871088221810935",
+        "created_at": "2025-11-24T08:24:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T09:24:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992871931146805521"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1992871931146805521",
+        "in_reply_to_user_id": "1680544465671561216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 80,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992871088221810935",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好奇这个不会被叔叔找吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜🥺@NashiMoe233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "NashiMoe233"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1967335109767692560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362,
+          "following_count": 337,
+          "like_count": 4905,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 4708
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【中推第一专业女巫🔮六年经验】被奸人所害的第三世||我认输了请别再举报我‖ 한국 유학 예비생🇰🇷 ||我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo ||双相情绪不稳定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "https://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/k0zhGfMiPZ"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "永远爱w",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "1938510360287580588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933789247183728644/AR1v9fs4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1594,
+          "following_count": 267,
+          "like_count": 1480,
+          "listed_count": 5,
+          "media_count": 556,
+          "tweet_count": 3194
+        },
+        "url": "https://t.co/k0zhGfMiPZ",
+        "username": "LXL0102",
+        "verified": false
+      }
+    ]
+  }
+}

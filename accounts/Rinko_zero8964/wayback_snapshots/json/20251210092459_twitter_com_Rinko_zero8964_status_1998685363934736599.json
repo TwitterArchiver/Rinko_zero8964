@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1998685363934736599",
+    "created_at": "2025-12-10T09:24:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-10T10:24:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1998685363934736599"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xsarnayyy/stat…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/xsarnayyy/status/1998403103679463483",
+          "start": 3,
+          "url": "https://t.co/nj4seYnINu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998685363934736599",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998403103679463483",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不要 https://t.co/nj4seYnINu"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1998685363934736599",
+        "created_at": "2025-12-10T09:24:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T10:24:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998685363934736599"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xsarnayyy/stat…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/xsarnayyy/status/1998403103679463483",
+              "start": 3,
+              "url": "https://t.co/nj4seYnINu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998685363934736599",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998403103679463483",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不要 https://t.co/nj4seYnINu"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1402630718870614020",
+        "conversation_id": "1998403103679463483",
+        "created_at": "2025-12-09T14:43:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T15:43:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998403103679463483"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1499709348616241155",
+              "start": 2,
+              "username": "caomeiweimaomao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998403103679463483",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 4294,
+          "like_count": 25,
+          "quote_count": 22,
+          "reply_count": 25,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "讣告@caomeiweimaomao 于12月6日，去往猫猫的星球"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜🥺@NashiMoe233｜如果没有回关请私信提醒我！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "NashiMoe233"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1967335109767692560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 400,
+          "following_count": 356,
+          "like_count": 5640,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 5032
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-09T14:16:46.000Z",
+        "description": "成分复杂/",
+        "id": "1402630718870614020",
+        "location": "8米",
+        "name": "星瑶",
+        "pinned_tweet_id": "1978385675402572282",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830883450011697154/vteRgqZM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 436,
+          "like_count": 10918,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 386
+        },
+        "username": "xsarnayyy",
+        "verified": false
+      }
+    ]
+  }
+}

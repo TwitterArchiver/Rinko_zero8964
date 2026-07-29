@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1999862142120640512"
+      ],
+      "media_source_tweet_id": [
+        "1999862145945870800"
+      ]
+    },
+    "author_id": "1849043039496617984",
+    "conversation_id": "1999891140301160944",
+    "created_at": "2025-12-13T17:16:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T18:16:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999891140301160944"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 82,
+          "start": 79,
+          "tag": "珠海"
+        },
+        {
+          "end": 86,
+          "start": 83,
+          "tag": "援交"
+        },
+        {
+          "end": 90,
+          "start": 87,
+          "tag": "男娘"
+        },
+        {
+          "end": 94,
+          "start": 91,
+          "tag": "药娘"
+        },
+        {
+          "end": 98,
+          "start": 95,
+          "tag": "线下"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1919049320546086912",
+          "start": 3,
+          "username": "mizuame19953"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1OkN0m4fHj",
+          "end": 122,
+          "expanded_url": "https://x.com/mizuame19953/status/1999862145945870800/photo/1",
+          "media_key": "3_1999862142120640512",
+          "start": 99,
+          "url": "https://t.co/1OkN0m4fHj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999891140301160944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999862145945870800",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mizuame19953: 珠海接线下喵\n珠三角可飞喵（飞？）\n第一次出来卖喵\n素小药娘喵\n缺钱用喵，家里断供了喵\n推文限流喵\n详情私信喵\n便宜卖喵\n#珠海 #援交 #男娘 #药娘 #线下 https://t.co/1OkN0m4fHj"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1999891140301160944].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1999891140301160944",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1999891140301160944"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1999862142120640512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8DwBcTaQAAi57_.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999862142120640512"
+          ]
+        },
+        "author_id": "1919049320546086912",
+        "conversation_id": "1999862145945870800",
+        "created_at": "2025-12-13T15:21:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T16:21:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999862145945870800"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 64,
+              "start": 61,
+              "tag": "珠海"
+            },
+            {
+              "end": 68,
+              "start": 65,
+              "tag": "援交"
+            },
+            {
+              "end": 72,
+              "start": 69,
+              "tag": "男娘"
+            },
+            {
+              "end": 76,
+              "start": 73,
+              "tag": "药娘"
+            },
+            {
+              "end": 80,
+              "start": 77,
+              "tag": "线下"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1OkN0m4fHj",
+              "end": 104,
+              "expanded_url": "https://x.com/mizuame19953/status/1999862145945870800/photo/1",
+              "media_key": "3_1999862142120640512",
+              "start": 81,
+              "url": "https://t.co/1OkN0m4fHj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999862145945870800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 200,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "珠海接线下喵\n珠三角可飞喵（飞？）\n第一次出来卖喵\n素小药娘喵\n缺钱用喵，家里断供了喵\n推文限流喵\n详情私信喵\n便宜卖喵\n#珠海 #援交 #男娘 #药娘 #线下 https://t.co/1OkN0m4fHj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜🥺@NashiMoe233｜如果没有回关请私信提醒我！｜我不吸毒！！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "NashiMoe233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNOXH"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1999352315241988490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 415,
+          "following_count": 379,
+          "like_count": 5871,
+          "listed_count": 1,
+          "media_count": 98,
+          "tweet_count": 5124
+        },
+        "url": "https://t.co/rCvc9RNOXH",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-04T15:20:06.000Z",
+        "description": "于45%vol泥中",
+        "id": "1919049320546086912",
+        "name": "バタフライ 🏳️‍⚧️",
+        "pinned_tweet_id": "1999862145945870800",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999857118820884480/8MrT1iRR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 255,
+          "like_count": 24639,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 643
+        },
+        "username": "mizuame19953",
+        "verified": false
+      }
+    ]
+  }
+}

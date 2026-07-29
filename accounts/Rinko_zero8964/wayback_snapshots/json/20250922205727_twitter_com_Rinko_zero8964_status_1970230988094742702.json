@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1970230988094742702",
+    "created_at": "2025-09-22T20:57:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-22T21:57:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970230988094742702"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1849043039496617984",
+          "start": 3,
+          "username": "Rinko_zero8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970230988094742702",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970229192852971663",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rinko_zero8964: 好恶心，555和听不懂人话一样，我是独立的个体，🍐开团是开的后藤回归，我是自愿跟团骂你这个导致后藤回归的关键人物，🍐在此之前没有和我有任何交流，我的本意是阻止你这个小孩子继续犯蠢，结果你又把我认为是藤卫兵守护死藤生前名誉来了，我跟你们od…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1970230988094742702",
+        "created_at": "2025-09-22T20:57:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T21:57:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970230988094742702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1849043039496617984",
+              "start": 3,
+              "username": "Rinko_zero8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970230988094742702",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970229192852971663",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rinko_zero8964: 好恶心，555和听不懂人话一样，我是独立的个体，🍐开团是开的后藤回归，我是自愿跟团骂你这个导致后藤回归的关键人物，🍐在此之前没有和我有任何交流，我的本意是阻止你这个小孩子继续犯蠢，结果你又把我认为是藤卫兵守护死藤生前名誉来了，我跟你们od…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1970229192852971663",
+        "created_at": "2025-09-22T20:50:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T21:50:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970229192852971663"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1970229192852971663",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "好恶心，555和听不懂人话一样，我是独立的个体，🍐开团是开的后藤回归，我是自愿跟团骂你这个导致后藤回归的关键人物，🍐在此之前没有和我有任何交流，我的本意是阻止你这个小孩子继续犯蠢，结果你又把我认为是藤卫兵守护死藤生前名誉来了，我跟你们odw一点关系都没有"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 279,
+          "like_count": 3196,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 4147
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      }
+    ]
+  }
+}

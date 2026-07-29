@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2006315541578014720",
+        "3_2006315541557047296",
+        "3_2006315541552869376"
+      ],
+      "media_source_tweet_id": [
+        "2006315547575886061",
+        "2006315547575886061",
+        "2006315547575886061"
+      ]
+    },
+    "author_id": "1849043039496617984",
+    "conversation_id": "2006855673129414918",
+    "created_at": "2026-01-01T22:30:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T23:30:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006855673129414918"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 37,
+          "start": 21,
+          "tag": "2025年自分が選ぶ今年の4枚"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1505693784356532225",
+          "start": 3,
+          "username": "oo___o_oo_o____"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/n3erhVTXts",
+          "end": 77,
+          "expanded_url": "https://x.com/oo___o_oo_o____/status/2006315547575886061/photo/1",
+          "media_key": "3_2006315541578014720",
+          "start": 54,
+          "url": "https://t.co/n3erhVTXts"
+        },
+        {
+          "display_url": "pic.x.com/n3erhVTXts",
+          "end": 77,
+          "expanded_url": "https://x.com/oo___o_oo_o____/status/2006315547575886061/photo/1",
+          "media_key": "3_2006315541557047296",
+          "start": 54,
+          "url": "https://t.co/n3erhVTXts"
+        },
+        {
+          "display_url": "pic.x.com/n3erhVTXts",
+          "end": 77,
+          "expanded_url": "https://x.com/oo___o_oo_o____/status/2006315547575886061/photo/1",
+          "media_key": "3_2006315541552869376",
+          "start": 54,
+          "url": "https://t.co/n3erhVTXts"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006855673129414918",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1324
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006315547575886061",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @oo___o_oo_o____: #2025年自分が選ぶ今年の4枚\n人を救うたび、心に闇が積もる。 https://t.co/n3erhVTXts"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2006855673129414918].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2006855673129414918",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2006855673129414918"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1576,
+        "media_key": "3_2006315541578014720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9fdWusaYAAijqq.jpg",
+        "width": 1303
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2006315541557047296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9fdWunacAAg363.jpg",
+        "width": 1535
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2006315541552869376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9fdWumasAAdzgU.jpg",
+        "width": 1535
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006315541578014720",
+            "3_2006315541557047296",
+            "3_2006315541552869376"
+          ]
+        },
+        "author_id": "1505693784356532225",
+        "conversation_id": "2006315547575886061",
+        "created_at": "2025-12-31T10:44:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T11:44:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006315547575886061"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 0,
+              "tag": "2025年自分が選ぶ今年の4枚"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/n3erhVTXts",
+              "end": 56,
+              "expanded_url": "https://x.com/oo___o_oo_o____/status/2006315547575886061/photo/1",
+              "media_key": "3_2006315541578014720",
+              "start": 33,
+              "url": "https://t.co/n3erhVTXts"
+            },
+            {
+              "display_url": "pic.x.com/n3erhVTXts",
+              "end": 56,
+              "expanded_url": "https://x.com/oo___o_oo_o____/status/2006315547575886061/photo/1",
+              "media_key": "3_2006315541557047296",
+              "start": 33,
+              "url": "https://t.co/n3erhVTXts"
+            },
+            {
+              "display_url": "pic.x.com/n3erhVTXts",
+              "end": 56,
+              "expanded_url": "https://x.com/oo___o_oo_o____/status/2006315547575886061/photo/1",
+              "media_key": "3_2006315541552869376",
+              "start": 33,
+              "url": "https://t.co/n3erhVTXts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006315547575886061",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2932,
+          "impression_count": 1264652,
+          "like_count": 20537,
+          "quote_count": 37,
+          "reply_count": 14,
+          "retweet_count": 1324
+        },
+        "reply_settings": "everyone",
+        "text": "#2025年自分が選ぶ今年の4枚\n人を救うたび、心に闇が積もる。 https://t.co/n3erhVTXts"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜如果没有回关请私信提醒我！｜我不吸毒！！！｜小猫我喜欢你超喜欢我爱你@psych_angel_｜性别为无、",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 45,
+                "username": "psych_angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNh89"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1999352315241988490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 485,
+          "following_count": 451,
+          "like_count": 9093,
+          "listed_count": 1,
+          "media_count": 125,
+          "tweet_count": 5959
+        },
+        "url": "https://t.co/rCvc9RNh89",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-20T23:52:35.000Z",
+        "description": "或人形作家@jililijililiji(Xのすがた)。今ダクソがアツい。ちょっとドールにメイクできる。My work is copyright protected.案件は表垢へ！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 5,
+                "username": "jililijililiji"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "odaibako.net/u/oo___o_oo_o_…",
+                "end": 23,
+                "expanded_url": "https://odaibako.net/u/oo___o_oo_o____",
+                "start": 0,
+                "url": "https://t.co/Ms9W11RDeK"
+              }
+            ]
+          }
+        },
+        "id": "1505693784356532225",
+        "location": "いんた〜ねっと",
+        "name": "裏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1673540695057997824/gD1BEkRF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42878,
+          "following_count": 1422,
+          "like_count": 54464,
+          "listed_count": 243,
+          "media_count": 1624,
+          "tweet_count": 14488
+        },
+        "url": "https://t.co/Ms9W11RDeK",
+        "username": "oo___o_oo_o____",
+        "verified": false
+      }
+    ]
+  }
+}

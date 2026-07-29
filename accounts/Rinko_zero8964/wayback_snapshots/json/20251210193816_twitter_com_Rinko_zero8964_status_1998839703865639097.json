@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1998793942373114220",
+    "created_at": "2025-12-10T19:38:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-10T20:38:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998839703865639097"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1726969617850286080",
+          "start": 0,
+          "username": "NashiMoe233"
+        },
+        {
+          "end": 23,
+          "id": "1796427186557100032",
+          "start": 13,
+          "username": "wplaceqwq"
+        },
+        {
+          "end": 34,
+          "id": "1659962043460354050",
+          "start": 24,
+          "username": "SalviaSWC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998839703865639097",
+    "in_reply_to_user_id": "1726969617850286080",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998839521572802929",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NashiMoe233 @wplaceqwq @SalviaSWC 我不吸毒！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1998793942373114220",
+        "created_at": "2025-12-10T19:38:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T20:38:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998839703865639097"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1726969617850286080",
+              "start": 0,
+              "username": "NashiMoe233"
+            },
+            {
+              "end": 23,
+              "id": "1796427186557100032",
+              "start": 13,
+              "username": "wplaceqwq"
+            },
+            {
+              "end": 34,
+              "id": "1659962043460354050",
+              "start": 24,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998839703865639097",
+        "in_reply_to_user_id": "1726969617850286080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998839521572802929",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NashiMoe233 @wplaceqwq @SalviaSWC 我不吸毒！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1726969617850286080",
+        "conversation_id": "1998793942373114220",
+        "created_at": "2025-12-10T19:37:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T20:37:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998839521572802929"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1796427186557100032",
+              "start": 0,
+              "username": "wplaceqwq"
+            },
+            {
+              "end": 21,
+              "id": "1659962043460354050",
+              "start": 11,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998839521572802929",
+        "in_reply_to_user_id": "1796427186557100032",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998807534183002333",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wplaceqwq @SalviaSWC 我不吸毒！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜🥺@NashiMoe233｜如果没有回关请私信提醒我！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "NashiMoe233"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1967335109767692560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 404,
+          "following_count": 364,
+          "like_count": 5674,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 5050
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-21T14:23:48.000Z",
+        "description": "梨子丨我的情感应该被埋葬在马里亚纳海沟下丨intp-t丨non-binary丨osdd-1a丨不回答药物滥用相关问题丨💜@Rinko_zero8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 60,
+                "username": "Rinko_zero8964"
+              }
+            ]
+          }
+        },
+        "id": "1726969617850286080",
+        "location": "天目山路305号",
+        "name": "涙の販売機",
+        "pinned_tweet_id": "1942953404315394445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998710769253507072/8p1SwKhu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1836,
+          "following_count": 210,
+          "like_count": 22431,
+          "listed_count": 3,
+          "media_count": 618,
+          "tweet_count": 12466
+        },
+        "username": "NashiMoe233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-31T06:23:36.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pubmed.ncbi.nlm.nih.gov",
+                "end": 23,
+                "expanded_url": "https://pubmed.ncbi.nlm.nih.gov/",
+                "start": 0,
+                "url": "https://t.co/E8tmKN3Bdw"
+              }
+            ]
+          }
+        },
+        "id": "1796427186557100032",
+        "location": "Yakutat,Alaska",
+        "name": "橘 雪莉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985415412910260224/DZO0cpci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 186,
+          "like_count": 280,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 151
+        },
+        "url": "https://t.co/E8tmKN3Bdw",
+        "username": "wplaceqwq",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦\n脑婆:@DXM8964LXM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 87,
+                "username": "DXM8964LXM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "pinned_tweet_id": "1991745849333047520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984830293103046656/fgZKegRL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1960,
+          "following_count": 719,
+          "like_count": 15329,
+          "listed_count": 7,
+          "media_count": 184,
+          "tweet_count": 4163
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

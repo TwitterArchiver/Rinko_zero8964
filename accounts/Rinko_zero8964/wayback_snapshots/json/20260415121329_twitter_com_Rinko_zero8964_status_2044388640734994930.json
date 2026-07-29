@@ -1,0 +1,352 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2044283539093630987"
+      ],
+      "media_source_tweet_id": [
+        "2044283577383432502"
+      ]
+    },
+    "author_id": "1849043039496617984",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2044388640734994930",
+    "created_at": "2026-04-15T12:13:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T13:13:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044388640734994930"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1634191700712390657",
+          "start": 3,
+          "username": "xiaozhongT_T"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/u3XgzpWIIV",
+          "end": 61,
+          "expanded_url": "https://x.com/xiaozhongT_T/status/2044283577383432502/video/1",
+          "media_key": "7_2044283539093630987",
+          "start": 38,
+          "url": "https://t.co/u3XgzpWIIV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044388640734994930",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044283577383432502",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiaozhongT_T: bgm是我当时在放的感觉很配所以没换掉 https://t.co/u3XgzpWIIV"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22105,
+        "height": 960,
+        "media_key": "7_2044283539093630987",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2044283539093630987/pu/img/zs_M2aPsUVz7jzfb.jpg",
+        "public_metrics": {
+          "view_count": 66
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2044283539093630987/pu/vid/avc1/320x426/WjBxeX7hyWoeJcUa.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2044283539093630987/pu/vid/avc1/480x640/3ASgDckjeSiHW1nB.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2044283539093630987/pu/vid/avc1/720x960/xOZaqkkjWWV9lBtf.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2044283539093630987/pu/pl/XbyE421kTN6RRMNI.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2044283539093630987"
+          ],
+          "media_source_tweet_id": [
+            "2044283577383432502"
+          ]
+        },
+        "author_id": "1849043039496617984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2044388640734994930",
+        "created_at": "2026-04-15T12:13:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T13:13:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044388640734994930"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1634191700712390657",
+              "start": 3,
+              "username": "xiaozhongT_T"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/u3XgzpWIIV",
+              "end": 61,
+              "expanded_url": "https://x.com/xiaozhongT_T/status/2044283577383432502/video/1",
+              "media_key": "7_2044283539093630987",
+              "start": 38,
+              "url": "https://t.co/u3XgzpWIIV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044388640734994930",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044283577383432502",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiaozhongT_T: bgm是我当时在放的感觉很配所以没换掉 https://t.co/u3XgzpWIIV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2044283539093630987"
+          ]
+        },
+        "author_id": "1634191700712390657",
+        "conversation_id": "2044283577383432502",
+        "created_at": "2026-04-15T05:16:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T06:16:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044283577383432502"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/u3XgzpWIIV",
+              "end": 43,
+              "expanded_url": "https://x.com/xiaozhongT_T/status/2044283577383432502/video/1",
+              "media_key": "7_2044283539093630987",
+              "start": 20,
+              "url": "https://t.co/u3XgzpWIIV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044283577383432502",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 227,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "bgm是我当时在放的感觉很配所以没换掉 https://t.co/u3XgzpWIIV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思う、ゆえに我あり｜ 我是林子｜性别为无、｜寒くなってきたね……もう少しだけ、いい？｜intp-t｜ASD/OCD/焦虑障碍｜🧬今日也想成为biohacker｜好妈妈们@Misaki11137 @loveforeversfy|bro @BelovedUren8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 85,
+                "username": "Misaki11137"
+              },
+              {
+                "end": 113,
+                "start": 98,
+                "username": "loveforeversfy"
+              },
+              {
+                "end": 134,
+                "start": 118,
+                "username": "BelovedUren8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wakaba_rinko",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wakaba_rinko",
+                "start": 0,
+                "url": "https://t.co/zWqK1n9RJg"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "Ask me any u want→",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 674,
+          "following_count": 655,
+          "like_count": 17249,
+          "listed_count": 1,
+          "media_count": 173,
+          "tweet_count": 8415
+        },
+        "url": "https://t.co/zWqK1n9RJg",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-10T13:57:26.000Z",
+        "description": "向死而生\n我喜欢我的群友 @Alistai33955292 @luoaa_072 @bloodmeiii @O817Xiao @usiisjkj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 13,
+                "username": "Alistai33955292"
+              },
+              {
+                "end": 40,
+                "start": 30,
+                "username": "luoaa_072"
+              },
+              {
+                "end": 52,
+                "start": 41,
+                "username": "bloodmeiii"
+              },
+              {
+                "end": 62,
+                "start": 53,
+                "username": "O817Xiao"
+              },
+              {
+                "end": 72,
+                "start": 63,
+                "username": "usiisjkj"
+              }
+            ]
+          }
+        },
+        "id": "1634191700712390657",
+        "location": "月亮",
+        "name": "柊檩川",
+        "pinned_tweet_id": "2038056405970657570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043360211638104064/3rfknD6o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 345,
+          "like_count": 2056,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 986
+        },
+        "username": "xiaozhongT_T",
+        "verified": false
+      }
+    ]
+  }
+}

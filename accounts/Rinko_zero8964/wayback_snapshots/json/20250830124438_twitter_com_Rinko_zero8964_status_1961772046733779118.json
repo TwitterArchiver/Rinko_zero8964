@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1961755781013090483",
+    "created_at": "2025-08-30T12:44:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-30T13:44:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961772046733779118"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1938866971669606400",
+          "start": 0,
+          "username": "xiaosong2_33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961772046733779118",
+    "in_reply_to_user_id": "1938866971669606400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961755781013090483",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaosong2_33 猫可以吃加巴喷丁，还可以改善漏尿，但是一整颗不行"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1961755781013090483",
+        "created_at": "2025-08-30T12:44:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T13:44:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961772046733779118"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1938866971669606400",
+              "start": 0,
+              "username": "xiaosong2_33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961772046733779118",
+        "in_reply_to_user_id": "1938866971669606400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961755781013090483",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaosong2_33 猫可以吃加巴喷丁，还可以改善漏尿，但是一整颗不行"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1938866971669606400",
+        "conversation_id": "1961755781013090483",
+        "created_at": "2025-08-30T11:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T12:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961755781013090483"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/N_N_DET/status…",
+              "end": 93,
+              "expanded_url": "https://x.com/N_N_DET/status/1961611635128504366",
+              "start": 70,
+              "url": "https://t.co/R09x3CqnkE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961755781013090483",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 69,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961611635128504366",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有一说一\n我给我家猫喂过加巴喷丁安眠\n当时老登看到还以为它似了\n睡得很死，晚上戒断犯了开始跑酷\n喂普瑞应该差不了太多，但我觉得不能吃一整粒\nhttps://t.co/R09x3CqnkE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849043147487420416/0nrEqJTK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 288,
+          "following_count": 248,
+          "like_count": 2200,
+          "listed_count": 2,
+          "media_count": 50,
+          "tweet_count": 3418
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-28T07:48:19.000Z",
+        "description": "联系方式\nhttps://t.co/9EoQ9U5qze",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/xiaosong2_33",
+                "end": 28,
+                "expanded_url": "https://t.me/xiaosong2_33",
+                "start": 5,
+                "url": "https://t.co/9EoQ9U5qze"
+              }
+            ]
+          }
+        },
+        "id": "1938866971669606400",
+        "name": "xiaosong 🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939362088347955200/7VRVMTFp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 76,
+          "like_count": 528,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 152
+        },
+        "username": "xiaosong2_33",
+        "verified": false
+      }
+    ]
+  }
+}

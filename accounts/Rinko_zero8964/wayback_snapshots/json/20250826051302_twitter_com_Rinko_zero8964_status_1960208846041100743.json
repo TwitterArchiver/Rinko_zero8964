@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1960208846041100743",
+    "created_at": "2025-08-26T05:13:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-26T06:13:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960208846041100743"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1960026902418321408",
+          "start": 3,
+          "username": "Drugs_Kitten"
+        },
+        {
+          "end": 52,
+          "id": "1893688350076542976",
+          "start": 40,
+          "username": "drug_artist"
+        },
+        {
+          "end": 75,
+          "id": "1124658845664653314",
+          "start": 64,
+          "username": "CY_Mystica"
+        },
+        {
+          "end": 118,
+          "id": "1960026902418321408",
+          "start": 105,
+          "username": "Drugs_Kitten"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960208846041100743",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960031991401005577",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Drugs_Kitten: 你好，这里是小猫\n\n药物百科Wiki主：沐雨@drug_artist \n副Wiki主：/弦月@CY_Mystica \n                         \\小猫@Drugs_Kitten \n\n请支持我们药物百科，我们将会成为全中…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1960208846041100743",
+        "created_at": "2025-08-26T05:13:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T06:13:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960208846041100743"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1960026902418321408",
+              "start": 3,
+              "username": "Drugs_Kitten"
+            },
+            {
+              "end": 52,
+              "id": "1893688350076542976",
+              "start": 40,
+              "username": "drug_artist"
+            },
+            {
+              "end": 75,
+              "id": "1124658845664653314",
+              "start": 64,
+              "username": "CY_Mystica"
+            },
+            {
+              "end": 118,
+              "id": "1960026902418321408",
+              "start": 105,
+              "username": "Drugs_Kitten"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960208846041100743",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960031991401005577",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Drugs_Kitten: 你好，这里是小猫\n\n药物百科Wiki主：沐雨@drug_artist \n副Wiki主：/弦月@CY_Mystica \n                         \\小猫@Drugs_Kitten \n\n请支持我们药物百科，我们将会成为全中…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1960026902418321408",
+        "conversation_id": "1960031991401005577",
+        "created_at": "2025-08-25T17:30:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T18:30:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960031991401005577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 34,
+              "id": "1893688350076542976",
+              "start": 22,
+              "username": "drug_artist"
+            },
+            {
+              "end": 57,
+              "id": "1124658845664653314",
+              "start": 46,
+              "username": "CY_Mystica"
+            },
+            {
+              "end": 100,
+              "id": "1960026902418321408",
+              "start": 87,
+              "username": "Drugs_Kitten"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960031991401005577",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1248,
+          "like_count": 11,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "你好，这里是小猫\n\n药物百科Wiki主：沐雨@drug_artist \n副Wiki主：/弦月@CY_Mystica \n                         \\小猫@Drugs_Kitten \n\n请支持我们药物百科，我们将会成为全中推最完美的药物百科，没有之一。\n\n合法科研化学品等领域我们也会慢慢做大做强，敬请期待。\n\n谢谢大家的支持！🥰💕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849043147487420416/0nrEqJTK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 242,
+          "like_count": 2073,
+          "listed_count": 2,
+          "media_count": 46,
+          "tweet_count": 3268
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-25T17:10:16.000Z",
+        "description": "💖你好，这里是小猫。｜药物百科副Wiki主｜有任何药物相关问题都可以私信免费咨询哦💕｜ 私信回fo｜谨慎关注里推:@CuteKittenO3O会有大量负能/药物使用",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 57,
+                "username": "CuteKittenO3O"
+              }
+            ]
+          }
+        },
+        "id": "1960026902418321408",
+        "name": "💊DrugKitten🌌",
+        "pinned_tweet_id": "1960031991401005577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960036096215224320/DqeocQbY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 43,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 10
+        },
+        "username": "Drugs_Kitten",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-23T15:44:29.000Z",
+        "description": "药物百科wiki主\n投稿请私信我\n愿每一位药物滥用者都能脱离深渊\n提供药物咨询\nim crazy",
+        "id": "1893688350076542976",
+        "location": "Xanax天国2mg省",
+        "name": "沐雨",
+        "pinned_tweet_id": "1949973611667759422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923304720611024896/ImSJUBEb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2749,
+          "following_count": 151,
+          "like_count": 373,
+          "listed_count": 5,
+          "media_count": 33,
+          "tweet_count": 621
+        },
+        "username": "drug_artist",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-04T12:55:38.000Z",
+        "description": "弦月是世界上最不安的人 | od |ed |自伤 | 中文/Eng/Ita/ESP🤍#shtwt #drugtwt @kagengetsu_1备用🩵",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 48,
+                "start": 42,
+                "tag": "shtwt"
+              },
+              {
+                "end": 57,
+                "start": 49,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 71,
+                "start": 58,
+                "username": "kagengetsu_1"
+              }
+            ]
+          }
+        },
+        "id": "1124658845664653314",
+        "location": "棺材",
+        "name": "calante🌙",
+        "pinned_tweet_id": "1959692453222780986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925972758321582080/Uqi7ntt0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1323,
+          "following_count": 272,
+          "like_count": 1413,
+          "listed_count": 1,
+          "media_count": 139,
+          "tweet_count": 1672
+        },
+        "username": "CY_Mystica",
+        "verified": true
+      }
+    ]
+  }
+}

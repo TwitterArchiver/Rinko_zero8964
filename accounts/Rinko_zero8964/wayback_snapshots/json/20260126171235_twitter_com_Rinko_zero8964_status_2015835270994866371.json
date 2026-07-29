@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2015835270994866371",
+    "created_at": "2026-01-26T17:12:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T18:12:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015835270994866371"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1659962043460354050",
+          "start": 3,
+          "username": "SalviaSWC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015835270994866371",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015696710451011697",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SalviaSWC: 《两代之间的摇头丸》——MDMA\n\n\"我\"通过与一名已故的朋友的女儿同时服用摇头丸，竟然与她培养出父女般的情谊；这段经历还大大缓解了二人的心理问题。\n\n长辈可以给晚辈吃精品神药；晚辈也可以给长辈吃精品神药，只要能起到好的效果，那么不仅可以治疗疾病，…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2015506955901468672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_iE5dTWAAA0jP6.jpg",
+        "width": 897
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2015506957499793409",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_iE5jQagAEwFE5.jpg",
+        "width": 906
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2015835270994866371",
+        "created_at": "2026-01-26T17:12:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T18:12:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015835270994866371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1659962043460354050",
+              "start": 3,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015835270994866371",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015696710451011697",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SalviaSWC: 《两代之间的摇头丸》——MDMA\n\n\"我\"通过与一名已故的朋友的女儿同时服用摇头丸，竟然与她培养出父女般的情谊；这段经历还大大缓解了二人的心理问题。\n\n长辈可以给晚辈吃精品神药；晚辈也可以给长辈吃精品神药，只要能起到好的效果，那么不仅可以治疗疾病，…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015506955901468672",
+            "3_2015506957499793409"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "2015696710451011697",
+        "created_at": "2026-01-26T08:02:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T09:02:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015696710451011697"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AruQI4LjR3",
+              "end": 170,
+              "expanded_url": "https://x.com/SalviaSWC/status/2015696710451011697/photo/1",
+              "media_key": "3_2015506955901468672",
+              "start": 147,
+              "url": "https://t.co/AruQI4LjR3"
+            },
+            {
+              "display_url": "pic.x.com/AruQI4LjR3",
+              "end": 170,
+              "expanded_url": "https://x.com/SalviaSWC/status/2015696710451011697/photo/1",
+              "media_key": "3_2015506957499793409",
+              "start": 147,
+              "url": "https://t.co/AruQI4LjR3"
+            },
+            {
+              "display_url": "x.com/SalviaSWC/stat…",
+              "end": 194,
+              "expanded_url": "https://twitter.com/SalviaSWC/status/2015266626317513134",
+              "start": 171,
+              "url": "https://t.co/0dMaNh40pE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015696710451011697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1362,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015266626317513134",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "《两代之间的摇头丸》——MDMA\n\n\"我\"通过与一名已故的朋友的女儿同时服用摇头丸，竟然与她培养出父女般的情谊；这段经历还大大缓解了二人的心理问题。\n\n长辈可以给晚辈吃精品神药；晚辈也可以给长辈吃精品神药，只要能起到好的效果，那么不仅可以治疗疾病，更是一种情谊。我们要更理性地看待这些问题哦🥹 https://t.co/AruQI4LjR3 https://t.co/0dMaNh40pE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜如果没有回关请私信提醒我！｜我不吸毒！！！｜性别为无、｜輪郭の定まらない位置にいた人@Psych_Angel_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 53,
+                "username": "Psych_Angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNh89"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 531,
+          "following_count": 499,
+          "like_count": 12999,
+          "listed_count": 1,
+          "media_count": 144,
+          "tweet_count": 6864
+        },
+        "url": "https://t.co/rCvc9RNh89",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨计算机💻丨虚无主义者🥺丨\n\n会发各种东西🎲丨非必要不键政🏳️丨不卖药🚫丨欢迎任何人🌈丨包容各种做法☮丨互fo🉑哦🥰如果没回fo的话，请私信哦📬丨\n\n脑婆:@DXM8964LXM\n\n丨Say Know to Drugs 💊丨知识无罪📚丨😼👍⬇请关注FreeODwiki喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 90,
+                "username": "DXM8964LXM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 0,
+                "url": "https://t.co/ki2TerCSXa"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "pinned_tweet_id": "2011996462771802282",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567905659092992/cvZN-2cJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2425,
+          "following_count": 791,
+          "like_count": 18359,
+          "listed_count": 7,
+          "media_count": 238,
+          "tweet_count": 5091
+        },
+        "url": "https://t.co/ki2TerCSXa",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

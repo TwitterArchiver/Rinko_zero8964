@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1964490884973810079",
+    "created_at": "2025-09-07T06:03:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-07T07:03:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964570199404978668"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1699445300950093824",
+          "start": 0,
+          "username": "linlin444444"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964570199404978668",
+    "in_reply_to_user_id": "1699445300950093824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964490884973810079",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linlin444444 健全逼到现在还坚持他们的微笑抑郁症我已经跪了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1964490884973810079",
+        "created_at": "2025-09-07T06:03:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T07:03:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964570199404978668"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1699445300950093824",
+              "start": 0,
+              "username": "linlin444444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964570199404978668",
+        "in_reply_to_user_id": "1699445300950093824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964490884973810079",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linlin444444 健全逼到现在还坚持他们的微笑抑郁症我已经跪了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699445300950093824",
+        "conversation_id": "1964490884973810079",
+        "created_at": "2025-09-07T00:48:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T01:48:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964490884973810079"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1964490884973810079",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 680,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我已不屑跟健全比解释抑郁是病理性的了，因为我发现压根起不到任何作用，只会显得我伶牙俐齿不知悔改，像是我想开了一切真的会好一样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849043147487420416/0nrEqJTK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 262,
+          "like_count": 2469,
+          "listed_count": 2,
+          "media_count": 64,
+          "tweet_count": 3654
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-06T15:31:58.000Z",
+        "description": "RxLL的wiki主|药物科普系女po|会回复用药咨询 |药物相关投稿请私信@linanxxxx04|欢迎浏览本站https://t.co/XeHYY5yKDO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 38,
+                "username": "linanxxxx04"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "laa.onl",
+                "end": 80,
+                "expanded_url": "https://www.laa.onl/",
+                "start": 57,
+                "url": "https://t.co/XeHYY5yKDO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "laa.onl",
+                "end": 23,
+                "expanded_url": "https://www.laa.onl",
+                "start": 0,
+                "url": "https://t.co/ccXEa3T1zF"
+              }
+            ]
+          }
+        },
+        "id": "1699445300950093824",
+        "location": "Macau",
+        "name": "林林林林林",
+        "pinned_tweet_id": "1937100433887216005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908615592078434304/ofFo_Pzi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5529,
+          "following_count": 66,
+          "like_count": 367,
+          "listed_count": 10,
+          "media_count": 29,
+          "tweet_count": 62
+        },
+        "url": "https://t.co/ccXEa3T1zF",
+        "username": "linlin444444",
+        "verified": false
+      }
+    ]
+  }
+}

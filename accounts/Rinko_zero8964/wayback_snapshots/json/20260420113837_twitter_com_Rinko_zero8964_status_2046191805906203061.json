@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2046191805906203061",
+    "created_at": "2026-04-20T11:38:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T12:38:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046191805906203061"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ki_backlol/sta…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/ki_backlol/status/2045356735876235564",
+          "start": 16,
+          "url": "https://t.co/0ZkpqJKJWZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046191805906203061",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045356735876235564",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不是这个时候才死吗你骗我你骗我 https://t.co/0ZkpqJKJWZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 455,
+        "media_key": "3_2045356732206256128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGKRHHYbkAA7mLh.png",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2046191805906203061",
+        "created_at": "2026-04-20T11:38:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T12:38:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046191805906203061"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ki_backlol/sta…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/ki_backlol/status/2045356735876235564",
+              "start": 16,
+              "url": "https://t.co/0ZkpqJKJWZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046191805906203061",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045356735876235564",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不是这个时候才死吗你骗我你骗我 https://t.co/0ZkpqJKJWZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045356732206256128"
+          ]
+        },
+        "author_id": "2044497152681054208",
+        "conversation_id": "2045356735876235564",
+        "created_at": "2026-04-18T04:20:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T05:20:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045356735876235564"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Take the quiz that no one survives. Discover your dumbest possible way to die.",
+              "display_url": "infinitetweet.me/dumb-ways-to-d…",
+              "end": 39,
+              "expanded_url": "https://infinitetweet.me/dumb-ways-to-die?lang=zh",
+              "start": 16,
+              "status": 200,
+              "title": "Dumb Ways to Die • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/dumb-ways-to-die?lang=zh",
+              "url": "https://t.co/ZM4QkAkz3f"
+            },
+            {
+              "display_url": "pic.x.com/w0835aSekW",
+              "end": 63,
+              "expanded_url": "https://x.com/Ki_backlol/status/2045356735876235564/photo/1",
+              "media_key": "3_2045356732206256128",
+              "start": 40,
+              "url": "https://t.co/w0835aSekW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045356735876235564",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 568,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是我死的方式和时间\n\n⠀➡️ https://t.co/ZM4QkAkz3f https://t.co/w0835aSekW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思う、ゆえに我あり｜ 我是林子｜性别为无、｜寒くなってきたね……もう少しだけ、いい？｜intp-t｜ASD/OCD/焦虑障碍｜🧬今日也想成为biohacker｜好妈妈们@Misaki11137 @loveforeversfy|bro @BelovedUren8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 85,
+                "username": "Misaki11137"
+              },
+              {
+                "end": 113,
+                "start": 98,
+                "username": "loveforeversfy"
+              },
+              {
+                "end": 134,
+                "start": 118,
+                "username": "BelovedUren8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wakaba_rinko",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wakaba_rinko",
+                "start": 0,
+                "url": "https://t.co/zWqK1n9RJg"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "Ask me any u want→",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 694,
+          "following_count": 680,
+          "like_count": 17402,
+          "listed_count": 1,
+          "media_count": 174,
+          "tweet_count": 8475
+        },
+        "url": "https://t.co/zWqK1n9RJg",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-15T19:26:05.000Z",
+        "description": "aspd/BP/ftx…",
+        "id": "2044497152681054208",
+        "name": "Ki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044497795743420416/BZIdH84d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 29,
+          "like_count": 5,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 10
+        },
+        "username": "Ki_backlol",
+        "verified": false
+      }
+    ]
+  }
+}

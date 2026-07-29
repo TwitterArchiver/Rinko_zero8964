@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2007333889539461120"
+      ],
+      "media_source_tweet_id": [
+        "2007333897781313907"
+      ]
+    },
+    "author_id": "1849043039496617984",
+    "conversation_id": "2007383269629931894",
+    "created_at": "2026-01-03T09:27:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T10:27:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007383269629931894"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2007068022750814208",
+          "start": 3,
+          "username": "futi78999"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/65GlEJjvAb",
+          "end": 46,
+          "expanded_url": "https://x.com/futi78999/status/2007333897781313907/photo/1",
+          "media_key": "3_2007333889539461120",
+          "start": 23,
+          "url": "https://t.co/65GlEJjvAb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007383269629931894",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007333897781313907",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @futi78999: 让我们怀念他… https://t.co/65GlEJjvAb"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2007383269629931894].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2007383269629931894",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2007383269629931894"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2007333889539461120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9t7iYeaUAAd4K2.jpg",
+        "width": 472
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007333889539461120"
+          ]
+        },
+        "author_id": "2007068022750814208",
+        "conversation_id": "2007333897781313907",
+        "created_at": "2026-01-03T06:11:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T07:11:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007333897781313907"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/65GlEJjvAb",
+              "end": 31,
+              "expanded_url": "https://x.com/futi78999/status/2007333897781313907/photo/1",
+              "media_key": "3_2007333889539461120",
+              "start": 8,
+              "url": "https://t.co/65GlEJjvAb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007333897781313907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 94,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "让我们怀念他… https://t.co/65GlEJjvAb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜如果没有回关请私信提醒我！｜我不吸毒！！！｜小猫我喜欢你超喜欢我爱你@psych_angel_｜性别为无、",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 45,
+                "username": "psych_angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNh89"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1999352315241988490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 489,
+          "following_count": 457,
+          "like_count": 9364,
+          "listed_count": 1,
+          "media_count": 128,
+          "tweet_count": 6043
+        },
+        "url": "https://t.co/rCvc9RNh89",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-02T12:34:56.000Z",
+        "description": "我是扶梯 我存在",
+        "id": "2007068022750814208",
+        "name": "扶梯（二世）",
+        "pinned_tweet_id": "2007078563661623386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007068170629386240/UIUrDwBm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 67,
+          "like_count": 102,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 17
+        },
+        "username": "futi78999",
+        "verified": false
+      }
+    ]
+  }
+}

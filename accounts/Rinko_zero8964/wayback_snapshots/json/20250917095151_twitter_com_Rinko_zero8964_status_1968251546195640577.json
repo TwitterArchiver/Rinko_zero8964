@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1968076962175582407",
+    "created_at": "2025-09-17T09:51:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T10:51:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968251546195640577"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1557839863151337473",
+          "start": 0,
+          "username": "scutigera_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968251546195640577",
+    "in_reply_to_user_id": "1557839863151337473",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968076962175582407",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@scutigera_8964 好萌我也想"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1968076954969804801",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1ADkC-bkAEvkk1.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1968076962175582407",
+        "created_at": "2025-09-17T09:51:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T10:51:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968251546195640577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1557839863151337473",
+              "start": 0,
+              "username": "scutigera_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968251546195640577",
+        "in_reply_to_user_id": "1557839863151337473",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968076962175582407",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@scutigera_8964 好萌我也想"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968076954969804801"
+          ]
+        },
+        "author_id": "1557839863151337473",
+        "conversation_id": "1968076962175582407",
+        "created_at": "2025-09-16T22:18:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T23:18:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968076962175582407"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KDf69BHMA1",
+              "end": 23,
+              "expanded_url": "https://x.com/scutigera_8964/status/1968076962175582407/photo/1",
+              "media_key": "3_1968076954969804801",
+              "start": 0,
+              "url": "https://t.co/KDf69BHMA1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968076962175582407",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 892,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/KDf69BHMA1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 275,
+          "like_count": 3021,
+          "listed_count": 2,
+          "media_count": 70,
+          "tweet_count": 3948
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-11T21:22:32.000Z",
+        "description": "♂/お幸せに/無言フォローすいません/dm大歓迎/我的一生从头到尾写满了失败/@mentallychels",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 39,
+                "username": "mentallychels"
+              }
+            ]
+          }
+        },
+        "id": "1557839863151337473",
+        "name": "kuma（咪啪☆～）",
+        "pinned_tweet_id": "1961845811924566110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964361527290712065/slQv5jxk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4504,
+          "following_count": 3428,
+          "like_count": 33783,
+          "listed_count": 7,
+          "media_count": 416,
+          "tweet_count": 8609
+        },
+        "username": "scutigera_8964",
+        "verified": false
+      }
+    ]
+  }
+}

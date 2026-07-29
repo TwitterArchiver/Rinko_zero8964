@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1966483415924081135",
+    "created_at": "2025-09-12T19:55:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-12T20:55:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966591464043147361"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1862933126466666496",
+          "start": 0,
+          "username": "moremoreagain"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966591464043147361",
+    "in_reply_to_user_id": "1862933126466666496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966483415924081135",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@moremoreagain 但是专六很好看😣我无脑专了根本没看原来只有1%吗（哦对你还要算fever期间持续强力击"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 932,
+        "media_key": "3_1966483364720050176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0paM4ragAAvrow.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1966483415924081135",
+        "created_at": "2025-09-12T19:55:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T20:55:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966591464043147361"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1862933126466666496",
+              "start": 0,
+              "username": "moremoreagain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966591464043147361",
+        "in_reply_to_user_id": "1862933126466666496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966483415924081135",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moremoreagain 但是专六很好看😣我无脑专了根本没看原来只有1%吗（哦对你还要算fever期间持续强力击"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966483364720050176"
+          ]
+        },
+        "author_id": "1862933126466666496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1966483415924081135",
+        "created_at": "2025-09-12T12:45:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T13:45:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966483415924081135"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HbpI6vuXZU",
+              "end": 59,
+              "expanded_url": "https://x.com/moremoreagain/status/1966483415924081135/photo/1",
+              "media_key": "3_1966483364720050176",
+              "start": 36,
+              "url": "https://t.co/HbpI6vuXZU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966483415924081135",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 92,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "牛魔足足1%的提升\n算上五连击也才5%\n别的强力击技能没一个这样的吧？ https://t.co/HbpI6vuXZU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 265,
+          "like_count": 2655,
+          "listed_count": 2,
+          "media_count": 66,
+          "tweet_count": 3773
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-30T18:54:15.000Z",
+        "description": "发癫｜偶尔抽象｜日记推（阴湿之物）｜礼（窝）貌（囊）｜不关心政治｜我从不否认自己是傻逼｜互联网重度依赖｜赤石英雄搬石英雄\n｜我不会再回复每个人的消息了，我是个小气鬼捏",
+        "id": "1862933126466666496",
+        "name": "窥梦",
+        "pinned_tweet_id": "1936740643755421859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936741037256404992/tkBYioIr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 935,
+          "following_count": 1011,
+          "like_count": 58002,
+          "listed_count": 6,
+          "media_count": 1030,
+          "tweet_count": 25496
+        },
+        "username": "moremoreagain",
+        "verified": false
+      }
+    ]
+  }
+}

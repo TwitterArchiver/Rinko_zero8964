@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1956003525676179466"
+      ],
+      "media_source_tweet_id": [
+        "1956003528658272430"
+      ]
+    },
+    "author_id": "1849043039496617984",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1956621923728990568",
+    "created_at": "2025-08-16T07:39:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-16T08:39:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956621923728990568"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1749791723457314816",
+          "start": 3,
+          "username": "faiz555_X"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/czfCoLxGGb",
+          "end": 38,
+          "expanded_url": "https://x.com/faiz555_X/status/1956003528658272430/photo/1",
+          "media_key": "3_1956003525676179466",
+          "start": 15,
+          "url": "https://t.co/czfCoLxGGb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956621923728990568",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 270
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956003528658272430",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @faiz555_X: https://t.co/czfCoLxGGb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 858,
+        "media_key": "3_1956003525676179466",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyUe199XIAoXVCe.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956003525676179466"
+          ],
+          "media_source_tweet_id": [
+            "1956003528658272430"
+          ]
+        },
+        "author_id": "1849043039496617984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1956621923728990568",
+        "created_at": "2025-08-16T07:39:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T08:39:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956621923728990568"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1749791723457314816",
+              "start": 3,
+              "username": "faiz555_X"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/czfCoLxGGb",
+              "end": 38,
+              "expanded_url": "https://x.com/faiz555_X/status/1956003528658272430/photo/1",
+              "media_key": "3_1956003525676179466",
+              "start": 15,
+              "url": "https://t.co/czfCoLxGGb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956621923728990568",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 270
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956003528658272430",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @faiz555_X: https://t.co/czfCoLxGGb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956003525676179466"
+          ]
+        },
+        "author_id": "1749791723457314816",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1956003528658272430",
+        "created_at": "2025-08-14T14:42:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T15:42:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956003528658272430"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/czfCoLxGGb",
+              "end": 23,
+              "expanded_url": "https://x.com/faiz555_X/status/1956003528658272430/photo/1",
+              "media_key": "3_1956003525676179466",
+              "start": 0,
+              "url": "https://t.co/czfCoLxGGb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956003528658272430",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 125,
+          "impression_count": 236953,
+          "like_count": 3863,
+          "quote_count": 35,
+          "reply_count": 20,
+          "retweet_count": 270
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/czfCoLxGGb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849043147487420416/0nrEqJTK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 235,
+          "like_count": 1691,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 2942
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-23T13:51:13.000Z",
+        "description": "👁️  👁️我会一直视奸你们的…直到永远……｜门槛🚪9999999999999999想入的可以入了👅｜梦想是养一只恐龙并且征服世界｜♋enfp｜请不要查我户口｜不线下纯口嗨｜互关请私信❛‿˂̵✧",
+        "id": "1749791723457314816",
+        "location": "屋顶",
+        "name": "用户不存在",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948686823250952195/sP1SQLSy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 122,
+          "like_count": 780,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 763
+        },
+        "username": "faiz555_X",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2021244803292254383",
+    "created_at": "2026-02-10T15:28:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T16:28:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2021244803292254383"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/freeod_wiki/st…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/freeod_wiki/status/2013269175981236692",
+          "start": 4,
+          "url": "https://t.co/hKKc6Qeg86"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021244803292254383",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013269175981236692",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "傻逼。 https://t.co/hKKc6Qeg86"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2021244803292254383",
+        "created_at": "2026-02-10T15:28:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T16:28:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021244803292254383"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/freeod_wiki/st…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/freeod_wiki/status/2013269175981236692",
+              "start": 4,
+              "url": "https://t.co/hKKc6Qeg86"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021244803292254383",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013269175981236692",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "傻逼。 https://t.co/hKKc6Qeg86"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012619448855760896",
+        "conversation_id": "2013269175981236692",
+        "created_at": "2026-01-19T15:15:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T16:15:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013269175981236692"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/DXM8964LXM/sta…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/DXM8964LXM/status/2013201730096554073",
+              "start": 24,
+              "url": "https://t.co/nKnJAGSnaZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013269175981236692",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1322,
+          "like_count": 17,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013201730096554073",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "FOW或将推出阿片类戒断教程以及抵抗副作用方法 https://t.co/nKnJAGSnaZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ZA",
+              "full_name": "South Africa",
+              "geo": {
+                "coordinates": [
+                  24.0,
+                  -29.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我思即我在｜我是林子｜如果没有回关请私信提醒我！｜我不吸毒！！！｜性别为无、｜輪郭の定まらない位置にいた人@Psych_Angel_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 53,
+                "username": "Psych_Angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNh89"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 561,
+          "following_count": 517,
+          "like_count": 13924,
+          "listed_count": 1,
+          "media_count": 146,
+          "tweet_count": 7182
+        },
+        "url": "https://t.co/rCvc9RNh89",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-17T20:14:17.000Z",
+        "description": "FreeODwiki是一个以药物科普为目的的非盈利去中心化开源项目，我们拥有一个GitHub仓库和一个网页版本，我们将从客观公正的角度对精神活性物质进行介绍，遵从CC-BY-SA 4.0协议 我们没有官方账号",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeod.wiki",
+                "end": 23,
+                "expanded_url": "http://freeod.wiki",
+                "start": 0,
+                "url": "https://t.co/JNJcHcqc0k"
+              }
+            ]
+          }
+        },
+        "id": "2012619448855760896",
+        "location": "Nonexistent",
+        "name": "FreeODwiki_unofficial",
+        "pinned_tweet_id": "2013268705061573120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012645127257243648/cY-ofaUf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 9,
+          "like_count": 105,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 68
+        },
+        "url": "https://t.co/JNJcHcqc0k",
+        "username": "FreeOD_wiki",
+        "verified": false
+      }
+    ]
+  }
+}

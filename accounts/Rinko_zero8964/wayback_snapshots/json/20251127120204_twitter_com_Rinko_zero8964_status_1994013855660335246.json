@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1993977045442036047",
+    "created_at": "2025-11-27T12:02:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T13:02:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994013855660335246"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1431510026221350912",
+          "start": 0,
+          "username": "ZdnxXc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994013855660335246",
+    "in_reply_to_user_id": "1431510026221350912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993977045442036047",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZdnxXc 你买了什么，多少？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1364,
+        "media_key": "3_1993977038563315712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6wHjVHaEAAmZPP.jpg",
+        "width": 1170
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1993977038550806528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6wHjVEbMAAwVE-.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1993977038521393152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6wHjU9aYAAdoip.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1993977038521421826",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6wHjU9a0AI2dvK.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1993977045442036047",
+        "created_at": "2025-11-27T12:02:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T13:02:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994013855660335246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1431510026221350912",
+              "start": 0,
+              "username": "ZdnxXc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994013855660335246",
+        "in_reply_to_user_id": "1431510026221350912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993977045442036047",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZdnxXc 你买了什么，多少？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993977038563315712",
+            "3_1993977038550806528",
+            "3_1993977038521393152",
+            "3_1993977038521421826"
+          ]
+        },
+        "author_id": "1431510026221350912",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1993977045442036047",
+        "created_at": "2025-11-27T09:35:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T10:35:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993977045442036047"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/68EeBH1SxR",
+              "end": 60,
+              "expanded_url": "https://x.com/ZdnxXc/status/1993977045442036047/photo/1",
+              "media_key": "3_1993977038563315712",
+              "start": 37,
+              "url": "https://t.co/68EeBH1SxR"
+            },
+            {
+              "display_url": "pic.x.com/68EeBH1SxR",
+              "end": 60,
+              "expanded_url": "https://x.com/ZdnxXc/status/1993977045442036047/photo/1",
+              "media_key": "3_1993977038550806528",
+              "start": 37,
+              "url": "https://t.co/68EeBH1SxR"
+            },
+            {
+              "display_url": "pic.x.com/68EeBH1SxR",
+              "end": 60,
+              "expanded_url": "https://x.com/ZdnxXc/status/1993977045442036047/photo/1",
+              "media_key": "3_1993977038521393152",
+              "start": 37,
+              "url": "https://t.co/68EeBH1SxR"
+            },
+            {
+              "display_url": "pic.x.com/68EeBH1SxR",
+              "end": 60,
+              "expanded_url": "https://x.com/ZdnxXc/status/1993977045442036047/photo/1",
+              "media_key": "3_1993977038521421826",
+              "start": 37,
+              "url": "https://t.co/68EeBH1SxR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993977045442036047",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "诈骗犯阿 真的出生 圈内风气就是被你们这群傻逼搞臭的，🕷️只能靠诈骗来钱 https://t.co/68EeBH1SxR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜🥺@NashiMoe233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "NashiMoe233"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1967335109767692560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 377,
+          "following_count": 341,
+          "like_count": 5030,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 4774
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-28T06:52:50.000Z",
+        "description": "迷幻美学欢迎投稿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xczdnx",
+                "end": 23,
+                "expanded_url": "https://t.me/xczdnx",
+                "start": 0,
+                "url": "https://t.co/ife6M5ChCI"
+              }
+            ]
+          }
+        },
+        "id": "1431510026221350912",
+        "location": "阿姆斯特丹",
+        "name": "xczdnx🍄",
+        "pinned_tweet_id": "1952289614502494456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1451477295433240599/hBoKxuEB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 91,
+          "like_count": 903,
+          "listed_count": 2,
+          "media_count": 12,
+          "tweet_count": 141
+        },
+        "url": "https://t.co/ife6M5ChCI",
+        "username": "ZdnxXc",
+        "verified": false
+      }
+    ]
+  }
+}

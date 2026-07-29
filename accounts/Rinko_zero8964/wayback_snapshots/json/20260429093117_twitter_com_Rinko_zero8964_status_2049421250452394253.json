@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049421242156101632",
+        "3_2049421242160300032"
+      ]
+    },
+    "author_id": "1849043039496617984",
+    "conversation_id": "2049421250452394253",
+    "created_at": "2026-04-29T09:31:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T10:31:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049421250452394253"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/i08bJn8JL7",
+          "end": 130,
+          "expanded_url": "https://x.com/Rinko_zero8964/status/2049421250452394253/photo/1",
+          "media_key": "3_2049421242156101632",
+          "start": 107,
+          "url": "https://t.co/i08bJn8JL7"
+        },
+        {
+          "display_url": "pic.x.com/i08bJn8JL7",
+          "end": 130,
+          "expanded_url": "https://x.com/Rinko_zero8964/status/2049421250452394253/photo/1",
+          "media_key": "3_2049421242160300032",
+          "start": 107,
+          "url": "https://t.co/i08bJn8JL7"
+        },
+        {
+          "display_url": "x.com/mercyeeua/stat…",
+          "end": 154,
+          "expanded_url": "https://twitter.com/mercyeeua/status/2049375864199286925",
+          "start": 131,
+          "url": "https://t.co/Fmpaa2AOvW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049421250452394253",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049375864199286925",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "首先我没攻击你呀我说的都是是事实（^_^），不是你让随意的吗？你发太多死不死的了我都快不认识这个字了，不道歉还在这里卖惨不是装可怜感动自己是什么？不要说的好像自己付出了多少似的，拿精神病挡刀那就一辈子进精卫封闭🙏 https://t.co/i08bJn8JL7 https://t.co/Fmpaa2AOvW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1300,
+        "media_key": "3_2049421242156101632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHEBwu3asAAONm0.jpg",
+        "width": 1036
+      },
+      {
+        "height": 1620,
+        "media_key": "3_2049421242160300032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHEBwu4awAAd9W_.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049421242156101632",
+            "3_2049421242160300032"
+          ]
+        },
+        "author_id": "1849043039496617984",
+        "conversation_id": "2049421250452394253",
+        "created_at": "2026-04-29T09:31:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T10:31:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049421250452394253"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/i08bJn8JL7",
+              "end": 130,
+              "expanded_url": "https://x.com/Rinko_zero8964/status/2049421250452394253/photo/1",
+              "media_key": "3_2049421242156101632",
+              "start": 107,
+              "url": "https://t.co/i08bJn8JL7"
+            },
+            {
+              "display_url": "pic.x.com/i08bJn8JL7",
+              "end": 130,
+              "expanded_url": "https://x.com/Rinko_zero8964/status/2049421250452394253/photo/1",
+              "media_key": "3_2049421242160300032",
+              "start": 107,
+              "url": "https://t.co/i08bJn8JL7"
+            },
+            {
+              "display_url": "x.com/mercyeeua/stat…",
+              "end": 154,
+              "expanded_url": "https://twitter.com/mercyeeua/status/2049375864199286925",
+              "start": 131,
+              "url": "https://t.co/Fmpaa2AOvW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049421250452394253",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049375864199286925",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "首先我没攻击你呀我说的都是是事实（^_^），不是你让随意的吗？你发太多死不死的了我都快不认识这个字了，不道歉还在这里卖惨不是装可怜感动自己是什么？不要说的好像自己付出了多少似的，拿精神病挡刀那就一辈子进精卫封闭🙏 https://t.co/i08bJn8JL7 https://t.co/Fmpaa2AOvW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040970554635931648",
+        "conversation_id": "2049375864199286925",
+        "created_at": "2026-04-29T06:30:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T07:30:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049375864199286925"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049375864199286925",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 418,
+          "like_count": 16,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "讨厌我的话可以直接双取或者联系我互相隐藏 不想在刷推的时候突然刷到互关蛐蛐我。我有错也不用这么执着地追着我攻击吧 而且都是精神病不能理解一下吗 我承认我有时候很傻逼但是请麻烦你不要攻击我 谢谢 把我逼死对任何人都没有好处 虽然某些人可能听到我4了的第一反应是笑吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思う、ゆえに我あり｜ 我是林子｜性别为无、｜寒くなってきたね……もう少しだけ、いい？｜intp-t｜ASD/OCD/焦虑障碍｜🧬今日也想成为biohacker｜好妈妈们@Misaki11137 @loveforeversfy|bro @BelovedUren8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 85,
+                "username": "Misaki11137"
+              },
+              {
+                "end": 113,
+                "start": 98,
+                "username": "loveforeversfy"
+              },
+              {
+                "end": 134,
+                "start": 118,
+                "username": "BelovedUren8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wakaba_rinko",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wakaba_rinko",
+                "start": 0,
+                "url": "https://t.co/zWqK1n9RJg"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "Ask me any u want→",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 713,
+          "following_count": 701,
+          "like_count": 17593,
+          "listed_count": 1,
+          "media_count": 178,
+          "tweet_count": 8552
+        },
+        "url": "https://t.co/zWqK1n9RJg",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-06T01:51:40.000Z",
+        "description": "沙比马支克",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "http://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/pR6UJYeuOr"
+              }
+            ]
+          }
+        },
+        "id": "2040970554635931648",
+        "location": "能和神打电话の学校天台",
+        "name": "Mercy",
+        "pinned_tweet_id": "2042111686975623246",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048592286502797312/PaYFKOGP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 192,
+          "like_count": 629,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 345
+        },
+        "url": "https://t.co/pR6UJYeuOr",
+        "username": "Mercyeeua",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "1998275490680041472"
+      ]
+    },
+    "author_id": "1849043039496617984",
+    "conversation_id": "1998329350475980824",
+    "created_at": "2025-12-09T09:50:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T10:50:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998329350475980824"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1911828872334831616",
+          "start": 3,
+          "username": "Edward_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998329350475980824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998275491908977127",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Edward_8964: 請路過的中國人幫我投個票\n監獄來的網軍也是一人一票\n这是一位tanwanese的投票"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 10080,
+        "end_datetime": "2025-12-16T06:16:17.000Z",
+        "id": "1998275490680041472",
+        "options": [
+          {
+            "label": "期待和平统一，不支持梧桐",
+            "position": 1,
+            "votes": 3
+          },
+          {
+            "label": "支持梧桐",
+            "position": 2,
+            "votes": 0
+          },
+          {
+            "label": "不支持统一",
+            "position": 3,
+            "votes": 7
+          },
+          {
+            "label": "统一不统一和我没关系",
+            "position": 4,
+            "votes": 5
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "1998275490680041472"
+          ]
+        },
+        "author_id": "1849043039496617984",
+        "conversation_id": "1998329350475980824",
+        "created_at": "2025-12-09T09:50:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T10:50:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998329350475980824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1911828872334831616",
+              "start": 3,
+              "username": "Edward_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998329350475980824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998275491908977127",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Edward_8964: 請路過的中國人幫我投個票\n監獄來的網軍也是一人一票\n这是一位tanwanese的投票"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "1998275490680041472"
+          ]
+        },
+        "author_id": "1911828872334831616",
+        "conversation_id": "1998275491908977127",
+        "created_at": "2025-12-09T06:16:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T07:16:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998275491908977127"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1998275491908977127",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 95,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "請路過的中國人幫我投個票\n監獄來的網軍也是一人一票\n这是一位tanwanese的投票"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜🥺@NashiMoe233｜如果没有回关请私信提醒我！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "NashiMoe233"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1967335109767692560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 352,
+          "like_count": 5601,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 5018
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-14T17:08:26.000Z",
+        "description": "南湖之虎｜第4次转生 生理男｜退役OIer｜OD｜重精神病｜ADHD｜右美沙芬 ｜freeODwiki参与者｜NEwiki维护员｜自由、梦想、进取｜不盈利方针中断",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nonexistent.wiki",
+                "end": 23,
+                "expanded_url": "http://nonexistent.wiki",
+                "start": 0,
+                "url": "https://t.co/l3ALBiEbNl"
+              }
+            ]
+          }
+        },
+        "id": "1911828872334831616",
+        "location": "NE",
+        "name": "💊爱德华",
+        "pinned_tweet_id": "1998275491908977127",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983915986710667264/18Wn7FvD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 750,
+          "following_count": 613,
+          "like_count": 6141,
+          "listed_count": 2,
+          "media_count": 264,
+          "tweet_count": 4025
+        },
+        "url": "https://t.co/l3ALBiEbNl",
+        "username": "Edward_8964",
+        "verified": true
+      }
+    ]
+  }
+}

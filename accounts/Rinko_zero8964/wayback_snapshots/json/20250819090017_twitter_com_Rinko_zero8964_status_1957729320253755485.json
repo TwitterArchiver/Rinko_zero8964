@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1957729311299084288"
+      ]
+    },
+    "author_id": "1849043039496617984",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1957729320253755485",
+    "created_at": "2025-08-19T09:00:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-19T10:00:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1957729320253755485"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kl1jV9J3QR",
+          "end": 38,
+          "expanded_url": "https://x.com/Rinko_zero8964/status/1957729320253755485/photo/1",
+          "media_key": "3_1957729311299084288",
+          "start": 15,
+          "url": "https://t.co/kl1jV9J3QR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957729320253755485",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "牙膏，如果可以塞进脑子就好了 https://t.co/kl1jV9J3QR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1957729311299084288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GytAb6ZaIAA6jJq.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957729311299084288"
+          ]
+        },
+        "author_id": "1849043039496617984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1957729320253755485",
+        "created_at": "2025-08-19T09:00:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T10:00:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957729320253755485"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kl1jV9J3QR",
+              "end": 38,
+              "expanded_url": "https://x.com/Rinko_zero8964/status/1957729320253755485/photo/1",
+              "media_key": "3_1957729311299084288",
+              "start": 15,
+              "url": "https://t.co/kl1jV9J3QR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957729320253755485",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "牙膏，如果可以塞进脑子就好了 https://t.co/kl1jV9J3QR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849043147487420416/0nrEqJTK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 239,
+          "like_count": 1792,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 3051
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1963936681901560047",
+    "created_at": "2025-09-05T12:06:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-05T13:06:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963936681901560047"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1484072544009347072",
+          "start": 3,
+          "username": "BelovedUren8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963936681901560047",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963906416856510507",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BelovedUren8964: “他人的过错”指我当时面基的人（此人合租的室友）给我戴了他的项圈 而我甚至不知道此事（在来之前我甚至不知道它有个室友）回去后 他当我面把项圈扯烂砸在地上 我认为其对我有意见因此我与其争论 其态度极其轻蔑 后来我追问下使用了一句脏话（他妈…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1963936681901560047",
+        "created_at": "2025-09-05T12:06:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T13:06:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963936681901560047"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1484072544009347072",
+              "start": 3,
+              "username": "BelovedUren8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963936681901560047",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963906416856510507",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BelovedUren8964: “他人的过错”指我当时面基的人（此人合租的室友）给我戴了他的项圈 而我甚至不知道此事（在来之前我甚至不知道它有个室友）回去后 他当我面把项圈扯烂砸在地上 我认为其对我有意见因此我与其争论 其态度极其轻蔑 后来我追问下使用了一句脏话（他妈…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1484072544009347072",
+        "conversation_id": "1963906412792451186",
+        "created_at": "2025-09-05T10:05:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T11:05:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963906416856510507"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1963906416856510507",
+        "in_reply_to_user_id": "1484072544009347072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963906412792451186",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“他人的过错”指我当时面基的人（此人合租的室友）给我戴了他的项圈 而我甚至不知道此事（在来之前我甚至不知道它有个室友）回去后 他当我面把项圈扯烂砸在地上 我认为其对我有意见因此我与其争论 其态度极其轻蔑 后来我追问下使用了一句脏话（他妈的）然后这人急眼了就发生了如上的事 我和他素不相识"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849043147487420416/0nrEqJTK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 259,
+          "like_count": 2386,
+          "listed_count": 2,
+          "media_count": 64,
+          "tweet_count": 3588
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-20T07:57:36.000Z",
+        "description": "叫我雨怜，我是善良猫猫。 无性别者/💊oder 我支持为OD正名/这还用说吗，我是汉奸哪🇯🇵 / #台湾は国です🇹🇼 / 反男反女反跨反人类反一切/支那人没有一个无辜的",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 56,
+                "start": 49,
+                "tag": "台湾は国です"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "http://overdose.day",
+                "start": 0,
+                "url": "https://t.co/RMci0J1xvd"
+              }
+            ]
+          }
+        },
+        "id": "1484072544009347072",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "滨边雨怜会成为真正的传奇",
+        "pinned_tweet_id": "1808346704829468916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940854805343125504/iG-giSXO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 465,
+          "like_count": 4213,
+          "listed_count": 1,
+          "media_count": 312,
+          "tweet_count": 3097
+        },
+        "url": "https://t.co/RMci0J1xvd",
+        "username": "BelovedUren8964",
+        "verified": false
+      }
+    ]
+  }
+}

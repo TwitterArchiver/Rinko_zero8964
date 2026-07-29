@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1956029154735898627"
+      ],
+      "media_source_tweet_id": [
+        "1956029161098637547"
+      ]
+    },
+    "author_id": "1849043039496617984",
+    "conversation_id": "1956581082218045608",
+    "created_at": "2025-08-16T04:57:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-16T05:57:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956581082218045608"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1751700554416308224",
+          "start": 3,
+          "username": "anrchhy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CI8LmSUbJX",
+          "end": 36,
+          "expanded_url": "https://x.com/anrchhy/status/1956029161098637547/photo/1",
+          "media_key": "3_1956029154735898627",
+          "start": 13,
+          "url": "https://t.co/CI8LmSUbJX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956581082218045608",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956029161098637547",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @anrchhy: https://t.co/CI8LmSUbJX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 752,
+        "media_key": "3_1956029154735898627",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyU2JxpXQAMPcz8.jpg",
+        "width": 564
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956029154735898627"
+          ],
+          "media_source_tweet_id": [
+            "1956029161098637547"
+          ]
+        },
+        "author_id": "1849043039496617984",
+        "conversation_id": "1956581082218045608",
+        "created_at": "2025-08-16T04:57:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T05:57:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956581082218045608"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1751700554416308224",
+              "start": 3,
+              "username": "anrchhy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CI8LmSUbJX",
+              "end": 36,
+              "expanded_url": "https://x.com/anrchhy/status/1956029161098637547/photo/1",
+              "media_key": "3_1956029154735898627",
+              "start": 13,
+              "url": "https://t.co/CI8LmSUbJX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956581082218045608",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956029161098637547",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @anrchhy: https://t.co/CI8LmSUbJX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956029154735898627"
+          ]
+        },
+        "author_id": "1751700554416308224",
+        "conversation_id": "1956029161098637547",
+        "created_at": "2025-08-14T16:24:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T17:24:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956029161098637547"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CI8LmSUbJX",
+              "end": 23,
+              "expanded_url": "https://x.com/anrchhy/status/1956029161098637547/photo/1",
+              "media_key": "3_1956029154735898627",
+              "start": 0,
+              "url": "https://t.co/CI8LmSUbJX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956029161098637547",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 2096,
+          "like_count": 115,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/CI8LmSUbJX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849043147487420416/0nrEqJTK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 235,
+          "like_count": 1662,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 2922
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-28T20:15:55.000Z",
+        "description": "🅰️rt in the details is a lifestyle",
+        "id": "1751700554416308224",
+        "name": "Anarchy Fashion",
+        "pinned_tweet_id": "1951376882974286066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1769507502360596480/13Z0LulE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3613,
+          "following_count": 1,
+          "like_count": 399,
+          "listed_count": 11,
+          "media_count": 604,
+          "tweet_count": 802
+        },
+        "username": "anrchhy",
+        "verified": false
+      }
+    ]
+  }
+}

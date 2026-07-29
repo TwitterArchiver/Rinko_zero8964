@@ -1,0 +1,354 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "1991588550496890973",
+    "created_at": "2026-04-15T08:18:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T09:18:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044329606552137753"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1921405326068531200",
+          "start": 0,
+          "username": "xiaoyou8964514"
+        },
+        {
+          "end": 27,
+          "id": "1912109703133646848",
+          "start": 16,
+          "username": "jzm1919810"
+        },
+        {
+          "end": 41,
+          "id": "1798724969695977472",
+          "start": 28,
+          "username": "overdosewiki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044329606552137753",
+    "in_reply_to_user_id": "1921405326068531200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044319417475944877",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoyou8964514 @jzm1919810 @overdosewiki 所以我认为各wiki虽然扩散了但是也起到了保护作用，是社群中非常重要的组成部分，我坚定认为化学来带的其进步与享乐是人重要的一部分…但是因此带来的影响和伤害也是选择使用的人必须要承担的风险和责任，因此各wiki就像是这些人的引路人一般，，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1991588550496890973",
+        "created_at": "2026-04-15T08:18:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T09:18:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044329606552137753"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1921405326068531200",
+              "start": 0,
+              "username": "xiaoyou8964514"
+            },
+            {
+              "end": 27,
+              "id": "1912109703133646848",
+              "start": 16,
+              "username": "jzm1919810"
+            },
+            {
+              "end": 41,
+              "id": "1798724969695977472",
+              "start": 28,
+              "username": "overdosewiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044329606552137753",
+        "in_reply_to_user_id": "1921405326068531200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044319417475944877",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoyou8964514 @jzm1919810 @overdosewiki 所以我认为各wiki虽然扩散了但是也起到了保护作用，是社群中非常重要的组成部分，我坚定认为化学来带的其进步与享乐是人重要的一部分…但是因此带来的影响和伤害也是选择使用的人必须要承担的风险和责任，因此各wiki就像是这些人的引路人一般，，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1921405326068531200",
+        "conversation_id": "1991588550496890973",
+        "created_at": "2026-04-15T07:38:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T08:38:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044319417475944877"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1849043039496617984",
+              "start": 0,
+              "username": "Rinko_zero8964"
+            },
+            {
+              "end": 27,
+              "id": "1912109703133646848",
+              "start": 16,
+              "username": "jzm1919810"
+            },
+            {
+              "end": 41,
+              "id": "1798724969695977472",
+              "start": 28,
+              "username": "overdosewiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044319417475944877",
+        "in_reply_to_user_id": "1849043039496617984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991911308003053610",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rinko_zero8964 @jzm1919810 @overdosewiki 我覺得讓人們知道挺好的，說清楚危害\n如果他仍是決定要碰，那是他的選擇\n結果自己承擔\n而不是亂混亂吃更容易出事\n也不排除本就是奔著死亡去的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思う、ゆえに我あり｜ 我是林子｜性别为无、｜寒くなってきたね……もう少しだけ、いい？｜intp-t｜ASD/OCD/焦虑障碍｜🧬今日也想成为biohacker｜好妈妈们@Misaki11137 @loveforeversfy|bro @BelovedUren8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 85,
+                "username": "Misaki11137"
+              },
+              {
+                "end": 113,
+                "start": 98,
+                "username": "loveforeversfy"
+              },
+              {
+                "end": 134,
+                "start": 118,
+                "username": "BelovedUren8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wakaba_rinko",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wakaba_rinko",
+                "start": 0,
+                "url": "https://t.co/zWqK1n9RJg"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "Ask me any u want→",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 671,
+          "following_count": 651,
+          "like_count": 17207,
+          "listed_count": 1,
+          "media_count": 173,
+          "tweet_count": 8396
+        },
+        "url": "https://t.co/zWqK1n9RJg",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-11T03:22:52.000Z",
+        "description": "入壺冷口情私化，二縷清燈卿為渃",
+        "id": "1921405326068531200",
+        "name": "羽殤せな",
+        "pinned_tweet_id": "2039885111181636008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043347367764566016/WV017R8x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 286,
+          "like_count": 18238,
+          "listed_count": 0,
+          "media_count": 155,
+          "tweet_count": 1692
+        },
+        "username": "xiaoyou8964514",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-15T11:44:19.000Z",
+        "description": "僕らのサーカスはここに終わりを告げた。猛獣もピエロも役割を終えて店じまいをしている。色鮮やかなテントは畳まれ、まっさらな跡地には風が吹いている。僕の知らない場所ではもう新しいショーが始まっているのかも知れないが、それを楽しむのは、まだそれを見たことがない、新しい人々だ。僕らの知らない、若々しい人々だ。",
+        "id": "1912109703133646848",
+        "name": "Zemin Jiang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009536370885165056/0mWVclNf_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 205,
+          "like_count": 437,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 14
+        },
+        "username": "jzm1919810",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-06T14:33:54.000Z",
+        "description": "我们没有计划运营站点\nhttps://t.co/SGI5vYiiyX —— odw直属群",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/o_d_wiki",
+                "end": 34,
+                "expanded_url": "http://t.me/o_d_wiki",
+                "start": 11,
+                "url": "https://t.co/SGI5vYiiyX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.wiki",
+                "end": 23,
+                "expanded_url": "https://overdose.wiki",
+                "start": 0,
+                "url": "https://t.co/TROICqEroT"
+              }
+            ]
+          }
+        },
+        "id": "1798724969695977472",
+        "location": "但愿世间人无病 何妨架上药生尘",
+        "name": "高原观察团-Overdosewiki",
+        "pinned_tweet_id": "1970498537562742884",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032041612306714624/7Edegs7__normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 3698,
+          "following_count": 6,
+          "like_count": 427,
+          "listed_count": 5,
+          "media_count": 133,
+          "tweet_count": 720
+        },
+        "url": "https://t.co/TROICqEroT",
+        "username": "overdosewiki",
+        "verified": false
+      }
+    ]
+  }
+}

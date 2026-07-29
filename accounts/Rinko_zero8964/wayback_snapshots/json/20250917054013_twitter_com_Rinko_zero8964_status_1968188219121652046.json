@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1967916736218542253",
+    "created_at": "2025-09-17T05:40:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T06:40:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968188219121652046"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1599125227786608655",
+          "start": 0,
+          "username": "momoko8964"
+        },
+        {
+          "end": 23,
+          "id": "1639664012907429890",
+          "start": 12,
+          "username": "Je1nFaur_l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968188219121652046",
+    "in_reply_to_user_id": "1599125227786608655",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968015026524131667",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@momoko8964 @Je1nFaur_l 这个草莓味很好吃"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1968015008756817920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0_LOTWWYAABEq4.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1967916736218542253",
+        "created_at": "2025-09-17T05:40:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T06:40:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968188219121652046"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1599125227786608655",
+              "start": 0,
+              "username": "momoko8964"
+            },
+            {
+              "end": 23,
+              "id": "1639664012907429890",
+              "start": 12,
+              "username": "Je1nFaur_l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968188219121652046",
+        "in_reply_to_user_id": "1599125227786608655",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968015026524131667",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@momoko8964 @Je1nFaur_l 这个草莓味很好吃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968015008756817920"
+          ]
+        },
+        "author_id": "1599125227786608655",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1967916736218542253",
+        "created_at": "2025-09-16T18:12:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T19:12:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968015026524131667"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1639664012907429890",
+              "start": 0,
+              "username": "Je1nFaur_l"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/R2YA15eaCE",
+              "end": 50,
+              "expanded_url": "https://x.com/momoko8964/status/1968015026524131667/photo/1",
+              "media_key": "3_1968015008756817920",
+              "start": 27,
+              "url": "https://t.co/R2YA15eaCE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968015026524131667",
+        "in_reply_to_user_id": "1639664012907429890",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 268,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967916736218542253",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Je1nFaur_l 热量可以忽略不计 口味还可以 https://t.co/R2YA15eaCE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 276,
+          "like_count": 3000,
+          "listed_count": 2,
+          "media_count": 69,
+          "tweet_count": 3933
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-03T19:35:49.000Z",
+        "description": "不爱看就滚出去 喜欢我就请给我点钱让我生活得更好",
+        "id": "1599125227786608655",
+        "location": "🚪88/288 私信只回口令",
+        "name": "苦桃",
+        "pinned_tweet_id": "1961942964240048306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963221616009084928/flBsFQMK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7526,
+          "following_count": 297,
+          "like_count": 22461,
+          "listed_count": 11,
+          "media_count": 1328,
+          "tweet_count": 15075
+        },
+        "username": "momoko8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-25T16:22:49.000Z",
+        "description": "我是Mio大王 叫我澪澪 宅女一枚呀\n不键政不看黄不陪聊不谈恋爱不约炮什么都不做 世界第一纯良喵\nshitposting & venting randomly #フォロバ0　#フォロバ絶対しない",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 86,
+                "start": 80,
+                "tag": "フォロバ0"
+              },
+              {
+                "end": 97,
+                "start": 87,
+                "tag": "フォロバ絶対しない"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "roph.net/?p=193",
+                "end": 23,
+                "expanded_url": "https://roph.net/?p=193",
+                "start": 0,
+                "url": "https://t.co/VZQwwdrL4U"
+              }
+            ]
+          }
+        },
+        "id": "1639664012907429890",
+        "location": "Apocalypse",
+        "name": "澪澪大王",
+        "pinned_tweet_id": "1939326757410349487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1781719164769726464/I0Oci5da_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 799,
+          "following_count": 3228,
+          "like_count": 115091,
+          "listed_count": 6,
+          "media_count": 177,
+          "tweet_count": 8613
+        },
+        "url": "https://t.co/VZQwwdrL4U",
+        "username": "Je1nFaur_l",
+        "verified": false
+      }
+    ]
+  }
+}

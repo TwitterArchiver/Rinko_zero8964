@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1964954878612230144",
+        "3_1964954878289248256"
+      ]
+    },
+    "author_id": "1849043039496617984",
+    "conversation_id": "1964954894823276956",
+    "created_at": "2025-09-08T07:32:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-08T08:32:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1964954894823276956"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/63T7N7Sd7s",
+          "end": 53,
+          "expanded_url": "https://x.com/Rinko_zero8964/status/1964954894823276956/photo/1",
+          "media_key": "3_1964954878612230144",
+          "start": 30,
+          "url": "https://t.co/63T7N7Sd7s"
+        },
+        {
+          "display_url": "pic.x.com/63T7N7Sd7s",
+          "end": 53,
+          "expanded_url": "https://x.com/Rinko_zero8964/status/1964954894823276956/photo/1",
+          "media_key": "3_1964954878289248256",
+          "start": 30,
+          "url": "https://t.co/63T7N7Sd7s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964954894823276956",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我为自己祈福没有用，所以我为你们祈福了，你们一定会好起来的 https://t.co/63T7N7Sd7s"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1964954878612230144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0TsDSNaUAAk3aL.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1964954878289248256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0TsDRAaAAA5UJp.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1964954878612230144",
+            "3_1964954878289248256"
+          ]
+        },
+        "author_id": "1849043039496617984",
+        "conversation_id": "1964954894823276956",
+        "created_at": "2025-09-08T07:32:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T08:32:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964954894823276956"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/63T7N7Sd7s",
+              "end": 53,
+              "expanded_url": "https://x.com/Rinko_zero8964/status/1964954894823276956/photo/1",
+              "media_key": "3_1964954878612230144",
+              "start": 30,
+              "url": "https://t.co/63T7N7Sd7s"
+            },
+            {
+              "display_url": "pic.x.com/63T7N7Sd7s",
+              "end": 53,
+              "expanded_url": "https://x.com/Rinko_zero8964/status/1964954894823276956/photo/1",
+              "media_key": "3_1964954878289248256",
+              "start": 30,
+              "url": "https://t.co/63T7N7Sd7s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964954894823276956",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我为自己祈福没有用，所以我为你们祈福了，你们一定会好起来的 https://t.co/63T7N7Sd7s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849043147487420416/0nrEqJTK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 263,
+          "like_count": 2493,
+          "listed_count": 2,
+          "media_count": 65,
+          "tweet_count": 3671
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      }
+    ]
+  }
+}

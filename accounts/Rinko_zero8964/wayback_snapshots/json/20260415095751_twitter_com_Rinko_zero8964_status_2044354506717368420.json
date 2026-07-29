@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2044354506717368420",
+    "created_at": "2026-04-15T09:57:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T10:57:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044354506717368420"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cbscfe/status/…",
+          "end": 142,
+          "expanded_url": "https://twitter.com/cbscfe/status/2044057971001569614",
+          "start": 119,
+          "url": "https://t.co/qxJJYHk6WT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044354506717368420",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044057971001569614",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我觉得这很过分…虽然凌雪是沐雨对象，也做了袒护沐雨的事情，但是她本质上并未害人…未宣传不注明成分策划药也未下场替沐雨洗脱罪名，而且死亡于一场意外，她生前我也与她有过交流，她本质上仍是一个可怜的女孩，我觉得她至少值得获得一个宁静…（下接） https://t.co/qxJJYHk6WT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 752,
+        "media_key": "3_2044057954090135559",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF3z4R3asAcP8R1.jpg",
+        "width": 1360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2044354506717368420",
+        "created_at": "2026-04-15T09:57:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T10:57:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044354506717368420"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cbscfe/status/…",
+              "end": 142,
+              "expanded_url": "https://twitter.com/cbscfe/status/2044057971001569614",
+              "start": 119,
+              "url": "https://t.co/qxJJYHk6WT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044354506717368420",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044057971001569614",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我觉得这很过分…虽然凌雪是沐雨对象，也做了袒护沐雨的事情，但是她本质上并未害人…未宣传不注明成分策划药也未下场替沐雨洗脱罪名，而且死亡于一场意外，她生前我也与她有过交流，她本质上仍是一个可怜的女孩，我觉得她至少值得获得一个宁静…（下接） https://t.co/qxJJYHk6WT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044057954090135559"
+          ]
+        },
+        "author_id": "1959893383633358848",
+        "conversation_id": "2044057971001569614",
+        "created_at": "2026-04-14T14:19:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T15:19:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044057971001569614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1659962043460354050",
+              "start": 3,
+              "username": "SalviaSWC"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/r82Tdg7oH3",
+              "end": 70,
+              "expanded_url": "https://x.com/Cbscfe/status/2044057971001569614/photo/1",
+              "media_key": "3_2044057954090135559",
+              "start": 47,
+              "url": "https://t.co/r82Tdg7oH3"
+            },
+            {
+              "display_url": "x.com/Manglesuki/sta…",
+              "end": 94,
+              "expanded_url": "https://twitter.com/Manglesuki/status/2044031280673894425",
+              "start": 71,
+              "url": "https://t.co/nj4HZYQxJF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044057971001569614",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 9549,
+          "like_count": 43,
+          "quote_count": 2,
+          "reply_count": 14,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044031280673894425",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "卜告\n@SalviaSWC\n也相继身亡\n或许这是wiki主的命吧\n\n详细信息我们还在尝试获取 https://t.co/r82Tdg7oH3 https://t.co/nj4HZYQxJF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思う、ゆえに我あり｜ 我是林子｜性别为无、｜寒くなってきたね……もう少しだけ、いい？｜intp-t｜ASD/OCD/焦虑障碍｜🧬今日也想成为biohacker｜好妈妈们@Misaki11137 @loveforeversfy|bro @BelovedUren8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 85,
+                "username": "Misaki11137"
+              },
+              {
+                "end": 113,
+                "start": 98,
+                "username": "loveforeversfy"
+              },
+              {
+                "end": 134,
+                "start": 118,
+                "username": "BelovedUren8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wakaba_rinko",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wakaba_rinko",
+                "start": 0,
+                "url": "https://t.co/zWqK1n9RJg"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "Ask me any u want→",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 669,
+          "following_count": 649,
+          "like_count": 17224,
+          "listed_count": 1,
+          "media_count": 173,
+          "tweet_count": 8401
+        },
+        "url": "https://t.co/zWqK1n9RJg",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "马斯克我错了，让把我账号改成恐龙吧\n---\n信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n(sync)\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7py8AN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 323,
+          "like_count": 19250,
+          "listed_count": 1,
+          "media_count": 168,
+          "tweet_count": 3780
+        },
+        "url": "https://t.co/5pZU7py8AN",
+        "username": "Cbscfe",
+        "verified": false
+      }
+    ]
+  }
+}

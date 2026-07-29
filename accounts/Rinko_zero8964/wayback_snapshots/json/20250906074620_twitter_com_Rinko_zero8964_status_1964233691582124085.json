@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1963992216273350723",
+    "created_at": "2025-09-06T07:46:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-06T08:46:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964233691582124085"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1627301480440164352",
+          "start": 0,
+          "username": "Lily_Syrup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964233691582124085",
+    "in_reply_to_user_id": "1627301480440164352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963992216273350723",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lily_Syrup Psychedelic不会"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1963992216273350723",
+        "created_at": "2025-09-06T07:46:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T08:46:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964233691582124085"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1627301480440164352",
+              "start": 0,
+              "username": "Lily_Syrup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964233691582124085",
+        "in_reply_to_user_id": "1627301480440164352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963992216273350723",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lily_Syrup Psychedelic不会"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1627301480440164352",
+        "conversation_id": "1963992216273350723",
+        "created_at": "2025-09-05T15:46:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T16:46:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963992216273350723"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1963992216273350723",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1045,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "话说吸毒的人是不是都不太胖（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849043147487420416/0nrEqJTK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 260,
+          "like_count": 2415,
+          "listed_count": 2,
+          "media_count": 64,
+          "tweet_count": 3616
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-19T13:38:19.000Z",
+        "description": "地质学Geology & 陨石学 Meteoritics ｜你可以叫我 糖浆｜有理有据表达不满 ｜烤批粥原摆烂选手｜业余摄影师｜jpop 日摇 术力口｜INFJ｜华枝春满，天心月圆@LihaigeUpasaka\n｜用爱发电@Alter_Syrup ｜单推@hatunagi_yuzuki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 90,
+                "username": "LihaigeUpasaka"
+              },
+              {
+                "end": 123,
+                "start": 111,
+                "username": "Alter_Syrup"
+              },
+              {
+                "end": 143,
+                "start": 127,
+                "username": "hatunagi_yuzuki"
+              }
+            ]
+          }
+        },
+        "id": "1627301480440164352",
+        "location": "Kyoto-fu, Japan",
+        "name": "糖浆",
+        "pinned_tweet_id": "1780992344306983398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900478254311776256/0XzoVkXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1483,
+          "following_count": 1279,
+          "like_count": 109551,
+          "listed_count": 5,
+          "media_count": 1442,
+          "tweet_count": 6897
+        },
+        "username": "Lily_Syrup",
+        "verified": false
+      }
+    ]
+  }
+}

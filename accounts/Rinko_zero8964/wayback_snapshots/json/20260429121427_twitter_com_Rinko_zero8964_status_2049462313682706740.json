@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2049453207148229039",
+    "created_at": "2026-04-29T12:14:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T13:14:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049462313682706740"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1944351426827735040",
+          "start": 0,
+          "username": "kiss_u_back"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049462313682706740",
+    "in_reply_to_user_id": "1944351426827735040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049453207148229039",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kiss_u_back 难绷啊拿了钱还这个态度"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1329,
+        "media_key": "3_2049453193273409536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHEe0iDaAAA6Ry0.jpg",
+        "width": 1023
+      },
+      {
+        "height": 1689,
+        "media_key": "3_2049453193361580032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHEe0iYbYAAxy7v.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2049453207148229039",
+        "created_at": "2026-04-29T12:14:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T13:14:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049462313682706740"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1944351426827735040",
+              "start": 0,
+              "username": "kiss_u_back"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049462313682706740",
+        "in_reply_to_user_id": "1944351426827735040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049453207148229039",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kiss_u_back 难绷啊拿了钱还这个态度"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049453193273409536",
+            "3_2049453193361580032"
+          ]
+        },
+        "author_id": "1944351426827735040",
+        "conversation_id": "2049453207148229039",
+        "created_at": "2026-04-29T11:38:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T12:38:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049453207148229039"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hZqDB403jQ",
+              "end": 162,
+              "expanded_url": "https://x.com/kiss_u_back/status/2049453207148229039/photo/1",
+              "media_key": "3_2049453193273409536",
+              "start": 139,
+              "url": "https://t.co/hZqDB403jQ"
+            },
+            {
+              "display_url": "pic.x.com/hZqDB403jQ",
+              "end": 162,
+              "expanded_url": "https://x.com/kiss_u_back/status/2049453207148229039/photo/1",
+              "media_key": "3_2049453193361580032",
+              "start": 139,
+              "url": "https://t.co/hZqDB403jQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049453207148229039",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 73,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "遇到傻叉了 聊天一小时已经在计划去广州花我的钱的事了 你他吗接的是妈妈活 你觉得是平等的我只能😅 我对你平等不代表我不是你雇主 你计划你雇主的钱合适吗？你认识我一天让我给你买一千块的钱合适吗？我说没有资格有问题吗？我们说到半小时你就说能不能和我去广州旅游 接着就是我付多少钱了 https://t.co/hZqDB403jQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思う、ゆえに我あり｜ 我是林子｜性别为无、｜寒くなってきたね……もう少しだけ、いい？｜intp-t｜ASD/OCD/焦虑障碍｜🧬今日也想成为biohacker｜好妈妈们@Misaki11137 @loveforeversfy|bro @BelovedUren8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 85,
+                "username": "Misaki11137"
+              },
+              {
+                "end": 113,
+                "start": 98,
+                "username": "loveforeversfy"
+              },
+              {
+                "end": 134,
+                "start": 118,
+                "username": "BelovedUren8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wakaba_rinko",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wakaba_rinko",
+                "start": 0,
+                "url": "https://t.co/zWqK1n9RJg"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "Ask me any u want→",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 711,
+          "following_count": 700,
+          "like_count": 17635,
+          "listed_count": 1,
+          "media_count": 180,
+          "tweet_count": 8563
+        },
+        "url": "https://t.co/zWqK1n9RJg",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-13T11:01:50.000Z",
+        "description": "死在2025年3月28号\n已阳痿 勿骚扰",
+        "id": "1944351426827735040",
+        "location": "火星",
+        "name": "我的泪口是心非",
+        "pinned_tweet_id": "1989765441888424290",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032342364212379650/Ir3K5fHP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 702,
+          "following_count": 185,
+          "like_count": 1595,
+          "listed_count": 2,
+          "media_count": 366,
+          "tweet_count": 1331
+        },
+        "username": "kiss_u_back",
+        "verified": false
+      }
+    ]
+  }
+}

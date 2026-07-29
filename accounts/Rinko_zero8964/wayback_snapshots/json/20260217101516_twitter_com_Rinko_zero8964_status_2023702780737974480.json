@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2023652793517805671",
+    "created_at": "2026-02-17T10:15:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T11:15:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023702780737974480"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2011827901537402885",
+          "start": 0,
+          "username": "Amenyan14_w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023702780737974480",
+    "in_reply_to_user_id": "2011827901537402885",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023702601871880417",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Amenyan14_w 很快都回去了！！大不了我们再吃一顿年夜饭！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2023702595412652037",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBWiydqbcAUDRv-.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2023652793517805671",
+        "created_at": "2026-02-17T10:15:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T11:15:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023702780737974480"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2011827901537402885",
+              "start": 0,
+              "username": "Amenyan14_w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023702780737974480",
+        "in_reply_to_user_id": "2011827901537402885",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023702601871880417",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Amenyan14_w 很快都回去了！！大不了我们再吃一顿年夜饭！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023702595412652037"
+          ]
+        },
+        "author_id": "2011827901537402885",
+        "conversation_id": "2023652793517805671",
+        "created_at": "2026-02-17T10:14:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T11:14:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023702601871880417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1849043039496617984",
+              "start": 0,
+              "username": "Rinko_zero8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RV7LM5WbrH",
+              "end": 76,
+              "expanded_url": "https://x.com/Amenyan14_w/status/2023702601871880417/photo/1",
+              "media_key": "3_2023702595412652037",
+              "start": 53,
+              "url": "https://t.co/RV7LM5WbrH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023702601871880417",
+        "in_reply_to_user_id": "1849043039496617984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023701931643073021",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rinko_zero8964 今天已經回家了⋯抱著女兒曬了很久太陽。只是很無聊，很無聊，無聊無聊….. https://t.co/RV7LM5WbrH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ZA",
+              "full_name": "South Africa",
+              "geo": {
+                "coordinates": [
+                  24.0,
+                  -29.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我思即我在｜我是林子｜如果没有回关请私信提醒我！｜我不吸毒！！！｜性别为无、｜輪郭の定まらない位置にいた人@Psych_Angel_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 53,
+                "username": "Psych_Angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNh89"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 576,
+          "following_count": 535,
+          "like_count": 14818,
+          "listed_count": 1,
+          "media_count": 148,
+          "tweet_count": 7426
+        },
+        "url": "https://t.co/rCvc9RNh89",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-15T15:49:05.000Z",
+        "description": "蔦野Ame｜生理女｜互fo歡迎｜帳號內容物→負能｜血圖｜嗑藥｜你好這是我老公喵@BelovedUren8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 39,
+                "username": "BelovedUren8964"
+              }
+            ]
+          }
+        },
+        "id": "2011827901537402885",
+        "location": "Japan",
+        "name": "我仍在這個無人問津的陰雨霉溼之地",
+        "pinned_tweet_id": "2022348085025013794",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019506135586557952/LbOwFYk9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 26,
+          "like_count": 109,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 74
+        },
+        "username": "Amenyan14_w",
+        "verified": false
+      }
+    ]
+  }
+}

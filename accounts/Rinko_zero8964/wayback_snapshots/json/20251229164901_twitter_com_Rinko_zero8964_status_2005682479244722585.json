@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2005442425922207744"
+      ],
+      "media_source_tweet_id": [
+        "2005442645309710767"
+      ]
+    },
+    "author_id": "1849043039496617984",
+    "conversation_id": "2005682479244722585",
+    "created_at": "2025-12-29T16:49:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-29T17:49:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005682479244722585"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "54479485",
+          "start": 3,
+          "username": "luizandregama"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1NN35VgXk4",
+          "end": 42,
+          "expanded_url": "https://x.com/luizandregama/status/2005442645309710767/video/1",
+          "media_key": "13_2005442425922207744",
+          "start": 19,
+          "url": "https://t.co/1NN35VgXk4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005682479244722585",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 48
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005442645309710767",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @luizandregama: https://t.co/1NN35VgXk4"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4000,
+        "height": 1920,
+        "media_key": "13_2005442425922207744",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2005442425922207744/img/K7x4afKQa9svUrbA.jpg",
+        "public_metrics": {
+          "view_count": 1932
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2005442425922207744/vid/avc1/320x320/RxLmy6S2Q6jVDYom.mp4"
+          },
+          {
+            "bit_rate": 8768000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2005442425922207744/vid/avc1/1080x1080/U9E6VQm4k7B4j_Ev.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2005442425922207744/pl/hY4hOh2geDklrBxv.m3u8"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2005442425922207744/vid/avc1/540x540/Q2aegcDdBlVDkZri.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2005442425922207744/vid/avc1/720x720/42c6I3q3gwy2Xt0c.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2005442425922207744"
+          ],
+          "media_source_tweet_id": [
+            "2005442645309710767"
+          ]
+        },
+        "author_id": "1849043039496617984",
+        "conversation_id": "2005682479244722585",
+        "created_at": "2025-12-29T16:49:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T17:49:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005682479244722585"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "54479485",
+              "start": 3,
+              "username": "luizandregama"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1NN35VgXk4",
+              "end": 42,
+              "expanded_url": "https://x.com/luizandregama/status/2005442645309710767/video/1",
+              "media_key": "13_2005442425922207744",
+              "start": 19,
+              "url": "https://t.co/1NN35VgXk4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005682479244722585",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 48
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005442645309710767",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @luizandregama: https://t.co/1NN35VgXk4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2005442425922207744"
+          ]
+        },
+        "author_id": "54479485",
+        "conversation_id": "2005442645309710767",
+        "created_at": "2025-12-29T00:56:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T01:56:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005442645309710767"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1NN35VgXk4",
+              "end": 23,
+              "expanded_url": "https://x.com/luizandregama/status/2005442645309710767/video/1",
+              "media_key": "13_2005442425922207744",
+              "start": 0,
+              "url": "https://t.co/1NN35VgXk4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005442645309710767",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 5634,
+          "like_count": 228,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 48
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/1NN35VgXk4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜如果没有回关请私信提醒我！｜我不吸毒！！！｜小猫我喜欢你超喜欢我爱你@psych_angel_｜性别为无、",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 45,
+                "username": "psych_angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNh89"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1999352315241988490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 468,
+          "following_count": 425,
+          "like_count": 8411,
+          "listed_count": 1,
+          "media_count": 120,
+          "tweet_count": 5829
+        },
+        "url": "https://t.co/rCvc9RNh89",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2009-07-07T07:17:29.000Z",
+        "description": "🎨  Artist • Designer • VJ • Explorer\nhttps://t.co/AZzEWOUYyE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "luizandregama.com",
+                "end": 60,
+                "expanded_url": "http://www.luizandregama.com",
+                "start": 37,
+                "url": "https://t.co/AZzEWOUYyE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/luizandregama",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/luizandregama",
+                "start": 0,
+                "url": "https://t.co/quUaXqff9j"
+              }
+            ]
+          }
+        },
+        "id": "54479485",
+        "location": "Italia - Brasil",
+        "name": "Luiz André Gama",
+        "pinned_tweet_id": "1964703073441583116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/856978843801923585/v7Aeymvy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5847,
+          "following_count": 2505,
+          "like_count": 423851,
+          "listed_count": 117,
+          "media_count": 2723,
+          "tweet_count": 26737
+        },
+        "url": "https://t.co/quUaXqff9j",
+        "username": "luizandregama",
+        "verified": true
+      }
+    ]
+  }
+}

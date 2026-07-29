@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+          "id": "1552291412820893697",
+          "name": "Education Business"
+        }
+      }
+    ],
+    "conversation_id": "2003328588331061649",
+    "created_at": "2025-12-23T04:55:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-23T05:55:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003328588331061649"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1597257668313260033",
+          "start": 3,
+          "username": "Minokakay"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003328588331061649",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002819850474082743",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Minokakay: We don't need no education, \n我们不需要被教育，\nWe don't need no thought control.\n我们不需要思想的控制，\nNo dark sarcasm in the classroom.\n教室里不要…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "2003328588331061649",
+        "created_at": "2025-12-23T04:55:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T05:55:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003328588331061649"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1597257668313260033",
+              "start": 3,
+              "username": "Minokakay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003328588331061649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002819850474082743",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Minokakay: We don't need no education, \n我们不需要被教育，\nWe don't need no thought control.\n我们不需要思想的控制，\nNo dark sarcasm in the classroom.\n教室里不要…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "2002819850474082743",
+        "created_at": "2025-12-21T19:13:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T20:13:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002819850474082743"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/minokakay/stat…",
+              "end": 251,
+              "expanded_url": "https://twitter.com/minokakay/status/2002348983700631782",
+              "start": 228,
+              "url": "https://t.co/r7fcBrOX5w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002819850474082743",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "We don't need no education, \n我们不需要被教育，\nWe don't need no thought control.\n我们不需要思想的控制，\nNo dark sarcasm in the classroom.\n教室里不要有黑色嘲讽，\nTeacher, leave them kids alone.\n老师们，离孩子远点！\nHey, Teacher, leave them kids alone!\n嘿！老师们，离孩子远点！\nAll in all it's just another brick in the wall.\n所有的一切不过是墙上的另一块砖，\nAll in all you're just another brick in the wall.\n总之你只不过是墙上的另一块砖。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 3096,
+          "like_count": 45,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002348983700631782",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "We don't need no education, \n我们不需要被教育，\nWe don't need no thought control.\n我们不需要思想的控制，\nNo dark sarcasm in the classroom.\n教室里不要有黑色嘲讽，\nTeacher, leave them kids alone.\n老师们，离孩子远点！\nHey, Teacher, leave them kids alone!\n嘿！老师们，离孩子远点！\nAll https://t.co/r7fcBrOX5w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜如果没有回关请私信提醒我！｜我不吸毒！！！｜小猫我喜欢你超喜欢我爱你@psych_angel_｜性别为无、",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 45,
+                "username": "psych_angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNh89"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1999352315241988490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 441,
+          "following_count": 405,
+          "like_count": 7115,
+          "listed_count": 1,
+          "media_count": 107,
+          "tweet_count": 5484
+        },
+        "url": "https://t.co/rCvc9RNh89",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "命に嫌われている。 正找寻着生命意义的人，精神病多到简介写不下，成都大阪随机刷新✝️买HRT补佳乐色普龙诺坤复/减肥/促智 请找@ChosekiNoraneko，全球可寄，我朋友开的我担保。如需癌症/慢病用药，请找@Lucius_Pharma",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 64,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 121,
+                "start": 107,
+                "username": "Lucius_Pharma"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "Tokyo",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1994130055191253480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13308,
+          "following_count": 1015,
+          "like_count": 44945,
+          "listed_count": 50,
+          "media_count": 1791,
+          "tweet_count": 24855
+        },
+        "username": "Minokakay",
+        "verified": true
+      }
+    ]
+  }
+}

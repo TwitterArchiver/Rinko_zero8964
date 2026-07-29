@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1956291924203118819",
+    "created_at": "2025-08-16T05:16:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-16T06:16:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956585903943528915"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1481172876589821952",
+          "start": 0,
+          "username": "pyke2076"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956585903943528915",
+    "in_reply_to_user_id": "1481172876589821952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956291924203118819",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pyke2076 好可爱鼻头粉粉的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1956291900752949248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyYlHm1acAAjcJQ.jpg",
+        "width": 1080
+      },
+      {
+        "height": 918,
+        "media_key": "3_1956291900732006401",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyYlHmwa4AExQ37.jpg",
+        "width": 646
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1956291924203118819",
+        "created_at": "2025-08-16T05:16:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T06:16:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956585903943528915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1481172876589821952",
+              "start": 0,
+              "username": "pyke2076"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956585903943528915",
+        "in_reply_to_user_id": "1481172876589821952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956291924203118819",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pyke2076 好可爱鼻头粉粉的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956291900752949248",
+            "3_1956291900732006401"
+          ]
+        },
+        "author_id": "1481172876589821952",
+        "conversation_id": "1956291924203118819",
+        "created_at": "2025-08-15T09:48:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T10:48:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956291924203118819"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Sy8OMlQuvp",
+              "end": 73,
+              "expanded_url": "https://x.com/pyke2076/status/1956291924203118819/photo/1",
+              "media_key": "3_1956291900752949248",
+              "start": 50,
+              "url": "https://t.co/Sy8OMlQuvp"
+            },
+            {
+              "display_url": "pic.x.com/Sy8OMlQuvp",
+              "end": 73,
+              "expanded_url": "https://x.com/pyke2076/status/1956291924203118819/photo/1",
+              "media_key": "3_1956291900732006401",
+              "start": 50,
+              "url": "https://t.co/Sy8OMlQuvp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956291924203118819",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1001,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "把我家鼠鼠拍的有点像那种ai生成自拍合照风格的样子了，拍的糊糊的，很可爱，每天回家她都是这样看着我 https://t.co/Sy8OMlQuvp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849043147487420416/0nrEqJTK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 235,
+          "like_count": 1680,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 2932
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "description": "当你离去之后，你仍在我的视线里。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pyke2077",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pyke2077",
+                "start": 0,
+                "url": "https://t.co/OVd42ruoYd"
+              }
+            ]
+          }
+        },
+        "id": "1481172876589821952",
+        "location": "地狱",
+        "name": "bunny",
+        "pinned_tweet_id": "1948055006441320599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739460199323435008/cSDInbKL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5869,
+          "following_count": 1219,
+          "like_count": 60723,
+          "listed_count": 8,
+          "media_count": 2788,
+          "tweet_count": 16349
+        },
+        "url": "https://t.co/OVd42ruoYd",
+        "username": "pyke2076",
+        "verified": false
+      }
+    ]
+  }
+}

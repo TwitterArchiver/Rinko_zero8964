@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1968251399919284283",
+    "created_at": "2025-09-17T09:51:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T10:51:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968251399919284283"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1419403960696385546",
+          "start": 3,
+          "username": "WaiFu8964"
+        },
+        {
+          "end": 25,
+          "id": "1659962043460354050",
+          "start": 15,
+          "username": "SalviaSWC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968251399919284283",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968208696800055401",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @WaiFu8964: @SalviaSWC 你们欧圈一言不合就来一场别样的出道大战，盒武器一放，互相毁灭，辅警三等功（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1968251399919284283",
+        "created_at": "2025-09-17T09:51:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T10:51:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968251399919284283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1419403960696385546",
+              "start": 3,
+              "username": "WaiFu8964"
+            },
+            {
+              "end": 25,
+              "id": "1659962043460354050",
+              "start": 15,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968251399919284283",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968208696800055401",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @WaiFu8964: @SalviaSWC 你们欧圈一言不合就来一场别样的出道大战，盒武器一放，互相毁灭，辅警三等功（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1419403960696385546",
+        "conversation_id": "1967806870212706389",
+        "created_at": "2025-09-17T07:01:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T08:01:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968208696800055401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1659962043460354050",
+              "start": 0,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968208696800055401",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967806870212706389",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SalviaSWC 你们欧圈一言不合就来一场别样的出道大战，盒武器一放，互相毁灭，辅警三等功（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 275,
+          "like_count": 3020,
+          "listed_count": 2,
+          "media_count": 70,
+          "tweet_count": 3947
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-25T21:07:49.000Z",
+        "description": "退休准备中，现已启用付费消息，用来过滤垃圾信息。如果您是别人推荐来的客户请让Ta通知我加联系人即可免费发信息，聊天的话可以在任意群喊我看心情回复。付费信息100%回复.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/saomei",
+                "end": 23,
+                "expanded_url": "https://t.me/saomei",
+                "start": 0,
+                "url": "https://t.co/GrZymHl1TM"
+              }
+            ]
+          }
+        },
+        "id": "1419403960696385546",
+        "location": "IP归属地:深圳",
+        "name": "Waifu今天退休了吗",
+        "pinned_tweet_id": "1922911025097036164",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958651886569234432/g2E3qUEu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7116,
+          "following_count": 2204,
+          "like_count": 5255,
+          "listed_count": 19,
+          "media_count": 730,
+          "tweet_count": 6298
+        },
+        "url": "https://t.co/GrZymHl1TM",
+        "username": "WaiFu8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1216,
+          "following_count": 458,
+          "like_count": 6671,
+          "listed_count": 5,
+          "media_count": 98,
+          "tweet_count": 2359
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

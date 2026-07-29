@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2002753694505578853",
+    "created_at": "2025-12-21T14:51:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-21T15:51:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002753694505578853"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1580263959751319554",
+          "start": 3,
+          "username": "kkndjhbh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002753694505578853",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002727495230198135",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kkndjhbh: 扶梯rc商铺➕电子烟上线\n4-ho-met 3t以上➖50\n扶梯一号3t以上➖50\nDPT 3g以上➖50\n全部包邮价格 多个大fo主认证\n做了些药物的补充说明\n另外电子烟我发现被骗的很多\n这不就来了哈哈哈\n电子烟详细口味询问我就好了 https:/…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2002753694505578853].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2002753694505578853",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2002753694505578853"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2002727471913857025",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8seBllXcAEXtK4.jpg",
+        "width": 947
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2002727471909687296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8seBlkX0AAyYee.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002727471913857025",
+            "3_2002727471909687296"
+          ]
+        },
+        "author_id": "1580263959751319554",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2002727495230198135",
+        "created_at": "2025-12-21T13:06:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T14:06:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002727495230198135"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/X4Xjvn23WP",
+              "end": 141,
+              "expanded_url": "https://x.com/kkndjhbh/status/2002727495230198135/photo/1",
+              "media_key": "3_2002727471913857025",
+              "start": 118,
+              "url": "https://t.co/X4Xjvn23WP"
+            },
+            {
+              "display_url": "pic.x.com/X4Xjvn23WP",
+              "end": 141,
+              "expanded_url": "https://x.com/kkndjhbh/status/2002727495230198135/photo/1",
+              "media_key": "3_2002727471909687296",
+              "start": 118,
+              "url": "https://t.co/X4Xjvn23WP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002727495230198135",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "扶梯rc商铺➕电子烟上线\n4-ho-met 3t以上➖50\n扶梯一号3t以上➖50\nDPT 3g以上➖50\n全部包邮价格 多个大fo主认证\n做了些药物的补充说明\n另外电子烟我发现被骗的很多\n这不就来了哈哈哈\n电子烟详细口味询问我就好了 https://t.co/X4Xjvn23WP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜🥺💜@NashiMoe233｜如果没有回关请私信提醒我！｜我不吸毒！！！｜小猫我喜欢你超喜欢我爱你@psych_angel_｜性别为无、",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 13,
+                "username": "NashiMoe233"
+              },
+              {
+                "end": 73,
+                "start": 60,
+                "username": "psych_angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNh89"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1999352315241988490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 437,
+          "following_count": 405,
+          "like_count": 6939,
+          "listed_count": 1,
+          "media_count": 106,
+          "tweet_count": 5441
+        },
+        "url": "https://t.co/rCvc9RNh89",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-12T18:27:51.000Z",
+        "description": "全网同ID，oder可互fo 业余诗人 瘾君子 双相 轻中度精分 lgbt友好立场，反传统男性主义。只分享用药经历， 不主动建议od。古罗马掌管色胺的执政官。带领更多人进入美妙世界",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%89%B6%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%89%B6%E6%A2%AF",
+                "start": 0,
+                "url": "https://t.co/RIPVCzGuSq"
+              }
+            ]
+          }
+        },
+        "id": "1580263959751319554",
+        "location": "色胺宇宙 提问⬇️",
+        "name": "扶梯",
+        "pinned_tweet_id": "2002727495230198135",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001818403577925633/u23NNlI1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 111,
+          "like_count": 643,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 707
+        },
+        "url": "https://t.co/RIPVCzGuSq",
+        "username": "kkndjhbh",
+        "verified": true
+      }
+    ]
+  }
+}

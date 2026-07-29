@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1968097771279487424",
+    "created_at": "2025-09-17T10:07:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T11:07:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968255548887093345"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1935176310663401472",
+          "start": 0,
+          "username": "S_Hyoscine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968255548887093345",
+    "in_reply_to_user_id": "1935176310663401472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968097771279487424",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@S_Hyoscine 理解，但是我觉得在可以检索知识的现在，21t只要想想就知道是死不掉的，她可能是想引起关注以此拯救自己，但是用不着用这种哗众取宠的方式，都是可怜人我觉得相互帮助抱团取暖也不是很困难"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1968097771279487424",
+        "created_at": "2025-09-17T10:07:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T11:07:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968255548887093345"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1935176310663401472",
+              "start": 0,
+              "username": "S_Hyoscine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968255548887093345",
+        "in_reply_to_user_id": "1935176310663401472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968097771279487424",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@S_Hyoscine 理解，但是我觉得在可以检索知识的现在，21t只要想想就知道是死不掉的，她可能是想引起关注以此拯救自己，但是用不着用这种哗众取宠的方式，都是可怜人我觉得相互帮助抱团取暖也不是很困难"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1935176310663401472",
+        "conversation_id": "1968097771279487424",
+        "created_at": "2025-09-16T23:40:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T00:40:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968097771279487424"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zai090106/stat…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/zai090106/status/1967613570721734945",
+              "start": 32,
+              "url": "https://t.co/eSqoxDGG0I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968097771279487424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 210,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967613570721734945",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我知道这看起来很好笑，但是有些人能不能有点同理心。真的很讨厌。 https://t.co/eSqoxDGG0I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 275,
+          "like_count": 3026,
+          "listed_count": 2,
+          "media_count": 70,
+          "tweet_count": 3951
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-18T03:23:09.000Z",
+        "description": "可以叫咱东东（又不知道说什么了捏）|神必日期：2025/01/15|抽象艺术爱好者|有一定要成为小天使的理由\n还有咱最最最最爱的姐姐： @LQL6778",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 68,
+                "username": "LQL6778"
+              }
+            ]
+          }
+        },
+        "id": "1935176310663401472",
+        "name": "东东东东莨菪碱🏳️‍⚧️",
+        "pinned_tweet_id": "1968114028758351894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962721102959972352/1yNU7bas_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 365,
+          "following_count": 492,
+          "like_count": 9947,
+          "listed_count": 2,
+          "media_count": 63,
+          "tweet_count": 2232
+        },
+        "username": "S_Hyoscine",
+        "verified": false
+      }
+    ]
+  }
+}

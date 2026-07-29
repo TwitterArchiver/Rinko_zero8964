@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1992510820887216615",
+    "created_at": "2025-11-24T07:16:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T08:16:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992854861034225741"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1662439435726905344",
+          "start": 0,
+          "username": "moya_michaeI"
+        },
+        {
+          "end": 25,
+          "id": "1912109703133646848",
+          "start": 14,
+          "username": "jzm1919810"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992854861034225741",
+    "in_reply_to_user_id": "1662439435726905344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992624775127236734",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@moya_michaeI @jzm1919810 被这些人蠢笑了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1992510820887216615",
+        "created_at": "2025-11-24T07:16:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T08:16:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992854861034225741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1662439435726905344",
+              "start": 0,
+              "username": "moya_michaeI"
+            },
+            {
+              "end": 25,
+              "id": "1912109703133646848",
+              "start": 14,
+              "username": "jzm1919810"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992854861034225741",
+        "in_reply_to_user_id": "1662439435726905344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992624775127236734",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moya_michaeI @jzm1919810 被这些人蠢笑了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662439435726905344",
+        "conversation_id": "1992510820887216615",
+        "created_at": "2025-11-23T16:02:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T17:02:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992624775127236734"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1912109703133646848",
+              "start": 0,
+              "username": "jzm1919810"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992624775127236734",
+        "in_reply_to_user_id": "1912109703133646848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 92,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992624535405986065",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jzm1919810 我见过有人去问豆包某种物质有没有列管的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜🥺@NashiMoe233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "NashiMoe233"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1967335109767692560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 332,
+          "like_count": 4820,
+          "listed_count": 1,
+          "media_count": 90,
+          "tweet_count": 4624
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-27T12:44:05.000Z",
+        "description": "您好 我叫何本櫻 來自美國華盛頓特區 曾就讀於普林斯頓大學专攻医学 現居日本東京 從事十五年医药相關工作 現在是南島第一Dealer有什麼需要的可以聯繫我 感謝您的關注",
+        "id": "1662439435726905344",
+        "location": "東京 渋谷区",
+        "name": "南島魔女S4kura-Dealer2539號",
+        "pinned_tweet_id": "1992452870839627938",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983926637260660736/jix4stR1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 819,
+          "following_count": 100,
+          "like_count": 9225,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 1372
+        },
+        "username": "moya_michaeI",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-15T11:44:19.000Z",
+        "description": "もしも願いが葉うなら 夜の空へとほうり投げて与えて",
+        "id": "1912109703133646848",
+        "name": "Zemin Jiang",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 102,
+          "like_count": 74,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 456
+        },
+        "username": "jzm1919810",
+        "verified": false
+      }
+    ]
+  }
+}

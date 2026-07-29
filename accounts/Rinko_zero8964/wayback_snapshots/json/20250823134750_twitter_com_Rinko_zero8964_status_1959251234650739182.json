@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1958774782234906624"
+      ],
+      "media_source_tweet_id": [
+        "1958774791621812660"
+      ]
+    },
+    "author_id": "1849043039496617984",
+    "conversation_id": "1959251234650739182",
+    "created_at": "2025-08-23T13:47:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-23T14:47:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959251234650739182"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1306612559638716418",
+          "start": 3,
+          "username": "xd_q1i3n"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fSbSZTqdIG",
+          "end": 46,
+          "expanded_url": "https://x.com/xd_q1i3n/status/1958774791621812660/photo/1",
+          "media_key": "3_1958774782234906624",
+          "start": 23,
+          "url": "https://t.co/fSbSZTqdIG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959251234650739182",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 103
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958774791621812660",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xd_q1i3n: 10代最後の夏𓇼 https://t.co/fSbSZTqdIG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1958774782234906624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gy73SVIa0AABK9H.jpg",
+        "width": 1516
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1958774782234906624"
+          ],
+          "media_source_tweet_id": [
+            "1958774791621812660"
+          ]
+        },
+        "author_id": "1849043039496617984",
+        "conversation_id": "1959251234650739182",
+        "created_at": "2025-08-23T13:47:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T14:47:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959251234650739182"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1306612559638716418",
+              "start": 3,
+              "username": "xd_q1i3n"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fSbSZTqdIG",
+              "end": 46,
+              "expanded_url": "https://x.com/xd_q1i3n/status/1958774791621812660/photo/1",
+              "media_key": "3_1958774782234906624",
+              "start": 23,
+              "url": "https://t.co/fSbSZTqdIG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959251234650739182",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 103
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958774791621812660",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xd_q1i3n: 10代最後の夏𓇼 https://t.co/fSbSZTqdIG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1958774782234906624"
+          ]
+        },
+        "author_id": "1306612559638716418",
+        "conversation_id": "1958774791621812660",
+        "created_at": "2025-08-22T06:14:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T07:14:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958774791621812660"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fSbSZTqdIG",
+              "end": 32,
+              "expanded_url": "https://x.com/xd_q1i3n/status/1958774791621812660/photo/1",
+              "media_key": "3_1958774782234906624",
+              "start": 9,
+              "url": "https://t.co/fSbSZTqdIG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958774791621812660",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 328,
+          "impression_count": 124876,
+          "like_count": 3588,
+          "quote_count": 28,
+          "reply_count": 21,
+          "retweet_count": 103
+        },
+        "reply_settings": "everyone",
+        "text": "10代最後の夏𓇼 https://t.co/fSbSZTqdIG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849043147487420416/0nrEqJTK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 241,
+          "like_count": 1986,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 3212
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-17T15:14:57.000Z",
+        "description": "🇯🇵🇧🇷🇫🇷 アイコン自作┊︎自我▷@q1i3n",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 18,
+                "username": "q1i3n"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Instagram.com/xd_q1i3n",
+                "end": 23,
+                "expanded_url": "http://Instagram.com/xd_q1i3n",
+                "start": 0,
+                "url": "https://t.co/5W7GV9ZohV"
+              }
+            ]
+          }
+        },
+        "id": "1306612559638716418",
+        "location": "𓆣",
+        "name": "𓆑⸒⸒メリンギ星人𓆑⸒⸒",
+        "pinned_tweet_id": "1861691707638870266",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809207645397782531/L_TerV_K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5613,
+          "following_count": 392,
+          "like_count": 20761,
+          "listed_count": 6,
+          "media_count": 99,
+          "tweet_count": 1679
+        },
+        "url": "https://t.co/5W7GV9ZohV",
+        "username": "xd_q1i3n",
+        "verified": false
+      }
+    ]
+  }
+}

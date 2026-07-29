@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2030898850354073680",
+    "created_at": "2026-03-09T09:35:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T10:35:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030940642176835768"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1951570866581745664",
+          "start": 0,
+          "username": "Maimai_Offical"
+        },
+        {
+          "end": 32,
+          "id": "1998791279350874112",
+          "start": 16,
+          "username": "Yamawuchimisaki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030940642176835768",
+    "in_reply_to_user_id": "1951570866581745664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030925702925820249",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Maimai_Offical @Yamawuchimisaki 怎么不跟随你主席等着被屠完？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2030898850354073680",
+        "created_at": "2026-03-09T09:35:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T10:35:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030940642176835768"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1951570866581745664",
+              "start": 0,
+              "username": "Maimai_Offical"
+            },
+            {
+              "end": 32,
+              "id": "1998791279350874112",
+              "start": 16,
+              "username": "Yamawuchimisaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030940642176835768",
+        "in_reply_to_user_id": "1951570866581745664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030925702925820249",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Maimai_Offical @Yamawuchimisaki 怎么不跟随你主席等着被屠完？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1951570866581745664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple App Store",
+              "id": "10053298770",
+              "name": "Apple App Store"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10046487168",
+              "name": "App Store"
+            }
+          }
+        ],
+        "conversation_id": "2030898850354073680",
+        "created_at": "2026-03-09T08:36:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T09:36:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030925702925820249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1849043039496617984",
+              "start": 0,
+              "username": "Rinko_zero8964"
+            },
+            {
+              "end": 32,
+              "id": "1998791279350874112",
+              "start": 16,
+              "username": "Yamawuchimisaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030925702925820249",
+        "in_reply_to_user_id": "1849043039496617984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030922890561163628",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rinko_zero8964 @Yamawuchimisaki 还有自杀这一块😹很好我爱看 China app store闹麻了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思う、ゆえに我あり｜ 我是林子｜性别为无、｜寒くなってきたね……もう少しだけ、いい？｜intp-t｜asd/焦虑障碍｜🧬今日也想成为biohacker｜好妈妈们@asabakasaiko @loveforeversfy|bro @BelovedUren8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 81,
+                "username": "asabakasaiko"
+              },
+              {
+                "end": 110,
+                "start": 95,
+                "username": "loveforeversfy"
+              },
+              {
+                "end": 131,
+                "start": 115,
+                "username": "BelovedUren8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wakaba_rinko",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wakaba_rinko",
+                "start": 0,
+                "url": "https://t.co/zWqK1n9RJg"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "Ask me any u want→",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 618,
+          "following_count": 592,
+          "like_count": 16241,
+          "listed_count": 1,
+          "media_count": 161,
+          "tweet_count": 7877
+        },
+        "url": "https://t.co/zWqK1n9RJg",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-02T09:09:01.000Z",
+        "description": "期望两岸友好，中日美关系正常\n适当见证，看见无脑黑和不顺眼的东西会骂       个人想说的:坐标北京Beijing 音游 可尊重可支持LGBTQ等文化 无论是在见证区或是音游区看见我喜欢可以扩列 https://t.co/NXv3dwhNud",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@maimai_offica…",
+                "end": 122,
+                "expanded_url": "https://www.tiktok.com/@maimai_offical?_r=1&_t=ZS-94UpUP6Dzoe",
+                "start": 99,
+                "url": "https://t.co/NXv3dwhNud"
+              }
+            ]
+          }
+        },
+        "id": "1951570866581745664",
+        "location": "巴克什 绝密",
+        "name": "🍥乌鲁鲁酱ウルル🍥❤️🏳️‍⚧",
+        "pinned_tweet_id": "2019801317795832210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983360140406620160/elRy_3CA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 82,
+          "like_count": 1275,
+          "listed_count": 2,
+          "media_count": 654,
+          "tweet_count": 3190
+        },
+        "username": "Maimai_Offical",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-10T16:26:03.000Z",
+        "description": "请叫我唯酱或者我的全名：山内美咲。我有严重抑郁症双相情感障碍病例，宛平南路600号常客，不许骂我欺负我，你骂我我就哭哭很难哄的😿。 IELTS 8, JLPT N1。 欺负我的人必定全家得癌症父母双亡。 兴趣：YOASOBI,Taylor Swift,ボカロ,アニメ,アークナイツ,ブルアカ。",
+        "id": "1998791279350874112",
+        "location": "Xuhui District, Shanghai",
+        "name": "唯ちゃんがうっとうしい Boycott Tesla Vehicles",
+        "pinned_tweet_id": "2019014799003386352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030593487264182272/oWENhdPV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 897,
+          "following_count": 427,
+          "like_count": 2982,
+          "listed_count": 5,
+          "media_count": 368,
+          "tweet_count": 2609
+        },
+        "username": "Yamawuchimisaki",
+        "verified": false
+      }
+    ]
+  }
+}

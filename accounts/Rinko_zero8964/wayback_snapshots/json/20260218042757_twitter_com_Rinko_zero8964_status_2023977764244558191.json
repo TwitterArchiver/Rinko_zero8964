@@ -1,0 +1,459 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2023787994952749539",
+    "created_at": "2026-02-18T04:27:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T05:27:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023977764244558191"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2008181604360003584",
+          "start": 0,
+          "username": "Fayoubaike000"
+        },
+        {
+          "end": 28,
+          "id": "1879395690230738944",
+          "start": 15,
+          "username": "Psych_Angel_"
+        },
+        {
+          "end": 41,
+          "id": "1528005407469346818",
+          "start": 29,
+          "username": "K1raK1ra818"
+        },
+        {
+          "end": 52,
+          "id": "1641968587102621696",
+          "start": 42,
+          "username": "0voki33Me"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023977764244558191",
+    "in_reply_to_user_id": "2008181604360003584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023976144383668241",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fayoubaike000 @Psych_Angel_ @K1raK1ra818 @0voki33Me 统共抑制嘛…但是不动gaba就是了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2023787994952749539",
+        "created_at": "2026-02-18T04:27:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T05:27:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023977764244558191"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2008181604360003584",
+              "start": 0,
+              "username": "Fayoubaike000"
+            },
+            {
+              "end": 28,
+              "id": "1879395690230738944",
+              "start": 15,
+              "username": "Psych_Angel_"
+            },
+            {
+              "end": 41,
+              "id": "1528005407469346818",
+              "start": 29,
+              "username": "K1raK1ra818"
+            },
+            {
+              "end": 52,
+              "id": "1641968587102621696",
+              "start": 42,
+              "username": "0voki33Me"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023977764244558191",
+        "in_reply_to_user_id": "2008181604360003584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023976144383668241",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fayoubaike000 @Psych_Angel_ @K1raK1ra818 @0voki33Me 统共抑制嘛…但是不动gaba就是了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008181604360003584",
+        "conversation_id": "2023787994952749539",
+        "created_at": "2026-02-18T04:21:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T05:21:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023976144383668241"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1849043039496617984",
+              "start": 0,
+              "username": "Rinko_zero8964"
+            },
+            {
+              "end": 29,
+              "id": "1879395690230738944",
+              "start": 16,
+              "username": "Psych_Angel_"
+            },
+            {
+              "end": 42,
+              "id": "1528005407469346818",
+              "start": 30,
+              "username": "K1raK1ra818"
+            },
+            {
+              "end": 53,
+              "id": "1641968587102621696",
+              "start": 43,
+              "username": "0voki33Me"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023976144383668241",
+        "in_reply_to_user_id": "1849043039496617984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023958649475829824",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rinko_zero8964 @Psych_Angel_ @K1raK1ra818 @0voki33Me 减少谷氨酸 去甲肾上腺素"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思う、ゆえに我あり｜ 我是林子｜性别为无、｜寒くなってきたね……もう少しだけ、いい？｜intp-t｜asd/焦虑障碍｜🧬今日也想成为biohacker｜輪郭の定まらない位置にいた人@Psych_Angel_｜好妈妈们@asabakasaiko @loveforeversfy|bro @BelovedUren8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 91,
+                "username": "Psych_Angel_"
+              },
+              {
+                "end": 122,
+                "start": 109,
+                "username": "asabakasaiko"
+              },
+              {
+                "end": 138,
+                "start": 123,
+                "username": "loveforeversfy"
+              },
+              {
+                "end": 159,
+                "start": 143,
+                "username": "BelovedUren8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wakaba_rinko",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wakaba_rinko",
+                "start": 0,
+                "url": "https://t.co/zWqK1n9RJg"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "Ask me any u want→",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 580,
+          "following_count": 540,
+          "like_count": 15018,
+          "listed_count": 1,
+          "media_count": 149,
+          "tweet_count": 7498
+        },
+        "url": "https://t.co/zWqK1n9RJg",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-05T14:19:49.000Z",
+        "description": "官网：https://t.co/1RO0a8YP2H\n法友百科：https://t.co/mcutyAEVMJ\n法友俱乐部：https://t.co/pSWgN6XYgr\n人生就是法天 法地 法空气 神会平等救赎每一个磕药的法友",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "fayou.club",
+                "end": 26,
+                "expanded_url": "https://fayou.club/",
+                "start": 3,
+                "url": "https://t.co/1RO0a8YP2H"
+              },
+              {
+                "display_url": "t.me/fayoubaike",
+                "end": 55,
+                "expanded_url": "https://t.me/fayoubaike",
+                "start": 32,
+                "url": "https://t.co/mcutyAEVMJ"
+              },
+              {
+                "display_url": "t.me/fayoujulebu",
+                "end": 85,
+                "expanded_url": "https://t.me/fayoujulebu",
+                "start": 62,
+                "url": "https://t.co/pSWgN6XYgr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fayou.club",
+                "end": 23,
+                "expanded_url": "https://fayou.club/",
+                "start": 0,
+                "url": "https://t.co/1RO0a8YP2H"
+              }
+            ]
+          }
+        },
+        "id": "2008181604360003584",
+        "name": "法友百科",
+        "pinned_tweet_id": "2023738279305376090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022318060871495680/kSSLcw97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 514,
+          "following_count": 310,
+          "like_count": 131,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 174
+        },
+        "url": "https://t.co/1RO0a8YP2H",
+        "username": "Fayoubaike000",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-15T05:10:34.000Z",
+        "description": "Scientist | Philosopher | Lab Rat｜💊#Drugtwt｜BD/DPDR｜Lover💕Rinko:@Rinko_zero8964｜Soulmate:@BelovedUren8964｜🍜:@shungleemain｜👩:@DXM8964LXM｜🍊:@citrus_amara｜",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 43,
+                "start": 35,
+                "tag": "Drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 79,
+                "start": 64,
+                "username": "Rinko_zero8964"
+              },
+              {
+                "end": 105,
+                "start": 89,
+                "username": "BelovedUren8964"
+              },
+              {
+                "end": 121,
+                "start": 108,
+                "username": "shungleemain"
+              },
+              {
+                "end": 135,
+                "start": 124,
+                "username": "DXM8964LXM"
+              },
+              {
+                "end": 151,
+                "start": 138,
+                "username": "citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cutekitteno3o",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cutekitteno3o",
+                "start": 0,
+                "url": "https://t.co/OpK0Aryf51"
+              }
+            ]
+          }
+        },
+        "id": "1879395690230738944",
+        "location": "Ask me any u want→",
+        "name": "Mercy",
+        "pinned_tweet_id": "2017031778201194624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984317319691243521/rbczbPan_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 702,
+          "following_count": 800,
+          "like_count": 31278,
+          "listed_count": 1,
+          "media_count": 902,
+          "tweet_count": 13848
+        },
+        "url": "https://t.co/OpK0Aryf51",
+        "username": "Psych_Angel_",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-21T13:31:04.000Z",
+        "description": "已戒毒。查成分回fo。信徒：@Jaime_Rimi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "Jaime_Rimi"
+              }
+            ]
+          }
+        },
+        "id": "1528005407469346818",
+        "name": "愛醬大萌神",
+        "pinned_tweet_id": "2018555992552968209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023620132657131520/Qwys1z0H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 661,
+          "like_count": 12087,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 2576
+        },
+        "username": "K1raK1ra818",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "=静｜提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4dheT"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "1m",
+        "name": "4w4y",
+        "pinned_tweet_id": "2015665677303267619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015651938621116416/tuOlJ8YV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 494,
+          "following_count": 1081,
+          "like_count": 5151,
+          "listed_count": 0,
+          "media_count": 175,
+          "tweet_count": 3594
+        },
+        "url": "https://t.co/Dhfap4dheT",
+        "username": "0voki33Me",
+        "verified": false
+      }
+    ]
+  }
+}

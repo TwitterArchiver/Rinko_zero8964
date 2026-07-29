@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1986246308362133744",
+    "created_at": "2025-11-06T01:36:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-06T02:36:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1986246308362133744"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/winterfruit_1/…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/winterfruit_1/status/1986127456852709842",
+          "start": 7,
+          "url": "https://t.co/28ti4JJPFv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986246308362133744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986127456852709842",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "在吗？借点钱 https://t.co/28ti4JJPFv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1843,
+        "media_key": "3_1986127450817110019",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5AkZMCbIAMK00k.jpg",
+        "width": 1319
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1986246308362133744",
+        "created_at": "2025-11-06T01:36:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T02:36:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986246308362133744"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/winterfruit_1/…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/winterfruit_1/status/1986127456852709842",
+              "start": 7,
+              "url": "https://t.co/28ti4JJPFv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986246308362133744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986127456852709842",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "在吗？借点钱 https://t.co/28ti4JJPFv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986127450817110019"
+          ]
+        },
+        "author_id": "1837114188046684161",
+        "conversation_id": "1986127456852709842",
+        "created_at": "2025-11-05T17:44:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T18:44:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986127456852709842"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cAXtA4LBK8",
+              "end": 30,
+              "expanded_url": "https://x.com/winterfruit_1/status/1986127456852709842/photo/1",
+              "media_key": "3_1986127450817110019",
+              "start": 7,
+              "url": "https://t.co/cAXtA4LBK8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986127456852709842",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1187,
+          "like_count": 29,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "做人真的可以 https://t.co/cAXtA4LBK8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1970904695813329260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 334,
+          "following_count": 283,
+          "like_count": 3282,
+          "listed_count": 2,
+          "media_count": 76,
+          "tweet_count": 4179
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "请支持药物百科😋 / overdose / winterfruit / 互fo / 🐙🐙 里账：@_Yuyuko_FTZ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 48,
+                "username": "_Yuyuko_FTZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/PQZdMcJtJf"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "在下个将死未死的夏季",
+        "name": "Winit420 #天苑四",
+        "pinned_tweet_id": "1984669685821161673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984643503226568710/AXwuP_DO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1285,
+          "following_count": 1230,
+          "like_count": 21407,
+          "listed_count": 5,
+          "media_count": 719,
+          "tweet_count": 6682
+        },
+        "url": "https://t.co/PQZdMcJtJf",
+        "username": "winterfruit_1",
+        "verified": false
+      }
+    ]
+  }
+}

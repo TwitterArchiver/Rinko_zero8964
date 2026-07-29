@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2021418395049316352",
+        "3_2021418395049263105"
+      ],
+      "media_source_tweet_id": [
+        "2021418449428414949",
+        "2021418449428414949"
+      ]
+    },
+    "author_id": "1849043039496617984",
+    "conversation_id": "2021436635200827420",
+    "created_at": "2026-02-11T04:10:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T05:10:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021436635200827420"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1982429504225349632",
+          "start": 3,
+          "username": "AMadelaina"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/v1ZG876OI6",
+          "end": 50,
+          "expanded_url": "https://x.com/AMadelaina/status/2021418449428414949/video/1",
+          "media_key": "13_2021418395049316352",
+          "start": 27,
+          "url": "https://t.co/v1ZG876OI6"
+        },
+        {
+          "display_url": "pic.x.com/v1ZG876OI6",
+          "end": 50,
+          "expanded_url": "https://x.com/AMadelaina/status/2021418449428414949/video/1",
+          "media_key": "3_2021418395049263105",
+          "start": 27,
+          "url": "https://t.co/v1ZG876OI6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021436635200827420",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021418449428414949",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AMadelaina: 割断血管血一直止不住 https://t.co/v1ZG876OI6"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2021436635200827420].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2021436635200827420",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2021436635200827420"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5405,
+        "height": 1280,
+        "media_key": "13_2021418395049316352",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2021418395049316352/img/QexBRzM6HguGQrpx.jpg",
+        "public_metrics": {
+          "view_count": 31
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2021418395049316352/vid/avc1/320x568/JRKm90QqYE0cq5dH.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2021418395049316352/vid/avc1/480x852/3h7c8Q5uFypPQY0E.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2021418395049316352/vid/avc1/720x1280/ZXbAjyOhGHyKgniX.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2021418395049316352/pl/6elEmAdfeEudWqZt.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2021418395049263105",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA2FUgNaAAEU5PJ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2021418395049316352",
+            "3_2021418395049263105"
+          ]
+        },
+        "author_id": "1982429504225349632",
+        "conversation_id": "2021418449428414949",
+        "created_at": "2026-02-11T02:58:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T03:58:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021418449428414949"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/v1ZG876OI6",
+              "end": 34,
+              "expanded_url": "https://x.com/AMadelaina/status/2021418449428414949/video/1",
+              "media_key": "13_2021418395049316352",
+              "start": 11,
+              "url": "https://t.co/v1ZG876OI6"
+            },
+            {
+              "display_url": "pic.x.com/v1ZG876OI6",
+              "end": 34,
+              "expanded_url": "https://x.com/AMadelaina/status/2021418449428414949/video/1",
+              "media_key": "3_2021418395049263105",
+              "start": 11,
+              "url": "https://t.co/v1ZG876OI6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021418449428414949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 79,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "割断血管血一直止不住 https://t.co/v1ZG876OI6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ZA",
+              "full_name": "South Africa",
+              "geo": {
+                "coordinates": [
+                  24.0,
+                  -29.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我思即我在｜我是林子｜如果没有回关请私信提醒我！｜我不吸毒！！！｜性别为无、｜輪郭の定まらない位置にいた人@Psych_Angel_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 53,
+                "username": "Psych_Angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNh89"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 563,
+          "following_count": 519,
+          "like_count": 13957,
+          "listed_count": 1,
+          "media_count": 146,
+          "tweet_count": 7190
+        },
+        "url": "https://t.co/rCvc9RNh89",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-26T12:50:21.000Z",
+        "description": "我是椒椒，前世@Ina_puppywwww被封，助力我找回互关……",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 7,
+                "username": "Ina_puppywwww"
+              }
+            ]
+          }
+        },
+        "id": "1982429504225349632",
+        "name": "藏身在无花的雾里",
+        "pinned_tweet_id": "2020467357831897184",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004282193246625792/zuCMvmhf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1362,
+          "following_count": 243,
+          "like_count": 880,
+          "listed_count": 2,
+          "media_count": 84,
+          "tweet_count": 404
+        },
+        "username": "AMadelaina",
+        "verified": false
+      }
+    ]
+  }
+}

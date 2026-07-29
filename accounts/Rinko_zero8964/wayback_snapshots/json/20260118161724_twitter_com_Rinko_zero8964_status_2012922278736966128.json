@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2012700069812645888"
+      ],
+      "media_source_tweet_id": [
+        "2012700079078134052"
+      ]
+    },
+    "author_id": "1849043039496617984",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2012922278736966128",
+    "created_at": "2026-01-18T16:17:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T17:17:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012922278736966128"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1754795826713686016",
+          "start": 3,
+          "username": "xxxxinTvT"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2n5A65oKVH",
+          "end": 51,
+          "expanded_url": "https://x.com/xxxxinTvT/status/2012700079078134052/photo/1",
+          "media_key": "3_2012700069812645888",
+          "start": 28,
+          "url": "https://t.co/2n5A65oKVH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012922278736966128",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012700079078134052",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xxxxinTvT: 🩹♪。☆₊⁺🦴🐾₊⁺★🧸 https://t.co/2n5A65oKVH"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2012922278736966128].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2012922278736966128",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2012922278736966128"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 736,
+        "media_key": "3_2012700069812645888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-6MDLyWMAAK0XZ.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012700069812645888"
+          ]
+        },
+        "author_id": "1754795826713686016",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2012700079078134052",
+        "created_at": "2026-01-18T01:34:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T02:34:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012700079078134052"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2n5A65oKVH",
+              "end": 36,
+              "expanded_url": "https://x.com/xxxxinTvT/status/2012700079078134052/photo/1",
+              "media_key": "3_2012700069812645888",
+              "start": 13,
+              "url": "https://t.co/2n5A65oKVH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012700079078134052",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 1630,
+          "like_count": 221,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "🩹♪。☆₊⁺🦴🐾₊⁺★🧸 https://t.co/2n5A65oKVH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜如果没有回关请私信提醒我！｜我不吸毒！！！｜性别为无、",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNh89"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 526,
+          "following_count": 476,
+          "like_count": 12148,
+          "listed_count": 1,
+          "media_count": 142,
+          "tweet_count": 6642
+        },
+        "url": "https://t.co/rCvc9RNh89",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-06T09:15:12.000Z",
+        "description": "乞丐",
+        "id": "1754795826713686016",
+        "name": "xxxxin",
+        "pinned_tweet_id": "1984295872667193771",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840479748897849344/7GMzuxFp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4880,
+          "following_count": 577,
+          "like_count": 23882,
+          "listed_count": 4,
+          "media_count": 50,
+          "tweet_count": 9128
+        },
+        "username": "xxxxinTvT",
+        "verified": false
+      }
+    ]
+  }
+}

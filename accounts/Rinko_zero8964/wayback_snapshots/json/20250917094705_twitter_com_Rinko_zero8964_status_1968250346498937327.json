@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1968233445534187691",
+    "created_at": "2025-09-17T09:47:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T10:47:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968250346498937327"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1658664482632253441",
+          "start": 0,
+          "username": "jujube8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968250346498937327",
+    "in_reply_to_user_id": "1658664482632253441",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968233445534187691",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jujube8964 没这么穷"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1968233436797456384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1CR4fNb0AAB33u.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1968233445534187691",
+        "created_at": "2025-09-17T09:47:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T10:47:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968250346498937327"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1658664482632253441",
+              "start": 0,
+              "username": "jujube8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968250346498937327",
+        "in_reply_to_user_id": "1658664482632253441",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968233445534187691",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jujube8964 没这么穷"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968233436797456384"
+          ]
+        },
+        "author_id": "1658664482632253441",
+        "conversation_id": "1968233445534187691",
+        "created_at": "2025-09-17T08:39:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T09:39:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968233445534187691"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5Xyk0Q6epL",
+              "end": 28,
+              "expanded_url": "https://x.com/jujube8964/status/1968233445534187691/photo/1",
+              "media_key": "3_1968233436797456384",
+              "start": 5,
+              "url": "https://t.co/5Xyk0Q6epL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968233445534187691",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "挂壁午饭 https://t.co/5Xyk0Q6epL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 275,
+          "like_count": 3020,
+          "listed_count": 2,
+          "media_count": 70,
+          "tweet_count": 3944
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-17T02:43:36.000Z",
+        "description": "🇨🇳🇨🇳我不懂什么卖淫赌博吸毒。我是三好学生，我是少先队员。我从来没有发表过对国家不利的消息。我爱国爱党爱社会。我始终坚持拥护中国共产党的领导与党的教诲，在中国共产党的领导下为社会添砖加瓦，为实现中华民族的伟大复兴，为社会主义的建设做贡献。我深知即使个人的力量渺小，也可以融入国家的整体。🇨🇳🇨🇳",
+        "id": "1658664482632253441",
+        "location": "党的光芒照耀下的每一寸伟大中国的领土",
+        "name": "党的光辉照冬枣",
+        "pinned_tweet_id": "1956031170053071371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964614874266521600/6X-PARwk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 388,
+          "like_count": 1663,
+          "listed_count": 3,
+          "media_count": 87,
+          "tweet_count": 2223
+        },
+        "username": "jujube8964",
+        "verified": false
+      }
+    ]
+  }
+}

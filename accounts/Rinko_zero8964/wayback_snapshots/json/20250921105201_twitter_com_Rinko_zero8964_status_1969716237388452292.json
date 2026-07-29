@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1969373866742202735",
+    "created_at": "2025-09-21T10:52:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-21T11:52:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969716237388452292"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1272405078683430913",
+          "start": 0,
+          "username": "PaitangOfficial"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969716237388452292",
+    "in_reply_to_user_id": "1272405078683430913",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969373866742202735",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PaitangOfficial 进步和iso2.0可以😌我很喜欢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1127,
+        "media_key": "3_1969373851718205441",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1SfFX2bQAEpqUn.jpg",
+        "width": 1171
+      },
+      {
+        "height": 1422,
+        "media_key": "3_1969373851701428226",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1SfFXybQAI_odS.jpg",
+        "width": 1223
+      },
+      {
+        "height": 1518,
+        "media_key": "3_1969373851944697860",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1SfFYsbQAQ6ngX.jpg",
+        "width": 1219
+      },
+      {
+        "height": 514,
+        "media_key": "3_1969373851969863685",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1SfFYybQAUqqVN.jpg",
+        "width": 1202
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1969373866742202735",
+        "created_at": "2025-09-21T10:52:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T11:52:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969716237388452292"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1272405078683430913",
+              "start": 0,
+              "username": "PaitangOfficial"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969716237388452292",
+        "in_reply_to_user_id": "1272405078683430913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969373866742202735",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PaitangOfficial 进步和iso2.0可以😌我很喜欢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969373851718205441",
+            "3_1969373851701428226",
+            "3_1969373851944697860",
+            "3_1969373851969863685"
+          ]
+        },
+        "author_id": "1272405078683430913",
+        "conversation_id": "1969373866742202735",
+        "created_at": "2025-09-20T12:11:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T13:11:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969373866742202735"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BqOlzBsepr",
+              "end": 183,
+              "expanded_url": "https://x.com/PaitangOfficial/status/1969373866742202735/photo/1",
+              "media_key": "3_1969373851718205441",
+              "start": 160,
+              "url": "https://t.co/BqOlzBsepr"
+            },
+            {
+              "display_url": "pic.x.com/BqOlzBsepr",
+              "end": 183,
+              "expanded_url": "https://x.com/PaitangOfficial/status/1969373866742202735/photo/1",
+              "media_key": "3_1969373851701428226",
+              "start": 160,
+              "url": "https://t.co/BqOlzBsepr"
+            },
+            {
+              "display_url": "pic.x.com/BqOlzBsepr",
+              "end": 183,
+              "expanded_url": "https://x.com/PaitangOfficial/status/1969373866742202735/photo/1",
+              "media_key": "3_1969373851944697860",
+              "start": 160,
+              "url": "https://t.co/BqOlzBsepr"
+            },
+            {
+              "display_url": "pic.x.com/BqOlzBsepr",
+              "end": 183,
+              "expanded_url": "https://x.com/PaitangOfficial/status/1969373866742202735/photo/1",
+              "media_key": "3_1969373851969863685",
+              "start": 160,
+              "url": "https://t.co/BqOlzBsepr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969373866742202735",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 215,
+                "start": 211,
+                "tag": "无极4"
+              }
+            ]
+          },
+          "text": "9月，尽管目前无极内部面对库存管理、服务质量以及退货流程等问题的巨大挑战，但我们依然遵守对各位无极用户的承诺。请允许我向大家公开我们的新产品：ISO 2.0 的 Certificate of Analysis（包括 HPLC 色谱图、MS 质谱图），即“COA/质量检测报告”。其中个人信息及非检测相关商业信息已隐藏。\n\n我们优化了之前的制剂流程，使产品纯度由 96% 提升至 98.81%。这算是一个小幅升级，但它既是 #无极4.0 的组成部分，同时也是各无极 ISO 用户最为担心的关键因素。\n\n不知不觉，无极已经熬过艰难困苦的八个季度。在同类团队平均生命周期极其有限的行业环境中，这已经是较长的存续时间。但我相信，我们不会在这个严冬倒下。我们将不断另辟蹊径，通过代码杠杆与技术迭代，优化此前用户报告和担忧的各类问题，避免重蹈覆辙，避免重犯过去的错误。\n\n未来，我们将陆续公开更多产品的分析证书与第三方检查报告，同时欢迎各位无极用户提出投诉与同行检举。\n\n最后，无限进步"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3088,
+          "like_count": 28,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "9月，尽管目前无极内部面对库存管理、服务质量以及退货流程等问题的巨大挑战，但我们依然遵守对各位无极用户的承诺。请允许我向大家公开我们的新产品：ISO 2.0 的 Certificate of Analysis（包括 HPLC 色谱图、MS 质谱图），即“COA/质量检测报告”。其中个人信息及非检测相关商业信息已隐藏。 https://t.co/BqOlzBsepr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 273,
+          "like_count": 3079,
+          "listed_count": 2,
+          "media_count": 71,
+          "tweet_count": 3991
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-15T05:46:41.000Z",
+        "description": "Biohacker/认知提升剂 （nootropics）X/ADHD 专注商品/推特第二大促智商 “本研究化合物仅供实验室研究使用，严禁用于人体和动物” \n\n客服 @paipaipaitang ⚠️TG客服已死 不要联系⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 82,
+                "username": "paipaipaitang"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/paitangcuzhi",
+                "end": 23,
+                "expanded_url": "https://t.me/paitangcuzhi",
+                "start": 0,
+                "url": "https://t.co/r6ojtqNEYk"
+              }
+            ]
+          }
+        },
+        "id": "1272405078683430913",
+        "location": "下ネタ〇 |病み垢|不登校|",
+        "name": "☯️🧬無極 利他林和专注达",
+        "pinned_tweet_id": "1969373866742202735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967686157631987712/DUjlsOQP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9586,
+          "following_count": 543,
+          "like_count": 7749,
+          "listed_count": 26,
+          "media_count": 1607,
+          "tweet_count": 13412
+        },
+        "url": "https://t.co/r6ojtqNEYk",
+        "username": "PaitangOfficial",
+        "verified": true
+      }
+    ]
+  }
+}

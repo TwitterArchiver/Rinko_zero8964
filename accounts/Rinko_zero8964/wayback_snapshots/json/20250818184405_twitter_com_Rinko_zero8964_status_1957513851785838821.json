@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1925223881385615362"
+      ],
+      "media_source_tweet_id": [
+        "1957211719433871590"
+      ]
+    },
+    "author_id": "1849043039496617984",
+    "conversation_id": "1957513851785838821",
+    "created_at": "2025-08-18T18:44:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-18T19:44:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957513851785838821"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1594329207768846337",
+          "start": 3,
+          "username": "stonersvilla"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/092rLWq93u",
+          "end": 41,
+          "expanded_url": "https://x.com/stonersvilla/status/1957211719433871590/video/1",
+          "media_key": "13_1925223881385615362",
+          "start": 18,
+          "url": "https://t.co/092rLWq93u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957513851785838821",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 45
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957211719433871590",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @stonersvilla: https://t.co/092rLWq93u"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15000,
+        "height": 480,
+        "media_key": "13_1925223881385615362",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1925223881385615362/img/nv5ZRBiQlobR86si.jpg",
+        "public_metrics": {
+          "view_count": 18570
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1925223881385615362/vid/avc1/320x320/lNWlzLojOmkeMJic.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1925223881385615362/vid/avc1/480x480/YxUC9DxkBQP-7W7c.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1925223881385615362/pl/J2_hURe7rNmtqP_E.m3u8?v=e21"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1925223881385615362"
+          ],
+          "media_source_tweet_id": [
+            "1957211719433871590"
+          ]
+        },
+        "author_id": "1849043039496617984",
+        "conversation_id": "1957513851785838821",
+        "created_at": "2025-08-18T18:44:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T19:44:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957513851785838821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1594329207768846337",
+              "start": 3,
+              "username": "stonersvilla"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/092rLWq93u",
+              "end": 41,
+              "expanded_url": "https://x.com/stonersvilla/status/1957211719433871590/video/1",
+              "media_key": "13_1925223881385615362",
+              "start": 18,
+              "url": "https://t.co/092rLWq93u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957513851785838821",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 45
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957211719433871590",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @stonersvilla: https://t.co/092rLWq93u"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1925223881385615362"
+          ]
+        },
+        "author_id": "1594329207768846337",
+        "conversation_id": "1957211719433871590",
+        "created_at": "2025-08-17T22:43:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T23:43:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957211719433871590"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/092rLWq93u",
+              "end": 23,
+              "expanded_url": "https://x.com/stonersvilla/status/1957211719433871590/video/1",
+              "media_key": "13_1925223881385615362",
+              "start": 0,
+              "url": "https://t.co/092rLWq93u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957211719433871590",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 59,
+          "impression_count": 10134,
+          "like_count": 662,
+          "quote_count": 6,
+          "reply_count": 23,
+          "retweet_count": 45
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/092rLWq93u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849043147487420416/0nrEqJTK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 239,
+          "like_count": 1777,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 3043
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-20T13:58:49.000Z",
+        "description": "🧚🏼‍♀️",
+        "id": "1594329207768846337",
+        "location": "☁️",
+        "name": "Stoner Barbie",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937865127497207808/_BuqHspm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351717,
+          "following_count": 1,
+          "like_count": 12169,
+          "listed_count": 449,
+          "media_count": 10057,
+          "tweet_count": 19819
+        },
+        "username": "stonersvilla",
+        "verified": true
+      }
+    ]
+  }
+}

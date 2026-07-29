@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2006759341756653711",
+    "created_at": "2026-01-02T01:44:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T02:44:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006904284991156531"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1763381254035251200",
+          "start": 0,
+          "username": "yowamushi120720"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006904284991156531",
+    "in_reply_to_user_id": "1763381254035251200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006759341756653711",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yowamushi120720 抱抱你，顺其自然也是一种幸福，但是“定”也可以指某种定力，说是你的意志力很坚定？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2006759341756653711",
+        "created_at": "2026-01-02T01:44:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T02:44:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006904284991156531"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1763381254035251200",
+              "start": 0,
+              "username": "yowamushi120720"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006904284991156531",
+        "in_reply_to_user_id": "1763381254035251200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006759341756653711",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yowamushi120720 抱抱你，顺其自然也是一种幸福，但是“定”也可以指某种定力，说是你的意志力很坚定？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1763381254035251200",
+        "conversation_id": "2006759341756653711",
+        "created_at": "2026-01-01T16:08:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T17:08:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006759341756653711"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yowamushi12072…",
+              "end": 154,
+              "expanded_url": "https://twitter.com/yowamushi120720/status/2006350279751746041",
+              "start": 131,
+              "url": "https://t.co/JELyUfzwxl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006759341756653711",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 235,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006350279751746041",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "说到这，31号老师给我们出了同样的题，我写的“定“。\n感觉自己被看不见的大手紧紧拿捏了，被困在无法挣脱的轨道上走向既定的结局。好处在于，不用做出选择不影响他人那样取舍犹豫，一切都注定了，只好顺其自然。\n无力啊，一切都是命运石之门的选择！终末之时已至，吃汉堡吧。 https://t.co/JELyUfzwxl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜如果没有回关请私信提醒我！｜我不吸毒！！！｜小猫我喜欢你超喜欢我爱你@psych_angel_｜性别为无、",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 45,
+                "username": "psych_angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNh89"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1999352315241988490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 486,
+          "following_count": 455,
+          "like_count": 9185,
+          "listed_count": 1,
+          "media_count": 126,
+          "tweet_count": 5979
+        },
+        "url": "https://t.co/rCvc9RNh89",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-01T01:50:39.000Z",
+        "description": "若要通行，必须通过创口｜奋斗百年，我是禁毒宣传大使🤓️ ｜社交问题见谅，如无意冒犯请多多包容不用当真｜不负弱虫之名！*无心之过淹没了你 enby",
+        "id": "1763381254035251200",
+        "location": "掌声存在之地",
+        "name": "弱虫モンブラン",
+        "pinned_tweet_id": "1994782842002575702",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004604089381072896/T83RMACH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 552,
+          "like_count": 40491,
+          "listed_count": 2,
+          "media_count": 144,
+          "tweet_count": 3642
+        },
+        "username": "yowamushi120720",
+        "verified": false
+      }
+    ]
+  }
+}

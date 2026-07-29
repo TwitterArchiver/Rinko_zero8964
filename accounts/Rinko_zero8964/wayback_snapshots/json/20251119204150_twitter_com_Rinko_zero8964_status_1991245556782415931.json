@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1991245556782415931",
+    "created_at": "2025-11-19T20:41:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T21:41:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991245556782415931"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "971329071576596480",
+          "start": 3,
+          "username": "spspsky"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991245556782415931",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991180988702175244",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @spspsky: 我们的tg账号和频道被人举报封禁了\n而几天前我们刚上架了价格便宜的3-meo-pce\n而被封禁又偏偏是今天\n怎么回事呢，好难猜啊🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1991245556782415931",
+        "created_at": "2025-11-19T20:41:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T21:41:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991245556782415931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "971329071576596480",
+              "start": 3,
+              "username": "spspsky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991245556782415931",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991180988702175244",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @spspsky: 我们的tg账号和频道被人举报封禁了\n而几天前我们刚上架了价格便宜的3-meo-pce\n而被封禁又偏偏是今天\n怎么回事呢，好难猜啊🤣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "971329071576596480",
+        "conversation_id": "1991180988702175244",
+        "created_at": "2025-11-19T16:25:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T17:25:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991180988702175244"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1991180988702175244",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 552,
+          "like_count": 18,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "我们的tg账号和频道被人举报封禁了\n而几天前我们刚上架了价格便宜的3-meo-pce\n而被封禁又偏偏是今天\n怎么回事呢，好难猜啊🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜🥺@NashiMoe233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "NashiMoe233"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1967335109767692560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 317,
+          "like_count": 4347,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 4489
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2018-03-07T10:17:51.000Z",
+        "description": "PsYLab策划药批发/日本药物代购 长期招代理",
+        "id": "971329071576596480",
+        "name": "PsYLab",
+        "pinned_tweet_id": "1990418827385999501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990391766185582592/ue7-K5if_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1773,
+          "following_count": 11,
+          "like_count": 1143,
+          "listed_count": 5,
+          "media_count": 6,
+          "tweet_count": 170
+        },
+        "username": "spspsky",
+        "verified": false
+      }
+    ]
+  }
+}

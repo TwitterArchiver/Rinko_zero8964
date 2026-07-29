@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2022219590626160926",
+    "created_at": "2026-02-13T16:17:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T17:17:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022344301389520996"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1484072544009347072",
+          "start": 0,
+          "username": "BelovedUren8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022344301389520996",
+    "in_reply_to_user_id": "1484072544009347072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022219590626160926",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BelovedUren8964 这套我也买了在b站但是没有特典我哭了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2022219578592641024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBBd_hfawAA_9V4.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1118,
+        "media_key": "3_2022219578601091072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBBd_hhbsAAhyt7.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2022219590626160926",
+        "created_at": "2026-02-13T16:17:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T17:17:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022344301389520996"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1484072544009347072",
+              "start": 0,
+              "username": "BelovedUren8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022344301389520996",
+        "in_reply_to_user_id": "1484072544009347072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022219590626160926",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BelovedUren8964 这套我也买了在b站但是没有特典我哭了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022219578592641024",
+            "3_2022219578601091072"
+          ]
+        },
+        "author_id": "1484072544009347072",
+        "conversation_id": "2022219590626160926",
+        "created_at": "2026-02-13T08:01:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T09:01:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022219590626160926"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zFWPmve4hH",
+              "end": 41,
+              "expanded_url": "https://x.com/BelovedUren8964/status/2022219590626160926/photo/1",
+              "media_key": "3_2022219578592641024",
+              "start": 18,
+              "url": "https://t.co/zFWPmve4hH"
+            },
+            {
+              "display_url": "pic.x.com/zFWPmve4hH",
+              "end": 41,
+              "expanded_url": "https://x.com/BelovedUren8964/status/2022219590626160926/photo/1",
+              "media_key": "3_2022219578601091072",
+              "start": 18,
+              "url": "https://t.co/zFWPmve4hH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022219590626160926",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 951,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "农村人来上海过偷情节有没有什么玩的 https://t.co/zFWPmve4hH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ZA",
+              "full_name": "South Africa",
+              "geo": {
+                "coordinates": [
+                  24.0,
+                  -29.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我思即我在｜我是林子｜如果没有回关请私信提醒我！｜我不吸毒！！！｜性别为无、｜輪郭の定まらない位置にいた人@Psych_Angel_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 53,
+                "username": "Psych_Angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNh89"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 567,
+          "following_count": 526,
+          "like_count": 14291,
+          "listed_count": 1,
+          "media_count": 146,
+          "tweet_count": 7272
+        },
+        "url": "https://t.co/rCvc9RNh89",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-20T07:57:36.000Z",
+        "description": "叫我雨怜，我是善良猫猫。 无性别者/💊oder 我支持为OD正名/自由万岁！自由永远高于一切/这还用说吗，我是汉奸哪🇯🇵 / 台湾支那，一边一国🇹🇼 / 反男反女反跨反人类反一切/支那人没有一个是无辜的/我心里的第一和唯一@Amenyan14_w /知音难寻@Psych_Angel",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 111,
+                "username": "Amenyan14_w"
+              },
+              {
+                "end": 141,
+                "start": 129,
+                "username": "Psych_Angel"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/uren68329",
+                "end": 23,
+                "expanded_url": "https://ngl.link/uren68329",
+                "start": 0,
+                "url": "https://t.co/DgJHLTrKH9"
+              }
+            ]
+          }
+        },
+        "id": "1484072544009347072",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "滨边雨怜会成为真正的传奇",
+        "pinned_tweet_id": "2009339225901248808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009941021363507201/jjiJM8UQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 449,
+          "following_count": 509,
+          "like_count": 5305,
+          "listed_count": 1,
+          "media_count": 442,
+          "tweet_count": 3877
+        },
+        "url": "https://t.co/DgJHLTrKH9",
+        "username": "BelovedUren8964",
+        "verified": false
+      }
+    ]
+  }
+}

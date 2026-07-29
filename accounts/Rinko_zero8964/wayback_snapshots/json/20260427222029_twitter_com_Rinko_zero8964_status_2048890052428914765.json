@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2048330350653546747",
+    "created_at": "2026-04-27T22:20:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T23:20:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048890052428914765"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2007465888438706176",
+          "start": 0,
+          "username": "Kakuko42"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048890052428914765",
+    "in_reply_to_user_id": "2007465888438706176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048560613148770626",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kakuko42 呜呜，抱抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2048330350653546747",
+        "created_at": "2026-04-27T22:20:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T23:20:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048890052428914765"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2007465888438706176",
+              "start": 0,
+              "username": "Kakuko42"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048890052428914765",
+        "in_reply_to_user_id": "2007465888438706176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048560613148770626",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kakuko42 呜呜，抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007465888438706176",
+        "conversation_id": "2048330350653546747",
+        "created_at": "2026-04-27T00:31:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T01:31:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048560613148770626"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1849043039496617984",
+              "start": 0,
+              "username": "Rinko_zero8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048560613148770626",
+        "in_reply_to_user_id": "1849043039496617984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048330350653546747",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rinko_zero8964 抱抱林子…怎么会有这么坏的人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思う、ゆえに我あり｜ 我是林子｜性别为无、｜寒くなってきたね……もう少しだけ、いい？｜intp-t｜ASD/OCD/焦虑障碍｜🧬今日也想成为biohacker｜好妈妈们@Misaki11137 @loveforeversfy|bro @BelovedUren8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 85,
+                "username": "Misaki11137"
+              },
+              {
+                "end": 113,
+                "start": 98,
+                "username": "loveforeversfy"
+              },
+              {
+                "end": 134,
+                "start": 118,
+                "username": "BelovedUren8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wakaba_rinko",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wakaba_rinko",
+                "start": 0,
+                "url": "https://t.co/zWqK1n9RJg"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "Ask me any u want→",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 705,
+          "following_count": 689,
+          "like_count": 17453,
+          "listed_count": 1,
+          "media_count": 177,
+          "tweet_count": 8523
+        },
+        "url": "https://t.co/zWqK1n9RJg",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-03T14:55:51.000Z",
+        "description": "=核子/Kakuko | 炉心融解激推 | 20⬆️ | enby | any pronouns | 飛び込んでみたいと 思う | 不在国内不卖药 | Lay Back and Dive.",
+        "id": "2007465888438706176",
+        "location": "眠れない 午前二時",
+        "name": "核子融合炉 #室宿一",
+        "pinned_tweet_id": "2026304498721865911",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017663558406873088/puT6sL5a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 218,
+          "like_count": 3102,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 206
+        },
+        "username": "Kakuko42",
+        "verified": false
+      }
+    ]
+  }
+}

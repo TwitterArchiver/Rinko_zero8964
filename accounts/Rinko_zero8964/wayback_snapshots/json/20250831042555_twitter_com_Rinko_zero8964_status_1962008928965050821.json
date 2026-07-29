@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "1962008928965050821",
+    "created_at": "2025-08-31T04:25:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T05:25:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962008928965050821"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1960026902418321408",
+          "start": 3,
+          "username": "Drugs_Kitten"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962008928965050821",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961809147760197968",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Drugs_Kitten: 嗑药？磕兴奋剂解离剂阿片类把自己搞得迷迷糊糊的人和使用致幻剂的人是一个层次的？典型的例子之一就是“没有LSD就没有PCR”。Kary Mullis因发明 PCR 技术而获得 1993 年诺贝尔化学奖，他曾公开表示过自己是在LSD的影响下灵感迸…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1962008928965050821",
+        "created_at": "2025-08-31T04:25:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T05:25:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962008928965050821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1960026902418321408",
+              "start": 3,
+              "username": "Drugs_Kitten"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962008928965050821",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961809147760197968",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Drugs_Kitten: 嗑药？磕兴奋剂解离剂阿片类把自己搞得迷迷糊糊的人和使用致幻剂的人是一个层次的？典型的例子之一就是“没有LSD就没有PCR”。Kary Mullis因发明 PCR 技术而获得 1993 年诺贝尔化学奖，他曾公开表示过自己是在LSD的影响下灵感迸…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1960026902418321408",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1961809147760197968",
+        "created_at": "2025-08-30T15:12:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T16:12:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961809147760197968"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/je1nfaur_l/sta…",
+              "end": 182,
+              "expanded_url": "https://twitter.com/je1nfaur_l/status/1961458048037523956",
+              "start": 159,
+              "url": "https://t.co/fzGciqxAGp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961809147760197968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 270,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961458048037523956",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "嗑药？磕兴奋剂解离剂阿片类把自己搞得迷迷糊糊的人和使用致幻剂的人是一个层次的？典型的例子之一就是“没有LSD就没有PCR”。Kary Mullis因发明 PCR 技术而获得 1993 年诺贝尔化学奖，他曾公开表示过自己是在LSD的影响下灵感迸发才提出了PCR技术的构想的。迷幻剂在艺术和音乐创作领域的地位更不用我多说 https://t.co/fzGciqxAGp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849043147487420416/0nrEqJTK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 250,
+          "like_count": 2221,
+          "listed_count": 2,
+          "media_count": 50,
+          "tweet_count": 3425
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-25T17:10:16.000Z",
+        "description": "💖你好，这里是小猫。｜药物百科副Wiki主｜有任何药物相关问题都可以私信免费咨询哦💕｜ 私信回fo｜谨慎关注里推:@CuteKittenO3O会有大量负能/药物使用",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 57,
+                "username": "CuteKittenO3O"
+              }
+            ]
+          }
+        },
+        "id": "1960026902418321408",
+        "name": "💊MediKitty🌌",
+        "pinned_tweet_id": "1960031991401005577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960036096215224320/DqeocQbY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 121,
+          "like_count": 231,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 87
+        },
+        "username": "Drugs_Kitten",
+        "verified": false
+      }
+    ]
+  }
+}

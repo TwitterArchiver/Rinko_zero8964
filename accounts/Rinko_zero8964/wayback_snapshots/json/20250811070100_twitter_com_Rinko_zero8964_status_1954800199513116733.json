@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1954783658294014179",
+    "created_at": "2025-08-11T07:01:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-11T08:01:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954800199513116733"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1892114014563598339",
+          "start": 0,
+          "username": "tyumen1871"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954800199513116733",
+    "in_reply_to_user_id": "1892114014563598339",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954783658294014179",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tyumen1871 好好休息，小心精分"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1954783658294014179",
+        "created_at": "2025-08-11T07:01:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T08:01:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954800199513116733"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1892114014563598339",
+              "start": 0,
+              "username": "tyumen1871"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954800199513116733",
+        "in_reply_to_user_id": "1892114014563598339",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954783658294014179",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tyumen1871 好好休息，小心精分"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892114014563598339",
+        "conversation_id": "1954783658294014179",
+        "created_at": "2025-08-11T05:55:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T06:55:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954783658294014179"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1954783658294014179",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有人抱抱我，刚经历了一场地狱折磨，60小时的兴奋清醒耗尽了我所有的能量"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849043147487420416/0nrEqJTK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 234,
+          "like_count": 1492,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 2777
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-19T07:28:41.000Z",
+        "description": "你有尝试变得真实吗？ / 𝗞 • ✂ / INFP / MtX / 𝐎𝐕𝐄𝐑𝐃𝐎𝐒𝐄&𝐃𝐑𝐔𝐆  / 疑似左翼  / 屋檐上的洋甘菊 / i want to be alone(or not) /请加入我的个人频道https://t.co/nNLhrbxvif",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Kaironagtime",
+                "end": 129,
+                "expanded_url": "https://t.me/Kaironagtime",
+                "start": 106,
+                "url": "https://t.co/nNLhrbxvif"
+              }
+            ]
+          }
+        },
+        "id": "1892114014563598339",
+        "name": "xX梅妻鹤子Xx",
+        "pinned_tweet_id": "1951705785404440954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925829843179958273/2vEQbIqU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 282,
+          "like_count": 26289,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 1223
+        },
+        "username": "tyumen1871",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2041903748877054434",
+    "created_at": "2026-04-09T01:40:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T02:40:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042054913761669224"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1868205822511288320",
+          "start": 0,
+          "username": "vicoOci_Olvidar"
+        },
+        {
+          "end": 29,
+          "id": "1552602100634251265",
+          "start": 17,
+          "username": "AceChiliYin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042054913761669224",
+    "in_reply_to_user_id": "1868205822511288320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041903748877054434",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vicoOci_Olvidar @AceChiliYin 这个奶龙好好喝…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1416,
+        "media_key": "3_2041903731416137728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFZMoBCagAATa-k.jpg",
+        "width": 780
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2041903748877054434",
+        "created_at": "2026-04-09T01:40:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T02:40:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042054913761669224"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1868205822511288320",
+              "start": 0,
+              "username": "vicoOci_Olvidar"
+            },
+            {
+              "end": 29,
+              "id": "1552602100634251265",
+              "start": 17,
+              "username": "AceChiliYin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042054913761669224",
+        "in_reply_to_user_id": "1868205822511288320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041903748877054434",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vicoOci_Olvidar @AceChiliYin 这个奶龙好好喝…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041903731416137728"
+          ]
+        },
+        "author_id": "1868205822511288320",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2041903748877054434",
+        "created_at": "2026-04-08T15:39:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T16:39:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041903748877054434"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 24,
+              "id": "1552602100634251265",
+              "start": 12,
+              "username": "AceChiliYin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tuGL50E2rj",
+              "end": 48,
+              "expanded_url": "https://x.com/vicoOci_Olvidar/status/2041903748877054434/photo/1",
+              "media_key": "3_2041903731416137728",
+              "start": 25,
+              "url": "https://t.co/tuGL50E2rj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041903748877054434",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 175,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "饮用蓝色奶龙中，，，骚话@AceChiliYin https://t.co/tuGL50E2rj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思う、ゆえに我あり｜ 我是林子｜性别为无、｜寒くなってきたね……もう少しだけ、いい？｜intp-t｜asd/焦虑障碍｜🧬今日也想成为biohacker｜好妈妈们@asabakasaiko @loveforeversfy|bro @BelovedUren8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 81,
+                "username": "asabakasaiko"
+              },
+              {
+                "end": 110,
+                "start": 95,
+                "username": "loveforeversfy"
+              },
+              {
+                "end": 131,
+                "start": 115,
+                "username": "BelovedUren8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wakaba_rinko",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wakaba_rinko",
+                "start": 0,
+                "url": "https://t.co/zWqK1n9RJg"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "Ask me any u want→",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 655,
+          "following_count": 639,
+          "like_count": 17174,
+          "listed_count": 1,
+          "media_count": 167,
+          "tweet_count": 8262
+        },
+        "url": "https://t.co/zWqK1n9RJg",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-15T08:06:14.000Z",
+        "description": "编辑个人资料 /区宝宝啦啦啦@valentina748264",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 14,
+                "username": "valentina748264"
+              }
+            ]
+          }
+        },
+        "id": "1868205822511288320",
+        "location": "啤酒厂",
+        "name": "万宝胃",
+        "pinned_tweet_id": "2026241131324084508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040974004794916864/MDffMkBI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4327,
+          "following_count": 373,
+          "like_count": 23893,
+          "listed_count": 15,
+          "media_count": 1206,
+          "tweet_count": 15856
+        },
+        "username": "vicoOci_Olvidar",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-28T10:29:33.000Z",
+        "description": "认真的每一次呼吸，烟花的绚烂就不算虚拟🎆叫我小弦 小七哩。七哩＝Chili是喜欢的乐队，Yin是弦的粤语读音。我是男的。不涉政。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@chiliyin?si=L…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@chiliyin?si=LGU4ACqix6eS_odl",
+                "start": 0,
+                "url": "https://t.co/rhXAcjwhhK"
+              }
+            ]
+          }
+        },
+        "id": "1552602100634251265",
+        "location": "廣東香山",
+        "name": "永雏弦",
+        "pinned_tweet_id": "2040067410619998361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041380620040024064/f6e9WPl8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1481,
+          "following_count": 835,
+          "like_count": 120728,
+          "listed_count": 12,
+          "media_count": 675,
+          "tweet_count": 23955
+        },
+        "url": "https://t.co/rhXAcjwhhK",
+        "username": "AceChiliYin",
+        "verified": false
+      }
+    ]
+  }
+}

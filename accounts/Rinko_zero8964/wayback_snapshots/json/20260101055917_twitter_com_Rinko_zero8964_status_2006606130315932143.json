@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2006259006592147623",
+    "created_at": "2026-01-01T05:59:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T06:59:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006606130315932143"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1929782343889248257",
+          "start": 0,
+          "username": "ZhanSJRT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006606130315932143",
+    "in_reply_to_user_id": "1929782343889248257",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006259006592147623",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZhanSJRT 有耐受，而且dpt会把其他全部盖过去"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2006259006592147623",
+        "created_at": "2026-01-01T05:59:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T06:59:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006606130315932143"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1929782343889248257",
+              "start": 0,
+              "username": "ZhanSJRT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006606130315932143",
+        "in_reply_to_user_id": "1929782343889248257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006259006592147623",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZhanSJRT 有耐受，而且dpt会把其他全部盖过去"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929782343889248257",
+        "conversation_id": "2006259006592147623",
+        "created_at": "2025-12-31T06:59:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T07:59:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006259006592147623"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2006259006592147623",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 79,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有无推油试过前一天dpt后一天4hm或者其他psychedelic的，我怕使劲用第二天有耐受了浪费药…（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜如果没有回关请私信提醒我！｜我不吸毒！！！｜小猫我喜欢你超喜欢我爱你@psych_angel_｜性别为无、",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 45,
+                "username": "psych_angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNh89"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1999352315241988490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 488,
+          "following_count": 451,
+          "like_count": 8901,
+          "listed_count": 1,
+          "media_count": 125,
+          "tweet_count": 5920
+        },
+        "url": "https://t.co/rCvc9RNh89",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-03T06:09:27.000Z",
+        "description": "不要让致幻剂成为你生活的全部",
+        "id": "1929782343889248257",
+        "location": "ego death",
+        "name": "felixx",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989307794369970177/RtYFOw7L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 183,
+          "like_count": 97,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 189
+        },
+        "username": "ZhanSJRT",
+        "verified": false
+      }
+    ]
+  }
+}

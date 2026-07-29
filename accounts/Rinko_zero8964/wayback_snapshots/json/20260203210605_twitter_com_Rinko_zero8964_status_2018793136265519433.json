@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2018761419861487616"
+      ],
+      "media_source_tweet_id": [
+        "2018761434461794776"
+      ]
+    },
+    "author_id": "1849043039496617984",
+    "conversation_id": "2018793136265519433",
+    "created_at": "2026-02-03T21:06:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T22:06:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018793136265519433"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2007104134466736129",
+          "start": 3,
+          "username": "peipeimao"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VKaidxjYVs",
+          "end": 44,
+          "expanded_url": "https://x.com/peipeimao/status/2018761434461794776/photo/1",
+          "media_key": "3_2018761419861487616",
+          "start": 21,
+          "url": "https://t.co/VKaidxjYVs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018793136265519433",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018761434461794776",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @peipeimao: 唉呀晚安安 https://t.co/VKaidxjYVs"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2018793136265519433].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2018793136265519433",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2018793136265519433"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2018761419861487616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAQU0MUbcAA5tX-.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018761419861487616"
+          ]
+        },
+        "author_id": "2007104134466736129",
+        "conversation_id": "2018761434461794776",
+        "created_at": "2026-02-03T19:00:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T20:00:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018761434461794776"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VKaidxjYVs",
+              "end": 29,
+              "expanded_url": "https://x.com/peipeimao/status/2018761434461794776/photo/1",
+              "media_key": "3_2018761419861487616",
+              "start": 6,
+              "url": "https://t.co/VKaidxjYVs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018761434461794776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 1938,
+          "like_count": 197,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "唉呀晚安安 https://t.co/VKaidxjYVs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜如果没有回关请私信提醒我！｜我不吸毒！！！｜性别为无、｜輪郭の定まらない位置にいた人@Psych_Angel_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 53,
+                "username": "Psych_Angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNh89"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 549,
+          "following_count": 506,
+          "like_count": 13316,
+          "listed_count": 1,
+          "media_count": 144,
+          "tweet_count": 6971
+        },
+        "url": "https://t.co/rCvc9RNh89",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "依旧私信只想回口令",
+        "id": "2007104134466736129",
+        "location": "一般路过门槛妹",
+        "name": "裴裴小猫meoww",
+        "pinned_tweet_id": "2017769917165232223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008908362331865088/gDy2e0ur_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2295,
+          "following_count": 139,
+          "like_count": 325,
+          "listed_count": 4,
+          "media_count": 48,
+          "tweet_count": 654
+        },
+        "username": "peipeimao",
+        "verified": false
+      }
+    ]
+  }
+}

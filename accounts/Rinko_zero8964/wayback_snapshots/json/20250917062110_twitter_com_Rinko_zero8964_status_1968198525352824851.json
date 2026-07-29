@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1968179965935096204",
+    "created_at": "2025-09-17T06:21:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T07:21:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968198525352824851"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1801534903626121216",
+          "start": 0,
+          "username": "qngshu988723424"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968198525352824851",
+    "in_reply_to_user_id": "1801534903626121216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968179965935096204",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qngshu988723424 我觉得这得怪隔音太差，我猫猫在家里玩球被楼下投诉说有人在上面砸楼我也是害怕了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1025,
+        "media_key": "3_1968179962814533632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1BhP5GaEAABJV6.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1968179965935096204",
+        "created_at": "2025-09-17T06:21:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T07:21:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968198525352824851"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1801534903626121216",
+              "start": 0,
+              "username": "qngshu988723424"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968198525352824851",
+        "in_reply_to_user_id": "1801534903626121216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968179965935096204",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qngshu988723424 我觉得这得怪隔音太差，我猫猫在家里玩球被楼下投诉说有人在上面砸楼我也是害怕了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968179962814533632"
+          ]
+        },
+        "author_id": "1801534903626121216",
+        "conversation_id": "1968179965935096204",
+        "created_at": "2025-09-17T05:07:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T06:07:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968179965935096204"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/roEteaS7He",
+              "end": 70,
+              "expanded_url": "https://x.com/qngshu988723424/status/1968179965935096204/photo/1",
+              "media_key": "3_1968179962814533632",
+              "start": 47,
+              "url": "https://t.co/roEteaS7He"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968179965935096204",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我希望是别人家也养鸟了。\n不过也不是特别难理解因为14楼小孩嚎的动静在一楼还是五楼都能听清。 https://t.co/roEteaS7He"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 276,
+          "like_count": 3009,
+          "listed_count": 2,
+          "media_count": 70,
+          "tweet_count": 3940
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-14T08:39:35.000Z",
+        "description": "和鸟每天抢吃的。\n匿名箱https://t.co/Zk9zfZ9hhM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pome.vip/rotaka",
+                "end": 35,
+                "expanded_url": "https://pome.vip/rotaka",
+                "start": 12,
+                "url": "https://t.co/Zk9zfZ9hhM"
+              }
+            ]
+          }
+        },
+        "id": "1801534903626121216",
+        "location": "鸟笼",
+        "name": "rotaka",
+        "pinned_tweet_id": "1940443442192298200",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940567992988778496/7-IqQwtT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 283,
+          "like_count": 2646,
+          "listed_count": 1,
+          "media_count": 383,
+          "tweet_count": 3539
+        },
+        "username": "qngshu988723424",
+        "verified": false
+      }
+    ]
+  }
+}

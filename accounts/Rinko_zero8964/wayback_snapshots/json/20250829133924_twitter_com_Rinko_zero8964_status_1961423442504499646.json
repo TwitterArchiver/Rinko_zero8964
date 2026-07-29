@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1961364611145646096",
+    "created_at": "2025-08-29T13:39:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-29T14:39:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961423442504499646"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1757256163564118016",
+          "start": 0,
+          "username": "AiLan95909"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961423442504499646",
+    "in_reply_to_user_id": "1757256163564118016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961364611145646096",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AiLan95909 呀呀呀好萌想捏捏"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1961364604124368898",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzgqtzfbkAIx7uK.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1961364604178894849",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzgqtzsbkAEqWlo.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1961364611145646096",
+        "created_at": "2025-08-29T13:39:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T14:39:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961423442504499646"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1757256163564118016",
+              "start": 0,
+              "username": "AiLan95909"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961423442504499646",
+        "in_reply_to_user_id": "1757256163564118016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961364611145646096",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AiLan95909 呀呀呀好萌想捏捏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961364604124368898",
+            "3_1961364604178894849"
+          ]
+        },
+        "author_id": "1757256163564118016",
+        "conversation_id": "1961364611145646096",
+        "created_at": "2025-08-29T09:45:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T10:45:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961364611145646096"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2bzOqPFH0j",
+              "end": 32,
+              "expanded_url": "https://x.com/AiLan95909/status/1961364611145646096/photo/1",
+              "media_key": "3_1961364604124368898",
+              "start": 9,
+              "url": "https://t.co/2bzOqPFH0j"
+            },
+            {
+              "display_url": "pic.x.com/2bzOqPFH0j",
+              "end": 32,
+              "expanded_url": "https://x.com/AiLan95909/status/1961364611145646096/photo/1",
+              "media_key": "3_1961364604178894849",
+              "start": 9,
+              "url": "https://t.co/2bzOqPFH0j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961364611145646096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 148,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "忽略我的奇怪头绳 https://t.co/2bzOqPFH0j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849043147487420416/0nrEqJTK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 245,
+          "like_count": 2149,
+          "listed_count": 2,
+          "media_count": 47,
+          "tweet_count": 3353
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-13T04:11:56.000Z",
+        "description": "靠近你就靠近了痛苦 遠離你卻遠離了幸福",
+        "id": "1757256163564118016",
+        "name": "沉黎",
+        "pinned_tweet_id": "1959975981072216189",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940610256976932864/-nXcOwUZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 650,
+          "following_count": 80,
+          "like_count": 840,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 189
+        },
+        "username": "AiLan95909",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2006041160595431655",
+    "created_at": "2025-12-31T10:43:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-31T11:43:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006315365991858352"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1580263959751319554",
+          "start": 0,
+          "username": "kkndjhbh"
+        },
+        {
+          "end": 20,
+          "id": "1943704460813041665",
+          "start": 10,
+          "username": "misakixyg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006315365991858352",
+    "in_reply_to_user_id": "1580263959751319554",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006306355335053462",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kkndjhbh @misakixyg 鼻吸不走mao代谢，但是仍然可以提高一点效果，口服可以maoi"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2006041160595431655",
+        "created_at": "2025-12-31T10:43:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T11:43:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006315365991858352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1580263959751319554",
+              "start": 0,
+              "username": "kkndjhbh"
+            },
+            {
+              "end": 20,
+              "id": "1943704460813041665",
+              "start": 10,
+              "username": "misakixyg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006315365991858352",
+        "in_reply_to_user_id": "1580263959751319554",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006306355335053462",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kkndjhbh @misakixyg 鼻吸不走mao代谢，但是仍然可以提高一点效果，口服可以maoi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1580263959751319554",
+        "conversation_id": "2006041160595431655",
+        "created_at": "2025-12-31T10:08:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T11:08:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006306355335053462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1943704460813041665",
+              "start": 0,
+              "username": "misakixyg"
+            },
+            {
+              "end": 26,
+              "id": "1849043039496617984",
+              "start": 11,
+              "username": "Rinko_zero8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006306355335053462",
+        "in_reply_to_user_id": "1943704460813041665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006305901045850136",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@misakixyg @Rinko_zero8964 这个我真的不太懂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜如果没有回关请私信提醒我！｜我不吸毒！！！｜小猫我喜欢你超喜欢我爱你@psych_angel_｜性别为无、",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 45,
+                "username": "psych_angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNh89"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1999352315241988490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 489,
+          "following_count": 453,
+          "like_count": 8651,
+          "listed_count": 1,
+          "media_count": 125,
+          "tweet_count": 5875
+        },
+        "url": "https://t.co/rCvc9RNh89",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-12T18:27:51.000Z",
+        "description": "全网同ID，经过多个大fo推主认证。oder可互fo 业余诗人 瘾君子 双相 轻中度精分 lgbt友好立场，反传统男性主义。不主动建议od。古罗马掌管色胺的执政官。 带领更多人进入美妙世界 不做任何违法列管生意，产品全部合法合规。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%89%B6%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%89%B6%E6%A2%AF",
+                "start": 0,
+                "url": "https://t.co/RIPVCzFX2S"
+              }
+            ]
+          }
+        },
+        "id": "1580263959751319554",
+        "location": "色胺宇宙 提问⬇️",
+        "name": "扶梯",
+        "pinned_tweet_id": "2004487258733498798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001818403577925633/u23NNlI1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 237,
+          "like_count": 2318,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 941
+        },
+        "url": "https://t.co/RIPVCzFX2S",
+        "username": "kkndjhbh",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-11T16:10:40.000Z",
+        "description": "三崎，是🐟而已，没什么",
+        "id": "1943704460813041665",
+        "name": "三崎（前前前前世）",
+        "pinned_tweet_id": "1967513968437862416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967897431917596672/s-g3H3pD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2781,
+          "following_count": 966,
+          "like_count": 18577,
+          "listed_count": 5,
+          "media_count": 167,
+          "tweet_count": 5235
+        },
+        "username": "misakixyg",
+        "verified": false
+      }
+    ]
+  }
+}

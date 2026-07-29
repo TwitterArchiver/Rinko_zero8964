@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2006899671508320256"
+      ],
+      "media_source_tweet_id": [
+        "2006899682652598590"
+      ]
+    },
+    "author_id": "1849043039496617984",
+    "conversation_id": "2006899998370541810",
+    "created_at": "2026-01-02T01:27:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T02:27:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006899998370541810"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1943704460813041665",
+          "start": 3,
+          "username": "misakixyg"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/May4Pf5nyE",
+          "end": 74,
+          "expanded_url": "https://x.com/misakixyg/status/2006899682652598590/photo/1",
+          "media_key": "3_2006899671508320256",
+          "start": 51,
+          "url": "https://t.co/May4Pf5nyE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006899998370541810",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006899682652598590",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @misakixyg: 我可能又要卖药或者卖身了，有人来看看嘛，想要的都可以来私聊，坐标江浙沪 https://t.co/May4Pf5nyE"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2006899998370541810].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2006899998370541810",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2006899998370541810"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2006899671508320256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9nwnkQaAAABdiQ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006899671508320256"
+          ]
+        },
+        "author_id": "1943704460813041665",
+        "conversation_id": "2006899682652598590",
+        "created_at": "2026-01-02T01:25:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T02:25:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006899682652598590"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/May4Pf5nyE",
+              "end": 59,
+              "expanded_url": "https://x.com/misakixyg/status/2006899682652598590/photo/1",
+              "media_key": "3_2006899671508320256",
+              "start": 36,
+              "url": "https://t.co/May4Pf5nyE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006899682652598590",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我可能又要卖药或者卖身了，有人来看看嘛，想要的都可以来私聊，坐标江浙沪 https://t.co/May4Pf5nyE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜如果没有回关请私信提醒我！｜我不吸毒！！！｜小猫我喜欢你超喜欢我爱你@psych_angel_｜性别为无、",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 45,
+                "username": "psych_angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNh89"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1999352315241988490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 486,
+          "following_count": 454,
+          "like_count": 9161,
+          "listed_count": 1,
+          "media_count": 126,
+          "tweet_count": 5977
+        },
+        "url": "https://t.co/rCvc9RNh89",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-11T16:10:40.000Z",
+        "description": "三崎，是🐟而已，没什么",
+        "id": "1943704460813041665",
+        "name": "三崎（前前前前世）",
+        "pinned_tweet_id": "1967513968437862416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967897431917596672/s-g3H3pD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2778,
+          "following_count": 965,
+          "like_count": 18683,
+          "listed_count": 5,
+          "media_count": 168,
+          "tweet_count": 5250
+        },
+        "username": "misakixyg",
+        "verified": false
+      }
+    ]
+  }
+}

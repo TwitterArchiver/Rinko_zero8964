@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2023961434162340013",
+    "created_at": "2026-02-18T05:04:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T06:04:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023987050186195199"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1934711316608102400",
+          "start": 0,
+          "username": "D13D1N2019"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023987050186195199",
+    "in_reply_to_user_id": "1934711316608102400",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023981865368162515",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@D13D1N2019 😭请好好在乎自己"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2023961434162340013",
+        "created_at": "2026-02-18T05:04:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T06:04:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023987050186195199"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1934711316608102400",
+              "start": 0,
+              "username": "D13D1N2019"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023987050186195199",
+        "in_reply_to_user_id": "1934711316608102400",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023981865368162515",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@D13D1N2019 😭请好好在乎自己"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934711316608102400",
+        "conversation_id": "2023961434162340013",
+        "created_at": "2026-02-18T04:44:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T05:44:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023981865368162515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1849043039496617984",
+              "start": 0,
+              "username": "Rinko_zero8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023981865368162515",
+        "in_reply_to_user_id": "1849043039496617984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023977033605542126",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rinko_zero8964 我吃了2t氨酚羟考酮+2t阿普唑仑+1t地达西尼，我已经这样吃了四天，昨天才想起来要留意一下瞳孔\n看到自己瞳孔那刻吓了一跳，然后才意识到自己看不清东西是因为瞳孔都成这样了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思う、ゆえに我あり｜ 我是林子｜性别为无、｜寒くなってきたね……もう少しだけ、いい？｜intp-t｜asd/焦虑障碍｜🧬今日也想成为biohacker｜輪郭の定まらない位置にいた人@Psych_Angel_｜好妈妈们@asabakasaiko @loveforeversfy|bro @BelovedUren8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 91,
+                "username": "Psych_Angel_"
+              },
+              {
+                "end": 122,
+                "start": 109,
+                "username": "asabakasaiko"
+              },
+              {
+                "end": 138,
+                "start": 123,
+                "username": "loveforeversfy"
+              },
+              {
+                "end": 159,
+                "start": 143,
+                "username": "BelovedUren8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wakaba_rinko",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wakaba_rinko",
+                "start": 0,
+                "url": "https://t.co/zWqK1n9RJg"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "Ask me any u want→",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 580,
+          "following_count": 540,
+          "like_count": 15028,
+          "listed_count": 1,
+          "media_count": 149,
+          "tweet_count": 7502
+        },
+        "url": "https://t.co/zWqK1n9RJg",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-16T20:35:16.000Z",
+        "description": "18↑/中文/不定时上线/  \n可悲的无形扭曲之物  无人注视的幽灵/会发布药物相关与我的负面情绪/本账号为逃生舱/大号@Kumamushi2021",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 60,
+                "username": "Kumamushi2021"
+              }
+            ]
+          }
+        },
+        "id": "1934711316608102400",
+        "location": "hell",
+        "name": "🐟",
+        "pinned_tweet_id": "1975506058627195373",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934715028281884672/Ne-xoL5e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 15,
+          "like_count": 154,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 217
+        },
+        "username": "D13D1N2019",
+        "verified": false
+      }
+    ]
+  }
+}

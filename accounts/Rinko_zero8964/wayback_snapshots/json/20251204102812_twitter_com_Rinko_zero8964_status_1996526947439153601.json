@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1996526947439153601",
+    "created_at": "2025-12-04T10:28:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T11:28:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996526947439153601"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1992807417273606144",
+          "start": 3,
+          "username": "mao89879"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996526947439153601",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996226684367049022",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mao89879: 电波男我喜欢你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1996526947439153601",
+        "created_at": "2025-12-04T10:28:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T11:28:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996526947439153601"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1992807417273606144",
+              "start": 3,
+              "username": "mao89879"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996526947439153601",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996226684367049022",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mao89879: 电波男我喜欢你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992807417273606144",
+        "conversation_id": "1996226684367049022",
+        "created_at": "2025-12-03T14:35:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T15:35:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996226684367049022"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1996226684367049022",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 330,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "电波男我喜欢你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜🥺@NashiMoe233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "NashiMoe233"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1967335109767692560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 393,
+          "following_count": 348,
+          "like_count": 5413,
+          "listed_count": 1,
+          "media_count": 93,
+          "tweet_count": 4930
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-24T04:08:25.000Z",
+        "description": "非二元／m／ 双相情感障碍 做过10次mect已变成笨蛋喵／ asd adhd 共患／求互fo",
+        "id": "1992807417273606144",
+        "name": "亚伽马热线",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992978434646241281/UGOOe5Yg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 72,
+          "like_count": 249,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 27
+        },
+        "username": "mao89879",
+        "verified": false
+      }
+    ]
+  }
+}

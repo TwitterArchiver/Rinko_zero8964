@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2002222248837648820",
+    "created_at": "2025-12-20T03:39:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T04:39:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002222248837648820"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1992807417273606144",
+          "start": 3,
+          "username": "mao89879"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002222248837648820",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001971526405636242",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mao89879: 不想再有推友死掉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2002222248837648820",
+        "created_at": "2025-12-20T03:39:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T04:39:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002222248837648820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1992807417273606144",
+              "start": 3,
+              "username": "mao89879"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002222248837648820",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001971526405636242",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mao89879: 不想再有推友死掉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992807417273606144",
+        "conversation_id": "2001971526405636242",
+        "created_at": "2025-12-19T11:03:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T12:03:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001971526405636242"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2001971526405636242",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "不想再有推友死掉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜🥺@NashiMoe233｜如果没有回关请私信提醒我！｜我不吸毒！！！｜小猫我喜欢你超喜欢我爱你@psych_angel_｜性别为无、",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "NashiMoe233"
+              },
+              {
+                "end": 72,
+                "start": 59,
+                "username": "psych_angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNh89"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1999352315241988490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 438,
+          "following_count": 403,
+          "like_count": 35,
+          "listed_count": 1,
+          "media_count": 106,
+          "tweet_count": 5390
+        },
+        "url": "https://t.co/rCvc9RNh89",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-24T04:08:25.000Z",
+        "description": "他从来不吸毒，但天生爱幻想",
+        "id": "1992807417273606144",
+        "name": "亚伽马热线",
+        "pinned_tweet_id": "1997627287320326306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999066420580364288/1I7MZU4H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 135,
+          "like_count": 736,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 157
+        },
+        "username": "mao89879",
+        "verified": false
+      }
+    ]
+  }
+}

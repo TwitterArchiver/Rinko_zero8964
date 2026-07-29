@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1954764217032343800",
+    "created_at": "2025-08-11T06:35:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-11T07:35:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954793802322894884"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1914046337903190016",
+          "start": 0,
+          "username": "omiyagetw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954793802322894884",
+    "in_reply_to_user_id": "1914046337903190016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954788181469200880",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@omiyagetw 沒事呀歐米🥺我爺爺奶奶沒住院他們很好，我只是很討厭教育裡這樣要拿悲傷情緒寫文章的要領而已"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1954764217032343800",
+        "created_at": "2025-08-11T06:35:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T07:35:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954793802322894884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1914046337903190016",
+              "start": 0,
+              "username": "omiyagetw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954793802322894884",
+        "in_reply_to_user_id": "1914046337903190016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954788181469200880",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@omiyagetw 沒事呀歐米🥺我爺爺奶奶沒住院他們很好，我只是很討厭教育裡這樣要拿悲傷情緒寫文章的要領而已"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1914046337903190016",
+        "conversation_id": "1954764217032343800",
+        "created_at": "2025-08-11T06:13:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T07:13:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954788181469200880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1849043039496617984",
+              "start": 0,
+              "username": "Rinko_zero8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954788181469200880",
+        "in_reply_to_user_id": "1849043039496617984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954786951787331956",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rinko_zero8964 悲傷的情緒比較好書寫文章，這是有有依據的，歐米主要是數落補習班跟什麼名師教導的作文寫作要領，導致大家寫的都是一樣套路；讓Rinko 想起不好回憶歐米感到抱歉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849043147487420416/0nrEqJTK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 234,
+          "like_count": 1486,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 2769
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-20T19:59:56.000Z",
+        "description": "台灣/男/INTJ/極度厭惡約炮及嫖/\n喜愛遊戲、音樂/努力當個正常人/PC、steam小遊戲/\n匿名箱：https://t.co/Ym8YNh3M4i\n棉花糖：https://t.co/L96aYsO3hI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/omiyagetw",
+                "end": 76,
+                "expanded_url": "https://ngl.link/omiyagetw",
+                "start": 53,
+                "url": "https://t.co/Ym8YNh3M4i"
+              },
+              {
+                "display_url": "marshmallow-qa.com/gd5udj3tys3vcf…",
+                "end": 104,
+                "expanded_url": "https://marshmallow-qa.com/gd5udj3tys3vcf5?t=QW8iuu&utm_medium=url_text&utm_",
+                "start": 81,
+                "url": "https://t.co/L96aYsO3hI"
+              }
+            ]
+          }
+        },
+        "id": "1914046337903190016",
+        "name": "歐米Omi",
+        "pinned_tweet_id": "1953313796186918983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930669088738828289/BPD-zSvM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 89,
+          "like_count": 6467,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 3038
+        },
+        "username": "omiyagetw",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2019668909180502466",
+    "created_at": "2026-02-06T07:06:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T08:06:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2019668909180502466"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rinko_zero8964…",
+          "end": 66,
+          "expanded_url": "https://twitter.com/rinko_zero8964/status/2019668577109045260",
+          "start": 43,
+          "url": "https://t.co/VzLTjLI9Qx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019668909180502466",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019668577109045260",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "讲个笑话我刚刚拿自己本人的普瑞处方去开普瑞还有家长担保没买到普瑞因为是未成年，我好恨 https://t.co/VzLTjLI9Qx"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2019668909180502466",
+        "created_at": "2026-02-06T07:06:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T08:06:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019668909180502466"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rinko_zero8964…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/rinko_zero8964/status/2019668577109045260",
+              "start": 43,
+              "url": "https://t.co/VzLTjLI9Qx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019668909180502466",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019668577109045260",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "讲个笑话我刚刚拿自己本人的普瑞处方去开普瑞还有家长担保没买到普瑞因为是未成年，我好恨 https://t.co/VzLTjLI9Qx"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2019668577109045260",
+        "created_at": "2026-02-06T07:04:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T08:04:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019668577109045260"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rinko_zero8964…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/rinko_zero8964/status/2019667656769692143",
+              "start": 141,
+              "url": "https://t.co/0YPlTRvSO0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019668577109045260",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019667656769692143",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "从三年前我就每天被焦虑带来的躯体化折磨，每天、每时、每刻，我最严重的时候痛到无法站立无法动弹，主要集中在头部，我痛苦的每天都想把自己前额叶绞碎，我每天要惊恐发作至少2次，但是普瑞对我来说基本无效，甚至副作用大于正向作用，强力的止痛药我开不出来因为我还是未成年，普通抗焦虑药对我没用 https://t.co/0YPlTRvSO0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜如果没有回关请私信提醒我！｜我不吸毒！！！｜性别为无、｜輪郭の定まらない位置にいた人@Psych_Angel_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 53,
+                "username": "Psych_Angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNh89"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 550,
+          "following_count": 511,
+          "like_count": 13568,
+          "listed_count": 1,
+          "media_count": 145,
+          "tweet_count": 7048
+        },
+        "url": "https://t.co/rCvc9RNh89",
+        "username": "Rinko_zero8964",
+        "verified": false
+      }
+    ]
+  }
+}

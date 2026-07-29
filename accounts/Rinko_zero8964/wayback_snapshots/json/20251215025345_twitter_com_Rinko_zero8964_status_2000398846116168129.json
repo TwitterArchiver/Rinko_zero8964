@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2000395887022084096"
+      ],
+      "media_source_tweet_id": [
+        "2000396066756452677"
+      ]
+    },
+    "author_id": "1849043039496617984",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2000398846116168129",
+    "created_at": "2025-12-15T02:53:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T03:53:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000398846116168129"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1450773205178720260",
+          "start": 3,
+          "username": "ReT0ky0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zHftwZx7gg",
+          "end": 36,
+          "expanded_url": "https://x.com/ReT0ky0/status/2000396066756452677/video/1",
+          "media_key": "13_2000395887022084096",
+          "start": 13,
+          "url": "https://t.co/zHftwZx7gg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000398846116168129",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000396066756452677",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ReT0ky0: https://t.co/zHftwZx7gg"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 211880,
+        "height": 360,
+        "media_key": "13_2000395887022084096",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2000395887022084096/img/tOpgEwLgCXGzOrLh.jpg",
+        "public_metrics": {
+          "view_count": 535
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2000395887022084096/vid/avc1/480x270/Sk3X0ZnWzAX5y2Rr.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2000395887022084096/vid/avc1/640x360/UWLwMTONTwG_6lTB.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2000395887022084096/pl/8GIlC0W1dRCs74Ex.m3u8"
+          }
+        ],
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2000395887022084096"
+          ],
+          "media_source_tweet_id": [
+            "2000396066756452677"
+          ]
+        },
+        "author_id": "1849043039496617984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2000398846116168129",
+        "created_at": "2025-12-15T02:53:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T03:53:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000398846116168129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1450773205178720260",
+              "start": 3,
+              "username": "ReT0ky0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zHftwZx7gg",
+              "end": 36,
+              "expanded_url": "https://x.com/ReT0ky0/status/2000396066756452677/video/1",
+              "media_key": "13_2000395887022084096",
+              "start": 13,
+              "url": "https://t.co/zHftwZx7gg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000398846116168129",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000396066756452677",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ReT0ky0: https://t.co/zHftwZx7gg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2000395887022084096"
+          ]
+        },
+        "author_id": "1450773205178720260",
+        "conversation_id": "2000396066756452677",
+        "created_at": "2025-12-15T02:42:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T03:42:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000396066756452677"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zHftwZx7gg",
+              "end": 23,
+              "expanded_url": "https://x.com/ReT0ky0/status/2000396066756452677/video/1",
+              "media_key": "13_2000395887022084096",
+              "start": 0,
+              "url": "https://t.co/zHftwZx7gg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000396066756452677",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 1639,
+          "like_count": 20,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/zHftwZx7gg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜🥺@NashiMoe233｜如果没有回关请私信提醒我！｜我不吸毒！！！｜小猫我喜欢你超喜欢我爱你@psych_angel_｜性别为无、",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "NashiMoe233"
+              },
+              {
+                "end": 72,
+                "start": 59,
+                "username": "psych_angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNh89"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1999352315241988490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421,
+          "following_count": 384,
+          "like_count": 6190,
+          "listed_count": 1,
+          "media_count": 101,
+          "tweet_count": 5214
+        },
+        "url": "https://t.co/rCvc9RNh89",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-20T10:37:49.000Z",
+        "description": "Something good Archives.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/ret0ky0_memory…",
+                "end": 23,
+                "expanded_url": "https://instagram.com/ret0ky0_memory?igshid=OGIzYTJhMTRmYQ==",
+                "start": 0,
+                "url": "https://t.co/bplsffeB4f"
+              }
+            ]
+          }
+        },
+        "id": "1450773205178720260",
+        "name": "Re:TOKYO MEMORY",
+        "pinned_tweet_id": "1679151106558169088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1459403716784963584/I3Gq8aGR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 758887,
+          "following_count": 17,
+          "like_count": 866,
+          "listed_count": 1825,
+          "media_count": 5230,
+          "tweet_count": 5397
+        },
+        "url": "https://t.co/bplsffeB4f",
+        "username": "ReT0ky0",
+        "verified": true
+      }
+    ]
+  }
+}

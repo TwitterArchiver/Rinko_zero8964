@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1989592826636828672",
+        "3_1989592826599075840"
+      ]
+    },
+    "author_id": "1849043039496617984",
+    "conversation_id": "1989592833917886857",
+    "created_at": "2025-11-15T07:14:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T08:14:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1989592833917886857"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/KdqJHN9VNh",
+          "end": 35,
+          "expanded_url": "https://x.com/Rinko_zero8964/status/1989592833917886857/photo/1",
+          "media_key": "3_1989592826636828672",
+          "start": 12,
+          "url": "https://t.co/KdqJHN9VNh"
+        },
+        {
+          "display_url": "pic.x.com/KdqJHN9VNh",
+          "end": 35,
+          "expanded_url": "https://x.com/Rinko_zero8964/status/1989592833917886857/photo/1",
+          "media_key": "3_1989592826599075840",
+          "start": 12,
+          "url": "https://t.co/KdqJHN9VNh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989592833917886857",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你们应该知道我想说什么 https://t.co/KdqJHN9VNh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1989592826636828672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5x0Im9agAA6tR1.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1989592826599075840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5x0Im0acAAIBoq.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989592826636828672",
+            "3_1989592826599075840"
+          ]
+        },
+        "author_id": "1849043039496617984",
+        "conversation_id": "1989592833917886857",
+        "created_at": "2025-11-15T07:14:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T08:14:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989592833917886857"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KdqJHN9VNh",
+              "end": 35,
+              "expanded_url": "https://x.com/Rinko_zero8964/status/1989592833917886857/photo/1",
+              "media_key": "3_1989592826636828672",
+              "start": 12,
+              "url": "https://t.co/KdqJHN9VNh"
+            },
+            {
+              "display_url": "pic.x.com/KdqJHN9VNh",
+              "end": 35,
+              "expanded_url": "https://x.com/Rinko_zero8964/status/1989592833917886857/photo/1",
+              "media_key": "3_1989592826599075840",
+              "start": 12,
+              "url": "https://t.co/KdqJHN9VNh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989592833917886857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们应该知道我想说什么 https://t.co/KdqJHN9VNh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜🥺@NashiMoe233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "NashiMoe233"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1967335109767692560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 305,
+          "like_count": 3912,
+          "listed_count": 1,
+          "media_count": 83,
+          "tweet_count": 4380
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      }
+    ]
+  }
+}

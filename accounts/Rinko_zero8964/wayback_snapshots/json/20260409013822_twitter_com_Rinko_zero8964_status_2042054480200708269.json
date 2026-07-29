@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2042054480200708269",
+    "created_at": "2026-04-09T01:38:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T02:38:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042054480200708269"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/beloveduren896…",
+          "end": 40,
+          "expanded_url": "https://x.com/beloveduren8964/status/2036660520905027677?s=46",
+          "start": 17,
+          "url": "https://t.co/51bzlfCvdK"
+        },
+        {
+          "display_url": "x.com/beloveduren896…",
+          "end": 65,
+          "expanded_url": "https://x.com/beloveduren8964/status/2036453259356115307?s=46",
+          "start": 42,
+          "url": "https://t.co/DoYZExUrVY"
+        },
+        {
+          "display_url": "x.com/beloveduren896…",
+          "end": 90,
+          "expanded_url": "https://x.com/beloveduren8964/status/2036451489749803184?s=46",
+          "start": 67,
+          "url": "https://t.co/Li5dqq6Aw4"
+        },
+        {
+          "display_url": "x.com/beloveduren896…",
+          "end": 114,
+          "expanded_url": "https://twitter.com/beloveduren8964/status/2039135849640763736",
+          "start": 91,
+          "url": "https://t.co/WTciVGKJqv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042054480200708269",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039135849640763736",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "谁能想到这都是一个人\n感慨一下\n\nhttps://t.co/51bzlfCvdK\n\nhttps://t.co/DoYZExUrVY\n\nhttps://t.co/Li5dqq6Aw4 https://t.co/WTciVGKJqv"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2042054480200708269",
+        "created_at": "2026-04-09T01:38:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T02:38:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042054480200708269"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/beloveduren896…",
+              "end": 40,
+              "expanded_url": "https://x.com/beloveduren8964/status/2036660520905027677?s=46",
+              "start": 17,
+              "url": "https://t.co/51bzlfCvdK"
+            },
+            {
+              "display_url": "x.com/beloveduren896…",
+              "end": 65,
+              "expanded_url": "https://x.com/beloveduren8964/status/2036453259356115307?s=46",
+              "start": 42,
+              "url": "https://t.co/DoYZExUrVY"
+            },
+            {
+              "display_url": "x.com/beloveduren896…",
+              "end": 90,
+              "expanded_url": "https://x.com/beloveduren8964/status/2036451489749803184?s=46",
+              "start": 67,
+              "url": "https://t.co/Li5dqq6Aw4"
+            },
+            {
+              "display_url": "x.com/beloveduren896…",
+              "end": 114,
+              "expanded_url": "https://twitter.com/beloveduren8964/status/2039135849640763736",
+              "start": 91,
+              "url": "https://t.co/WTciVGKJqv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042054480200708269",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039135849640763736",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谁能想到这都是一个人\n感慨一下\n\nhttps://t.co/51bzlfCvdK\n\nhttps://t.co/DoYZExUrVY\n\nhttps://t.co/Li5dqq6Aw4 https://t.co/WTciVGKJqv"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1484072544009347072",
+        "conversation_id": "2039135849640763736",
+        "created_at": "2026-04-01T00:20:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T01:20:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039135849640763736"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039135849640763736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 299,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我直接开骂：*****你一个皮下男装得倒是够好 我就是能和朋友一起玩 我就是和这帮人关系足够好 因为我人值得 你就是要卖惨才会有没眼光的傻逼关心你 因为你人品比他妈的地板还低 你就是要永远被困在那个地方直到手机密码都忘记 而我会和你也想一起玩的人一起玩\n下次见到雨怜眼睛擦亮 真人真性 随时发放^"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思う、ゆえに我あり｜ 我是林子｜性别为无、｜寒くなってきたね……もう少しだけ、いい？｜intp-t｜asd/焦虑障碍｜🧬今日也想成为biohacker｜好妈妈们@asabakasaiko @loveforeversfy|bro @BelovedUren8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 81,
+                "username": "asabakasaiko"
+              },
+              {
+                "end": 110,
+                "start": 95,
+                "username": "loveforeversfy"
+              },
+              {
+                "end": 131,
+                "start": 115,
+                "username": "BelovedUren8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wakaba_rinko",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wakaba_rinko",
+                "start": 0,
+                "url": "https://t.co/zWqK1n9RJg"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "Ask me any u want→",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 655,
+          "following_count": 639,
+          "like_count": 17173,
+          "listed_count": 1,
+          "media_count": 167,
+          "tweet_count": 8261
+        },
+        "url": "https://t.co/zWqK1n9RJg",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-20T07:57:36.000Z",
+        "description": "叫我雨怜，我是善良猫猫。 无性别者/ 反男反女反跨反人类反一切/支那人没有一个是无辜的/台湾是一个国家/我心里的第一和唯一@Magacu3yum",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 61,
+                "username": "Magacu3yum"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/uren68329",
+                "end": 23,
+                "expanded_url": "https://ngl.link/uren68329",
+                "start": 0,
+                "url": "https://t.co/DgJHLTsiwH"
+              }
+            ]
+          }
+        },
+        "id": "1484072544009347072",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "浜辺雨怜会成为真正的传奇",
+        "pinned_tweet_id": "2029935282569761105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040918718503673856/Pq33qgnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 550,
+          "following_count": 514,
+          "like_count": 5624,
+          "listed_count": 1,
+          "media_count": 512,
+          "tweet_count": 4207
+        },
+        "url": "https://t.co/DgJHLTsiwH",
+        "username": "BelovedUren8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1970914345971482890",
+    "created_at": "2025-09-24T18:12:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-24T19:12:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970914345971482890"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1911828872334831616",
+          "start": 3,
+          "username": "Edward_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970914345971482890",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970900979559301463",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Edward_8964: 你这是典型的安卓毒品 安卓策划药 安卓物质 安卓化学品 安卓药效 安卓通路 安卓受体 安卓代谢 安卓半衰期 安卓纯度 安卓结构 安卓化学式 安卓质量 安卓ph值 安卓精神活性 安卓储存条件 安卓极性 安卓键能 安卓杂质 安卓分子量 安卓密度 h…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 801,
+        "media_key": "3_1970900969157505025",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1oL_TobMAEIc4n.jpg",
+        "width": 1042
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1970914345971482890",
+        "created_at": "2025-09-24T18:12:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T19:12:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970914345971482890"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1911828872334831616",
+              "start": 3,
+              "username": "Edward_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970914345971482890",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970900979559301463",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Edward_8964: 你这是典型的安卓毒品 安卓策划药 安卓物质 安卓化学品 安卓药效 安卓通路 安卓受体 安卓代谢 安卓半衰期 安卓纯度 安卓结构 安卓化学式 安卓质量 安卓ph值 安卓精神活性 安卓储存条件 安卓极性 安卓键能 安卓杂质 安卓分子量 安卓密度 h…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970900969157505025"
+          ]
+        },
+        "author_id": "1911828872334831616",
+        "conversation_id": "1970900979559301463",
+        "created_at": "2025-09-24T17:19:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T18:19:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970900979559301463"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/y0pjbf4nQF",
+              "end": 144,
+              "expanded_url": "https://x.com/Edward_8964/status/1970900979559301463/photo/1",
+              "media_key": "3_1970900969157505025",
+              "start": 121,
+              "url": "https://t.co/y0pjbf4nQF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970900979559301463",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你这是典型的安卓毒品 安卓策划药 安卓物质 安卓化学品 安卓药效 安卓通路 安卓受体 安卓代谢 安卓半衰期 安卓纯度 安卓结构 安卓化学式 安卓质量 安卓ph值 安卓精神活性 安卓储存条件 安卓极性 安卓键能 安卓杂质 安卓分子量 安卓密度 https://t.co/y0pjbf4nQF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1970904695813329260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 334,
+          "following_count": 280,
+          "like_count": 3352,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 4164
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-14T17:08:26.000Z",
+        "description": "第4次转生 生理男｜退役OIer｜OD｜重精神病｜ADHD｜右美沙芬 ｜freeODwiki参与者｜NEwiki维护员｜自由、梦想、进取｜没有任何盈利",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nonexistent.wiki",
+                "end": 23,
+                "expanded_url": "http://nonexistent.wiki",
+                "start": 0,
+                "url": "https://t.co/l3ALBiEbNl"
+              }
+            ]
+          }
+        },
+        "id": "1911828872334831616",
+        "location": "NE",
+        "name": "💊爱德华",
+        "pinned_tweet_id": "1970742984984654222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968709578079764480/7M5DfbwN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 572,
+          "following_count": 456,
+          "like_count": 4139,
+          "listed_count": 3,
+          "media_count": 141,
+          "tweet_count": 2445
+        },
+        "url": "https://t.co/l3ALBiEbNl",
+        "username": "Edward_8964",
+        "verified": false
+      }
+    ]
+  }
+}

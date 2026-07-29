@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1964541387212488785",
+    "created_at": "2025-09-07T05:57:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-07T06:57:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964568763170431318"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1502654786453204994",
+          "start": 0,
+          "username": "uranus_chaos"
+        },
+        {
+          "end": 27,
+          "id": "1960026902418321408",
+          "start": 14,
+          "username": "Drugs_Kitten"
+        },
+        {
+          "end": 42,
+          "id": "1879395690230738944",
+          "start": 28,
+          "username": "CuteKittenO3O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964568763170431318",
+    "in_reply_to_user_id": "1502654786453204994",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964567903606624473",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uranus_chaos @Drugs_Kitten @CuteKittenO3O 哇塞这就是专业吗我理论设想过但是没想明白"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1964541387212488785",
+        "created_at": "2025-09-07T05:57:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T06:57:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964568763170431318"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1502654786453204994",
+              "start": 0,
+              "username": "uranus_chaos"
+            },
+            {
+              "end": 27,
+              "id": "1960026902418321408",
+              "start": 14,
+              "username": "Drugs_Kitten"
+            },
+            {
+              "end": 42,
+              "id": "1879395690230738944",
+              "start": 28,
+              "username": "CuteKittenO3O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964568763170431318",
+        "in_reply_to_user_id": "1502654786453204994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964567903606624473",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uranus_chaos @Drugs_Kitten @CuteKittenO3O 哇塞这就是专业吗我理论设想过但是没想明白"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1502654786453204994",
+        "conversation_id": "1964541387212488785",
+        "created_at": "2025-09-07T05:54:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T06:54:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964567903606624473"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1960026902418321408",
+              "start": 0,
+              "username": "Drugs_Kitten"
+            },
+            {
+              "end": 28,
+              "id": "1879395690230738944",
+              "start": 14,
+              "username": "CuteKittenO3O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964567903606624473",
+        "in_reply_to_user_id": "1960026902418321408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964566959074529282",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Drugs_Kitten @CuteKittenO3O 实际：\n苯乙醛格氏加成（CH3MgBr）形成 1-苯基-2-丙醇\nDMP 氧化形成苯丙酮 (P2P)\nHCl 和水酸洗 (P2P 进一步纯化)\n不必要的Darzens缩合（划掉，但是觉得有趣还是说了，这一步并不需要也没有作用也会导致产物歧化）\nAl/Hg 或 NaBH4 还原胺化形成苯丙胺\nBrCH3 N-甲基化形成甲基苯丙胺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849043147487420416/0nrEqJTK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 262,
+          "like_count": 2469,
+          "listed_count": 2,
+          "media_count": 64,
+          "tweet_count": 3652
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-12T14:36:45.000Z",
+        "description": "拯救，陪伴，热爱，绝不抛弃。 ‖ 双星系统/主恒星/Venus：@shiyulin_‖药学毕业/医学生/护理学毕业/心理学二专‖里推：@不告诉你！ 自己猜！‖客服瑶光猫：@yaoguangmao（在线时间am11:30-pm10:30❗）点击进入无限循环：@uranus_chaos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 32,
+                "username": "shiyulin_"
+              },
+              {
+                "end": 97,
+                "start": 85,
+                "username": "yaoguangmao"
+              },
+              {
+                "end": 141,
+                "start": 128,
+                "username": "uranus_chaos"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mtf_great",
+                "end": 23,
+                "expanded_url": "https://t.me/mtf_great",
+                "start": 0,
+                "url": "https://t.co/ResOORYaTk"
+              }
+            ]
+          }
+        },
+        "id": "1502654786453204994",
+        "location": "是一个无条件接受倾诉的树洞，休息时间是a.m 01：00。",
+        "name": "二酸化炭素の🪼猫诺诺🍥🏴🏳️‍🌈【学术推】【南河三】",
+        "pinned_tweet_id": "1958099694309048384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958164515515957248/htMD0p97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1401,
+          "following_count": 305,
+          "like_count": 27382,
+          "listed_count": 0,
+          "media_count": 963,
+          "tweet_count": 7421
+        },
+        "url": "https://t.co/ResOORYaTk",
+        "username": "uranus_chaos",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-25T17:10:16.000Z",
+        "description": "💖你好，这里是小猫。｜药物百科副Wiki主｜有任何药物相关问题都可以私信免费咨询哦💕｜ 私信回fo｜谨慎关注里推:@CuteKittenO3O会有大量负能/药物使用",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 57,
+                "username": "CuteKittenO3O"
+              }
+            ]
+          }
+        },
+        "id": "1960026902418321408",
+        "name": "💊MediKitty🌌",
+        "pinned_tweet_id": "1960031991401005577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960036096215224320/DqeocQbY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 443,
+          "following_count": 135,
+          "like_count": 410,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 178
+        },
+        "username": "Drugs_Kitten",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-15T05:10:34.000Z",
+        "description": "𝓢𝓬𝓲𝓮𝓷𝓽𝓲𝓼𝓽 | 𝓟𝓱𝓲𝓵𝓸𝓼𝓸𝓹𝓱𝓮𝓻 | 𝓛𝓪𝓫 𝓡𝓪𝓽｜🍧:@Chufeinya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 36,
+                "username": "Chufeinya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/6thcutek1tten1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/6thcutek1tten1",
+                "start": 0,
+                "url": "https://t.co/nRpYRqPS2U"
+              }
+            ]
+          }
+        },
+        "id": "1879395690230738944",
+        "name": "小猫",
+        "pinned_tweet_id": "1960304514504044996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964380508445679616/vaBwEQUe_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 479,
+          "following_count": 521,
+          "like_count": 11456,
+          "listed_count": 0,
+          "media_count": 296,
+          "tweet_count": 4883
+        },
+        "url": "https://t.co/nRpYRqPS2U",
+        "username": "CuteKittenO3O",
+        "verified": false
+      }
+    ]
+  }
+}

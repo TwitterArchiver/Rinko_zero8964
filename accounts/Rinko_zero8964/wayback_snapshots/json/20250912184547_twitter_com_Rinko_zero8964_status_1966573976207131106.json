@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1966401096567730268",
+    "created_at": "2025-09-12T18:45:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-12T19:45:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966573976207131106"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 14,
+          "normalized_text": "恭喜",
+          "probability": 0.6438,
+          "start": 13,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1911828872334831616",
+          "start": 0,
+          "username": "Edward_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966573976207131106",
+    "in_reply_to_user_id": "1911828872334831616",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966401096567730268",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Edward_8964 恭喜"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1966401086497107971",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0oPXqaaMAMQ63w.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1966401086476156928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0oPXqVagAAkjXv.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1966401096567730268",
+        "created_at": "2025-09-12T18:45:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T19:45:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966573976207131106"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 14,
+              "normalized_text": "恭喜",
+              "probability": 0.6438,
+              "start": 13,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1911828872334831616",
+              "start": 0,
+              "username": "Edward_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966573976207131106",
+        "in_reply_to_user_id": "1911828872334831616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966401096567730268",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Edward_8964 恭喜"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966401086497107971",
+            "3_1966401086476156928"
+          ]
+        },
+        "author_id": "1911828872334831616",
+        "conversation_id": "1966401096567730268",
+        "created_at": "2025-09-12T07:18:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T08:18:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966401096567730268"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jysDgvwcnr",
+              "end": 29,
+              "expanded_url": "https://x.com/Edward_8964/status/1966401096567730268/photo/1",
+              "media_key": "3_1966401086497107971",
+              "start": 6,
+              "url": "https://t.co/jysDgvwcnr"
+            },
+            {
+              "display_url": "pic.x.com/jysDgvwcnr",
+              "end": 29,
+              "expanded_url": "https://x.com/Edward_8964/status/1966401096567730268/photo/1",
+              "media_key": "3_1966401086476156928",
+              "start": 6,
+              "url": "https://t.co/jysDgvwcnr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966401096567730268",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1369,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "人生首次？ https://t.co/jysDgvwcnr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 263,
+          "like_count": 2621,
+          "listed_count": 2,
+          "media_count": 66,
+          "tweet_count": 3743
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-14T17:08:26.000Z",
+        "description": "od不扩散就是个笑话，要是没扩散的话我tm就不会出现在这里 自由意志主义者 前世：@XuaEdward",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 41,
+                "username": "XuaEdward"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nonexistent.wiki",
+                "end": 23,
+                "expanded_url": "http://nonexistent.wiki",
+                "start": 0,
+                "url": "https://t.co/l3ALBiDDXN"
+              }
+            ]
+          }
+        },
+        "id": "1911828872334831616",
+        "location": "NE",
+        "name": "💊爱德华 gen4 转生体",
+        "pinned_tweet_id": "1965081461217964097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965419822738800644/pPqeg0w5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 531,
+          "following_count": 432,
+          "like_count": 3887,
+          "listed_count": 2,
+          "media_count": 125,
+          "tweet_count": 2121
+        },
+        "url": "https://t.co/l3ALBiDDXN",
+        "username": "Edward_8964",
+        "verified": false
+      }
+    ]
+  }
+}

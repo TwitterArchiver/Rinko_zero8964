@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2002294147504615632",
+    "created_at": "2025-12-20T11:14:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T12:14:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002336924632228228"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1965531250447568896",
+          "start": 0,
+          "username": "jingyin_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002336924632228228",
+    "in_reply_to_user_id": "1965531250447568896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002294147504615632",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jingyin_8964 抱抱你冷静，好高哦，能不能在上面学mygo（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3120,
+        "media_key": "3_2002277751890587651",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8mFAb8bMAMiXqd.jpg",
+        "width": 3120
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2002294147504615632",
+        "created_at": "2025-12-20T11:14:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T12:14:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002336924632228228"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1965531250447568896",
+              "start": 0,
+              "username": "jingyin_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002336924632228228",
+        "in_reply_to_user_id": "1965531250447568896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002294147504615632",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jingyin_8964 抱抱你冷静，好高哦，能不能在上面学mygo（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002277751890587651"
+          ]
+        },
+        "author_id": "1965531250447568896",
+        "conversation_id": "2002294147504615632",
+        "created_at": "2025-12-20T08:25:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T09:25:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002294147504615632"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sQXxGF6UNp",
+              "end": 65,
+              "expanded_url": "https://x.com/jingyin_8964/status/2002294147504615632/photo/1",
+              "media_key": "3_2002277751890587651",
+              "start": 42,
+              "url": "https://t.co/sQXxGF6UNp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002294147504615632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 237,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "经过天桥的时候我一直在掐自己胳膊让自己冷静下来别乱翻越 想跳下去终结问题根源 想死 https://t.co/sQXxGF6UNp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜🥺@NashiMoe233｜如果没有回关请私信提醒我！｜我不吸毒！！！｜小猫我喜欢你超喜欢我爱你@psych_angel_｜性别为无、",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "NashiMoe233"
+              },
+              {
+                "end": 72,
+                "start": 59,
+                "username": "psych_angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNh89"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1999352315241988490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 438,
+          "following_count": 404,
+          "like_count": 6853,
+          "listed_count": 1,
+          "media_count": 106,
+          "tweet_count": 5411
+        },
+        "url": "https://t.co/rCvc9RNh89",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-09T21:43:35.000Z",
+        "description": "我看着幸福的日子被我亲手摧毁以后开心地闭上了眼 \n/freeodwiki参与者\n/接RC测试\n/可以找我买RC药物\n/过🚪有图包视频和RC咨询（我需要钱买药🥺\n/我宝宝🤗：@Edward_8964\n/请来镜音的提问箱随意提问：https://t.co/Ko843XKMQP\n口粮：@420420420C",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 86,
+                "username": "Edward_8964"
+              },
+              {
+                "end": 151,
+                "start": 140,
+                "username": "420420420C"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jingyin_8964",
+                "end": 136,
+                "expanded_url": "https://ngl.link/jingyin_8964",
+                "start": 113,
+                "url": "https://t.co/Ko843XKMQP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeod.wiki",
+                "end": 23,
+                "expanded_url": "https://freeod.wiki/",
+                "start": 0,
+                "url": "https://t.co/p3AyZyGkrj"
+              }
+            ]
+          }
+        },
+        "id": "1965531250447568896",
+        "location": "🚪88/288/520/1314可不固定",
+        "name": "镜音",
+        "pinned_tweet_id": "2001591266018988045",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996595366100361216/GWBNbt7G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 138,
+          "like_count": 1544,
+          "listed_count": 1,
+          "media_count": 80,
+          "tweet_count": 778
+        },
+        "url": "https://t.co/p3AyZyGkrj",
+        "username": "jingyin_8964",
+        "verified": false
+      }
+    ]
+  }
+}

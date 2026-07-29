@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2024440883266146791",
+    "created_at": "2026-02-19T17:20:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T18:20:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024534688342380828"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1856705166894080000",
+          "start": 0,
+          "username": "Ilismsama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024534688342380828",
+    "in_reply_to_user_id": "1856705166894080000",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024440883266146791",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ilismsama 下架停售"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2024440883266146791",
+        "created_at": "2026-02-19T17:20:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T18:20:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024534688342380828"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1856705166894080000",
+              "start": 0,
+              "username": "Ilismsama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024534688342380828",
+        "in_reply_to_user_id": "1856705166894080000",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024440883266146791",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ilismsama 下架停售"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1856705166894080000",
+        "conversation_id": "2024440883266146791",
+        "created_at": "2026-02-19T11:08:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T12:08:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024440883266146791"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024440883266146791",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 155,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "京东为什么没有bron了，拼多多买两瓶的钱比从京东上买3瓶的钱还多啊。这个是永久，全面下架还是过几个月还会出现？TT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思う、ゆえに我あり｜ 我是林子｜性别为无、｜寒くなってきたね……もう少しだけ、いい？｜intp-t｜asd/焦虑障碍｜🧬今日也想成为biohacker｜輪郭の定まらない位置にいた人@Psych_Angel_｜好妈妈们@asabakasaiko @loveforeversfy|bro @BelovedUren8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 91,
+                "username": "Psych_Angel_"
+              },
+              {
+                "end": 122,
+                "start": 109,
+                "username": "asabakasaiko"
+              },
+              {
+                "end": 138,
+                "start": 123,
+                "username": "loveforeversfy"
+              },
+              {
+                "end": 159,
+                "start": 143,
+                "username": "BelovedUren8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wakaba_rinko",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wakaba_rinko",
+                "start": 0,
+                "url": "https://t.co/zWqK1n9RJg"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "Ask me any u want→",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 581,
+          "following_count": 546,
+          "like_count": 15385,
+          "listed_count": 1,
+          "media_count": 152,
+          "tweet_count": 7598
+        },
+        "url": "https://t.co/zWqK1n9RJg",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-13T14:26:43.000Z",
+        "description": "Ilovecats",
+        "id": "1856705166894080000",
+        "name": "cyxg",
+        "pinned_tweet_id": "1953758239532695960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975185848812421120/OqNELAqC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3676,
+          "following_count": 124,
+          "like_count": 1124,
+          "listed_count": 7,
+          "media_count": 188,
+          "tweet_count": 560
+        },
+        "username": "Ilismsama",
+        "verified": false
+      }
+    ]
+  }
+}

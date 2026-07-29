@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2012870720360157666",
+    "created_at": "2026-01-18T13:59:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T14:59:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012887461220032940"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "69280655",
+          "start": 0,
+          "username": "paipaipaitang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012887461220032940",
+    "in_reply_to_user_id": "69280655",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012870720360157666",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@paipaipaitang 坚持是对的，免疫系统疾病就该这么治"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2012870720360157666",
+        "created_at": "2026-01-18T13:59:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T14:59:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012887461220032940"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "69280655",
+              "start": 0,
+              "username": "paipaipaitang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012887461220032940",
+        "in_reply_to_user_id": "69280655",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012870720360157666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@paipaipaitang 坚持是对的，免疫系统疾病就该这么治"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "69280655",
+        "conversation_id": "2012870720360157666",
+        "created_at": "2026-01-18T12:52:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T13:52:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012870720360157666"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/paipaipaitang/…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/paipaipaitang/status/2008609495212323315",
+              "start": 41,
+              "url": "https://t.co/aMX4tmOwHr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012870720360157666",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 88,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008609495212323315",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "1月18日更新\n\n85%炎症已经消除\n\n不再长新丘疹\n\n所有痤疮均有明显缩小体积 https://t.co/aMX4tmOwHr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜如果没有回关请私信提醒我！｜我不吸毒！！！｜性别为无、",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNh89"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 521,
+          "following_count": 472,
+          "like_count": 12044,
+          "listed_count": 1,
+          "media_count": 142,
+          "tweet_count": 6609
+        },
+        "url": "https://t.co/rCvc9RNh89",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2009-08-27T12:47:46.000Z",
+        "description": "tg：paitangcuzhi3",
+        "id": "69280655",
+        "name": "☯️🧬ATLAS 無極",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970416869896265733/EPXCdoOg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 868,
+          "following_count": 20,
+          "like_count": 146,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 112
+        },
+        "username": "paipaipaitang",
+        "verified": false
+      }
+    ]
+  }
+}

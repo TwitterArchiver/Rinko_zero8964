@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1955230273966403673",
+    "created_at": "2025-08-12T17:22:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-12T18:22:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955318964172837114"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1879395690230738944",
+          "start": 0,
+          "username": "6thCuteK1tten"
+        },
+        {
+          "end": 28,
+          "id": "1866458229527764992",
+          "start": 15,
+          "username": "Citrus_amara"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955318964172837114",
+    "in_reply_to_user_id": "1879395690230738944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955244171121570217",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@6thCuteK1tten @Citrus_amara 服用300mgdpt后陷入连环梦，是一次BadTrip，但是我很喜欢这种（"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1955244171121570217].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1955244171121570217",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1955244171121570217"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1955230273966403673",
+        "created_at": "2025-08-12T17:22:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T18:22:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955318964172837114"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1879395690230738944",
+              "start": 0,
+              "username": "6thCuteK1tten"
+            },
+            {
+              "end": 28,
+              "id": "1866458229527764992",
+              "start": 15,
+              "username": "Citrus_amara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955318964172837114",
+        "in_reply_to_user_id": "1879395690230738944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955244171121570217",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@6thCuteK1tten @Citrus_amara 服用300mgdpt后陷入连环梦，是一次BadTrip，但是我很喜欢这种（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849043147487420416/0nrEqJTK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 235,
+          "like_count": 1570,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 2847
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-15T05:10:34.000Z",
+        "description": "𝓒𝓸𝓬𝓪𝓲𝓷𝓮™｜🍧好闺蜜:@Chufeinya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "Chufeinya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/6thcutek1tten1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/6thcutek1tten1",
+                "start": 0,
+                "url": "https://t.co/nRpYRqPS2U"
+              }
+            ]
+          }
+        },
+        "id": "1879395690230738944",
+        "name": "小猫",
+        "pinned_tweet_id": "1954629209571381509",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943325043074961408/QeU1S_yU_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 415,
+          "following_count": 448,
+          "like_count": 8947,
+          "listed_count": 0,
+          "media_count": 214,
+          "tweet_count": 3836
+        },
+        "url": "https://t.co/nRpYRqPS2U",
+        "username": "6thCuteK1tten",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "多意识体。双相。od。跨性别。\nod的请陪我玩。\n#odtwt #drugtwt \n查成分回fo，只回oder和有心理疾病的人。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 31,
+                "start": 25,
+                "tag": "odtwt"
+              },
+              {
+                "end": 40,
+                "start": 32,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊",
+        "pinned_tweet_id": "1945875155126735023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950952893223219203/4ySHp-te_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 322,
+          "like_count": 2717,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 1186
+        },
+        "username": "Citrus_amara",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2005996240073547868",
+    "created_at": "2025-12-30T13:35:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-30T14:35:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005996240073547868"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1911828872334831616",
+          "start": 3,
+          "username": "Edward_8964"
+        },
+        {
+          "end": 32,
+          "id": "1849043039496617984",
+          "start": 17,
+          "username": "Rinko_zero8964"
+        },
+        {
+          "end": 45,
+          "id": "1726969617850286080",
+          "start": 33,
+          "username": "NashiMoe233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005996240073547868",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005864276506841110",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Edward_8964: @Rinko_zero8964 @NashiMoe233 指定证据部分无效不可否定证据源本身"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2005996240073547868",
+        "created_at": "2025-12-30T13:35:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T14:35:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005996240073547868"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1911828872334831616",
+              "start": 3,
+              "username": "Edward_8964"
+            },
+            {
+              "end": 32,
+              "id": "1849043039496617984",
+              "start": 17,
+              "username": "Rinko_zero8964"
+            },
+            {
+              "end": 45,
+              "id": "1726969617850286080",
+              "start": 33,
+              "username": "NashiMoe233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005996240073547868",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005864276506841110",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Edward_8964: @Rinko_zero8964 @NashiMoe233 指定证据部分无效不可否定证据源本身"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1911828872334831616",
+        "conversation_id": "2005834815506112882",
+        "created_at": "2025-12-30T04:51:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T05:51:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005864276506841110"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1849043039496617984",
+              "start": 0,
+              "username": "Rinko_zero8964"
+            },
+            {
+              "end": 28,
+              "id": "1726969617850286080",
+              "start": 16,
+              "username": "NashiMoe233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005864276506841110",
+        "in_reply_to_user_id": "1849043039496617984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005834815506112882",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rinko_zero8964 @NashiMoe233 指定证据部分无效不可否定证据源本身"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜如果没有回关请私信提醒我！｜我不吸毒！！！｜小猫我喜欢你超喜欢我爱你@psych_angel_｜性别为无、",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 45,
+                "username": "psych_angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNh89"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1999352315241988490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 479,
+          "following_count": 430,
+          "like_count": 8526,
+          "listed_count": 1,
+          "media_count": 121,
+          "tweet_count": 5845
+        },
+        "url": "https://t.co/rCvc9RNh89",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-14T17:08:26.000Z",
+        "description": "南湖之虎｜第4次转生｜ MTX ｜退役OIer/Oder｜ADHD｜freeODwiki站点维护｜自由、梦想、进取｜个人崇拜宗教政治团体反对｜大东亚共荣圈支持者｜#shtwt #drugtwt 老婆喵：@jingyin_8964",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 81,
+                "tag": "shtwt"
+              },
+              {
+                "end": 96,
+                "start": 88,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 114,
+                "start": 101,
+                "username": "jingyin_8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeod.wiki",
+                "end": 23,
+                "expanded_url": "http://freeod.wiki",
+                "start": 0,
+                "url": "https://t.co/LISkhFoXg7"
+              }
+            ]
+          }
+        },
+        "id": "1911828872334831616",
+        "location": "NE",
+        "name": "💊Edward……",
+        "pinned_tweet_id": "2005901762218320212",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983915986710667264/18Wn7FvD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 847,
+          "following_count": 702,
+          "like_count": 7876,
+          "listed_count": 2,
+          "media_count": 330,
+          "tweet_count": 4844
+        },
+        "url": "https://t.co/LISkhFoXg7",
+        "username": "Edward_8964",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-21T14:23:48.000Z",
+        "description": "梨子丨我的情感应该被埋葬在马里亚纳海沟下丨intp-t丨non-binary丨osdd-1a丨碎碎念推丨不回答药物滥用相关问题",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/NashiMoe233",
+                "end": 23,
+                "expanded_url": "http://t.me/NashiMoe233",
+                "start": 0,
+                "url": "https://t.co/8KaGgpc8w6"
+              }
+            ]
+          }
+        },
+        "id": "1726969617850286080",
+        "location": "天目山路305号",
+        "name": "涙の販売機",
+        "pinned_tweet_id": "2005891403902247004",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003554412254625797/ITFTv6MD_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1848,
+          "following_count": 207,
+          "like_count": 24367,
+          "listed_count": 3,
+          "media_count": 636,
+          "tweet_count": 12998
+        },
+        "url": "https://t.co/8KaGgpc8w6",
+        "username": "NashiMoe233",
+        "verified": false
+      }
+    ]
+  }
+}

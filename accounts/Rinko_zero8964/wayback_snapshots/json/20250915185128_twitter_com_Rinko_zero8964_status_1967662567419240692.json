@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1967259370791780727",
+    "created_at": "2025-09-15T18:51:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-15T19:51:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967662567419240692"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1884627325398212611",
+          "start": 0,
+          "username": "Revive_Meink"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967662567419240692",
+    "in_reply_to_user_id": "1884627325398212611",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967259370791780727",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Revive_Meink 因为学校只需要你死记硬背考试考到分了就行了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1967259370791780727",
+        "created_at": "2025-09-15T18:51:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T19:51:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967662567419240692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1884627325398212611",
+              "start": 0,
+              "username": "Revive_Meink"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967662567419240692",
+        "in_reply_to_user_id": "1884627325398212611",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967259370791780727",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Revive_Meink 因为学校只需要你死记硬背考试考到分了就行了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884627325398212611",
+        "conversation_id": "1967259370791780727",
+        "created_at": "2025-09-14T16:09:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T17:09:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967259370791780727"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1967259370791780727",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 7002,
+          "like_count": 75,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "为何学校会一致反复强调病毒不算生命即便在科学界这个问题仍然存在争议性？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 269,
+          "like_count": 2847,
+          "listed_count": 2,
+          "media_count": 68,
+          "tweet_count": 3878
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-29T15:39:13.000Z",
+        "description": "enby\n|\n二十二月系统\n|\n里推：@knimaisey\n（包括但不限于 触发、病态思维、暴论）\n|\n呃画的都放这里好了：@Victimized_P\n———\n你好':3 我是一个永远八岁的小孩 :D 梦想是当一辈子长不大的小孩！你的梦想是什么？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 19,
+                "username": "knimaisey"
+              },
+              {
+                "end": 75,
+                "start": 62,
+                "username": "Victimized_P"
+              }
+            ]
+          }
+        },
+        "id": "1884627325398212611",
+        "location": "SilverLawn",
+        "name": "铭（前世莱铭系统）",
+        "pinned_tweet_id": "1967642148142248263",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967641855916408832/jQaKZyad_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 796,
+          "following_count": 257,
+          "like_count": 9623,
+          "listed_count": 3,
+          "media_count": 771,
+          "tweet_count": 4617
+        },
+        "username": "Revive_Meink",
+        "verified": false
+      }
+    ]
+  }
+}

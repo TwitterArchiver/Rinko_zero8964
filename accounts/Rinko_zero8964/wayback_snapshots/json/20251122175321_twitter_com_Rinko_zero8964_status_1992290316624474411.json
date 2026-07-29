@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1992262761922138393",
+    "created_at": "2025-11-22T17:53:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T18:53:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992290316624474411"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1782247418353926145",
+          "start": 0,
+          "username": "saaaki1_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992290316624474411",
+    "in_reply_to_user_id": "1782247418353926145",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992290199645335892",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@saaaki1_ 我喜欢你🫶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1992262761922138393",
+        "created_at": "2025-11-22T17:53:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T18:53:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992290316624474411"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1782247418353926145",
+              "start": 0,
+              "username": "saaaki1_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992290316624474411",
+        "in_reply_to_user_id": "1782247418353926145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992290199645335892",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@saaaki1_ 我喜欢你🫶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782247418353926145",
+        "conversation_id": "1992262761922138393",
+        "created_at": "2025-11-22T17:52:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T18:52:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992290199645335892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1849043039496617984",
+              "start": 0,
+              "username": "Rinko_zero8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992290199645335892",
+        "in_reply_to_user_id": "1849043039496617984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992290015070888133",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rinko_zero8964 谢谢你宝贝 其实本人一直在偷偷关注你鹅鹅鹅…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜🥺@NashiMoe233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "NashiMoe233"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1967335109767692560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 320,
+          "like_count": 4659,
+          "listed_count": 1,
+          "media_count": 90,
+          "tweet_count": 4579
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-22T03:18:13.000Z",
+        "description": "叫我言言/saki",
+        "id": "1782247418353926145",
+        "name": "kikiller",
+        "pinned_tweet_id": "1848758585909727572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966741918119079936/TkCTCvVu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2337,
+          "following_count": 419,
+          "like_count": 17225,
+          "listed_count": 5,
+          "media_count": 328,
+          "tweet_count": 9175
+        },
+        "username": "saaaki1_",
+        "verified": false
+      }
+    ]
+  }
+}

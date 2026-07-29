@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1966193794938007836",
+    "created_at": "2025-09-12T19:08:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-12T20:08:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966579619827445959"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1279702935102865409",
+          "start": 0,
+          "username": "Yoselindead"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966579619827445959",
+    "in_reply_to_user_id": "1279702935102865409",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966193794938007836",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yoselindead 你多发情侣日常就安全了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1966193794938007836",
+        "created_at": "2025-09-12T19:08:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T20:08:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966579619827445959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1279702935102865409",
+              "start": 0,
+              "username": "Yoselindead"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966579619827445959",
+        "in_reply_to_user_id": "1279702935102865409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966193794938007836",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yoselindead 你多发情侣日常就安全了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1279702935102865409",
+        "conversation_id": "1966193794938007836",
+        "created_at": "2025-09-11T17:35:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T18:35:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966193794938007836"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1966193794938007836",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1693,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近莫名其妙好多人要关注我，但是被迫害妄想所以基本上都拒了😔什么时候解锁推合适呢，最近吸毒太频繁导致我很害怕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 263,
+          "like_count": 2640,
+          "listed_count": 2,
+          "media_count": 66,
+          "tweet_count": 3756
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-05T09:05:40.000Z",
+        "description": "ISFP, 168/50kg, 07, LGBTQ+友好but sorry I’m一爱顺直女, 重抑重焦, 双向存疑, Brat(BDSM), 中文/ENG OK, 买美瞳外烟电子烟请找我,不贩卖任何药物",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mylifeallfucke…",
+                "end": 23,
+                "expanded_url": "https://t.me/mylifeallfuckedup",
+                "start": 0,
+                "url": "https://t.co/R0EDK2Lhy4"
+              }
+            ]
+          }
+        },
+        "id": "1279702935102865409",
+        "location": "🚪288/588，线下过门后详问",
+        "name": "Yoselin🪬💊🩸",
+        "pinned_tweet_id": "1946090177505689972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947177584891936768/JyIXTLSH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1214,
+          "following_count": 352,
+          "like_count": 12774,
+          "listed_count": 2,
+          "media_count": 119,
+          "tweet_count": 3028
+        },
+        "url": "https://t.co/R0EDK2Lhy4",
+        "username": "Yoselindead",
+        "verified": false
+      }
+    ]
+  }
+}

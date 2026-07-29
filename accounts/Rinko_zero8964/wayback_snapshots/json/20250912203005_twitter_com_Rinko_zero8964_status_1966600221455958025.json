@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1966340088524320928",
+    "created_at": "2025-09-12T20:30:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-12T21:30:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966600221455958025"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "622036546",
+          "start": 0,
+          "username": "overdose_six"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966600221455958025",
+    "in_reply_to_user_id": "622036546",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966340088524320928",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@overdose_six 亚宝稍微温柔点，喜思平来的猛烈些"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1966340088524320928",
+        "created_at": "2025-09-12T20:30:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T21:30:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966600221455958025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "622036546",
+              "start": 0,
+              "username": "overdose_six"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966600221455958025",
+        "in_reply_to_user_id": "622036546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966340088524320928",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@overdose_six 亚宝稍微温柔点，喜思平来的猛烈些"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "622036546",
+        "conversation_id": "1966340088524320928",
+        "created_at": "2025-09-12T03:16:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T04:16:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966340088524320928"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1966340088524320928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 290,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "改天对比一下亚宝 喜思平 龙赛特 这三款pr的区别"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 265,
+          "like_count": 2658,
+          "listed_count": 2,
+          "media_count": 66,
+          "tweet_count": 3778
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2012-06-29T16:18:50.000Z",
+        "description": "科普账号请看@overdose_dxm 提问箱https://t.co/JP9NLRoDUd 里人格@fuck_8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 6,
+                "username": "overdose_dxm"
+              },
+              {
+                "end": 60,
+                "start": 50,
+                "username": "fuck_8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/oder_6661",
+                "end": 46,
+                "expanded_url": "http://ngl.link/oder_6661",
+                "start": 23,
+                "url": "https://t.co/JP9NLRoDUd"
+              }
+            ]
+          }
+        },
+        "id": "622036546",
+        "location": "参宿四",
+        "name": "むのう",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965430796367679488/C1QbG9XO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 482,
+          "following_count": 181,
+          "like_count": 6541,
+          "listed_count": 2,
+          "media_count": 176,
+          "tweet_count": 1792
+        },
+        "username": "overdose_six",
+        "verified": false
+      }
+    ]
+  }
+}

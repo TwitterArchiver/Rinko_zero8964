@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1999108416657318276",
+    "created_at": "2025-12-11T13:26:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T14:26:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999108416657318276"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1419403960696385546",
+          "start": 3,
+          "username": "WaiFu8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999108416657318276",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999097550410805324",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @WaiFu8964: 在考虑数据库交易前的政审 乳化 乳包 乳丘八 侮辱英烈  台独藏独疆独光復香港 煽动颠覆国家政权必须占一样才行"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1999108416657318276",
+        "created_at": "2025-12-11T13:26:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T14:26:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999108416657318276"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1419403960696385546",
+              "start": 3,
+              "username": "WaiFu8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999108416657318276",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999097550410805324",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @WaiFu8964: 在考虑数据库交易前的政审 乳化 乳包 乳丘八 侮辱英烈  台独藏独疆独光復香港 煽动颠覆国家政权必须占一样才行"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1419403960696385546",
+        "conversation_id": "1999097550410805324",
+        "created_at": "2025-12-11T12:42:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T13:42:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999097550410805324"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/WaiFu8964/stat…",
+              "end": 79,
+              "expanded_url": "https://twitter.com/WaiFu8964/status/1999076222467445003",
+              "start": 56,
+              "url": "https://t.co/oDAcXPz93s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999097550410805324",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 508,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999076222467445003",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "在考虑数据库交易前的政审 乳化 乳包 乳丘八 侮辱英烈  台独藏独疆独光復香港 煽动颠覆国家政权必须占一样才行 https://t.co/oDAcXPz93s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜🥺@NashiMoe233｜如果没有回关请私信提醒我！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "NashiMoe233"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1967335109767692560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 364,
+          "like_count": 5716,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 5061
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-25T21:07:49.000Z",
+        "description": "退休准备中，现已启用付费消息，用来过滤垃圾信息。如果您是别人推荐来的客户请让Ta通知我加联系人即可免费发信息，聊天的话可以在任意群喊我看心情回复。付费信息100%回复. #BNB hodler",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 89,
+                "start": 85,
+                "tag": "BNB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/saomei",
+                "end": 23,
+                "expanded_url": "https://t.me/saomei",
+                "start": 0,
+                "url": "https://t.co/GrZymHku4e"
+              }
+            ]
+          }
+        },
+        "id": "1419403960696385546",
+        "location": "IP归属地:深圳",
+        "name": "Waifu今天退休了吗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958651886569234432/g2E3qUEu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7099,
+          "following_count": 2262,
+          "like_count": 5104,
+          "listed_count": 18,
+          "media_count": 780,
+          "tweet_count": 6647
+        },
+        "url": "https://t.co/GrZymHku4e",
+        "username": "WaiFu8964",
+        "verified": false
+      }
+    ]
+  }
+}

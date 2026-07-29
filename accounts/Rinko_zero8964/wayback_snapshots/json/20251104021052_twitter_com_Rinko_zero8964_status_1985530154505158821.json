@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1985337944073519340",
+    "created_at": "2025-11-04T02:10:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T03:10:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985530154505158821"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1944351426827735040",
+          "start": 0,
+          "username": "kiss_u_back"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985530154505158821",
+    "in_reply_to_user_id": "1944351426827735040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985337944073519340",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kiss_u_back 抱抱你，依赖药物活下去也是一种活法，不要因为使用药物而感到自卑，只要还能活着，你做的一切都是勇敢的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1074,
+        "media_key": "3_1985337936238563329",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G41WVZCbUAECYKb.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1985337944073519340",
+        "created_at": "2025-11-04T02:10:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T03:10:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985530154505158821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1944351426827735040",
+              "start": 0,
+              "username": "kiss_u_back"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985530154505158821",
+        "in_reply_to_user_id": "1944351426827735040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985337944073519340",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kiss_u_back 抱抱你，依赖药物活下去也是一种活法，不要因为使用药物而感到自卑，只要还能活着，你做的一切都是勇敢的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985337936238563329"
+          ]
+        },
+        "author_id": "1944351426827735040",
+        "conversation_id": "1985337944073519340",
+        "created_at": "2025-11-03T13:27:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T14:27:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985337944073519340"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/S8zUMyqM2p",
+              "end": 23,
+              "expanded_url": "https://x.com/kiss_u_back/status/1985337944073519340/photo/1",
+              "media_key": "3_1985337936238563329",
+              "start": 0,
+              "url": "https://t.co/S8zUMyqM2p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985337944073519340",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 340,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/S8zUMyqM2p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1970904695813329260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 334,
+          "following_count": 280,
+          "like_count": 3253,
+          "listed_count": 2,
+          "media_count": 75,
+          "tweet_count": 4146
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-13T11:01:50.000Z",
+        "description": "已死勿call 我不稳定 我是疯狗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ccccindy11",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ccccindy11",
+                "start": 0,
+                "url": "https://t.co/5cwDcyH0re"
+              }
+            ]
+          }
+        },
+        "id": "1944351426827735040",
+        "location": "火星",
+        "name": "我的泪口是心非",
+        "pinned_tweet_id": "1957691726635888962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950024167241502722/DbHwNpOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 431,
+          "following_count": 100,
+          "like_count": 781,
+          "listed_count": 2,
+          "media_count": 209,
+          "tweet_count": 755
+        },
+        "url": "https://t.co/5cwDcyH0re",
+        "username": "kiss_u_back",
+        "verified": false
+      }
+    ]
+  }
+}

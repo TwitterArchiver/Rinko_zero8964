@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1970456544379838967",
+    "created_at": "2025-09-23T17:23:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-23T18:23:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970539644203970983"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1914046337903190016",
+          "start": 0,
+          "username": "omiyagetw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970539644203970983",
+    "in_reply_to_user_id": "1914046337903190016",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970456544379838967",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@omiyagetw 感觉跑的好快！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1970456533126217730",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1h3xuZWAAIbeS1.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1970456544379838967",
+        "created_at": "2025-09-23T17:23:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T18:23:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970539644203970983"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1914046337903190016",
+              "start": 0,
+              "username": "omiyagetw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970539644203970983",
+        "in_reply_to_user_id": "1914046337903190016",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970456544379838967",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@omiyagetw 感觉跑的好快！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970456533126217730"
+          ]
+        },
+        "author_id": "1914046337903190016",
+        "conversation_id": "1970456544379838967",
+        "created_at": "2025-09-23T11:53:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T12:53:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970456544379838967"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3tk6uAYTxq",
+              "end": 31,
+              "expanded_url": "https://x.com/omiyagetw/status/1970456544379838967/photo/1",
+              "media_key": "3_1970456533126217730",
+              "start": 8,
+              "url": "https://t.co/3tk6uAYTxq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970456544379838967",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 125,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "下班的放風行程 https://t.co/3tk6uAYTxq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1970229192852971663",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 282,
+          "like_count": 3278,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 4189
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-20T19:59:56.000Z",
+        "description": "台灣/男/INTJ(113)轉變ISTJ(114)/極度厭惡約炮及嫖/\n喜愛遊戲、音樂/努力當個正常人/PC、steam小遊戲/\n匿名箱：https://t.co/Ym8YNh3M4i",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/omiyagetw",
+                "end": 92,
+                "expanded_url": "https://ngl.link/omiyagetw",
+                "start": 69,
+                "url": "https://t.co/Ym8YNh3M4i"
+              }
+            ]
+          }
+        },
+        "id": "1914046337903190016",
+        "name": "歐米Omi",
+        "pinned_tweet_id": "1965638820805967914",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962400320237252609/ETCYXQ2l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 111,
+          "like_count": 9029,
+          "listed_count": 2,
+          "media_count": 70,
+          "tweet_count": 3835
+        },
+        "username": "omiyagetw",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1969805668736745908",
+    "created_at": "2025-09-21T21:13:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-21T22:13:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969872744511832130"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1831567909908574208",
+          "start": 0,
+          "username": "1qva0TT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969872744511832130",
+    "in_reply_to_user_id": "1831567909908574208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969869235288674317",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1qva0TT 我错了下次不对子骂父了（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1969805668736745908",
+        "created_at": "2025-09-21T21:13:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T22:13:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969872744511832130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1831567909908574208",
+              "start": 0,
+              "username": "1qva0TT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969872744511832130",
+        "in_reply_to_user_id": "1831567909908574208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969869235288674317",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1qva0TT 我错了下次不对子骂父了（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1831567909908574208",
+        "conversation_id": "1969805668736745908",
+        "created_at": "2025-09-21T20:59:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T21:59:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969869235288674317"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1849043039496617984",
+              "start": 0,
+              "username": "Rinko_zero8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969869235288674317",
+        "in_reply_to_user_id": "1849043039496617984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969805668736745908",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rinko_zero8964 父子之情令人动容"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 277,
+          "like_count": 3103,
+          "listed_count": 2,
+          "media_count": 71,
+          "tweet_count": 4017
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-05T05:40:02.000Z",
+        "description": "Mevius",
+        "id": "1831567909908574208",
+        "name": "幽靈",
+        "pinned_tweet_id": "1922324215920771354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968824225948737536/n6Nm4phv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 79,
+          "like_count": 1195,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 498
+        },
+        "username": "1qva0TT",
+        "verified": false
+      }
+    ]
+  }
+}

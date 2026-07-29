@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2010009641800130560"
+      ],
+      "media_source_tweet_id": [
+        "2010009645541466483"
+      ]
+    },
+    "author_id": "1849043039496617984",
+    "conversation_id": "2010051169453051972",
+    "created_at": "2026-01-10T18:08:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T19:08:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010051169453051972"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1385206009065394182",
+          "start": 3,
+          "username": "chronic_clinic_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/K1Fxbz5bsn",
+          "end": 44,
+          "expanded_url": "https://x.com/chronic_clinic_/status/2010009645541466483/photo/1",
+          "media_key": "3_2010009641800130560",
+          "start": 21,
+          "url": "https://t.co/K1Fxbz5bsn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010051169453051972",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 40
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010009645541466483",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chronic_clinic_: https://t.co/K1Fxbz5bsn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1004,
+        "media_key": "3_2010009641800130560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-T9HqabYAAM0wm.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010009641800130560"
+          ],
+          "media_source_tweet_id": [
+            "2010009645541466483"
+          ]
+        },
+        "author_id": "1849043039496617984",
+        "conversation_id": "2010051169453051972",
+        "created_at": "2026-01-10T18:08:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T19:08:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010051169453051972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1385206009065394182",
+              "start": 3,
+              "username": "chronic_clinic_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/K1Fxbz5bsn",
+              "end": 44,
+              "expanded_url": "https://x.com/chronic_clinic_/status/2010009645541466483/photo/1",
+              "media_key": "3_2010009641800130560",
+              "start": 21,
+              "url": "https://t.co/K1Fxbz5bsn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010051169453051972",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 40
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010009645541466483",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chronic_clinic_: https://t.co/K1Fxbz5bsn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010009641800130560"
+          ]
+        },
+        "author_id": "1385206009065394182",
+        "conversation_id": "2010009645541466483",
+        "created_at": "2026-01-10T15:23:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T16:23:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010009645541466483"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/K1Fxbz5bsn",
+              "end": 23,
+              "expanded_url": "https://x.com/chronic_clinic_/status/2010009645541466483/photo/1",
+              "media_key": "3_2010009641800130560",
+              "start": 0,
+              "url": "https://t.co/K1Fxbz5bsn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010009645541466483",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 2576,
+          "like_count": 234,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 40
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/K1Fxbz5bsn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜如果没有回关请私信提醒我！｜我不吸毒！！！｜小猫我喜欢你超喜欢我爱你@psych_angel_｜性别为无、",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 45,
+                "username": "psych_angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNh89"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 502,
+          "following_count": 473,
+          "like_count": 11240,
+          "listed_count": 1,
+          "media_count": 137,
+          "tweet_count": 6411
+        },
+        "url": "https://t.co/rCvc9RNh89",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-22T12:17:17.000Z",
+        "description": "bootleg images",
+        "id": "1385206009065394182",
+        "name": "bootleg_images_bot(twee!:void(0)-+****",
+        "pinned_tweet_id": "1574410887343247361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1469922937281003522/oM4N6cRO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16920,
+          "following_count": 1,
+          "like_count": 6202,
+          "listed_count": 53,
+          "media_count": 7703,
+          "tweet_count": 7751
+        },
+        "username": "chronic_clinic_",
+        "verified": false
+      }
+    ]
+  }
+}

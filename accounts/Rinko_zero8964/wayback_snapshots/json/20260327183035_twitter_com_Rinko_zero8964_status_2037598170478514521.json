@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2037516878789369903",
+    "created_at": "2026-03-27T18:30:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T19:30:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037598170478514521"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1448206950903255040",
+          "start": 0,
+          "username": "_Shikieiki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037598170478514521",
+    "in_reply_to_user_id": "1448206950903255040",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037516878789369903",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Shikieiki 能整合真是太好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2037516878789369903",
+        "created_at": "2026-03-27T18:30:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T19:30:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037598170478514521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1448206950903255040",
+              "start": 0,
+              "username": "_Shikieiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037598170478514521",
+        "in_reply_to_user_id": "1448206950903255040",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037516878789369903",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Shikieiki 能整合真是太好了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1448206950903255040",
+        "conversation_id": "2037516878789369903",
+        "created_at": "2026-03-27T13:07:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T14:07:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037516878789369903"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037516878789369903",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 314,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刚刚整合了。作为整合体，我感到正面的情绪和理性在一起结合了。虽然不知道能有多长久，负面的情绪尚且仍在睡眠，但是这样结合的状态能持续的更久肯定是好的。\n整合的那一刻我们就是整合体了，不再作为理性单独运作。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思う、ゆえに我あり｜ 我是林子｜性别为无、｜寒くなってきたね……もう少しだけ、いい？｜intp-t｜asd/焦虑障碍｜🧬今日也想成为biohacker｜好妈妈们@asabakasaiko @loveforeversfy|bro @BelovedUren8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 81,
+                "username": "asabakasaiko"
+              },
+              {
+                "end": 110,
+                "start": 95,
+                "username": "loveforeversfy"
+              },
+              {
+                "end": 131,
+                "start": 115,
+                "username": "BelovedUren8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wakaba_rinko",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wakaba_rinko",
+                "start": 0,
+                "url": "https://t.co/zWqK1n9RJg"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "Ask me any u want→",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 631,
+          "following_count": 607,
+          "like_count": 16667,
+          "listed_count": 1,
+          "media_count": 163,
+          "tweet_count": 8076
+        },
+        "url": "https://t.co/zWqK1n9RJg",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "OSDD-1a suspected,undiagnosed\n理性，情绪，整合体为三主要alter\n理性+情绪=整合体(简而言之)\n现在是：整合体(大部分理性+部分正面情绪)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "see_you_hell.although.here.probably.is",
+                "end": 23,
+                "expanded_url": "http://see_you_hell.although.here.probably.is",
+                "start": 0,
+                "url": "https://t.co/ecUxsPCDIQ"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2028458258697171187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 592,
+          "following_count": 827,
+          "like_count": 24994,
+          "listed_count": 1,
+          "media_count": 406,
+          "tweet_count": 3300
+        },
+        "url": "https://t.co/ecUxsPCDIQ",
+        "username": "_Shikieiki",
+        "verified": false
+      }
+    ]
+  }
+}

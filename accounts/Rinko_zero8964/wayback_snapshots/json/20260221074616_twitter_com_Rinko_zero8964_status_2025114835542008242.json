@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024900005287608320"
+      ],
+      "media_source_tweet_id": [
+        "2024900007531602133"
+      ]
+    },
+    "author_id": "1849043039496617984",
+    "conversation_id": "2025114835542008242",
+    "created_at": "2026-02-21T07:46:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T08:46:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025114835542008242"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1862933333552009216",
+          "start": 3,
+          "username": "qichuanzz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zudnGCZLqn",
+          "end": 55,
+          "expanded_url": "https://x.com/qichuanzz/status/2024900007531602133/photo/1",
+          "media_key": "3_2024900005287608320",
+          "start": 32,
+          "url": "https://t.co/zudnGCZLqn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025114835542008242",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024900007531602133",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qichuanzz: 现在文科生能不能说点人话给我听。 https://t.co/zudnGCZLqn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1064,
+        "media_key": "3_2024900005287608320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBnj05DawAAhGWy.jpg",
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024900005287608320"
+          ],
+          "media_source_tweet_id": [
+            "2024900007531602133"
+          ]
+        },
+        "author_id": "1849043039496617984",
+        "conversation_id": "2025114835542008242",
+        "created_at": "2026-02-21T07:46:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T08:46:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025114835542008242"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1862933333552009216",
+              "start": 3,
+              "username": "qichuanzz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zudnGCZLqn",
+              "end": 55,
+              "expanded_url": "https://x.com/qichuanzz/status/2024900007531602133/photo/1",
+              "media_key": "3_2024900005287608320",
+              "start": 32,
+              "url": "https://t.co/zudnGCZLqn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025114835542008242",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024900007531602133",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qichuanzz: 现在文科生能不能说点人话给我听。 https://t.co/zudnGCZLqn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024900005287608320"
+          ]
+        },
+        "author_id": "1862933333552009216",
+        "conversation_id": "2024892048441249901",
+        "created_at": "2026-02-20T17:32:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T18:32:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024900007531602133"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zudnGCZLqn",
+              "end": 40,
+              "expanded_url": "https://x.com/qichuanzz/status/2024900007531602133/photo/1",
+              "media_key": "3_2024900005287608320",
+              "start": 17,
+              "url": "https://t.co/zudnGCZLqn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024900007531602133",
+        "in_reply_to_user_id": "1862933333552009216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1036,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024892048441249901",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "现在文科生能不能说点人话给我听。 https://t.co/zudnGCZLqn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思う、ゆえに我あり｜ 我是林子｜性别为无、｜寒くなってきたね……もう少しだけ、いい？｜intp-t｜asd/焦虑障碍｜🧬今日也想成为biohacker｜静态变量@Psych_Angel_｜好妈妈们@asabakasaiko @loveforeversfy|bro @BelovedUren8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 81,
+                "username": "Psych_Angel_"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "asabakasaiko"
+              },
+              {
+                "end": 128,
+                "start": 113,
+                "username": "loveforeversfy"
+              },
+              {
+                "end": 149,
+                "start": 133,
+                "username": "BelovedUren8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wakaba_rinko",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wakaba_rinko",
+                "start": 0,
+                "url": "https://t.co/zWqK1n9RJg"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "Ask me any u want→",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 591,
+          "following_count": 555,
+          "like_count": 15702,
+          "listed_count": 1,
+          "media_count": 153,
+          "tweet_count": 7673
+        },
+        "url": "https://t.co/zWqK1n9RJg",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-30T18:55:15.000Z",
+        "description": "=星 Stella/黑匣子/家g🐆家克🐱/Cat exists.\n#keep4o",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 40,
+                "start": 33,
+                "tag": "keep4o"
+              }
+            ]
+          }
+        },
+        "id": "1862933333552009216",
+        "location": "世界中心",
+        "name": "前妻出走的那个雨夜",
+        "pinned_tweet_id": "1936940604174606518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988900416315355139/x2gv4Bh3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 215,
+          "like_count": 6851,
+          "listed_count": 1,
+          "media_count": 371,
+          "tweet_count": 2484
+        },
+        "username": "qichuanzz",
+        "verified": false
+      }
+    ]
+  }
+}

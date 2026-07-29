@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1968207921692426240"
+      ],
+      "media_source_tweet_id": [
+        "1968207937438150944"
+      ]
+    },
+    "author_id": "1849043039496617984",
+    "conversation_id": "1968269466095288546",
+    "created_at": "2025-09-17T11:03:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T12:03:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968269466095288546"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1419403960696385546",
+          "start": 3,
+          "username": "WaiFu8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4FoeqUayVp",
+          "end": 64,
+          "expanded_url": "https://x.com/WaiFu8964/status/1968207937438150944/photo/1",
+          "media_key": "3_1968207921692426240",
+          "start": 41,
+          "url": "https://t.co/4FoeqUayVp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968269466095288546",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968207937438150944",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @WaiFu8964: 你别说，你还真别说，辅警来我群转一圈真要直升厅长了 https://t.co/4FoeqUayVp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 937,
+        "media_key": "3_1968207921692426240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1B6rUCWQAA1doD.jpg",
+        "width": 1061
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968207921692426240"
+          ],
+          "media_source_tweet_id": [
+            "1968207937438150944"
+          ]
+        },
+        "author_id": "1849043039496617984",
+        "conversation_id": "1968269466095288546",
+        "created_at": "2025-09-17T11:03:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T12:03:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968269466095288546"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1419403960696385546",
+              "start": 3,
+              "username": "WaiFu8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4FoeqUayVp",
+              "end": 64,
+              "expanded_url": "https://x.com/WaiFu8964/status/1968207937438150944/photo/1",
+              "media_key": "3_1968207921692426240",
+              "start": 41,
+              "url": "https://t.co/4FoeqUayVp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968269466095288546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968207937438150944",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @WaiFu8964: 你别说，你还真别说，辅警来我群转一圈真要直升厅长了 https://t.co/4FoeqUayVp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968207921692426240"
+          ]
+        },
+        "author_id": "1419403960696385546",
+        "conversation_id": "1968207937438150944",
+        "created_at": "2025-09-17T06:58:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T07:58:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968207937438150944"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4FoeqUayVp",
+              "end": 49,
+              "expanded_url": "https://x.com/WaiFu8964/status/1968207937438150944/photo/1",
+              "media_key": "3_1968207921692426240",
+              "start": 26,
+              "url": "https://t.co/4FoeqUayVp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968207937438150944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 757,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "following",
+        "text": "你别说，你还真别说，辅警来我群转一圈真要直升厅长了 https://t.co/4FoeqUayVp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 275,
+          "like_count": 3031,
+          "listed_count": 2,
+          "media_count": 70,
+          "tweet_count": 3954
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-25T21:07:49.000Z",
+        "description": "退休准备中，现已启用付费消息，用来过滤垃圾信息。如果您是别人推荐来的客户请让Ta通知我加联系人即可免费发信息，聊天的话可以在任意群喊我看心情回复。付费信息100%回复.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/saomei",
+                "end": 23,
+                "expanded_url": "https://t.me/saomei",
+                "start": 0,
+                "url": "https://t.co/GrZymHl1TM"
+              }
+            ]
+          }
+        },
+        "id": "1419403960696385546",
+        "location": "IP归属地:深圳",
+        "name": "Waifu今天退休了吗",
+        "pinned_tweet_id": "1922911025097036164",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958651886569234432/g2E3qUEu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7115,
+          "following_count": 2204,
+          "like_count": 5255,
+          "listed_count": 19,
+          "media_count": 730,
+          "tweet_count": 6298
+        },
+        "url": "https://t.co/GrZymHl1TM",
+        "username": "WaiFu8964",
+        "verified": false
+      }
+    ]
+  }
+}

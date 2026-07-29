@@ -1,0 +1,350 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2025147244316688717",
+    "created_at": "2026-02-21T11:40:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T12:40:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025173737415606722"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2011827901537402885",
+          "start": 0,
+          "username": "Amenyan14_w"
+        },
+        {
+          "end": 29,
+          "id": "1484072544009347072",
+          "start": 13,
+          "username": "BelovedUren8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025173737415606722",
+    "in_reply_to_user_id": "2011827901537402885",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025147244316688717",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Amenyan14_w @BelovedUren8964 幸福咪"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1458,
+        "media_key": "3_2025147232178372610",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBrErY_bgAIZmXU.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1221,
+        "media_key": "3_2025147232186761220",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBrErZBbgAQ2-Sw.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2025147244316688717",
+        "created_at": "2026-02-21T11:40:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T12:40:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025173737415606722"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2011827901537402885",
+              "start": 0,
+              "username": "Amenyan14_w"
+            },
+            {
+              "end": 29,
+              "id": "1484072544009347072",
+              "start": 13,
+              "username": "BelovedUren8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025173737415606722",
+        "in_reply_to_user_id": "2011827901537402885",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025147244316688717",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Amenyan14_w @BelovedUren8964 幸福咪"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025147232178372610",
+            "3_2025147232186761220"
+          ]
+        },
+        "author_id": "2011827901537402885",
+        "conversation_id": "2025147244316688717",
+        "created_at": "2026-02-21T09:55:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T10:55:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025147244316688717"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 26,
+              "id": "1484072544009347072",
+              "start": 10,
+              "username": "BelovedUren8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tqqxfWvMbS",
+              "end": 50,
+              "expanded_url": "https://x.com/Amenyan14_w/status/2025147244316688717/photo/1",
+              "media_key": "3_2025147232178372610",
+              "start": 27,
+              "url": "https://t.co/tqqxfWvMbS"
+            },
+            {
+              "display_url": "pic.x.com/tqqxfWvMbS",
+              "end": 50,
+              "expanded_url": "https://x.com/Amenyan14_w/status/2025147244316688717/photo/1",
+              "media_key": "3_2025147232186761220",
+              "start": 27,
+              "url": "https://t.co/tqqxfWvMbS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025147244316688717",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "是的，我仍然在你身边@BelovedUren8964 https://t.co/tqqxfWvMbS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思う、ゆえに我あり｜ 我是林子｜性别为无、｜寒くなってきたね……もう少しだけ、いい？｜intp-t｜asd/焦虑障碍｜🧬今日也想成为biohacker｜静态变量@Psych_Angel_｜好妈妈们@asabakasaiko @loveforeversfy|bro @BelovedUren8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 81,
+                "username": "Psych_Angel_"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "asabakasaiko"
+              },
+              {
+                "end": 128,
+                "start": 113,
+                "username": "loveforeversfy"
+              },
+              {
+                "end": 149,
+                "start": 133,
+                "username": "BelovedUren8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wakaba_rinko",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wakaba_rinko",
+                "start": 0,
+                "url": "https://t.co/zWqK1n9RJg"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "Ask me any u want→",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 591,
+          "following_count": 555,
+          "like_count": 15680,
+          "listed_count": 1,
+          "media_count": 153,
+          "tweet_count": 7676
+        },
+        "url": "https://t.co/zWqK1n9RJg",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-15T15:49:05.000Z",
+        "description": "蔦野Ame｜生理女心理女｜同类互fo大歡迎｜聊天先过🚪58｜帳號內容物→負能｜血圖｜od｜最最最最最最爱的恋人@BelovedUren8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 55,
+                "username": "BelovedUren8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ame12800",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ame12800",
+                "start": 0,
+                "url": "https://t.co/ROxJg2Pbcb"
+              }
+            ]
+          }
+        },
+        "id": "2011827901537402885",
+        "location": "Japan",
+        "name": "HYPOSELENIA",
+        "pinned_tweet_id": "2025113134093271245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024356068407857158/BkYuuVbw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 113,
+          "like_count": 161,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 94
+        },
+        "url": "https://t.co/ROxJg2Pbcb",
+        "username": "Amenyan14_w",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-20T07:57:36.000Z",
+        "description": "叫我雨怜，我是善良猫猫。 无性别者/💊oder 我支持为OD正名/自由万岁！自由永远高于一切/这还用说吗，我是汉奸哪🇯🇵 / 台湾支那，一边一国🇹🇼 / 反男反女反跨反人类反一切/支那人没有一个是无辜的/我心里的第一和唯一@Amenyan14_w /知音难寻@Psych_Angel",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 111,
+                "username": "Amenyan14_w"
+              },
+              {
+                "end": 141,
+                "start": 129,
+                "username": "Psych_Angel"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/uren68329",
+                "end": 23,
+                "expanded_url": "https://ngl.link/uren68329",
+                "start": 0,
+                "url": "https://t.co/DgJHLTrKH9"
+              }
+            ]
+          }
+        },
+        "id": "1484072544009347072",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "滨边雨怜会成为真正的传奇",
+        "pinned_tweet_id": "2009339225901248808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009941021363507201/jjiJM8UQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 455,
+          "following_count": 507,
+          "like_count": 5332,
+          "listed_count": 1,
+          "media_count": 445,
+          "tweet_count": 3897
+        },
+        "url": "https://t.co/DgJHLTrKH9",
+        "username": "BelovedUren8964",
+        "verified": false
+      }
+    ]
+  }
+}

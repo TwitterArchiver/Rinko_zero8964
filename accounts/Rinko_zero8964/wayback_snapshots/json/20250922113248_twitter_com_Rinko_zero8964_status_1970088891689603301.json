@@ -1,0 +1,339 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1969965950998134981",
+    "created_at": "2025-09-22T11:32:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-22T12:32:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970088891689603301"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1756246342676979713",
+          "start": 0,
+          "username": "sanmiguelnoodle"
+        },
+        {
+          "end": 33,
+          "id": "1620506107306479617",
+          "start": 17,
+          "username": "Cheese_Ghostfox"
+        },
+        {
+          "end": 47,
+          "id": "1962156064734138368",
+          "start": 34,
+          "username": "HydrogenNeko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970088891689603301",
+    "in_reply_to_user_id": "1756246342676979713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969965950998134981",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sanmiguelnoodle @Cheese_Ghostfox @HydrogenNeko 黑帮碰头"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 838,
+        "media_key": "3_1969965943586709504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1a5lp8aYAAPJGm.jpg",
+        "width": 1066
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1969965950998134981",
+        "created_at": "2025-09-22T11:32:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T12:32:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970088891689603301"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1756246342676979713",
+              "start": 0,
+              "username": "sanmiguelnoodle"
+            },
+            {
+              "end": 33,
+              "id": "1620506107306479617",
+              "start": 17,
+              "username": "Cheese_Ghostfox"
+            },
+            {
+              "end": 47,
+              "id": "1962156064734138368",
+              "start": 34,
+              "username": "HydrogenNeko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970088891689603301",
+        "in_reply_to_user_id": "1756246342676979713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969965950998134981",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sanmiguelnoodle @Cheese_Ghostfox @HydrogenNeko 黑帮碰头"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969965943586709504"
+          ]
+        },
+        "author_id": "1756246342676979713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1969965950998134981",
+        "created_at": "2025-09-22T03:24:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T04:24:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969965950998134981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 28,
+              "id": "1620506107306479617",
+              "start": 12,
+              "username": "Cheese_Ghostfox"
+            },
+            {
+              "end": 42,
+              "id": "1962156064734138368",
+              "start": 29,
+              "username": "HydrogenNeko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/p061O9Qkge",
+              "end": 66,
+              "expanded_url": "https://x.com/sanmiguelnoodle/status/1969965950998134981/photo/1",
+              "media_key": "3_1969965943586709504",
+              "start": 43,
+              "url": "https://t.co/p061O9Qkge"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969965950998134981",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 374,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "這是什麼神秘組織（🥺\n\n@Cheese_Ghostfox @HydrogenNeko https://t.co/p061O9Qkge"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 277,
+          "like_count": 3147,
+          "listed_count": 2,
+          "media_count": 77,
+          "tweet_count": 4060
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-10T09:19:19.000Z",
+        "description": "中華民國派🇹🇼❂​ | 台灣人 | 🚪28.88r | MTX🏳️‍⚧️🍥 | MDD/GAD/OCD/ASD/BPD🤒 | 看我的貼文不順眼請block我，我就是圈地自萌的一個人 | 唉呀這不是我好寶寶@mi_huan030 @bolckAshley",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 102,
+                "username": "mi_huan030"
+              },
+              {
+                "end": 126,
+                "start": 114,
+                "username": "bolckAshley"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sanmiguelnoodle.com.tw",
+                "end": 23,
+                "expanded_url": "https://www.sanmiguelnoodle.com.tw",
+                "start": 0,
+                "url": "https://t.co/2lbauKPJ9M"
+              }
+            ]
+          }
+        },
+        "id": "1756246342676979713",
+        "name": "生力麵🇹🇼🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1969153581300216285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968592713089171456/_JUpWVNG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1654,
+          "following_count": 552,
+          "like_count": 2382,
+          "listed_count": 9,
+          "media_count": 450,
+          "tweet_count": 5054
+        },
+        "url": "https://t.co/2lbauKPJ9M",
+        "username": "sanmiguelnoodle",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "欠拟合狐狐与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨MtX幽默无证药娘(?)🏳️‍⚧️丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨拒絕鑑政辨經❌/超友好🥰丨燦若花火的生命，无法用只言片语概括丨裡推 @HEX_Ghostfox丨恋人 @HydrogenNeko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 126,
+                "username": "HEX_Ghostfox"
+              },
+              {
+                "end": 156,
+                "start": 143,
+                "username": "HydrogenNeko"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター🏳️‍⚧️",
+        "pinned_tweet_id": "1919548841357148382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945506638892355584/vuuDoKyJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 546,
+          "following_count": 886,
+          "like_count": 7797,
+          "listed_count": 2,
+          "media_count": 239,
+          "tweet_count": 2245
+        },
+        "username": "Cheese_Ghostfox",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-31T14:10:44.000Z",
+        "description": "葉加瀬 水素仍在人間・MTX奇異搞笑小朋友🍥・業餘調查記者、偵探・私人實驗室「水素實驗室」創始人(建設ing…)🧬・有效利他主義者・余命1年 ・「すべてを癒す万能薬になりたい」",
+        "id": "1962156064734138368",
+        "location": "Nozomuten Technology&science",
+        "name": "☯️🧬葉加瀬水素 公式ツイッター",
+        "pinned_tweet_id": "1962163704134549962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962156244841709568/SgYFPIvk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 570,
+          "following_count": 268,
+          "like_count": 1126,
+          "listed_count": 1,
+          "media_count": 161,
+          "tweet_count": 547
+        },
+        "username": "HydrogenNeko",
+        "verified": false
+      }
+    ]
+  }
+}

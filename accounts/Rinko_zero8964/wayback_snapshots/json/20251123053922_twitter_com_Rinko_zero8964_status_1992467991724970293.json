@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1992467991724970293",
+    "created_at": "2025-11-23T05:39:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T06:39:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1992467991724970293"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/johnny_onpucha…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/johnny_onpuchan/status/1990742907167629428",
+          "start": 2,
+          "url": "https://t.co/uxoXDS09vh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992467991724970293",
+    "lang": "qst",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990742907167629428",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "？ https://t.co/uxoXDS09vh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1992467991724970293",
+        "created_at": "2025-11-23T05:39:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T06:39:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992467991724970293"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/johnny_onpucha…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/johnny_onpuchan/status/1990742907167629428",
+              "start": 2,
+              "url": "https://t.co/uxoXDS09vh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992467991724970293",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990742907167629428",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "？ https://t.co/uxoXDS09vh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2900565097",
+        "conversation_id": "1990742907167629428",
+        "created_at": "2025-11-18T11:24:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T12:24:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990742907167629428"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1990742907167629428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 68,
+          "impression_count": 59321,
+          "like_count": 671,
+          "quote_count": 18,
+          "reply_count": 108,
+          "retweet_count": 40
+        },
+        "reply_settings": "everyone",
+        "text": "习主席丰满的乳房完全盖住了朕的怒张阴茎。然后那老人把唾液滴在朕的海軍精神注入棒上，并开始上山下乡运动\n革命的唾液与朕軍国主義的粘稠先走液混合在一起\n然后几亿个小日本鬼子从朕兵工厂走火了\n\n那时候朕觉得可能这就是外交部和商务部说的“中日合作”\n今天福冈的天气格外寒冷，但朕心中却温暖如春"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜🥺@NashiMoe233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "NashiMoe233"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1967335109767692560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 332,
+          "like_count": 4715,
+          "listed_count": 1,
+          "media_count": 90,
+          "tweet_count": 4587
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2014-11-15T14:59:24.000Z",
+        "description": "朕/全裸日本鬼子/小日本屁民/包蜜",
+        "id": "2900565097",
+        "location": "福冈反革命根据地",
+        "name": "ジョニー",
+        "pinned_tweet_id": "1941361993128215002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1319681425612836864/Nt_SUE-Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14225,
+          "following_count": 1200,
+          "like_count": 126983,
+          "listed_count": 95,
+          "media_count": 7646,
+          "tweet_count": 139157
+        },
+        "username": "johnny_onpuchan",
+        "verified": false
+      }
+    ]
+  }
+}

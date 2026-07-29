@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2013410664056832014",
+    "created_at": "2026-01-20T08:53:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T09:53:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013535231131697287"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2007104134466736129",
+          "start": 0,
+          "username": "peipeimao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013535231131697287",
+    "in_reply_to_user_id": "2007104134466736129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013410664056832014",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@peipeimao 妈妈我愿意把你的头摁在我怀里无论怎么样"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12766,
+        "height": 720,
+        "media_key": "13_2013410590430240768",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2013410590430240768/img/9E_5wVRGk1u3LIss.jpg",
+        "public_metrics": {
+          "view_count": 44
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2013410590430240768/vid/avc1/480x270/pHFGyvpXLP9HjtWU.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2013410590430240768/vid/avc1/640x360/WHefpzO9w2JRr5MU.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2013410590430240768/vid/avc1/1280x720/BtsEvV_D8mon8sp-.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2013410590430240768/pl/X_9L0XwpcIFCbXHB.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2013410664056832014",
+        "created_at": "2026-01-20T08:53:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T09:53:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013535231131697287"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2007104134466736129",
+              "start": 0,
+              "username": "peipeimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013535231131697287",
+        "in_reply_to_user_id": "2007104134466736129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013410664056832014",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@peipeimao 妈妈我愿意把你的头摁在我怀里无论怎么样"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2013410590430240768"
+          ]
+        },
+        "author_id": "2007104134466736129",
+        "conversation_id": "2013410664056832014",
+        "created_at": "2026-01-20T00:38:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T01:38:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013410664056832014"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bxx1c01gdR",
+              "end": 36,
+              "expanded_url": "https://x.com/peipeimao/status/2013410664056832014/video/1",
+              "media_key": "13_2013410590430240768",
+              "start": 13,
+              "url": "https://t.co/bxx1c01gdR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013410664056832014",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 258,
+          "impression_count": 24915,
+          "like_count": 2242,
+          "quote_count": 2,
+          "reply_count": 20,
+          "retweet_count": 118
+        },
+        "reply_settings": "everyone",
+        "text": "最近生病了好想把头扔出去 https://t.co/bxx1c01gdR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜如果没有回关请私信提醒我！｜我不吸毒！！！｜性别为无、｜輪郭の定まらない位置にいた人@Psych_Angel_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 53,
+                "username": "Psych_Angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNh89"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 522,
+          "following_count": 482,
+          "like_count": 12414,
+          "listed_count": 1,
+          "media_count": 143,
+          "tweet_count": 6697
+        },
+        "url": "https://t.co/rCvc9RNh89",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "依旧私信只想回口令",
+        "id": "2007104134466736129",
+        "location": "依旧🚪妹",
+        "name": "裴裴小猫meowww",
+        "pinned_tweet_id": "2010662820644520181",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008908362331865088/gDy2e0ur_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1389,
+          "following_count": 135,
+          "like_count": 232,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 394
+        },
+        "username": "peipeimao",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1967572402491330914",
+    "created_at": "2025-09-15T18:37:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-15T19:37:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967659161891848504"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1481172876589821952",
+          "start": 0,
+          "username": "pyke2076"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967659161891848504",
+    "in_reply_to_user_id": "1481172876589821952",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967572402491330914",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pyke2076 制毒"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1967572391795777536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G044qmraYAAFwWL.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1967572402491330914",
+        "created_at": "2025-09-15T18:37:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T19:37:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967659161891848504"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1481172876589821952",
+              "start": 0,
+              "username": "pyke2076"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967659161891848504",
+        "in_reply_to_user_id": "1481172876589821952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967572402491330914",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pyke2076 制毒"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967572391795777536"
+          ]
+        },
+        "author_id": "1481172876589821952",
+        "conversation_id": "1967572402491330914",
+        "created_at": "2025-09-15T12:53:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T13:53:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967572402491330914"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2li4CqKszt",
+              "end": 31,
+              "expanded_url": "https://x.com/pyke2076/status/1967572402491330914/photo/1",
+              "media_key": "3_1967572391795777536",
+              "start": 8,
+              "url": "https://t.co/2li4CqKszt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967572402491330914",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2161,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "猜猜我在干什么 https://t.co/2li4CqKszt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 269,
+          "like_count": 2830,
+          "listed_count": 2,
+          "media_count": 67,
+          "tweet_count": 3870
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-12T07:55:43.000Z",
+        "description": "当你离去之后，你仍在我的视线里。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pyke2077",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pyke2077",
+                "start": 0,
+                "url": "https://t.co/OVd42ruoYd"
+              }
+            ]
+          }
+        },
+        "id": "1481172876589821952",
+        "location": "地狱",
+        "name": "bunny",
+        "pinned_tweet_id": "1948055006441320599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739460199323435008/cSDInbKL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5814,
+          "following_count": 1231,
+          "like_count": 61404,
+          "listed_count": 10,
+          "media_count": 2771,
+          "tweet_count": 16485
+        },
+        "url": "https://t.co/OVd42ruoYd",
+        "username": "pyke2076",
+        "verified": false
+      }
+    ]
+  }
+}

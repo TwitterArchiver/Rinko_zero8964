@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2014579886237913182",
+    "created_at": "2026-01-24T07:39:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T08:39:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014966156931825679"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1911828872334831616",
+          "start": 0,
+          "username": "Edward_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014966156931825679",
+    "in_reply_to_user_id": "1911828872334831616",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014579886237913182",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Edward_8964 藤急了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2014579879086358528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_U5ufCXgAAasCl.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2014579886237913182",
+        "created_at": "2026-01-24T07:39:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T08:39:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014966156931825679"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1911828872334831616",
+              "start": 0,
+              "username": "Edward_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014966156931825679",
+        "in_reply_to_user_id": "1911828872334831616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014579886237913182",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Edward_8964 藤急了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014579879086358528"
+          ]
+        },
+        "author_id": "1911828872334831616",
+        "conversation_id": "2014579886237913182",
+        "created_at": "2026-01-23T06:04:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T07:04:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014579886237913182"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aCu00v0ZFo",
+              "end": 54,
+              "expanded_url": "https://x.com/Edward_8964/status/2014579886237913182/photo/1",
+              "media_key": "3_2014579879086358528",
+              "start": 31,
+              "url": "https://t.co/aCu00v0ZFo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014579886237913182",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 663,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "麻烦后藤不要以旧时代的理念看待新时代的开源wiki可以吗（） https://t.co/aCu00v0ZFo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜如果没有回关请私信提醒我！｜我不吸毒！！！｜性别为无、｜輪郭の定まらない位置にいた人@Psych_Angel_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 53,
+                "username": "Psych_Angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNh89"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 529,
+          "following_count": 490,
+          "like_count": 12791,
+          "listed_count": 1,
+          "media_count": 143,
+          "tweet_count": 6791
+        },
+        "url": "https://t.co/rCvc9RNh89",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-14T17:08:26.000Z",
+        "description": "南湖之虎/FOW参与者/FOW网页端维护者/退役OIer转ODer/ADHD/MTX/生存、梦想、进取/不盈利不卖药/互fo🉑",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeod.wiki",
+                "end": 23,
+                "expanded_url": "http://freeod.wiki",
+                "start": 0,
+                "url": "https://t.co/2k0YxzO4Vn"
+              }
+            ]
+          }
+        },
+        "id": "1911828872334831616",
+        "location": "红船上的炸弹旁",
+        "name": "💊Edward……",
+        "pinned_tweet_id": "2013683719157289444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008623613470273536/BFTxYY73_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 973,
+          "following_count": 775,
+          "like_count": 9515,
+          "listed_count": 2,
+          "media_count": 405,
+          "tweet_count": 5659
+        },
+        "url": "https://t.co/2k0YxzO4Vn",
+        "username": "Edward_8964",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1970693341038944364",
+    "created_at": "2025-09-24T06:15:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-24T07:15:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970733747520798936"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1609844142313553921",
+          "start": 0,
+          "username": "Nijika_overdose"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970733747520798936",
+    "in_reply_to_user_id": "1609844142313553921",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970693341038944364",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nijika_overdose 急急急我也要当🍐大军"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1970693341038944364",
+        "created_at": "2025-09-24T06:15:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T07:15:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970733747520798936"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1609844142313553921",
+              "start": 0,
+              "username": "Nijika_overdose"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970733747520798936",
+        "in_reply_to_user_id": "1609844142313553921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970693341038944364",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nijika_overdose 急急急我也要当🍐大军"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1609844142313553921",
+        "conversation_id": "1970693341038944364",
+        "created_at": "2025-09-24T03:34:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T04:34:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970693341038944364"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1970693341038944364",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 123,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我现在当务之急是给名字里加个梨\n急急急"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1970723714062069870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 281,
+          "like_count": 3327,
+          "listed_count": 2,
+          "media_count": 83,
+          "tweet_count": 4219
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-02T09:28:57.000Z",
+        "description": "💛🤍💜🖤丨这是什么？@Nijika_Dark\n｜亲爱的@_mucha_000｜小姑子猫猫@ZTYQ_0319",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "Nijika_Dark"
+              },
+              {
+                "end": 38,
+                "start": 27,
+                "username": "_mucha_000"
+              },
+              {
+                "end": 54,
+                "start": 44,
+                "username": "ZTYQ_0319"
+              }
+            ]
+          }
+        },
+        "id": "1609844142313553921",
+        "location": "疯狂宇宙",
+        "name": "一只梨虹夏",
+        "pinned_tweet_id": "1945857232505094599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965064553030647810/4gWF244a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1083,
+          "following_count": 246,
+          "like_count": 2838,
+          "listed_count": 3,
+          "media_count": 174,
+          "tweet_count": 2052
+        },
+        "username": "Nijika_overdose",
+        "verified": false
+      }
+    ]
+  }
+}

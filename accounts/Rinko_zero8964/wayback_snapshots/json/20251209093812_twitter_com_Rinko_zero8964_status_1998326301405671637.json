@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1998326163706638336"
+      ],
+      "media_source_tweet_id": [
+        "1998326174829666411"
+      ]
+    },
+    "author_id": "1849043039496617984",
+    "conversation_id": "1998326301405671637",
+    "created_at": "2025-12-09T09:38:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T10:38:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998326301405671637"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1266206715839606784",
+          "start": 3,
+          "username": "hanabitaminc"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eeY3VYDKdG",
+          "end": 41,
+          "expanded_url": "https://x.com/hanabitaminc/status/1998326174829666411/photo/1",
+          "media_key": "3_1998326163706638336",
+          "start": 18,
+          "url": "https://t.co/eeY3VYDKdG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998326301405671637",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998326174829666411",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hanabitaminc: https://t.co/eeY3VYDKdG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2388,
+        "media_key": "3_1998326163706638336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7t7Du0acAArbF7.jpg",
+        "width": 2197
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998326163706638336"
+          ],
+          "media_source_tweet_id": [
+            "1998326174829666411"
+          ]
+        },
+        "author_id": "1849043039496617984",
+        "conversation_id": "1998326301405671637",
+        "created_at": "2025-12-09T09:38:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T10:38:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998326301405671637"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1266206715839606784",
+              "start": 3,
+              "username": "hanabitaminc"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eeY3VYDKdG",
+              "end": 41,
+              "expanded_url": "https://x.com/hanabitaminc/status/1998326174829666411/photo/1",
+              "media_key": "3_1998326163706638336",
+              "start": 18,
+              "url": "https://t.co/eeY3VYDKdG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998326301405671637",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998326174829666411",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hanabitaminc: https://t.co/eeY3VYDKdG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998326163706638336"
+          ]
+        },
+        "author_id": "1266206715839606784",
+        "conversation_id": "1998326174829666411",
+        "created_at": "2025-12-09T09:37:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T10:37:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998326174829666411"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eeY3VYDKdG",
+              "end": 23,
+              "expanded_url": "https://x.com/hanabitaminc/status/1998326174829666411/photo/1",
+              "media_key": "3_1998326163706638336",
+              "start": 0,
+              "url": "https://t.co/eeY3VYDKdG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998326174829666411",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/eeY3VYDKdG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜🥺@NashiMoe233｜如果没有回关请私信提醒我！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "NashiMoe233"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1967335109767692560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 352,
+          "like_count": 5596,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 5016
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-29T03:17:22.000Z",
+        "description": "人間が好きです @hanabitaminb (現在、ご依頼とDMでのお返事できかねます🙇‍♂️)インスタ→ https://t.co/AmlunMW4by",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "hanabitaminb"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "instagram.com/hanabitaminc?i…",
+                "end": 77,
+                "expanded_url": "https://www.instagram.com/hanabitaminc?igsh=MWRicWF1YzZuMGN6MA%3D%3D&utm_source=qr",
+                "start": 54,
+                "url": "https://t.co/AmlunMW4by"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/53144689",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/53144689",
+                "start": 0,
+                "url": "https://t.co/72PdX51Udv"
+              }
+            ]
+          }
+        },
+        "id": "1266206715839606784",
+        "location": "木星に一軒家を建てました",
+        "name": "花巻 花郎",
+        "pinned_tweet_id": "1904478915214897217",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1610904608439959553/GjAHGmmh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127372,
+          "following_count": 139,
+          "like_count": 54176,
+          "listed_count": 796,
+          "media_count": 301,
+          "tweet_count": 38056
+        },
+        "url": "https://t.co/72PdX51Udv",
+        "username": "hanabitaminc",
+        "verified": false
+      }
+    ]
+  }
+}

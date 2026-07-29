@@ -1,0 +1,397 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042998840484052992",
+        "3_2042998915931246593",
+        "3_2042999002996559872"
+      ],
+      "media_source_tweet_id": [
+        "2043000430356025847",
+        "2043000430356025847",
+        "2043000430356025847"
+      ]
+    },
+    "author_id": "1849043039496617984",
+    "conversation_id": "2043245008929873930",
+    "created_at": "2026-04-12T08:29:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T09:29:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043245008929873930"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1659962043460354050",
+          "start": 3,
+          "username": "SalviaSWC"
+        }
+      ],
+      "urls": [
+        {
+          "description": "FreeODwiki是一个开源项目，旨在让每一位ODer都能有效地获取和分享有关Overdose和精神活性物质的信息，并在减少上述事物对ODer造成的伤害的同时，为上述事物提供一个独特的视角。",
+          "display_url": "freeodwiki.org/%E6%96%87%E6%A…",
+          "end": 88,
+          "expanded_url": "https://freeodwiki.org/%E6%96%87%E6%A1%A3/%E5%8F%B3%E7%BE%8E%E6%B2%99%E8%8A%ACFAQ/dxm_preliminary.html",
+          "start": 65,
+          "status": 200,
+          "title": "2 预备信息 - FreeODwiki——可自由编辑的开源Overdose百科",
+          "unwound_url": "https://freeodwiki.org/%E6%96%87%E6%A1%A3/%E5%8F%B3%E7%BE%8E%E6%B2%99%E8%8A%ACFAQ/dxm_preliminary.html",
+          "url": "https://t.co/wNN9S5TTf2"
+        },
+        {
+          "display_url": "pic.x.com/wPW2i15rp1",
+          "end": 112,
+          "expanded_url": "https://x.com/SalviaSWC/status/2043000430356025847/photo/1",
+          "media_key": "3_2042998840484052992",
+          "start": 89,
+          "url": "https://t.co/wPW2i15rp1"
+        },
+        {
+          "display_url": "pic.x.com/wPW2i15rp1",
+          "end": 112,
+          "expanded_url": "https://x.com/SalviaSWC/status/2043000430356025847/photo/1",
+          "media_key": "3_2042998915931246593",
+          "start": 89,
+          "url": "https://t.co/wPW2i15rp1"
+        },
+        {
+          "display_url": "pic.x.com/wPW2i15rp1",
+          "end": 112,
+          "expanded_url": "https://x.com/SalviaSWC/status/2043000430356025847/photo/1",
+          "media_key": "3_2042999002996559872",
+          "start": 89,
+          "url": "https://t.co/wPW2i15rp1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043245008929873930",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043000430356025847",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SalviaSWC: 深有同感......30年前的这篇文档作者的处境，和今天我们的处境高度重合，没看过的可以看一下😖\n\nhttps://t.co/wNN9S5TTf2 https://t.co/wPW2i15rp1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1596,
+        "media_key": "3_2042998840484052992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFownwOWQAAZANS.png",
+        "width": 1552
+      },
+      {
+        "height": 1578,
+        "media_key": "3_2042998915931246593",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFowsJSXEAEYW5v.png",
+        "width": 1600
+      },
+      {
+        "height": 1604,
+        "media_key": "3_2042999002996559872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFowxNoWUAAQtVN.png",
+        "width": 1552
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042998840484052992",
+            "3_2042998915931246593",
+            "3_2042999002996559872"
+          ],
+          "media_source_tweet_id": [
+            "2043000430356025847",
+            "2043000430356025847",
+            "2043000430356025847"
+          ]
+        },
+        "author_id": "1849043039496617984",
+        "conversation_id": "2043245008929873930",
+        "created_at": "2026-04-12T08:29:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T09:29:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043245008929873930"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1659962043460354050",
+              "start": 3,
+              "username": "SalviaSWC"
+            }
+          ],
+          "urls": [
+            {
+              "description": "FreeODwiki是一个开源项目，旨在让每一位ODer都能有效地获取和分享有关Overdose和精神活性物质的信息，并在减少上述事物对ODer造成的伤害的同时，为上述事物提供一个独特的视角。",
+              "display_url": "freeodwiki.org/%E6%96%87%E6%A…",
+              "end": 88,
+              "expanded_url": "https://freeodwiki.org/%E6%96%87%E6%A1%A3/%E5%8F%B3%E7%BE%8E%E6%B2%99%E8%8A%ACFAQ/dxm_preliminary.html",
+              "start": 65,
+              "status": 200,
+              "title": "2 预备信息 - FreeODwiki——可自由编辑的开源Overdose百科",
+              "unwound_url": "https://freeodwiki.org/%E6%96%87%E6%A1%A3/%E5%8F%B3%E7%BE%8E%E6%B2%99%E8%8A%ACFAQ/dxm_preliminary.html",
+              "url": "https://t.co/wNN9S5TTf2"
+            },
+            {
+              "display_url": "pic.x.com/wPW2i15rp1",
+              "end": 112,
+              "expanded_url": "https://x.com/SalviaSWC/status/2043000430356025847/photo/1",
+              "media_key": "3_2042998840484052992",
+              "start": 89,
+              "url": "https://t.co/wPW2i15rp1"
+            },
+            {
+              "display_url": "pic.x.com/wPW2i15rp1",
+              "end": 112,
+              "expanded_url": "https://x.com/SalviaSWC/status/2043000430356025847/photo/1",
+              "media_key": "3_2042998915931246593",
+              "start": 89,
+              "url": "https://t.co/wPW2i15rp1"
+            },
+            {
+              "display_url": "pic.x.com/wPW2i15rp1",
+              "end": 112,
+              "expanded_url": "https://x.com/SalviaSWC/status/2043000430356025847/photo/1",
+              "media_key": "3_2042999002996559872",
+              "start": 89,
+              "url": "https://t.co/wPW2i15rp1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043245008929873930",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043000430356025847",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SalviaSWC: 深有同感......30年前的这篇文档作者的处境，和今天我们的处境高度重合，没看过的可以看一下😖\n\nhttps://t.co/wNN9S5TTf2 https://t.co/wPW2i15rp1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042998840484052992",
+            "3_2042998915931246593",
+            "3_2042999002996559872"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "2043000430356025847",
+        "created_at": "2026-04-11T16:17:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T17:17:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043000430356025847"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "FreeODwiki是一个开源项目，旨在让每一位ODer都能有效地获取和分享有关Overdose和精神活性物质的信息，并在减少上述事物对ODer造成的伤害的同时，为上述事物提供一个独特的视角。",
+              "display_url": "freeodwiki.org/%E6%96%87%E6%A…",
+              "end": 73,
+              "expanded_url": "https://freeodwiki.org/%E6%96%87%E6%A1%A3/%E5%8F%B3%E7%BE%8E%E6%B2%99%E8%8A%ACFAQ/dxm_preliminary.html",
+              "start": 50,
+              "status": 200,
+              "title": "2 预备信息 - FreeODwiki——可自由编辑的开源Overdose百科",
+              "unwound_url": "https://freeodwiki.org/%E6%96%87%E6%A1%A3/%E5%8F%B3%E7%BE%8E%E6%B2%99%E8%8A%ACFAQ/dxm_preliminary.html",
+              "url": "https://t.co/wNN9S5TTf2"
+            },
+            {
+              "display_url": "pic.x.com/wPW2i15rp1",
+              "end": 97,
+              "expanded_url": "https://x.com/SalviaSWC/status/2043000430356025847/photo/1",
+              "media_key": "3_2042998840484052992",
+              "start": 74,
+              "url": "https://t.co/wPW2i15rp1"
+            },
+            {
+              "display_url": "pic.x.com/wPW2i15rp1",
+              "end": 97,
+              "expanded_url": "https://x.com/SalviaSWC/status/2043000430356025847/photo/1",
+              "media_key": "3_2042998915931246593",
+              "start": 74,
+              "url": "https://t.co/wPW2i15rp1"
+            },
+            {
+              "display_url": "pic.x.com/wPW2i15rp1",
+              "end": 97,
+              "expanded_url": "https://x.com/SalviaSWC/status/2043000430356025847/photo/1",
+              "media_key": "3_2042999002996559872",
+              "start": 74,
+              "url": "https://t.co/wPW2i15rp1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043000430356025847",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1871,
+          "like_count": 30,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "深有同感......30年前的这篇文档作者的处境，和今天我们的处境高度重合，没看过的可以看一下😖\n\nhttps://t.co/wNN9S5TTf2 https://t.co/wPW2i15rp1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思う、ゆえに我あり｜ 我是林子｜性别为无、｜寒くなってきたね……もう少しだけ、いい？｜intp-t｜ASD/OCD/焦虑障碍｜🧬今日也想成为biohacker｜好妈妈们@Misaki11137 @loveforeversfy|bro @BelovedUren8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 85,
+                "username": "Misaki11137"
+              },
+              {
+                "end": 113,
+                "start": 98,
+                "username": "loveforeversfy"
+              },
+              {
+                "end": 134,
+                "start": 118,
+                "username": "BelovedUren8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wakaba_rinko",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wakaba_rinko",
+                "start": 0,
+                "url": "https://t.co/zWqK1n9RJg"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "Ask me any u want→",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 658,
+          "following_count": 634,
+          "like_count": 17237,
+          "listed_count": 1,
+          "media_count": 169,
+          "tweet_count": 8298
+        },
+        "url": "https://t.co/zWqK1n9RJg",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07|上海|退役OIer|计算机💻|\n\n非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑哦🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！|Say Know to Drugs 😼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 75,
+                "username": "DXM8964LXM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAMFL"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3703,
+          "following_count": 998,
+          "like_count": 22075,
+          "listed_count": 8,
+          "media_count": 418,
+          "tweet_count": 6737
+        },
+        "url": "https://t.co/20q0OtAMFL",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

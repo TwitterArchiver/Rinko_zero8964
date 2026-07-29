@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2011229945536884976",
+    "created_at": "2026-01-14T11:00:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-14T12:00:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011393081443242000"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1836276354041495553",
+          "start": 0,
+          "username": "CABR_Lies"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011393081443242000",
+    "in_reply_to_user_id": "1836276354041495553",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011229945536884976",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CABR_Lies 1.4都好看！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_2011229941938180096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-lS-era0AA4wfS.jpg",
+        "width": 1600
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2011229942105968641",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-lS-fTbEAE5eEH.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1500,
+        "media_key": "3_2011229942592462848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-lS-hHaYAAAZAv.jpg",
+        "width": 1500
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2011229943053877248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-lS-i1bAAAbe78.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2011229945536884976",
+        "created_at": "2026-01-14T11:00:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T12:00:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011393081443242000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1836276354041495553",
+              "start": 0,
+              "username": "CABR_Lies"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011393081443242000",
+        "in_reply_to_user_id": "1836276354041495553",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011229945536884976",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CABR_Lies 1.4都好看！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2011229941938180096",
+            "3_2011229942105968641",
+            "3_2011229942592462848",
+            "3_2011229943053877248"
+          ]
+        },
+        "author_id": "1836276354041495553",
+        "conversation_id": "2011229945536884976",
+        "created_at": "2026-01-14T00:12:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T01:12:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011229945536884976"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/POVzAJ3iGn",
+              "end": 57,
+              "expanded_url": "https://x.com/CABR_Lies/status/2011229945536884976/photo/1",
+              "media_key": "3_2011229941938180096",
+              "start": 34,
+              "url": "https://t.co/POVzAJ3iGn"
+            },
+            {
+              "display_url": "pic.x.com/POVzAJ3iGn",
+              "end": 57,
+              "expanded_url": "https://x.com/CABR_Lies/status/2011229945536884976/photo/1",
+              "media_key": "3_2011229942105968641",
+              "start": 34,
+              "url": "https://t.co/POVzAJ3iGn"
+            },
+            {
+              "display_url": "pic.x.com/POVzAJ3iGn",
+              "end": 57,
+              "expanded_url": "https://x.com/CABR_Lies/status/2011229945536884976/photo/1",
+              "media_key": "3_2011229942592462848",
+              "start": 34,
+              "url": "https://t.co/POVzAJ3iGn"
+            },
+            {
+              "display_url": "pic.x.com/POVzAJ3iGn",
+              "end": 57,
+              "expanded_url": "https://x.com/CABR_Lies/status/2011229945536884976/photo/1",
+              "media_key": "3_2011229943053877248",
+              "start": 34,
+              "url": "https://t.co/POVzAJ3iGn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011229945536884976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 790,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "买哪个好纠结，本宝只是一个Sweet Transvestite罢了 https://t.co/POVzAJ3iGn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜如果没有回关请私信提醒我！｜我不吸毒！！！｜小猫我喜欢你超喜欢我爱你@psych_angel_｜性别为无、",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 45,
+                "username": "psych_angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNh89"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 520,
+          "following_count": 474,
+          "like_count": 11771,
+          "listed_count": 1,
+          "media_count": 140,
+          "tweet_count": 6542
+        },
+        "url": "https://t.co/rCvc9RNh89",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-18T05:29:42.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️营业右上角搜索 #shtwt #drugtwt｜我是DizzyRichter可以叫我枭儿｜he/them｜你说我的爱如石滚𝕷𝖚𝖛 𝖑𝖎𝖐𝖊 𝖗𝖔𝖈𝖐 𝖗𝖔𝖑𝖑 @Pardon_Love_",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 64,
+                "start": 58,
+                "tag": "shtwt"
+              },
+              {
+                "end": 73,
+                "start": 65,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 143,
+                "start": 130,
+                "username": "Pardon_Love_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitter.com/i/communities/…",
+                "end": 23,
+                "expanded_url": "https://twitter.com/i/communities/2002034506979750304",
+                "start": 0,
+                "url": "https://t.co/NzgTJgrTtB"
+              }
+            ]
+          }
+        },
+        "id": "1836276354041495553",
+        "location": "𝟐𝟕𝐂𝐥𝐮𝐛",
+        "name": "新中国第一毒枭𝐃𝐢𝐳𝐳𝐲𝟒𝟔𝟐𝟎𝟓𝟖",
+        "pinned_tweet_id": "2008514256225055072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011180329244246017/MhsXEVWq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4976,
+          "following_count": 155,
+          "like_count": 26448,
+          "listed_count": 8,
+          "media_count": 1148,
+          "tweet_count": 14427
+        },
+        "url": "https://t.co/NzgTJgrTtB",
+        "username": "CABR_Lies",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,363 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2006901192660759011",
+    "created_at": "2026-01-02T09:40:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T10:40:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007024123227320618"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2006898055031975936",
+          "start": 0,
+          "username": "RC_selling"
+        },
+        {
+          "end": 24,
+          "id": "1865782118216835072",
+          "start": 12,
+          "username": "PEA_selling"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007024123227320618",
+    "in_reply_to_user_id": "2006898055031975936",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006901192660759011",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RC_selling @PEA_selling 🥹"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [PEA_selling].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "PEA_selling",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "PEA_selling"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2006901178442067972",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9nx_SBaMAQO6b4.jpg",
+        "width": 1447
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2006901192660759011",
+        "created_at": "2026-01-02T09:40:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T10:40:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007024123227320618"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2006898055031975936",
+              "start": 0,
+              "username": "RC_selling"
+            },
+            {
+              "end": 24,
+              "id": "1865782118216835072",
+              "start": 12,
+              "username": "PEA_selling"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007024123227320618",
+        "in_reply_to_user_id": "2006898055031975936",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006901192660759011",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RC_selling @PEA_selling 🥹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006901178442067972"
+          ]
+        },
+        "author_id": "2006898055031975936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1139229087682068480",
+              "name": "Tether cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1139229087682068480",
+              "name": "Tether cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1484181943616884743",
+              "name": "Cryptocoins"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          }
+        ],
+        "conversation_id": "2006901192660759011",
+        "created_at": "2026-01-02T01:31:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T02:31:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006901192660759011"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 34,
+              "id": "1865782118216835072",
+              "start": 22,
+              "username": "PEA_selling"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Sp6G2xktqz",
+              "end": 112,
+              "expanded_url": "https://x.com/RC_selling/status/2006901192660759011/photo/1",
+              "media_key": "3_2006901178442067972",
+              "start": 89,
+              "url": "https://t.co/Sp6G2xktqz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006901192660759011",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "大家好我是超级咕咕咕独摇滚（二代目）\n一代目@PEA_selling惨遭马斯克毒手封禁\n目前价目表，日雌现价375顺丰包邮\nvx支付宝usdt均可，除日雌土色外产品用u支付9折 https://t.co/Sp6G2xktqz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜如果没有回关请私信提醒我！｜我不吸毒！！！｜小猫我喜欢你超喜欢我爱你@psych_angel_｜性别为无、",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 45,
+                "username": "psych_angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNh89"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1999352315241988490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 488,
+          "following_count": 458,
+          "like_count": 9266,
+          "listed_count": 1,
+          "media_count": 128,
+          "tweet_count": 6014
+        },
+        "url": "https://t.co/rCvc9RNh89",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-02T01:19:30.000Z",
+        "description": "一代目@PEA_selling，日雌土色替西帕肽司美格鲁肽有售，tg在下方，spring风永存",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "PEA_selling"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Super_Bocchi_t…",
+                "end": 23,
+                "expanded_url": "https://t.me/Super_Bocchi_therock",
+                "start": 0,
+                "url": "https://t.co/3XaxqNEvsC"
+              }
+            ]
+          }
+        },
+        "id": "2006898055031975936",
+        "location": "参宿四",
+        "name": "超级咕咕咕独摇滚2（日雌375包邮土色减肥针）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006899507263602688/3v7xx2qh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 14,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 2
+        },
+        "url": "https://t.co/3XaxqNEvsC",
+        "username": "RC_selling",
+        "verified": false
+      }
+    ]
+  }
+}

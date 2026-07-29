@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1999719726348665055",
+    "created_at": "2025-12-13T05:55:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T06:55:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999719726348665055"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "3022697779",
+          "start": 3,
+          "username": "RXdruglab"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999719726348665055",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 52
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999352568095604882",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RXdruglab: 很多人觉得跳楼自杀很快，没有痛苦，但实际上并不是这样的，足够高的楼层（比如15楼以上）确实可能带来近乎100%的死亡率，但是有非常高的概率落地后并不能马上死亡，而是有可能在地面存活数分钟，慢慢意识消失，落地的瞬间你甚至可以听到全身骨骼断裂的声音，甚…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1999719726348665055",
+        "created_at": "2025-12-13T05:55:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T06:55:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999719726348665055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "3022697779",
+              "start": 3,
+              "username": "RXdruglab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999719726348665055",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 52
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999352568095604882",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RXdruglab: 很多人觉得跳楼自杀很快，没有痛苦，但实际上并不是这样的，足够高的楼层（比如15楼以上）确实可能带来近乎100%的死亡率，但是有非常高的概率落地后并不能马上死亡，而是有可能在地面存活数分钟，慢慢意识消失，落地的瞬间你甚至可以听到全身骨骼断裂的声音，甚…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "1999352568095604882",
+        "created_at": "2025-12-12T05:36:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T06:36:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999352568095604882"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1999352568095604882",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 130,
+          "impression_count": 343625,
+          "like_count": 1318,
+          "quote_count": 12,
+          "reply_count": 112,
+          "retweet_count": 52
+        },
+        "reply_settings": "everyone",
+        "text": "很多人觉得跳楼自杀很快，没有痛苦，但实际上并不是这样的，足够高的楼层（比如15楼以上）确实可能带来近乎100%的死亡率，但是有非常高的概率落地后并不能马上死亡，而是有可能在地面存活数分钟，慢慢意识消失，落地的瞬间你甚至可以听到全身骨骼断裂的声音，甚至更糟糕的是，散落的残肢可能就在眼前。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜🥺@NashiMoe233｜如果没有回关请私信提醒我！｜我不吸毒！！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "NashiMoe233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNOXH"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1999352315241988490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 415,
+          "following_count": 377,
+          "like_count": 5845,
+          "listed_count": 1,
+          "media_count": 98,
+          "tweet_count": 5119
+        },
+        "url": "https://t.co/rCvc9RNOXH",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/KMcpbSmDcL"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1917542345039569145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17062,
+          "following_count": 18,
+          "like_count": 23,
+          "listed_count": 21,
+          "media_count": 52,
+          "tweet_count": 1409
+        },
+        "url": "https://t.co/KMcpbSmDcL",
+        "username": "RXdruglab",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_1967041880652476419"
+      ],
+      "media_source_tweet_id": [
+        "1967453325638488355"
+      ]
+    },
+    "author_id": "1849043039496617984",
+    "conversation_id": "1968156061564903591",
+    "created_at": "2025-09-17T03:32:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T04:32:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968156061564903591"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "303939260",
+          "start": 3,
+          "username": "GiFShitposting"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tn6F3DfODP",
+          "end": 43,
+          "expanded_url": "https://x.com/GiFShitposting/status/1967453325638488355/photo/1",
+          "media_key": "16_1967041880652476419",
+          "start": 20,
+          "url": "https://t.co/tn6F3DfODP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968156061564903591",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 159
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967453325638488355",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GiFShitposting: https://t.co/tn6F3DfODP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 210,
+        "media_key": "16_1967041880652476419",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/G0xWKyqbcAMclVi.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/G0xWKyqbcAMclVi.mp4"
+          }
+        ],
+        "width": 384
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1967041880652476419"
+          ],
+          "media_source_tweet_id": [
+            "1967453325638488355"
+          ]
+        },
+        "author_id": "1849043039496617984",
+        "conversation_id": "1968156061564903591",
+        "created_at": "2025-09-17T03:32:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T04:32:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968156061564903591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "303939260",
+              "start": 3,
+              "username": "GiFShitposting"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tn6F3DfODP",
+              "end": 43,
+              "expanded_url": "https://x.com/GiFShitposting/status/1967453325638488355/photo/1",
+              "media_key": "16_1967041880652476419",
+              "start": 20,
+              "url": "https://t.co/tn6F3DfODP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968156061564903591",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 159
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967453325638488355",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GiFShitposting: https://t.co/tn6F3DfODP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1967041880652476419"
+          ]
+        },
+        "author_id": "303939260",
+        "conversation_id": "1967453325638488355",
+        "created_at": "2025-09-15T05:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T06:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967453325638488355"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tn6F3DfODP",
+              "end": 23,
+              "expanded_url": "https://x.com/GiFShitposting/status/1967453325638488355/photo/1",
+              "media_key": "16_1967041880652476419",
+              "start": 0,
+              "url": "https://t.co/tn6F3DfODP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967453325638488355",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 165,
+          "impression_count": 26876,
+          "like_count": 1153,
+          "quote_count": 12,
+          "reply_count": 6,
+          "retweet_count": 159
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/tn6F3DfODP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 274,
+          "like_count": 2983,
+          "listed_count": 2,
+          "media_count": 68,
+          "tweet_count": 3923
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2011-05-23T17:28:22.000Z",
+        "description": "Daily GiF Shitposting || Ran by @buco",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 32,
+                "username": "buco"
+              }
+            ]
+          }
+        },
+        "id": "303939260",
+        "name": "GiF Shitposting ⚡️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2190238327/cbx-jogo__93__normal.gif",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67387,
+          "following_count": 499,
+          "like_count": 6222,
+          "listed_count": 64,
+          "media_count": 2895,
+          "tweet_count": 3407
+        },
+        "username": "GiFShitposting",
+        "verified": true
+      }
+    ]
+  }
+}

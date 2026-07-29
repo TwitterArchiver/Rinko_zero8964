@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2004109898939027456",
+        "3_2004109898918060032"
+      ],
+      "media_source_tweet_id": [
+        "2004109932782874849",
+        "2004109932782874849"
+      ]
+    },
+    "author_id": "1849043039496617984",
+    "conversation_id": "2004168429071462858",
+    "created_at": "2025-12-25T12:32:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-25T13:32:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004168429071462858"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1580263959751319554",
+          "start": 3,
+          "username": "kkndjhbh"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Muhwln1Yef",
+          "end": 65,
+          "expanded_url": "https://x.com/kkndjhbh/status/2004109932782874849/photo/1",
+          "media_key": "3_2004109898939027456",
+          "start": 42,
+          "url": "https://t.co/Muhwln1Yef"
+        },
+        {
+          "display_url": "pic.x.com/Muhwln1Yef",
+          "end": 65,
+          "expanded_url": "https://x.com/kkndjhbh/status/2004109932782874849/photo/1",
+          "media_key": "3_2004109898918060032",
+          "start": 42,
+          "url": "https://t.co/Muhwln1Yef"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004168429071462858",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004109932782874849",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kkndjhbh: 扶梯一号使用者报告\n4–keto-pcp\n总体非常不错 https://t.co/Muhwln1Yef"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2004168429071462858].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2004168429071462858",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2004168429071462858"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2004109898939027456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9AHVbka0AAnNKl.jpg",
+        "width": 904
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2004109898918060032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9AHVbfa4AAshke.jpg",
+        "width": 949
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004109898939027456",
+            "3_2004109898918060032"
+          ]
+        },
+        "author_id": "1580263959751319554",
+        "conversation_id": "2004109932782874849",
+        "created_at": "2025-12-25T08:40:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T09:40:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004109932782874849"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Muhwln1Yef",
+              "end": 51,
+              "expanded_url": "https://x.com/kkndjhbh/status/2004109932782874849/photo/1",
+              "media_key": "3_2004109898939027456",
+              "start": 28,
+              "url": "https://t.co/Muhwln1Yef"
+            },
+            {
+              "display_url": "pic.x.com/Muhwln1Yef",
+              "end": 51,
+              "expanded_url": "https://x.com/kkndjhbh/status/2004109932782874849/photo/1",
+              "media_key": "3_2004109898918060032",
+              "start": 28,
+              "url": "https://t.co/Muhwln1Yef"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004109932782874849",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 104,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "扶梯一号使用者报告\n4–keto-pcp\n总体非常不错 https://t.co/Muhwln1Yef"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜如果没有回关请私信提醒我！｜我不吸毒！！！｜小猫我喜欢你超喜欢我爱你@psych_angel_｜性别为无、",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 45,
+                "username": "psych_angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNh89"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1999352315241988490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 451,
+          "following_count": 410,
+          "like_count": 7555,
+          "listed_count": 1,
+          "media_count": 111,
+          "tweet_count": 5607
+        },
+        "url": "https://t.co/rCvc9RNh89",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-12T18:27:51.000Z",
+        "description": "全网同ID，经过多个大fo推主认证。oder可互fo 业余诗人 瘾君子 双相 轻中度精分 lgbt友好立场，反传统男性主义。不主动建议od。古罗马掌管色胺的执政官。 带领更多人进入美妙世界 不做任何违法列管生意，产品全部合法合规。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%89%B6%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%89%B6%E6%A2%AF",
+                "start": 0,
+                "url": "https://t.co/RIPVCzFX2S"
+              }
+            ]
+          }
+        },
+        "id": "1580263959751319554",
+        "location": "色胺宇宙 提问⬇️",
+        "name": "扶梯",
+        "pinned_tweet_id": "2002727495230198135",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001818403577925633/u23NNlI1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 164,
+          "like_count": 1514,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 829
+        },
+        "url": "https://t.co/RIPVCzFX2S",
+        "username": "kkndjhbh",
+        "verified": true
+      }
+    ]
+  }
+}

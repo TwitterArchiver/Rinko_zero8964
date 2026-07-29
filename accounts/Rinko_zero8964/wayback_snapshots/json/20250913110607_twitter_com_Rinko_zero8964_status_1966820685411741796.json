@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1966688146172870836",
+    "created_at": "2025-09-13T11:06:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-13T12:06:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966820685411741796"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1622592119700623361",
+          "start": 0,
+          "username": "Kusutobi"
+        },
+        {
+          "end": 23,
+          "id": "1960026902418321408",
+          "start": 10,
+          "username": "Drugs_Kitten"
+        },
+        {
+          "end": 37,
+          "id": "1956722348935221248",
+          "start": 24,
+          "username": "overdose_dxm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966820685411741796",
+    "in_reply_to_user_id": "1622592119700623361",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966815286998298813",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kusutobi @Drugs_Kitten @overdose_dxm pea致幻神了，鸡哥我们说点靠谱的好吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1966688146172870836",
+        "created_at": "2025-09-13T11:06:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T12:06:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966820685411741796"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1622592119700623361",
+              "start": 0,
+              "username": "Kusutobi"
+            },
+            {
+              "end": 23,
+              "id": "1960026902418321408",
+              "start": 10,
+              "username": "Drugs_Kitten"
+            },
+            {
+              "end": 37,
+              "id": "1956722348935221248",
+              "start": 24,
+              "username": "overdose_dxm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966820685411741796",
+        "in_reply_to_user_id": "1622592119700623361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966815286998298813",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kusutobi @Drugs_Kitten @overdose_dxm pea致幻神了，鸡哥我们说点靠谱的好吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622592119700623361",
+        "conversation_id": "1966688146172870836",
+        "created_at": "2025-09-13T10:44:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T11:44:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966815286998298813"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1960026902418321408",
+              "start": 0,
+              "username": "Drugs_Kitten"
+            },
+            {
+              "end": 27,
+              "id": "1956722348935221248",
+              "start": 14,
+              "username": "overdose_dxm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966815286998298813",
+        "in_reply_to_user_id": "1960026902418321408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966690294398845149",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Drugs_Kitten @overdose_dxm 至少我可以打包票潘多拉和司来配苯乙胺没有一点关系 有吃过司来配苯乙胺的都能知道是什么效果和潘多拉效果完全不一样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 265,
+          "like_count": 2676,
+          "listed_count": 2,
+          "media_count": 66,
+          "tweet_count": 3788
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-06T13:44:50.000Z",
+        "description": "楠鸢Kusutobi个人账号/只发发日常或者有关NY化学的内容/可咨询药物或者产品问题/NY化学@NY_Kusutobi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 48,
+                "username": "NY_Kusutobi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kusutobi",
+                "end": 23,
+                "expanded_url": "http://t.me/Kusutobi",
+                "start": 0,
+                "url": "https://t.co/cZPJ1V5hvH"
+              }
+            ]
+          }
+        },
+        "id": "1622592119700623361",
+        "name": "楠鸢Kusutobi",
+        "pinned_tweet_id": "1960478131351118115",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836678158843592704/68oNNMoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 103,
+          "like_count": 682,
+          "listed_count": 1,
+          "media_count": 99,
+          "tweet_count": 718
+        },
+        "url": "https://t.co/cZPJ1V5hvH",
+        "username": "Kusutobi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-25T17:10:16.000Z",
+        "description": "💖你好，这里是小猫。｜药物百科副Wiki主｜有任何药物相关问题都可以私信免费咨询哦💕｜ 私信回fo｜谨慎关注里推:@CuteKittenO3O会有大量负能/药物使用",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 57,
+                "username": "CuteKittenO3O"
+              }
+            ]
+          }
+        },
+        "id": "1960026902418321408",
+        "name": "💊MediKitty🌌",
+        "pinned_tweet_id": "1960031991401005577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960036096215224320/DqeocQbY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 533,
+          "following_count": 146,
+          "like_count": 551,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 259
+        },
+        "username": "Drugs_Kitten",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-16T14:19:05.000Z",
+        "description": "本账号为科普账号，娱乐账号请看: @N_N_DET\n百科:https://t.co/da881UCykR\n关注我们的TG频道: @overdose_dxm",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 17,
+                "username": "N_N_DET"
+              },
+              {
+                "end": 77,
+                "start": 64,
+                "username": "overdose_dxm"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 52,
+                "expanded_url": "https://www.overdose.day/",
+                "start": 29,
+                "url": "https://t.co/da881UCykR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "https://www.overdose.day/",
+                "start": 0,
+                "url": "https://t.co/da881UCykR"
+              }
+            ]
+          }
+        },
+        "id": "1956722348935221248",
+        "name": "化学极乐百科🔯",
+        "pinned_tweet_id": "1956728430600532348",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956726791072329728/Ch_T98m-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 695,
+          "following_count": 465,
+          "like_count": 484,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 428
+        },
+        "url": "https://t.co/da881UCykR",
+        "username": "overdose_dxm",
+        "verified": false
+      }
+    ]
+  }
+}

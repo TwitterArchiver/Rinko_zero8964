@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995688888766259200"
+      ],
+      "media_source_tweet_id": [
+        "1995688906382344442"
+      ]
+    },
+    "author_id": "1849043039496617984",
+    "conversation_id": "1996278380438941862",
+    "created_at": "2025-12-03T18:00:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T19:00:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996278380438941862"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1920308340737126400",
+          "start": 3,
+          "username": "fusedjiii"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/INy7Mh9cul",
+          "end": 50,
+          "expanded_url": "https://x.com/fusedjiii/status/1995688906382344442/photo/1",
+          "media_key": "3_1995688888766259200",
+          "start": 27,
+          "url": "https://t.co/INy7Mh9cul"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996278380438941862",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995688906382344442",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fusedjiii: 这是大清最后一个地雷格 https://t.co/INy7Mh9cul"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1995688888766259200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7IceIEbYAAUQcV.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995688888766259200"
+          ],
+          "media_source_tweet_id": [
+            "1995688906382344442"
+          ]
+        },
+        "author_id": "1849043039496617984",
+        "conversation_id": "1996278380438941862",
+        "created_at": "2025-12-03T18:00:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T19:00:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996278380438941862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1920308340737126400",
+              "start": 3,
+              "username": "fusedjiii"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/INy7Mh9cul",
+              "end": 50,
+              "expanded_url": "https://x.com/fusedjiii/status/1995688906382344442/photo/1",
+              "media_key": "3_1995688888766259200",
+              "start": 27,
+              "url": "https://t.co/INy7Mh9cul"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996278380438941862",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995688906382344442",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fusedjiii: 这是大清最后一个地雷格 https://t.co/INy7Mh9cul"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995688888766259200"
+          ]
+        },
+        "author_id": "1920308340737126400",
+        "conversation_id": "1995688906382344442",
+        "created_at": "2025-12-02T02:58:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T03:58:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995688906382344442"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/INy7Mh9cul",
+              "end": 35,
+              "expanded_url": "https://x.com/fusedjiii/status/1995688906382344442/photo/1",
+              "media_key": "3_1995688888766259200",
+              "start": 12,
+              "url": "https://t.co/INy7Mh9cul"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995688906382344442",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 12398,
+          "like_count": 301,
+          "quote_count": 1,
+          "reply_count": 18,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "这是大清最后一个地雷格 https://t.co/INy7Mh9cul"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜🥺@NashiMoe233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "NashiMoe233"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1967335109767692560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 347,
+          "like_count": 5405,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 4921
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-08T02:42:51.000Z",
+        "description": "一般路过门槛妹，私信只想回口令。互联网是我的墓地🪦，爱你们，你们也爱我只爱我好吗",
+        "id": "1920308340737126400",
+        "location": "家",
+        "name": "裴裴小猫好吗",
+        "pinned_tweet_id": "1994016765752549629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994917273942007808/XUPRB-WI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5032,
+          "following_count": 165,
+          "like_count": 678,
+          "listed_count": 11,
+          "media_count": 114,
+          "tweet_count": 1734
+        },
+        "username": "fusedjiii",
+        "verified": false
+      }
+    ]
+  }
+}

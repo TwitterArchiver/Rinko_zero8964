@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1969719771609415905",
+    "created_at": "2025-09-22T11:28:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-22T12:28:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970087710825369884"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1555288439842410496",
+          "start": 0,
+          "username": "ZCW65046906"
+        },
+        {
+          "end": 23,
+          "id": "1659962043460354050",
+          "start": 13,
+          "username": "SalviaSWC"
+        },
+        {
+          "end": 31,
+          "id": "1897275526559272960",
+          "start": 24,
+          "username": "nenno5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970087710825369884",
+    "in_reply_to_user_id": "1555288439842410496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970086882462609546",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZCW65046906 @SalviaSWC @nenno5 这就不清楚了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1969719771609415905",
+        "created_at": "2025-09-22T11:28:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T12:28:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970087710825369884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1555288439842410496",
+              "start": 0,
+              "username": "ZCW65046906"
+            },
+            {
+              "end": 23,
+              "id": "1659962043460354050",
+              "start": 13,
+              "username": "SalviaSWC"
+            },
+            {
+              "end": 31,
+              "id": "1897275526559272960",
+              "start": 24,
+              "username": "nenno5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970087710825369884",
+        "in_reply_to_user_id": "1555288439842410496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970086882462609546",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZCW65046906 @SalviaSWC @nenno5 这就不清楚了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1555288439842410496",
+        "conversation_id": "1969719771609415905",
+        "created_at": "2025-09-22T11:24:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T12:24:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970086882462609546"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1849043039496617984",
+              "start": 0,
+              "username": "Rinko_zero8964"
+            },
+            {
+              "end": 26,
+              "id": "1659962043460354050",
+              "start": 16,
+              "username": "SalviaSWC"
+            },
+            {
+              "end": 34,
+              "id": "1897275526559272960",
+              "start": 27,
+              "username": "nenno5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970086882462609546",
+        "in_reply_to_user_id": "1849043039496617984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970083323784647020",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rinko_zero8964 @SalviaSWC @nenno5 因为什么啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 277,
+          "like_count": 3143,
+          "listed_count": 2,
+          "media_count": 77,
+          "tweet_count": 4057
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-04T20:24:04.000Z",
+        "description": "gore enthusiast？？  Cartel enthusiasts   Metal Rock enthusiasts \n Age 16 years old psychonaut",
+        "id": "1555288439842410496",
+        "location": "hell",
+        "name": "Bloody psychonaut",
+        "pinned_tweet_id": "1931390919997276623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933607043950116864/kQlvYoJX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 183,
+          "like_count": 663,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 1028
+        },
+        "username": "ZCW65046906",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886008586339282944/fBJFdCp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1256,
+          "following_count": 483,
+          "like_count": 7453,
+          "listed_count": 5,
+          "media_count": 106,
+          "tweet_count": 2579
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-05T13:18:40.000Z",
+        "description": "",
+        "id": "1897275526559272960",
+        "name": "nenno5",
+        "pinned_tweet_id": "1917486418047426831",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926185002183606272/iYfyCP8J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 39,
+          "like_count": 13122,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 349
+        },
+        "username": "nenno5",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1969634243363160134",
+    "created_at": "2025-09-21T05:31:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-21T06:31:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969635642754940980"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1969635642754940980",
+    "in_reply_to_user_id": "1849043039496617984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969634243363160134",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不这么说的话你该如何解释之前那么多人被pua现象，还有请人被采访现象，555也别逼后藤了，人家其实也不是很想回归是你一直在逼他回来独大"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1969634243363160134",
+        "created_at": "2025-09-21T05:31:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T06:31:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969635642754940980"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1969635642754940980",
+        "in_reply_to_user_id": "1849043039496617984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969634243363160134",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不这么说的话你该如何解释之前那么多人被pua现象，还有请人被采访现象，555也别逼后藤了，人家其实也不是很想回归是你一直在逼他回来独大"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1969634243363160134",
+        "created_at": "2025-09-21T05:26:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T06:26:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969634243363160134"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/soyourmycurse/…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/soyourmycurse/status/1969559655992213997",
+              "start": 55,
+              "url": "https://t.co/HoTUXiNc6A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969634243363160134",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969559655992213997",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "支持复辟的请提取这段话重点，后藤他是真想在墙内公布我们，沐雨公布的行为还可以解释为挣钱，后藤是真的想弄死我们 https://t.co/HoTUXiNc6A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 317,
+          "following_count": 273,
+          "like_count": 3063,
+          "listed_count": 2,
+          "media_count": 70,
+          "tweet_count": 3975
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      }
+    ]
+  }
+}

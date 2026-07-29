@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1964745772504907838",
+    "created_at": "2025-09-09T02:55:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-09T03:55:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965247729426485423"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1921568436834209792",
+          "start": 0,
+          "username": "DayRainy115328"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965247729426485423",
+    "in_reply_to_user_id": "1921568436834209792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965141431858987031",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DayRainy115328 您当然可以提出，和我无关，您和当事人同意就行，又不是和我在一起，这最多算出轨而已"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1964745772504907838",
+        "created_at": "2025-09-09T02:55:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T03:55:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965247729426485423"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1921568436834209792",
+              "start": 0,
+              "username": "DayRainy115328"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965247729426485423",
+        "in_reply_to_user_id": "1921568436834209792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965141431858987031",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DayRainy115328 您当然可以提出，和我无关，您和当事人同意就行，又不是和我在一起，这最多算出轨而已"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1921568436834209792",
+        "conversation_id": "1964745772504907838",
+        "created_at": "2025-09-08T19:53:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T20:53:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965141431858987031"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1849043039496617984",
+              "start": 0,
+              "username": "Rinko_zero8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965141431858987031",
+        "in_reply_to_user_id": "1849043039496617984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964970463362465903",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rinko_zero8964 按您这么说，是不是我主张要您把您的对象、配偶借我玩两天也是合理的，因为你可以拒绝、你有拒绝的自由？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849043147487420416/0nrEqJTK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 262,
+          "like_count": 2520,
+          "listed_count": 2,
+          "media_count": 65,
+          "tweet_count": 3685
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-11T14:10:18.000Z",
+        "description": "",
+        "id": "1921568436834209792",
+        "name": "马化腾没ma",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921568555180732416/6r6e90jU_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 13,
+          "like_count": 3,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 115
+        },
+        "username": "DayRainy115328",
+        "verified": false
+      }
+    ]
+  }
+}

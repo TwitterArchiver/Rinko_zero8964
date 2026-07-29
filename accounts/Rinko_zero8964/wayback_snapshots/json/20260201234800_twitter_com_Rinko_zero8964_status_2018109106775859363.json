@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2018109106775859363",
+    "created_at": "2026-02-01T23:48:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T00:48:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018109106775859363"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1763381254035251200",
+          "start": 3,
+          "username": "yowamushi120720"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018109106775859363",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017493738956993010",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yowamushi120720: 虽然阿片类成瘾的恐怖是臭名昭著的，但奈何它心理、认知、学习能力的损害相对最小啊🤓☝️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2018109106775859363",
+        "created_at": "2026-02-01T23:48:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T00:48:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018109106775859363"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1763381254035251200",
+              "start": 3,
+              "username": "yowamushi120720"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018109106775859363",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017493738956993010",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yowamushi120720: 虽然阿片类成瘾的恐怖是臭名昭著的，但奈何它心理、认知、学习能力的损害相对最小啊🤓☝️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1763381254035251200",
+        "conversation_id": "2017493738956993010",
+        "created_at": "2026-01-31T07:02:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T08:02:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017493738956993010"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2017493738956993010",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3626,
+          "like_count": 54,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "虽然阿片类成瘾的恐怖是臭名昭著的，但奈何它心理、认知、学习能力的损害相对最小啊🤓☝️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜如果没有回关请私信提醒我！｜我不吸毒！！！｜性别为无、｜輪郭の定まらない位置にいた人@Psych_Angel_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 53,
+                "username": "Psych_Angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNh89"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 539,
+          "following_count": 502,
+          "like_count": 13193,
+          "listed_count": 1,
+          "media_count": 144,
+          "tweet_count": 6907
+        },
+        "url": "https://t.co/rCvc9RNh89",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-01T01:50:39.000Z",
+        "description": "若要通行，必须通过创口｜奋斗百年，我是禁毒宣传大使🤓️ ｜社交问题见谅，如无意冒犯请多多包容不用当真 enby 恐惧型依恋请关照｜不负弱虫之名！*无心之过淹没了你",
+        "id": "1763381254035251200",
+        "location": "掌声存在之地",
+        "name": "弱虫モンブラン",
+        "pinned_tweet_id": "2007974697464647846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004604089381072896/T83RMACH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 383,
+          "following_count": 598,
+          "like_count": 42152,
+          "listed_count": 2,
+          "media_count": 175,
+          "tweet_count": 4059
+        },
+        "username": "yowamushi120720",
+        "verified": false
+      }
+    ]
+  }
+}

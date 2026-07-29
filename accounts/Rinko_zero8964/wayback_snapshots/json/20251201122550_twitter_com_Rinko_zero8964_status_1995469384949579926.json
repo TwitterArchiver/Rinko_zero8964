@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1995406488056275150",
+    "created_at": "2025-12-01T12:25:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T13:25:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995469384949579926"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1757320080604741633",
+          "start": 0,
+          "username": "Hiyallcestmoi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995469384949579926",
+    "in_reply_to_user_id": "1757320080604741633",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995421685789655398",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hiyallcestmoi 😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1995406488056275150",
+        "created_at": "2025-12-01T12:25:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T13:25:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995469384949579926"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1757320080604741633",
+              "start": 0,
+              "username": "Hiyallcestmoi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995469384949579926",
+        "in_reply_to_user_id": "1757320080604741633",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995421685789655398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hiyallcestmoi 😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757320080604741633",
+        "conversation_id": "1995406488056275150",
+        "created_at": "2025-12-01T09:16:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T10:16:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995421685789655398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1849043039496617984",
+              "start": 0,
+              "username": "Rinko_zero8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995421685789655398",
+        "in_reply_to_user_id": "1849043039496617984",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995406488056275150",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rinko_zero8964 😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜🥺@NashiMoe233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "NashiMoe233"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1967335109767692560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 348,
+          "like_count": 5264,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 4863
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-13T08:25:47.000Z",
+        "description": "👽AS小孩 | 🌈彩虹友好 |🍹生活艺术 | 🤮赤石分享 |♀低脂蝈釹 | 🍼幼稚巨婴 |❔持续虚无 | 🥃准健全逼 | 👻随地抛尸 | 🪷人淡如莲",
+        "id": "1757320080604741633",
+        "location": "\nℕ𝕠𝕥𝕙𝕚𝕟𝕘𝕧𝕚𝕝𝕝𝕖",
+        "name": "阿溪Kay(重生之在BeverlyHill RodeoDrive飙Pink Convertible）",
+        "pinned_tweet_id": "1947522430857252903",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984426303538544644/6ht9CNJU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 449,
+          "like_count": 3155,
+          "listed_count": 2,
+          "media_count": 462,
+          "tweet_count": 3401
+        },
+        "username": "Hiyallcestmoi",
+        "verified": false
+      }
+    ]
+  }
+}

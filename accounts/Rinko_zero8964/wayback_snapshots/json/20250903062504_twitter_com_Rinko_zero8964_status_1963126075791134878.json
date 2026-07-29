@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1962926780647670104",
+    "created_at": "2025-09-03T06:25:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-03T07:25:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963126075791134878"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1597257668313260033",
+          "start": 0,
+          "username": "Minokakay"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963126075791134878",
+    "in_reply_to_user_id": "1597257668313260033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962926780647670104",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Minokakay 这个玩意毕竟不是Auvelity除了抗抑郁有什么用"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1962926780647670104",
+        "created_at": "2025-09-03T06:25:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T07:25:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963126075791134878"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1597257668313260033",
+              "start": 0,
+              "username": "Minokakay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963126075791134878",
+        "in_reply_to_user_id": "1597257668313260033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962926780647670104",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minokakay 这个玩意毕竟不是Auvelity除了抗抑郁有什么用"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "conversation_id": "1962926780647670104",
+        "created_at": "2025-09-02T17:13:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T18:11:59.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962926488820580469",
+          "1962926780647670104"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/drug_artist/st…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/drug_artist/status/1962923895738269852",
+              "start": 38,
+              "url": "https://t.co/kSJh2TPock"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962926780647670104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1641,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962923895738269852",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "要不了那么久 三年\n而且这个药挺一般的，也没有滥用价值，上市后反响估计一般 https://t.co/kSJh2TPock"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849043147487420416/0nrEqJTK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 258,
+          "like_count": 2314,
+          "listed_count": 2,
+          "media_count": 59,
+          "tweet_count": 3520
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら， ずっと一人で笑えよ。阿斯ADHD精分抑鬱焦慮 Pansexual MtX🏳️‍⚧️🏳️‍🌈买HRT补佳乐色普龙诺坤复比卡鲁胺/美白/减肥/促智/癌症靶向藥找 @ChosekiNoraneko，我在做客服兼代理店長 买电子烟找@weita2024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 96,
+                "username": "ChosekiNoraneko"
+              },
+              {
+                "end": 139,
+                "start": 129,
+                "username": "weita2024"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（泰补色诺",
+        "pinned_tweet_id": "1951463657336086693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9337,
+          "following_count": 928,
+          "like_count": 44590,
+          "listed_count": 33,
+          "media_count": 1395,
+          "tweet_count": 20759
+        },
+        "username": "Minokakay",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1967662869165887951",
+    "created_at": "2025-09-16T00:24:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T01:24:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967746352080990486"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1680834021377593344",
+          "start": 0,
+          "username": "HyotoChandesuyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967746352080990486",
+    "in_reply_to_user_id": "1680834021377593344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967662869165887951",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HyotoChandesuyo 诊断为精神疾病又如何没有诊断又怎么样，难道把精神疾病当热门标签贴呢，趋利避害都不懂吗（仅针对现在某些看见焦虑抑郁状态觉得医生有问题自己就是抑郁症的人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1967662869165887951",
+        "created_at": "2025-09-16T00:24:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T01:24:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967746352080990486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1680834021377593344",
+              "start": 0,
+              "username": "HyotoChandesuyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967746352080990486",
+        "in_reply_to_user_id": "1680834021377593344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967662869165887951",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HyotoChandesuyo 诊断为精神疾病又如何没有诊断又怎么样，难道把精神疾病当热门标签贴呢，趋利避害都不懂吗（仅针对现在某些看见焦虑抑郁状态觉得医生有问题自己就是抑郁症的人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680834021377593344",
+        "conversation_id": "1967662869165887951",
+        "created_at": "2025-09-15T18:52:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T19:52:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967662869165887951"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hyotochandesuy…",
+              "end": 111,
+              "expanded_url": "https://twitter.com/hyotochandesuyo/status/1967660646536970514",
+              "start": 88,
+              "url": "https://t.co/00xQGiqt4g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967662869165887951",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 153,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967660646536970514",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我觉得DSM5只是一本字典而不是判决书\n大部分医生都不会轻易下诊断书；\n避免刺激你；结果你们自己给自己下诊断\n\n就算真的诊断了又如何呢？\n就像一次不及格的考试；没什么大不了的 https://t.co/00xQGiqt4g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 272,
+          "like_count": 2868,
+          "listed_count": 2,
+          "media_count": 68,
+          "tweet_count": 3883
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-17T06:57:26.000Z",
+        "description": "07｜MtX🍥｜Asexual/Agender｜Psycho｜ただ夏の匂いに目を瞑りたい｜🐖@fuckpregabalin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 46,
+                "username": "fuckpregabalin"
+              }
+            ]
+          }
+        },
+        "id": "1680834021377593344",
+        "location": "Room 13",
+        "name": "白粥ひょと🍥🐳",
+        "pinned_tweet_id": "1945313496645972432",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965485176517181440/f6tMsI6p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2528,
+          "following_count": 993,
+          "like_count": 129383,
+          "listed_count": 14,
+          "media_count": 4553,
+          "tweet_count": 31198
+        },
+        "username": "HyotoChandesuyo",
+        "verified": false
+      }
+    ]
+  }
+}

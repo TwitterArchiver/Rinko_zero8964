@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1959190662655754636",
+    "created_at": "2025-08-23T09:53:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-23T10:53:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959192339379056922"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1826854306093645824",
+          "start": 0,
+          "username": "NassNorhe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959192339379056922",
+    "in_reply_to_user_id": "1826854306093645824",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959190966075556072",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NassNorhe 其实算是老式冰粉但是太碎了红糖也放很少老式冰粉就多放红糖啊！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1959190662655754636",
+        "created_at": "2025-08-23T09:53:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T10:53:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959192339379056922"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1826854306093645824",
+              "start": 0,
+              "username": "NassNorhe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959192339379056922",
+        "in_reply_to_user_id": "1826854306093645824",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959190966075556072",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NassNorhe 其实算是老式冰粉但是太碎了红糖也放很少老式冰粉就多放红糖啊！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826854306093645824",
+        "conversation_id": "1959190662655754636",
+        "created_at": "2025-08-23T09:48:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T10:48:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959190966075556072"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1849043039496617984",
+              "start": 0,
+              "username": "Rinko_zero8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959190966075556072",
+        "in_reply_to_user_id": "1849043039496617984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959190662655754636",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rinko_zero8964 不是原来这是邪恶冰粉吗我一直以为只是传统冰粉。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849043147487420416/0nrEqJTK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 241,
+          "like_count": 1972,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 3186
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-23T05:30:30.000Z",
+        "description": "未曾见鸢尾花落",
+        "id": "1826854306093645824",
+        "location": "上野雪白",
+        "name": "北鹤",
+        "pinned_tweet_id": "1943716186019021067",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826856786713833472/vntlk621_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 59,
+          "like_count": 3191,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 110
+        },
+        "username": "NassNorhe",
+        "verified": false
+      }
+    ]
+  }
+}

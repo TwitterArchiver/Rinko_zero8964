@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2049818871012773997",
+    "created_at": "2026-05-01T09:06:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T10:06:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050139750514971106"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1620506107306479617",
+          "start": 0,
+          "username": "Cheese_Ghostfox"
+        },
+        {
+          "end": 24,
+          "id": "1423220645383475200",
+          "start": 17,
+          "username": "sysjf0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050139750514971106",
+    "in_reply_to_user_id": "1620506107306479617",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049868514530664652",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cheese_Ghostfox @sysjf0 也是一种情况……如果情绪能是一套固定的标准体系就方便了呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2049818871012773997",
+        "created_at": "2026-05-01T09:06:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T10:06:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050139750514971106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1620506107306479617",
+              "start": 0,
+              "username": "Cheese_Ghostfox"
+            },
+            {
+              "end": 24,
+              "id": "1423220645383475200",
+              "start": 17,
+              "username": "sysjf0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050139750514971106",
+        "in_reply_to_user_id": "1620506107306479617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049868514530664652",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cheese_Ghostfox @sysjf0 也是一种情况……如果情绪能是一套固定的标准体系就方便了呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "2049818871012773997",
+        "created_at": "2026-04-30T15:08:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T16:08:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049868514530664652"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1423220645383475200",
+              "start": 0,
+              "username": "sysjf0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049868514530664652",
+        "in_reply_to_user_id": "1423220645383475200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "狐觉得自己在small talk上很缺乏天赋，，，\n狐总是在试图分析，量化，套公式和寻找最优解\n而「解决问题」而不是「解决情绪」会很自然地在这套功利模型中占据极大的权重...😿\n或者说，狐觉得自己对于情感是很无力的吧\n物理世界的实际问题，总归是可以解决的，总归是有解的，狐是可以作为高等知性生命的一员去「俯视」这些问题的\n哪怕是玄学，也是成体系的，可量化可归纳为SOP与评估流程的\n唯独人心，情感，不行\n这也是狐受挫最多的方面，以至于对此可以说有些创伤应激了，，，\nen...这么说可能有点夸张，但是狐的确很少失败(或者说走进无解的死局)\n实验做错了大不了重新来过，设计进了死角无非是换个角度构思，做菜做难吃了最多就是尝尝差哪了下次把这不完美的一环补上去\n但是情感与感情，与人沟通，不行，这东西没有容错率，但是这在狐的逻辑里又是很难以接受的...狐因为无心之失，说错话做错事，被搞得很惨了...\n现在但凡与重要一点的人或是完全不明底细的陌生人聊天，尽量保持绝对的礼貌与严谨吧，扣字先跑两遍仿真再咬文嚼字战战兢兢地地斟酌删改，至少，少做少错吧\n这不是galgame，没得load，，，\n这是唯一一个，让狐有心理阴影的领域"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 737,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049865175986311198",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sysjf0 狐觉得自己在small talk上很缺乏天赋，，，\n狐总是在试图分析，量化，套公式和寻找最优解\n而「解决问题」而不是「解决情绪」会很自然地在这套功利模型中占据极大的权重...😿\n或者说，狐觉得自己对于情感是很无力的吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思う、ゆえに我あり｜ 我是林子｜性别为无、｜寒くなってきたね……もう少しだけ、いい？｜intp-t｜ASD/OCD/焦虑障碍｜🧬今日也想成为biohacker｜好妈妈们@Misaki11137 @loveforeversfy|bro @BelovedUren8964｜vico酱@vicoOci_Olvidar",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 85,
+                "username": "Misaki11137"
+              },
+              {
+                "end": 113,
+                "start": 98,
+                "username": "loveforeversfy"
+              },
+              {
+                "end": 134,
+                "start": 118,
+                "username": "BelovedUren8964"
+              },
+              {
+                "end": 156,
+                "start": 140,
+                "username": "vicoOci_Olvidar"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wakaba_rinko",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wakaba_rinko",
+                "start": 0,
+                "url": "https://t.co/zWqK1n9RJg"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "Ask me any u want→",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 711,
+          "following_count": 698,
+          "like_count": 17694,
+          "listed_count": 1,
+          "media_count": 180,
+          "tweet_count": 8576
+        },
+        "url": "https://t.co/zWqK1n9RJg",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2029634600147018027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1442,
+          "following_count": 1512,
+          "like_count": 17959,
+          "listed_count": 5,
+          "media_count": 628,
+          "tweet_count": 5707
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-05T09:53:54.000Z",
+        "description": "最喜欢的推 @BeetiIsDog @umichen0502324 @citrus_404",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 6,
+                "username": "BeetiIsDog"
+              },
+              {
+                "end": 33,
+                "start": 18,
+                "username": "umichen0502324"
+              },
+              {
+                "end": 45,
+                "start": 34,
+                "username": "citrus_404"
+              }
+            ]
+          }
+        },
+        "id": "1423220645383475200",
+        "location": "1",
+        "name": "十九方",
+        "pinned_tweet_id": "1862539669592031578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034670934108336128/mwvWsTX3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 967,
+          "following_count": 936,
+          "like_count": 29079,
+          "listed_count": 4,
+          "media_count": 1861,
+          "tweet_count": 23564
+        },
+        "username": "sysjf0",
+        "verified": false
+      }
+    ]
+  }
+}

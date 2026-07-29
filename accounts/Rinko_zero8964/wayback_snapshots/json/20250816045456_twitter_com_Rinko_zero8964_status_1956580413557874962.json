@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1956323932249981394",
+    "created_at": "2025-08-16T04:54:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-16T05:54:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956580413557874962"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1754795826713686016",
+          "start": 0,
+          "username": "xxxxinTvT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956580413557874962",
+    "in_reply_to_user_id": "1754795826713686016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956323932249981394",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxxxinTvT 我们当健全逼小昕太牛逼了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1956323932249981394",
+        "created_at": "2025-08-16T04:54:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T05:54:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956580413557874962"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1754795826713686016",
+              "start": 0,
+              "username": "xxxxinTvT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956580413557874962",
+        "in_reply_to_user_id": "1754795826713686016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956323932249981394",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxxxinTvT 我们当健全逼小昕太牛逼了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1754795826713686016",
+        "conversation_id": "1956323932249981394",
+        "created_at": "2025-08-15T11:55:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T12:55:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956323932249981394"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xxxxintvt/stat…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/xxxxintvt/status/1955841385078382605",
+              "start": 45,
+              "url": "https://t.co/trr0NFvKBa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956323932249981394",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1452,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955841385078382605",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "没有人为我高兴 没有人能夸夸我 没有人说很开心能看到在变好 没有人夸我能做出改变 没有人 https://t.co/trr0NFvKBa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849043147487420416/0nrEqJTK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 235,
+          "like_count": 1659,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 2918
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-06T09:15:12.000Z",
+        "description": "乞丐",
+        "id": "1754795826713686016",
+        "location": "🚪50",
+        "name": "xxxxin",
+        "pinned_tweet_id": "1754800304498024517",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840479748897849344/7GMzuxFp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3768,
+          "following_count": 569,
+          "like_count": 21531,
+          "listed_count": 3,
+          "media_count": 37,
+          "tweet_count": 8254
+        },
+        "username": "xxxxinTvT",
+        "verified": false
+      }
+    ]
+  }
+}

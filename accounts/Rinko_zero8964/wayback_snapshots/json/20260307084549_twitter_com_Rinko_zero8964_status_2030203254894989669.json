@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2030168696711532701",
+    "created_at": "2026-03-07T08:45:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T09:45:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030203254894989669"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1735700650472955904",
+          "start": 0,
+          "username": "ErQiu8013"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030203254894989669",
+    "in_reply_to_user_id": "1735700650472955904",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030168696711532701",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ErQiu8013 好吃！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1146,
+        "media_key": "3_2030168681611939840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCybqN2aUAAi7R7.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2030168696711532701",
+        "created_at": "2026-03-07T08:45:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T09:45:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030203254894989669"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1735700650472955904",
+              "start": 0,
+              "username": "ErQiu8013"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030203254894989669",
+        "in_reply_to_user_id": "1735700650472955904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030168696711532701",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ErQiu8013 好吃！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030168681611939840"
+          ]
+        },
+        "author_id": "1735700650472955904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2030168696711532701",
+        "created_at": "2026-03-07T06:28:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T07:28:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030168696711532701"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HX6ligqwsE",
+              "end": 48,
+              "expanded_url": "https://x.com/ErQiu8013/status/2030168696711532701/photo/1",
+              "media_key": "3_2030168681611939840",
+              "start": 25,
+              "url": "https://t.co/HX6ligqwsE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030168696711532701",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今日吃抹茶!\n千层一定要甜的\n饮品一定要无糖的! https://t.co/HX6ligqwsE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思う、ゆえに我あり｜ 我是林子｜性别为无、｜寒くなってきたね……もう少しだけ、いい？｜intp-t｜asd/焦虑障碍｜🧬今日也想成为biohacker｜好妈妈们@asabakasaiko @loveforeversfy|bro @BelovedUren8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 81,
+                "username": "asabakasaiko"
+              },
+              {
+                "end": 110,
+                "start": 95,
+                "username": "loveforeversfy"
+              },
+              {
+                "end": 131,
+                "start": 115,
+                "username": "BelovedUren8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wakaba_rinko",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wakaba_rinko",
+                "start": 0,
+                "url": "https://t.co/zWqK1n9RJg"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "Ask me any u want→",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 596,
+          "following_count": 568,
+          "like_count": 16107,
+          "listed_count": 1,
+          "media_count": 155,
+          "tweet_count": 7816
+        },
+        "url": "https://t.co/zWqK1n9RJg",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-15T16:37:52.000Z",
+        "description": "秋儿｜降临派×地雷系  \n低能量 + 薬changing + 二次元废人  \n欢迎同类互fo～私信聊天💊🫀\n下面匿名提问箱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/erqiu8013",
+                "end": 23,
+                "expanded_url": "https://ngl.link/erqiu8013",
+                "start": 0,
+                "url": "https://t.co/bhxSdtgAac"
+              }
+            ]
+          }
+        },
+        "id": "1735700650472955904",
+        "location": "自我",
+        "name": "𝓦𝓪𝓷𝓰 𝓠𝓲𝓾𝓮𝓻（秋儿）降临派",
+        "pinned_tweet_id": "2029501032137687466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967985654865989634/AOuJ3T6N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1201,
+          "following_count": 1640,
+          "like_count": 23759,
+          "listed_count": 5,
+          "media_count": 626,
+          "tweet_count": 4863
+        },
+        "url": "https://t.co/bhxSdtgAac",
+        "username": "ErQiu8013",
+        "verified": false
+      }
+    ]
+  }
+}

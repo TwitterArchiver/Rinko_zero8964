@@ -1,0 +1,546 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1965819799985938432",
+        "3_1965820415495819264"
+      ],
+      "media_source_tweet_id": [
+        "1965820443425910919",
+        "1965820443425910919"
+      ]
+    },
+    "author_id": "1849043039496617984",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A sports team organization, like Arsenal and the Boston Celtics",
+          "id": "12",
+          "name": "Sports Team"
+        },
+        "entity": {
+          "id": "731226166627966976",
+          "name": "Paris Saint-Germain"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "731226166627966976",
+          "name": "Paris Saint-Germain"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      }
+    ],
+    "conversation_id": "1965925003364589630",
+    "created_at": "2025-09-10T23:47:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-11T00:47:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965925003364589630"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 31,
+          "start": 14,
+          "tag": "PantyAndStocking"
+        },
+        {
+          "end": 36,
+          "start": 32,
+          "tag": "PSG"
+        },
+        {
+          "end": 43,
+          "start": 37,
+          "tag": "PaSwG"
+        },
+        {
+          "end": 49,
+          "start": 44,
+          "tag": "パンスト"
+        },
+        {
+          "end": 57,
+          "start": 50,
+          "tag": "NewPSG"
+        },
+        {
+          "end": 66,
+          "start": 58,
+          "tag": "Newパンスト"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "42615921",
+          "start": 3,
+          "username": "Toni_hyo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HJgXuSRuMn",
+          "end": 90,
+          "expanded_url": "https://x.com/Toni_hyo/status/1965820443425910919/photo/1",
+          "media_key": "3_1965819799985938432",
+          "start": 67,
+          "url": "https://t.co/HJgXuSRuMn"
+        },
+        {
+          "display_url": "pic.x.com/HJgXuSRuMn",
+          "end": 90,
+          "expanded_url": "https://x.com/Toni_hyo/status/1965820443425910919/photo/1",
+          "media_key": "3_1965820415495819264",
+          "start": 67,
+          "url": "https://t.co/HJgXuSRuMn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965925003364589630",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1230
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965820443425910919",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Toni_hyo: #PantyAndStocking #PSG #PaSwG #パンスト #NewPSG #Newパンスト https://t.co/HJgXuSRuMn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3227,
+        "media_key": "3_1965819799985938432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0f-sVaXYAAi1I8.jpg",
+        "width": 1920
+      },
+      {
+        "height": 3237,
+        "media_key": "3_1965820415495819264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0f_QKXW0AAOR9z.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965819799985938432",
+            "3_1965820415495819264"
+          ],
+          "media_source_tweet_id": [
+            "1965820443425910919",
+            "1965820443425910919"
+          ]
+        },
+        "author_id": "1849043039496617984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "731226166627966976",
+              "name": "Paris Saint-Germain"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "731226166627966976",
+              "name": "Paris Saint-Germain"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          }
+        ],
+        "conversation_id": "1965925003364589630",
+        "created_at": "2025-09-10T23:47:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T00:47:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965925003364589630"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 14,
+              "tag": "PantyAndStocking"
+            },
+            {
+              "end": 36,
+              "start": 32,
+              "tag": "PSG"
+            },
+            {
+              "end": 43,
+              "start": 37,
+              "tag": "PaSwG"
+            },
+            {
+              "end": 49,
+              "start": 44,
+              "tag": "パンスト"
+            },
+            {
+              "end": 57,
+              "start": 50,
+              "tag": "NewPSG"
+            },
+            {
+              "end": 66,
+              "start": 58,
+              "tag": "Newパンスト"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "42615921",
+              "start": 3,
+              "username": "Toni_hyo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HJgXuSRuMn",
+              "end": 90,
+              "expanded_url": "https://x.com/Toni_hyo/status/1965820443425910919/photo/1",
+              "media_key": "3_1965819799985938432",
+              "start": 67,
+              "url": "https://t.co/HJgXuSRuMn"
+            },
+            {
+              "display_url": "pic.x.com/HJgXuSRuMn",
+              "end": 90,
+              "expanded_url": "https://x.com/Toni_hyo/status/1965820443425910919/photo/1",
+              "media_key": "3_1965820415495819264",
+              "start": 67,
+              "url": "https://t.co/HJgXuSRuMn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965925003364589630",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1230
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965820443425910919",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Toni_hyo: #PantyAndStocking #PSG #PaSwG #パンスト #NewPSG #Newパンスト https://t.co/HJgXuSRuMn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965819799985938432",
+            "3_1965820415495819264"
+          ]
+        },
+        "author_id": "42615921",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "731226166627966976",
+              "name": "Paris Saint-Germain"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "731226166627966976",
+              "name": "Paris Saint-Germain"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          }
+        ],
+        "conversation_id": "1965820443425910919",
+        "created_at": "2025-09-10T16:51:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T17:51:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965820443425910919"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 0,
+              "tag": "PantyAndStocking"
+            },
+            {
+              "end": 22,
+              "start": 18,
+              "tag": "PSG"
+            },
+            {
+              "end": 29,
+              "start": 23,
+              "tag": "PaSwG"
+            },
+            {
+              "end": 35,
+              "start": 30,
+              "tag": "パンスト"
+            },
+            {
+              "end": 43,
+              "start": 36,
+              "tag": "NewPSG"
+            },
+            {
+              "end": 52,
+              "start": 44,
+              "tag": "Newパンスト"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HJgXuSRuMn",
+              "end": 76,
+              "expanded_url": "https://x.com/Toni_hyo/status/1965820443425910919/photo/1",
+              "media_key": "3_1965819799985938432",
+              "start": 53,
+              "url": "https://t.co/HJgXuSRuMn"
+            },
+            {
+              "display_url": "pic.x.com/HJgXuSRuMn",
+              "end": 76,
+              "expanded_url": "https://x.com/Toni_hyo/status/1965820443425910919/photo/1",
+              "media_key": "3_1965820415495819264",
+              "start": 53,
+              "url": "https://t.co/HJgXuSRuMn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965820443425910919",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2706,
+          "impression_count": 136712,
+          "like_count": 14011,
+          "quote_count": 61,
+          "reply_count": 18,
+          "retweet_count": 1230
+        },
+        "reply_settings": "everyone",
+        "text": "#PantyAndStocking #PSG #PaSwG #パンスト #NewPSG #Newパンスト https://t.co/HJgXuSRuMn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 262,
+          "like_count": 2585,
+          "listed_count": 2,
+          "media_count": 66,
+          "tweet_count": 3721
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2009-05-26T12:40:08.000Z",
+        "description": "Manga/Anime content every day.",
+        "id": "42615921",
+        "location": "404 Not Found",
+        "name": "Toni。",
+        "pinned_tweet_id": "1874394780777791644",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856443497022136320/JURTMLqP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 913,
+          "following_count": 407,
+          "like_count": 23825,
+          "listed_count": 9,
+          "media_count": 6009,
+          "tweet_count": 14325
+        },
+        "username": "Toni_hyo",
+        "verified": false
+      }
+    ]
+  }
+}

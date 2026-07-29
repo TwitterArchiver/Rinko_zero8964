@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1962565317047263237",
+        "3_1962565317068234755"
+      ],
+      "media_source_tweet_id": [
+        "1962565323808510405",
+        "1962565323808510405"
+      ]
+    },
+    "author_id": "1849043039496617984",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1962834588964921593",
+    "created_at": "2025-09-02T11:06:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T12:06:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962834588964921593"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1909859675530797056",
+          "start": 3,
+          "username": "suk1202xwast3d"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/q2KVxb2bH9",
+          "end": 54,
+          "expanded_url": "https://x.com/suk1202xwast3d/status/1962565323808510405/photo/1",
+          "media_key": "3_1962565317047263237",
+          "start": 31,
+          "url": "https://t.co/q2KVxb2bH9"
+        },
+        {
+          "display_url": "pic.x.com/q2KVxb2bH9",
+          "end": 54,
+          "expanded_url": "https://x.com/suk1202xwast3d/status/1962565323808510405/photo/1",
+          "media_key": "3_1962565317068234755",
+          "start": 31,
+          "url": "https://t.co/q2KVxb2bH9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962834588964921593",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962565323808510405",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @suk1202xwast3d: 炸号转生落魄了这一块 https://t.co/q2KVxb2bH9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 937,
+        "media_key": "3_1962565317047263237",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzxuwfsaoAUtCfM.jpg",
+        "width": 1024
+      },
+      {
+        "height": 764,
+        "media_key": "3_1962565317068234755",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzxuwfxaoAMb9Nj.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962565317047263237",
+            "3_1962565317068234755"
+          ],
+          "media_source_tweet_id": [
+            "1962565323808510405",
+            "1962565323808510405"
+          ]
+        },
+        "author_id": "1849043039496617984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1962834588964921593",
+        "created_at": "2025-09-02T11:06:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T12:06:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962834588964921593"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1909859675530797056",
+              "start": 3,
+              "username": "suk1202xwast3d"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/q2KVxb2bH9",
+              "end": 54,
+              "expanded_url": "https://x.com/suk1202xwast3d/status/1962565323808510405/photo/1",
+              "media_key": "3_1962565317047263237",
+              "start": 31,
+              "url": "https://t.co/q2KVxb2bH9"
+            },
+            {
+              "display_url": "pic.x.com/q2KVxb2bH9",
+              "end": 54,
+              "expanded_url": "https://x.com/suk1202xwast3d/status/1962565323808510405/photo/1",
+              "media_key": "3_1962565317068234755",
+              "start": 31,
+              "url": "https://t.co/q2KVxb2bH9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962834588964921593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962565323808510405",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @suk1202xwast3d: 炸号转生落魄了这一块 https://t.co/q2KVxb2bH9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962565317047263237",
+            "3_1962565317068234755"
+          ]
+        },
+        "author_id": "1909859675530797056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1962565323808510405",
+        "created_at": "2025-09-01T17:16:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T18:16:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962565323808510405"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q2KVxb2bH9",
+              "end": 34,
+              "expanded_url": "https://x.com/suk1202xwast3d/status/1962565323808510405/photo/1",
+              "media_key": "3_1962565317047263237",
+              "start": 11,
+              "url": "https://t.co/q2KVxb2bH9"
+            },
+            {
+              "display_url": "pic.x.com/q2KVxb2bH9",
+              "end": 34,
+              "expanded_url": "https://x.com/suk1202xwast3d/status/1962565323808510405/photo/1",
+              "media_key": "3_1962565317068234755",
+              "start": 11,
+              "url": "https://t.co/q2KVxb2bH9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962565323808510405",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 954,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "炸号转生落魄了这一块 https://t.co/q2KVxb2bH9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849043147487420416/0nrEqJTK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 255,
+          "like_count": 2291,
+          "listed_count": 2,
+          "media_count": 58,
+          "tweet_count": 3493
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-09T06:43:41.000Z",
+        "description": "",
+        "id": "1909859675530797056",
+        "name": ".",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945843375824883712/T2PFrMVv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 631,
+          "following_count": 363,
+          "like_count": 5286,
+          "listed_count": 3,
+          "media_count": 63,
+          "tweet_count": 1215
+        },
+        "username": "suk1202xwast3d",
+        "verified": false
+      }
+    ]
+  }
+}

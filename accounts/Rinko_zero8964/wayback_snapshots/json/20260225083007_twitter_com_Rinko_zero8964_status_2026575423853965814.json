@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Tea",
+          "id": "850450940213592064",
+          "name": "Tea"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1792595821940113408",
+          "name": "Matcha"
+        }
+      }
+    ],
+    "conversation_id": "2026575423853965814",
+    "created_at": "2026-02-25T08:30:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T09:30:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026575423853965814"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jkdghalf411/st…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/jkdghalf411/status/2026507805562388552",
+          "start": 9,
+          "url": "https://t.co/gDfG9lWoSZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026575423853965814",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026507805562388552",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我今天被打电话了 https://t.co/gDfG9lWoSZ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tea",
+              "id": "850450940213592064",
+              "name": "Tea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1792595821940113408",
+              "name": "Matcha"
+            }
+          }
+        ],
+        "conversation_id": "2026575423853965814",
+        "created_at": "2026-02-25T08:30:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T09:30:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026575423853965814"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jkdghalf411/st…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/jkdghalf411/status/2026507805562388552",
+              "start": 9,
+              "url": "https://t.co/gDfG9lWoSZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026575423853965814",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026507805562388552",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我今天被打电话了 https://t.co/gDfG9lWoSZ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1588362906483101696",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tea",
+              "id": "850450940213592064",
+              "name": "Tea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1792595821940113408",
+              "name": "Matcha"
+            }
+          }
+        ],
+        "conversation_id": "2026507805562388552",
+        "created_at": "2026-02-25T04:01:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T05:01:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026507805562388552"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026507805562388552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 713,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "jd买盐被🍵了，，大家注意点"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思う、ゆえに我あり｜ 我是林子｜性别为无、｜寒くなってきたね……もう少しだけ、いい？｜intp-t｜asd/焦虑障碍｜🧬今日也想成为biohacker｜静态变量@Psych_Angel_｜好妈妈们@asabakasaiko @loveforeversfy|bro @BelovedUren8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 81,
+                "username": "Psych_Angel_"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "asabakasaiko"
+              },
+              {
+                "end": 128,
+                "start": 113,
+                "username": "loveforeversfy"
+              },
+              {
+                "end": 149,
+                "start": 133,
+                "username": "BelovedUren8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wakaba_rinko",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wakaba_rinko",
+                "start": 0,
+                "url": "https://t.co/zWqK1n9RJg"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "Ask me any u want→",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 597,
+          "following_count": 561,
+          "like_count": 15927,
+          "listed_count": 1,
+          "media_count": 153,
+          "tweet_count": 7721
+        },
+        "url": "https://t.co/zWqK1n9RJg",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-04T02:50:08.000Z",
+        "description": "=小A｜已有男友｜抑郁焦虑睡眠障碍bpd cptsd 双A｜脑子有问题，会odzc（在降频率）｜🚪188仅聊天，看心情发图片｜愿神之爱保佑你",
+        "id": "1588362906483101696",
+        "location": "电子眼一直在看着你",
+        "name": "水曜日电波幽灵",
+        "pinned_tweet_id": "2026029742177288614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025148800231505920/NKV0psJt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5557,
+          "following_count": 631,
+          "like_count": 10662,
+          "listed_count": 17,
+          "media_count": 2365,
+          "tweet_count": 15252
+        },
+        "username": "jkdghalf411",
+        "verified": false
+      }
+    ]
+  }
+}

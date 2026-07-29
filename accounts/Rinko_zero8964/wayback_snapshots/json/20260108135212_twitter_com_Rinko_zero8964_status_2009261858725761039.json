@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2009253131973218536",
+    "created_at": "2026-01-08T13:52:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T14:52:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009261858725761039"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1879395690230738944",
+          "start": 0,
+          "username": "Psych_Angel_"
+        },
+        {
+          "end": 28,
+          "id": "2006990578526072835",
+          "start": 14,
+          "username": "jingyinhequan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009261858725761039",
+    "in_reply_to_user_id": "1879395690230738944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009260001102049745",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Psych_Angel_ @jingyinhequan 分析检测试剂，和精神活性没有一点关系"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2009260001102049745].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2009260001102049745",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2009260001102049745"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2009253131973218536",
+        "created_at": "2026-01-08T13:52:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T14:52:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009261858725761039"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1879395690230738944",
+              "start": 0,
+              "username": "Psych_Angel_"
+            },
+            {
+              "end": 28,
+              "id": "2006990578526072835",
+              "start": 14,
+              "username": "jingyinhequan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009261858725761039",
+        "in_reply_to_user_id": "1879395690230738944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009260001102049745",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Psych_Angel_ @jingyinhequan 分析检测试剂，和精神活性没有一点关系"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜如果没有回关请私信提醒我！｜我不吸毒！！！｜小猫我喜欢你超喜欢我爱你@psych_angel_｜性别为无、",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 45,
+                "username": "psych_angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNh89"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 493,
+          "following_count": 469,
+          "like_count": 10678,
+          "listed_count": 1,
+          "media_count": 131,
+          "tweet_count": 6285
+        },
+        "url": "https://t.co/rCvc9RNh89",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-15T05:10:34.000Z",
+        "description": "Scientist | Philosopher | Lab Rat｜💊#Drugtwt｜BD/DPDR｜BestLove🫶Rinko:@Rinko_zero8964｜Soulmate:@BelovedUren8964｜🍜:@shungleemain｜👩:@DXM8964LXM｜🍊:@citrus_amara",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 43,
+                "start": 35,
+                "tag": "Drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 82,
+                "start": 67,
+                "username": "Rinko_zero8964"
+              },
+              {
+                "end": 108,
+                "start": 92,
+                "username": "BelovedUren8964"
+              },
+              {
+                "end": 124,
+                "start": 111,
+                "username": "shungleemain"
+              },
+              {
+                "end": 138,
+                "start": 127,
+                "username": "DXM8964LXM"
+              },
+              {
+                "end": 154,
+                "start": 141,
+                "username": "citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cutekitteno3o",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cutekitteno3o",
+                "start": 0,
+                "url": "https://t.co/OpK0ArxHft"
+              }
+            ]
+          }
+        },
+        "id": "1879395690230738944",
+        "location": "Ask me any u want→",
+        "name": "Mercy",
+        "pinned_tweet_id": "2005036045461811517",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984317319691243521/rbczbPan_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 688,
+          "following_count": 738,
+          "like_count": 27296,
+          "listed_count": 1,
+          "media_count": 808,
+          "tweet_count": 12437
+        },
+        "url": "https://t.co/OpK0ArxHft",
+        "username": "Psych_Angel_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-02T07:27:32.000Z",
+        "description": "我看着幸福的日子被我亲手摧毁后开心地闭上了眼 \n/TG同X账号\n/老公@Edward_8964\n/姐姐@shuijiaozzz233\n/无论转生多少次都一定要找回我好吗🥹\n匿名提问：https://t.co/29rNkGg1gy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 35,
+                "username": "Edward_8964"
+              },
+              {
+                "end": 66,
+                "start": 51,
+                "username": "shuijiaozzz233"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jingyin_8964",
+                "end": 114,
+                "expanded_url": "https://ngl.link/jingyin_8964",
+                "start": 91,
+                "url": "https://t.co/29rNkGg1gy"
+              }
+            ]
+          }
+        },
+        "id": "2006990578526072835",
+        "name": "镜音五代目",
+        "pinned_tweet_id": "2008124298779939003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008848597845233664/XjIeR50G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 90,
+          "like_count": 88,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 53
+        },
+        "username": "jingyinhequan",
+        "verified": false
+      }
+    ]
+  }
+}

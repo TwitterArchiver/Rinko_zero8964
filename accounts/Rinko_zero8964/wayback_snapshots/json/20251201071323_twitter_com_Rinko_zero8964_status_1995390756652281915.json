@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995124873472221184"
+      ],
+      "media_source_tweet_id": [
+        "1995125234832462292"
+      ]
+    },
+    "author_id": "1849043039496617984",
+    "conversation_id": "1995390756652281915",
+    "created_at": "2025-12-01T07:13:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T08:13:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995390756652281915"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1732246696820940800",
+          "start": 3,
+          "username": "bongftah"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QQTu8YVNtm",
+          "end": 40,
+          "expanded_url": "https://x.com/bongftah/status/1995125234832462292/photo/1",
+          "media_key": "3_1995124873472221184",
+          "start": 17,
+          "url": "https://t.co/QQTu8YVNtm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995390756652281915",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10176
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995125234832462292",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bongftah: 🙈🧠 https://t.co/QQTu8YVNtm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_1995124873472221184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7AbgHXboAAE4ag.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995124873472221184"
+          ],
+          "media_source_tweet_id": [
+            "1995125234832462292"
+          ]
+        },
+        "author_id": "1849043039496617984",
+        "conversation_id": "1995390756652281915",
+        "created_at": "2025-12-01T07:13:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T08:13:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995390756652281915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1732246696820940800",
+              "start": 3,
+              "username": "bongftah"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QQTu8YVNtm",
+              "end": 40,
+              "expanded_url": "https://x.com/bongftah/status/1995125234832462292/photo/1",
+              "media_key": "3_1995124873472221184",
+              "start": 17,
+              "url": "https://t.co/QQTu8YVNtm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995390756652281915",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10176
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995125234832462292",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bongftah: 🙈🧠 https://t.co/QQTu8YVNtm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995124873472221184"
+          ]
+        },
+        "author_id": "1732246696820940800",
+        "conversation_id": "1995125234832462292",
+        "created_at": "2025-11-30T13:38:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T14:38:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995125234832462292"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QQTu8YVNtm",
+              "end": 26,
+              "expanded_url": "https://x.com/bongftah/status/1995125234832462292/photo/1",
+              "media_key": "3_1995124873472221184",
+              "start": 3,
+              "url": "https://t.co/QQTu8YVNtm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995125234832462292",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16308,
+          "impression_count": 1516544,
+          "like_count": 127913,
+          "quote_count": 210,
+          "reply_count": 291,
+          "retweet_count": 10176
+        },
+        "reply_settings": "everyone",
+        "text": "🙈🧠 https://t.co/QQTu8YVNtm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜🥺@NashiMoe233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "NashiMoe233"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1967335109767692560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 384,
+          "following_count": 347,
+          "like_count": 5229,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 4851
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-06T03:53:08.000Z",
+        "description": "非プレー⚠️Broke n artist",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/bongftah",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/bongftah",
+                "start": 0,
+                "url": "https://t.co/cX7e3zIfmv"
+              }
+            ]
+          }
+        },
+        "id": "1732246696820940800",
+        "name": "Bplay🐇",
+        "pinned_tweet_id": "1982856243342651496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892210607123988480/a8KLjipe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 406545,
+          "following_count": 294,
+          "like_count": 631,
+          "listed_count": 1049,
+          "media_count": 214,
+          "tweet_count": 391
+        },
+        "url": "https://t.co/cX7e3zIfmv",
+        "username": "bongftah",
+        "verified": false
+      }
+    ]
+  }
+}

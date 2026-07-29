@@ -1,0 +1,369 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2009421761574785525",
+    "created_at": "2026-01-09T00:27:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T01:27:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009421761574785525"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1512976991976402949",
+          "start": 3,
+          "username": "bghtnya"
+        },
+        {
+          "end": 52,
+          "id": "1817584080437014528",
+          "start": 45,
+          "username": "N552AA"
+        },
+        {
+          "end": 71,
+          "id": "1780369819310981120",
+          "start": 59,
+          "username": "520illusion"
+        },
+        {
+          "end": 112,
+          "id": "1587653801305153538",
+          "start": 100,
+          "username": "XiaoHuiHuiH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009421761574785525",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006612781001539814",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bghtnya: 关于去年上海的跨性别追悼日活动（2025/11/20），N55 @N552AA ， ill @520illusion ，千雪，琪琪 以及多位举办者都被灌上了欲加之罪\n\n咴咴 @XiaoHuiHuiH  的视频里详细说了，感兴趣的朋友可以来详细看看喵\nh…"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [N552AA].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "N552AA",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "N552AA"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2009421761574785525",
+        "created_at": "2026-01-09T00:27:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T01:27:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009421761574785525"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1512976991976402949",
+              "start": 3,
+              "username": "bghtnya"
+            },
+            {
+              "end": 52,
+              "id": "1817584080437014528",
+              "start": 45,
+              "username": "N552AA"
+            },
+            {
+              "end": 71,
+              "id": "1780369819310981120",
+              "start": 59,
+              "username": "520illusion"
+            },
+            {
+              "end": 112,
+              "id": "1587653801305153538",
+              "start": 100,
+              "username": "XiaoHuiHuiH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009421761574785525",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006612781001539814",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bghtnya: 关于去年上海的跨性别追悼日活动（2025/11/20），N55 @N552AA ， ill @520illusion ，千雪，琪琪 以及多位举办者都被灌上了欲加之罪\n\n咴咴 @XiaoHuiHuiH  的视频里详细说了，感兴趣的朋友可以来详细看看喵\nh…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "2006612781001539814",
+        "created_at": "2026-01-01T06:25:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T07:25:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006612781001539814"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 39,
+              "id": "1817584080437014528",
+              "start": 32,
+              "username": "N552AA"
+            },
+            {
+              "end": 58,
+              "id": "1780369819310981120",
+              "start": 46,
+              "username": "520illusion"
+            },
+            {
+              "end": 99,
+              "id": "1587653801305153538",
+              "start": 87,
+              "username": "XiaoHuiHuiH"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Demo",
+              "display_url": "youtu.be/nSp8HTYEGbM?si…",
+              "end": 148,
+              "expanded_url": "https://youtu.be/nSp8HTYEGbM?si=lUz6IuKG5kTkFEck",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2006538154493587456/OU4c0_kJ?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2006538154493587456/OU4c0_kJ?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 125,
+              "status": 200,
+              "title": "【TDoR】同一天，她们仅因为聚餐被”抓“了……",
+              "unwound_url": "https://www.youtube.com/watch?si=lUz6IuKG5kTkFEck&v=nSp8HTYEGbM&feature=youtu.be",
+              "url": "https://t.co/4DwNYeedGi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006612781001539814",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 44,
+          "impression_count": 54228,
+          "like_count": 137,
+          "quote_count": 2,
+          "reply_count": 26,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "关于去年上海的跨性别追悼日活动（2025/11/20），N55 @N552AA ， ill @520illusion ，千雪，琪琪 以及多位举办者都被灌上了欲加之罪\n\n咴咴 @XiaoHuiHuiH  的视频里详细说了，感兴趣的朋友可以来详细看看喵\nhttps://t.co/4DwNYeedGi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜如果没有回关请私信提醒我！｜我不吸毒！！！｜小猫我喜欢你超喜欢我爱你@psych_angel_｜性别为无、",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 45,
+                "username": "psych_angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNh89"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 471,
+          "like_count": 10865,
+          "listed_count": 1,
+          "media_count": 133,
+          "tweet_count": 6331
+        },
+        "url": "https://t.co/rCvc9RNh89",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 / 🗺️📍 坐标帝都 / 🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  🏴🚩 Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1986091564364595524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009229738565619715/L3YhkmUo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8737,
+          "following_count": 2080,
+          "like_count": 174586,
+          "listed_count": 17,
+          "media_count": 3696,
+          "tweet_count": 45002
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-16T22:57:15.000Z",
+        "description": "是病娇 男的",
+        "id": "1780369819310981120",
+        "name": "ill",
+        "pinned_tweet_id": "1901959849187176826",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004245780102615040/pktU--jz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2306,
+          "following_count": 123,
+          "like_count": 4721,
+          "listed_count": 5,
+          "media_count": 338,
+          "tweet_count": 3119
+        },
+        "username": "520illusion",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-02T03:52:34.000Z",
+        "description": "好东西曾在咱主页的“亮点”里🥹\n/日常+抽象+涩涩推🫣/\nmtx(f)🏳️‍⚧️但可以把我当男娘喵🏳️‍🌈/含糖🍥2023.12.7/不堪风流往事🩷💜/？？岁/上岸啦，不再约炮和援交/❤️\n@Mirro_zinuo\n/多伦多🇨🇦/\n\n免责避雷声明⚠️地狱笑话+抽象批/温柔+发癫集合体/地雷嗑学家💊",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 95,
+                "username": "Mirro_zinuo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@XiaoHuiHuiH",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@XiaoHuiHuiH",
+                "start": 0,
+                "url": "https://t.co/LQg5S7YXOr"
+              }
+            ]
+          }
+        },
+        "id": "1587653801305153538",
+        "location": "Toronto, Ontario🇨🇦",
+        "name": "小咴咴喵(⁠≧⁠▽⁠≦⁠)/🍥喵喵艺术家~",
+        "pinned_tweet_id": "1973169992570118470",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904236723636224000/W8Cl9P5f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11856,
+          "following_count": 1432,
+          "like_count": 157574,
+          "listed_count": 25,
+          "media_count": 4970,
+          "tweet_count": 66846
+        },
+        "url": "https://t.co/LQg5S7YXOr",
+        "username": "XiaoHuiHuiH",
+        "verified": true
+      }
+    ]
+  }
+}

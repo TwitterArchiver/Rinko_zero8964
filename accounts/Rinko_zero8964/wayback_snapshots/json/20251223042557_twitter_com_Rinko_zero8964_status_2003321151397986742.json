@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2002994461350248793",
+    "created_at": "2025-12-23T04:25:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-23T05:25:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003321151397986742"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1986452594206838785",
+          "start": 0,
+          "username": "Idontselldrug"
+        },
+        {
+          "end": 27,
+          "id": "1690721268373581824",
+          "start": 15,
+          "username": "Celsius233C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003321151397986742",
+    "in_reply_to_user_id": "1986452594206838785",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002994461350248793",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Idontselldrug @Celsius233C 阴暗地雷男vvv"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 21674,
+        "height": 1280,
+        "media_key": "7_2002994434095349760",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2002994434095349760/pu/img/0UwS7ULq9v6ETDIU.jpg",
+        "public_metrics": {
+          "view_count": 243
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2002994434095349760/pu/vid/avc1/320x568/xWgLOGMJb3dbg6Yv.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2002994434095349760/pu/vid/avc1/480x852/Npv19YIUwgTDaS6a.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2002994434095349760/pu/vid/avc1/720x1280/G8AlViF8zzOf4KLz.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2002994434095349760/pu/pl/-3H2FgH9Dt2zdBNg.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2002994461350248793",
+        "created_at": "2025-12-23T04:25:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T05:25:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003321151397986742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1986452594206838785",
+              "start": 0,
+              "username": "Idontselldrug"
+            },
+            {
+              "end": 27,
+              "id": "1690721268373581824",
+              "start": 15,
+              "username": "Celsius233C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003321151397986742",
+        "in_reply_to_user_id": "1986452594206838785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002994461350248793",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Idontselldrug @Celsius233C 阴暗地雷男vvv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2002994434095349760"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2002994461350248793",
+        "created_at": "2025-12-22T06:47:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T07:47:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002994461350248793"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 39,
+              "id": "1690721268373581824",
+              "start": 27,
+              "username": "Celsius233C"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TmkqwDlKqS",
+              "end": 63,
+              "expanded_url": "https://x.com/Idontselldrug/status/2002994461350248793/video/1",
+              "media_key": "7_2002994434095349760",
+              "start": 40,
+              "url": "https://t.co/TmkqwDlKqS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002994461350248793",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 892,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "I'll be watching you👁️👁️👁️\n@Celsius233C https://t.co/TmkqwDlKqS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜如果没有回关请私信提醒我！｜我不吸毒！！！｜小猫我喜欢你超喜欢我爱你@psych_angel_｜性别为无、",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 45,
+                "username": "psych_angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNh89"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1999352315241988490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 441,
+          "following_count": 405,
+          "like_count": 7100,
+          "listed_count": 1,
+          "media_count": 106,
+          "tweet_count": 5475
+        },
+        "url": "https://t.co/rCvc9RNh89",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "已转生，互关寻回中 人在加拿大 edm的推友快来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1P0h8"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Alberta, Canada",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 641,
+          "following_count": 196,
+          "like_count": 454,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 833
+        },
+        "url": "https://t.co/ZuiIe1P0h8",
+        "username": "Idontselldrug",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-13T13:45:44.000Z",
+        "description": "Gender undefined💛💜｜zh-CN/en-US｜R-18G｜Film Photography📷｜Planes✈️｜Amateur Radio📻｜War Thunder",
+        "id": "1690721268373581824",
+        "location": "Washington, USA",
+        "name": "233°C",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1709080494498054145/b4FIrcBS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5478,
+          "following_count": 882,
+          "like_count": 22668,
+          "listed_count": 22,
+          "media_count": 149,
+          "tweet_count": 2533
+        },
+        "username": "Celsius233C",
+        "verified": false
+      }
+    ]
+  }
+}

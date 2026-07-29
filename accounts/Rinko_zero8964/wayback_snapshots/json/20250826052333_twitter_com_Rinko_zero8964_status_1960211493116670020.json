@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1960211493116670020",
+    "created_at": "2025-08-26T05:23:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-26T06:23:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960211493116670020"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1829589054452805632",
+          "start": 3,
+          "username": "wohenhaipaT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960211493116670020",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 60
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959746298695061905",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wohenhaipaT: 我爸当年这一鸡巴下去真是不得了 直接一个药物滥用精神分裂抑郁症焦虑症狂躁症自虐狂智商比肩范小勤的魔童降世了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1960211493116670020",
+        "created_at": "2025-08-26T05:23:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T06:23:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960211493116670020"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1829589054452805632",
+              "start": 3,
+              "username": "wohenhaipaT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960211493116670020",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 60
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959746298695061905",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wohenhaipaT: 我爸当年这一鸡巴下去真是不得了 直接一个药物滥用精神分裂抑郁症焦虑症狂躁症自虐狂智商比肩范小勤的魔童降世了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829589054452805632",
+        "conversation_id": "1959746298695061905",
+        "created_at": "2025-08-24T22:35:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T23:35:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959746298695061905"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1959746298695061905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 43101,
+          "like_count": 792,
+          "quote_count": 7,
+          "reply_count": 32,
+          "retweet_count": 60
+        },
+        "reply_settings": "everyone",
+        "text": "我爸当年这一鸡巴下去真是不得了 直接一个药物滥用精神分裂抑郁症焦虑症狂躁症自虐狂智商比肩范小勤的魔童降世了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849043147487420416/0nrEqJTK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 242,
+          "like_count": 2078,
+          "listed_count": 2,
+          "media_count": 46,
+          "tweet_count": 3273
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-30T18:36:44.000Z",
+        "description": "ゆかいはん",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/x404",
+                "end": 23,
+                "expanded_url": "https://ngl.link/x404",
+                "start": 0,
+                "url": "https://t.co/EE5Ej5Gt2l"
+              }
+            ]
+          }
+        },
+        "id": "1829589054452805632",
+        "name": "Endorphin",
+        "pinned_tweet_id": "1951063151585251754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950767483985817600/VjgGYzNZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 130,
+          "like_count": 4243,
+          "listed_count": 1,
+          "media_count": 125,
+          "tweet_count": 1656
+        },
+        "url": "https://t.co/EE5Ej5Gt2l",
+        "username": "wohenhaipaT",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2005890731601485824"
+      ],
+      "media_source_tweet_id": [
+        "2005890741621408184"
+      ]
+    },
+    "author_id": "1849043039496617984",
+    "conversation_id": "2006218796269535352",
+    "created_at": "2025-12-31T04:20:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-31T05:20:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006218796269535352"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1272405078683430913",
+          "start": 3,
+          "username": "PaitangOfficial"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rBe4XzmxLO",
+          "end": 65,
+          "expanded_url": "https://x.com/PaitangOfficial/status/2005890741621408184/photo/1",
+          "media_key": "3_2005890731601485824",
+          "start": 42,
+          "url": "https://t.co/rBe4XzmxLO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006218796269535352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005890741621408184",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PaitangOfficial: 已经确定IDRA-21 将在1月1日回归 https://t.co/rBe4XzmxLO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1146,
+        "media_key": "3_2005890731601485824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9Za_iNa4AA9xDP.jpg",
+        "width": 767
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005890731601485824"
+          ],
+          "media_source_tweet_id": [
+            "2005890741621408184"
+          ]
+        },
+        "author_id": "1849043039496617984",
+        "conversation_id": "2006218796269535352",
+        "created_at": "2025-12-31T04:20:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T05:20:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006218796269535352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1272405078683430913",
+              "start": 3,
+              "username": "PaitangOfficial"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rBe4XzmxLO",
+              "end": 65,
+              "expanded_url": "https://x.com/PaitangOfficial/status/2005890741621408184/photo/1",
+              "media_key": "3_2005890731601485824",
+              "start": 42,
+              "url": "https://t.co/rBe4XzmxLO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006218796269535352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005890741621408184",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PaitangOfficial: 已经确定IDRA-21 将在1月1日回归 https://t.co/rBe4XzmxLO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005890731601485824"
+          ]
+        },
+        "author_id": "1272405078683430913",
+        "conversation_id": "2005890741621408184",
+        "created_at": "2025-12-30T06:36:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T07:36:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005890741621408184"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rBe4XzmxLO",
+              "end": 44,
+              "expanded_url": "https://x.com/PaitangOfficial/status/2005890741621408184/photo/1",
+              "media_key": "3_2005890731601485824",
+              "start": 21,
+              "url": "https://t.co/rBe4XzmxLO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005890741621408184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 889,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "已经确定IDRA-21 将在1月1日回归 https://t.co/rBe4XzmxLO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜如果没有回关请私信提醒我！｜我不吸毒！！！｜小猫我喜欢你超喜欢我爱你@psych_angel_｜性别为无、",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 45,
+                "username": "psych_angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNh89"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1999352315241988490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 487,
+          "following_count": 443,
+          "like_count": 8551,
+          "listed_count": 1,
+          "media_count": 124,
+          "tweet_count": 5858
+        },
+        "url": "https://t.co/rCvc9RNh89",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-15T05:46:41.000Z",
+        "description": "Biohacker/认知提升剂 （nootropics）X/ADHD 专注商品/推特第二大促智商 “本研究化合物仅供实验室研究使用，严禁用于人体和动物” \n\n客服 @paipaipaitang ⚠️TG客服已死 不要联系⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 82,
+                "username": "paipaipaitang"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/paitangcuzhi",
+                "end": 23,
+                "expanded_url": "https://t.me/paitangcuzhi",
+                "start": 0,
+                "url": "https://t.co/r6ojtqNEYk"
+              }
+            ]
+          }
+        },
+        "id": "1272405078683430913",
+        "location": "下ネタ〇 |病み垢|不登校|",
+        "name": "☯️🧬無極 利他林和专注达",
+        "pinned_tweet_id": "1903330051837530420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985270408904376320/SHUUETVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10076,
+          "following_count": 544,
+          "like_count": 8438,
+          "listed_count": 26,
+          "media_count": 1693,
+          "tweet_count": 14189
+        },
+        "url": "https://t.co/r6ojtqNEYk",
+        "username": "PaitangOfficial",
+        "verified": false
+      }
+    ]
+  }
+}

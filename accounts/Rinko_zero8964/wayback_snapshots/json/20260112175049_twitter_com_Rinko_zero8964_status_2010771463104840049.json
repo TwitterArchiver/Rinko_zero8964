@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2010060594125111296"
+      ],
+      "media_source_tweet_id": [
+        "2010060618657869966"
+      ]
+    },
+    "author_id": "1849043039496617984",
+    "conversation_id": "2010771463104840049",
+    "created_at": "2026-01-12T17:50:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T18:50:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010771463104840049"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1511989239382224902",
+          "start": 3,
+          "username": "flunxo2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zFZ2XIXBfC",
+          "end": 66,
+          "expanded_url": "https://x.com/flunxo2/status/2010060618657869966/video/1",
+          "media_key": "7_2010060594125111296",
+          "start": 43,
+          "url": "https://t.co/zFZ2XIXBfC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010771463104840049",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 708
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010060618657869966",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @flunxo2: 🟨 THIS VIDEO IS 100% REAL 🤣 🟨 https://t.co/zFZ2XIXBfC"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13933,
+        "height": 1024,
+        "media_key": "7_2010060594125111296",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2010060594125111296/pu/img/cS89Xa9JwCv8J81r.jpg",
+        "public_metrics": {
+          "view_count": 77261
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2010060594125111296/pu/vid/avc1/320x568/Nf_7LUlEqHHFbwHe.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2010060594125111296/pu/vid/avc1/480x852/dbBw2P291v9n-K0H.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2010060594125111296/pu/vid/avc1/576x1024/AyjVdmMEv7_x8Z73.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2010060594125111296/pu/pl/pQCzmYRgA1ZujkEa.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2010060594125111296"
+          ],
+          "media_source_tweet_id": [
+            "2010060618657869966"
+          ]
+        },
+        "author_id": "1849043039496617984",
+        "conversation_id": "2010771463104840049",
+        "created_at": "2026-01-12T17:50:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T18:50:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010771463104840049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1511989239382224902",
+              "start": 3,
+              "username": "flunxo2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zFZ2XIXBfC",
+              "end": 66,
+              "expanded_url": "https://x.com/flunxo2/status/2010060618657869966/video/1",
+              "media_key": "7_2010060594125111296",
+              "start": 43,
+              "url": "https://t.co/zFZ2XIXBfC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010771463104840049",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 708
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010060618657869966",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @flunxo2: 🟨 THIS VIDEO IS 100% REAL 🤣 🟨 https://t.co/zFZ2XIXBfC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2010060594125111296"
+          ]
+        },
+        "author_id": "1511989239382224902",
+        "conversation_id": "2010060618657869966",
+        "created_at": "2026-01-10T18:46:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T19:46:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010060618657869966"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zFZ2XIXBfC",
+              "end": 53,
+              "expanded_url": "https://x.com/flunxo2/status/2010060618657869966/video/1",
+              "media_key": "7_2010060594125111296",
+              "start": 30,
+              "url": "https://t.co/zFZ2XIXBfC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010060618657869966",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1573,
+          "impression_count": 170371,
+          "like_count": 7623,
+          "quote_count": 52,
+          "reply_count": 92,
+          "retweet_count": 708
+        },
+        "reply_settings": "everyone",
+        "text": "🟨 THIS VIDEO IS 100% REAL 🤣 🟨 https://t.co/zFZ2XIXBfC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜如果没有回关请私信提醒我！｜我不吸毒！！！｜小猫我喜欢你超喜欢我爱你@psych_angel_｜性别为无、",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 45,
+                "username": "psych_angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNh89"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 515,
+          "following_count": 473,
+          "like_count": 11536,
+          "listed_count": 1,
+          "media_count": 137,
+          "tweet_count": 6464
+        },
+        "url": "https://t.co/rCvc9RNh89",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-07T08:48:23.000Z",
+        "description": "hola, subo vídeos graciosos de gatos y otros animales - I share funny videos of cats and other animals. Pujo videos de gats i d'altres animals.",
+        "id": "1511989239382224902",
+        "location": "gatolandia",
+        "name": "flunxo2",
+        "pinned_tweet_id": "1535651566698614785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004944960928260096/mHs3pvc8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13959,
+          "following_count": 12233,
+          "like_count": 112616,
+          "listed_count": 30,
+          "media_count": 13439,
+          "tweet_count": 36220
+        },
+        "username": "flunxo2",
+        "verified": false
+      }
+    ]
+  }
+}

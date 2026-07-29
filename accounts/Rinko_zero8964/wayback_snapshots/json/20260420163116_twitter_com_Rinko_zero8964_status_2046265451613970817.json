@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2045875337155015106",
+    "created_at": "2026-04-20T16:31:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T17:31:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046265451613970817"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1011854647642939392",
+          "start": 0,
+          "username": "netai_nemurenai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046265451613970817",
+    "in_reply_to_user_id": "1011854647642939392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046265283472724459",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@netai_nemurenai 抱抱，，辛苦了真的，，辛苦了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2046265283472724459].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2046265283472724459",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2046265283472724459"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2045875337155015106",
+        "created_at": "2026-04-20T16:31:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T17:31:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046265451613970817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1011854647642939392",
+              "start": 0,
+              "username": "netai_nemurenai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046265451613970817",
+        "in_reply_to_user_id": "1011854647642939392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046265283472724459",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@netai_nemurenai 抱抱，，辛苦了真的，，辛苦了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思う、ゆえに我あり｜ 我是林子｜性别为无、｜寒くなってきたね……もう少しだけ、いい？｜intp-t｜ASD/OCD/焦虑障碍｜🧬今日也想成为biohacker｜好妈妈们@Misaki11137 @loveforeversfy|bro @BelovedUren8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 85,
+                "username": "Misaki11137"
+              },
+              {
+                "end": 113,
+                "start": 98,
+                "username": "loveforeversfy"
+              },
+              {
+                "end": 134,
+                "start": 118,
+                "username": "BelovedUren8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wakaba_rinko",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wakaba_rinko",
+                "start": 0,
+                "url": "https://t.co/zWqK1n9RJg"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "Ask me any u want→",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 694,
+          "following_count": 681,
+          "like_count": 17403,
+          "listed_count": 1,
+          "media_count": 174,
+          "tweet_count": 8476
+        },
+        "url": "https://t.co/zWqK1n9RJg",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2018-06-27T06:12:02.000Z",
+        "description": "",
+        "id": "1011854647642939392",
+        "location": "湖心島",
+        "name": "❀さき",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1273361527978913792/oPRT-EES_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 588,
+          "like_count": 12030,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 1047
+        },
+        "username": "netai_nemurenai",
+        "verified": false
+      }
+    ]
+  }
+}

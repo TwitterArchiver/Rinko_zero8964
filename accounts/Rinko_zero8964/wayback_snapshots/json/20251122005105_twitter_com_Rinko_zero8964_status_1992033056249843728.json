@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1991441566419095719",
+    "created_at": "2025-11-22T00:51:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T01:51:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992033056249843728"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "4048063152",
+          "start": 0,
+          "username": "Fliedw"
+        },
+        {
+          "end": 19,
+          "id": "1697915168532086785",
+          "start": 8,
+          "username": "DXM8964LXM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992033056249843728",
+    "in_reply_to_user_id": "4048063152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991928872326308092",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fliedw @DXM8964LXM 先解决你们圈内内部问题再来关心别圈问题，至少我知道我所处的环境就是一堆垃圾废品在闹一堆无脑僵尸吹捧，我无力改变所以接受任何看法，总比你们这些明明知道圈内环境多乱还不愿意承认的强😅，但凡划清界限并抵制总比你还要和这些垃圾站一起替他们洗脱好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1991441566419095719",
+        "created_at": "2025-11-22T00:51:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T01:51:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992033056249843728"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "4048063152",
+              "start": 0,
+              "username": "Fliedw"
+            },
+            {
+              "end": 19,
+              "id": "1697915168532086785",
+              "start": 8,
+              "username": "DXM8964LXM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992033056249843728",
+        "in_reply_to_user_id": "4048063152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991928872326308092",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fliedw @DXM8964LXM 先解决你们圈内内部问题再来关心别圈问题，至少我知道我所处的环境就是一堆垃圾废品在闹一堆无脑僵尸吹捧，我无力改变所以接受任何看法，总比你们这些明明知道圈内环境多乱还不愿意承认的强😅，但凡划清界限并抵制总比你还要和这些垃圾站一起替他们洗脱好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4048063152",
+        "conversation_id": "1991441566419095719",
+        "created_at": "2025-11-21T17:57:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T18:57:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991928872326308092"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1849043039496617984",
+              "start": 0,
+              "username": "Rinko_zero8964"
+            },
+            {
+              "end": 27,
+              "id": "1697915168532086785",
+              "start": 16,
+              "username": "DXM8964LXM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991928872326308092",
+        "in_reply_to_user_id": "1849043039496617984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991452999630352658",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rinko_zero8964 @DXM8964LXM 在想吧个人行为上升到圈子贴标签轻松扣帽子之前\n先看看自己的'圈子' 身后都是些什么东西\n然后再考虑要不要说'xx圈有几个正常人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜🥺@NashiMoe233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "NashiMoe233"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1967335109767692560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 318,
+          "like_count": 4597,
+          "listed_count": 1,
+          "media_count": 90,
+          "tweet_count": 4562
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2015-10-28T16:09:17.000Z",
+        "description": "🔞 🔞！！！ 转发大量18禁请注意！！！🔞 🔞maimai❤ furry❤ 中文👍🏻Englis😰日本語が勉強します😣 置顶留意😌 感谢",
+        "id": "4048063152",
+        "location": "中华人民共和国",
+        "name": "FliedMiles🔞",
+        "pinned_tweet_id": "1974011592548159998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980842595866513408/WEwSgrEr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 467,
+          "following_count": 789,
+          "like_count": 7798,
+          "listed_count": 1,
+          "media_count": 217,
+          "tweet_count": 23105
+        },
+        "username": "Fliedw",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-02T10:12:28.000Z",
+        "description": "反对od的oder/精分/友跨翻车MTX无性别/EMer/化学，合成实操爱好者8964/住长江边某城\n18/189cm/60.8964kg\n不卖皮鼓，私聊询问省市等敏感信息直接拉黑8964\n姐姐：@Psych_Angel\n夫君：@SalviaSWC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 98,
+                "username": "Psych_Angel"
+              },
+              {
+                "end": 124,
+                "start": 114,
+                "username": "SalviaSWC"
+              }
+            ]
+          }
+        },
+        "id": "1697915168532086785",
+        "location": "DXM的孤对电子上",
+        "name": "氯酸甲酯🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986833213453475840/2QBWmnJP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 377,
+          "following_count": 123,
+          "like_count": 6131,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 513
+        },
+        "username": "DXM8964LXM",
+        "verified": false
+      }
+    ]
+  }
+}

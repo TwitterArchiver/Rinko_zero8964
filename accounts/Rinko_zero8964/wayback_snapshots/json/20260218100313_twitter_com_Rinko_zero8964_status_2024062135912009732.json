@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2023689267554513005",
+    "created_at": "2026-02-18T10:03:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T11:03:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024062135912009732"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1545898408858161154",
+          "start": 0,
+          "username": "D3XTR0M3TH_0w0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024062135912009732",
+    "in_reply_to_user_id": "1545898408858161154",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023689267554513005",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@D3XTR0M3TH_0w0 人就是人啊为什么分性别分标签啊，分了不也是人，人类就喜欢把自己塞进规规矩矩的标签找所谓的“同类”获得认同，但是明明根本不是能互相理解的人啊"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2023689267554513005].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2023689267554513005",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2023689267554513005"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2023689267554513005",
+        "created_at": "2026-02-18T10:03:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T11:03:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024062135912009732"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1545898408858161154",
+              "start": 0,
+              "username": "D3XTR0M3TH_0w0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024062135912009732",
+        "in_reply_to_user_id": "1545898408858161154",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023689267554513005",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@D3XTR0M3TH_0w0 人就是人啊为什么分性别分标签啊，分了不也是人，人类就喜欢把自己塞进规规矩矩的标签找所谓的“同类”获得认同，但是明明根本不是能互相理解的人啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思う、ゆえに我あり｜ 我是林子｜性别为无、｜寒くなってきたね……もう少しだけ、いい？｜intp-t｜asd/焦虑障碍｜🧬今日也想成为biohacker｜輪郭の定まらない位置にいた人@Psych_Angel_｜好妈妈们@asabakasaiko @loveforeversfy|bro @BelovedUren8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 91,
+                "username": "Psych_Angel_"
+              },
+              {
+                "end": 122,
+                "start": 109,
+                "username": "asabakasaiko"
+              },
+              {
+                "end": 138,
+                "start": 123,
+                "username": "loveforeversfy"
+              },
+              {
+                "end": 159,
+                "start": 143,
+                "username": "BelovedUren8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wakaba_rinko",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wakaba_rinko",
+                "start": 0,
+                "url": "https://t.co/zWqK1n9RJg"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "Ask me any u want→",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 580,
+          "following_count": 539,
+          "like_count": 15109,
+          "listed_count": 1,
+          "media_count": 149,
+          "tweet_count": 7519
+        },
+        "url": "https://t.co/zWqK1n9RJg",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-09T22:31:24.000Z",
+        "description": "【偶尔锁推只是防止被推送出去】突然关注人=我喜欢你的内容!/同类想互关喵｜follow=like ur contents｜19｜中/Eng｜成分🏳️‍🌈🏳️‍⚧️磕药od #drugtwt #shtwt #nonbinary #transmasc｜画画大号 @StrawberryC208",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 94,
+                "start": 86,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 101,
+                "start": 95,
+                "tag": "shtwt"
+              },
+              {
+                "end": 112,
+                "start": 102,
+                "tag": "nonbinary"
+              },
+              {
+                "end": 123,
+                "start": 113,
+                "tag": "transmasc"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 144,
+                "start": 129,
+                "username": "StrawberryC208"
+              }
+            ]
+          }
+        },
+        "id": "1545898408858161154",
+        "location": "they/them/猫/喵｜💉2025.8.25",
+        "name": "🍥🐱🍥",
+        "pinned_tweet_id": "2021995446504501585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009441540230549504/cD1B4AtO_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 564,
+          "following_count": 890,
+          "like_count": 2762,
+          "listed_count": 1,
+          "media_count": 328,
+          "tweet_count": 2170
+        },
+        "username": "D3XTR0M3TH_0w0",
+        "verified": false
+      }
+    ]
+  }
+}

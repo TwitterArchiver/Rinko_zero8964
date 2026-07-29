@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2039317758694047937",
+    "created_at": "2026-04-01T19:13:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T20:13:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039420966779170824"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1176077981099446272",
+          "start": 0,
+          "username": "Yesmynamehaer1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039420966779170824",
+    "in_reply_to_user_id": "1176077981099446272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039317758694047937",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yesmynamehaer1 妈妈，你很努力了，辛苦了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1119,
+        "media_key": "3_2039317751261712384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE0csKQaUAAaQ83.jpg",
+        "width": 1119
+      },
+      {
+        "height": 592,
+        "media_key": "3_2039317752171876352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE0csNpaUAAFkWo.jpg",
+        "width": 567
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2039317758694047937",
+        "created_at": "2026-04-01T19:13:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T20:13:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039420966779170824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1176077981099446272",
+              "start": 0,
+              "username": "Yesmynamehaer1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039420966779170824",
+        "in_reply_to_user_id": "1176077981099446272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039317758694047937",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yesmynamehaer1 妈妈，你很努力了，辛苦了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039317751261712384",
+            "3_2039317752171876352"
+          ]
+        },
+        "author_id": "1176077981099446272",
+        "conversation_id": "2039317758694047937",
+        "created_at": "2026-04-01T12:23:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T13:23:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039317758694047937"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RkXunYEMbF",
+              "end": 156,
+              "expanded_url": "https://x.com/Yesmynamehaer1/status/2039317758694047937/photo/1",
+              "media_key": "3_2039317751261712384",
+              "start": 133,
+              "url": "https://t.co/RkXunYEMbF"
+            },
+            {
+              "display_url": "pic.x.com/RkXunYEMbF",
+              "end": 156,
+              "expanded_url": "https://x.com/Yesmynamehaer1/status/2039317758694047937/photo/1",
+              "media_key": "3_2039317752171876352",
+              "start": 133,
+              "url": "https://t.co/RkXunYEMbF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039317758694047937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 83,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在就连我妈也会对着我说她太没用了。对不起，我对不起所有人，其实真的是我太没用了……我一直想，一直想，这些话终究是没说出口，说不出口。想法开始腐烂变质，开始堆积着侵蚀全身，太糜烂了，我的人生简直跟路边随处可见的湿垃圾堆别无二致。我得了想到我自己就开始反复呕吐的病。 https://t.co/RkXunYEMbF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思う、ゆえに我あり｜ 我是林子｜性别为无、｜寒くなってきたね……もう少しだけ、いい？｜intp-t｜asd/焦虑障碍｜🧬今日也想成为biohacker｜好妈妈们@asabakasaiko @loveforeversfy|bro @BelovedUren8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 81,
+                "username": "asabakasaiko"
+              },
+              {
+                "end": 110,
+                "start": 95,
+                "username": "loveforeversfy"
+              },
+              {
+                "end": 131,
+                "start": 115,
+                "username": "BelovedUren8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wakaba_rinko",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wakaba_rinko",
+                "start": 0,
+                "url": "https://t.co/zWqK1n9RJg"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "Ask me any u want→",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 644,
+          "following_count": 622,
+          "like_count": 16876,
+          "listed_count": 1,
+          "media_count": 164,
+          "tweet_count": 8135
+        },
+        "url": "https://t.co/zWqK1n9RJg",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-23T10:17:06.000Z",
+        "description": "如果，你也能看见那红色恐怖。",
+        "id": "1176077981099446272",
+        "name": "Hereditarystupidity #鬼宿三",
+        "pinned_tweet_id": "1894651753678999699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039233305284091904/hdxfbjXg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 726,
+          "like_count": 30599,
+          "listed_count": 3,
+          "media_count": 75,
+          "tweet_count": 2810
+        },
+        "username": "Yesmynamehaer1",
+        "verified": false
+      }
+    ]
+  }
+}

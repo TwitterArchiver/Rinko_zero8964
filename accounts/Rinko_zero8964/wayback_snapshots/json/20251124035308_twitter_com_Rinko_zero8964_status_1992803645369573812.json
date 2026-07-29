@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1992803645369573812",
+    "created_at": "2025-11-24T03:53:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T04:53:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1992803645369573812"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nijika_overdos…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/nijika_overdose/status/1821835579996209523",
+          "start": 9,
+          "url": "https://t.co/L1N4vPmfwJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992803645369573812",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1821835579996209523",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "药圈何时迎来平静 https://t.co/L1N4vPmfwJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1821835568772476928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GUh1zBva8AAjesH.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1992803645369573812",
+        "created_at": "2025-11-24T03:53:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T04:53:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992803645369573812"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nijika_overdos…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/nijika_overdose/status/1821835579996209523",
+              "start": 9,
+              "url": "https://t.co/L1N4vPmfwJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992803645369573812",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1821835579996209523",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "药圈何时迎来平静 https://t.co/L1N4vPmfwJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1821835568772476928"
+          ]
+        },
+        "author_id": "1609844142313553921",
+        "conversation_id": "1821835579996209523",
+        "created_at": "2024-08-09T09:07:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-09T10:07:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1821835579996209523"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/z6OAyhIX94",
+              "end": 109,
+              "expanded_url": "https://x.com/Nijika_overdose/status/1821835579996209523/photo/1",
+              "media_key": "3_1821835568772476928",
+              "start": 86,
+              "url": "https://t.co/z6OAyhIX94"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1821835579996209523",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 8190,
+          "like_count": 63,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "中文圈odwiki主编一个崩一个撤溜\noswiki主编内战刚结束\nod和os还在掐架\n外网psywiki网站也崩了\n我是鲁登道夫，这就是索姆河会战，o圈历史上最灰暗的一天 https://t.co/z6OAyhIX94"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜🥺@NashiMoe233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "NashiMoe233"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1967335109767692560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 332,
+          "like_count": 4780,
+          "listed_count": 1,
+          "media_count": 90,
+          "tweet_count": 4611
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-02T09:28:57.000Z",
+        "description": "💛🤍💜🖤在读医学牲｜喜欢fps和单机丨这是什么？@Nijika_Dark\n｜from @_mucha_000｜小姑子猫猫@ZTYQ_0319",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 24,
+                "username": "Nijika_Dark"
+              },
+              {
+                "end": 54,
+                "start": 43,
+                "username": "_mucha_000"
+              },
+              {
+                "end": 70,
+                "start": 60,
+                "username": "ZTYQ_0319"
+              }
+            ]
+          }
+        },
+        "id": "1609844142313553921",
+        "location": "参宿四",
+        "name": "虹夏🖤胺樂天使",
+        "pinned_tweet_id": "1983828240319050124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984542327688609792/JIVNyZte_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1153,
+          "following_count": 269,
+          "like_count": 2900,
+          "listed_count": 2,
+          "media_count": 185,
+          "tweet_count": 2153
+        },
+        "username": "Nijika_overdose",
+        "verified": false
+      }
+    ]
+  }
+}

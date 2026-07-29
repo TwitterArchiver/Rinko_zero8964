@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1964974298772439355",
+    "created_at": "2025-09-08T08:49:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-08T09:49:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1964974298772439355"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/vvv8964/status…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/vvv8964/status/1964896312358531151",
+          "start": 23,
+          "url": "https://t.co/Dz8GXJcji5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964974298772439355",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964896312358531151",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我觉得每天看vvv炫吸大麻我会因为嫉妒而疯掉 https://t.co/Dz8GXJcji5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1964896309724499968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0S2yIGa0AA4DjG.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1964896309707677698",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0S2yICaIAI5tGB.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1964974298772439355",
+        "created_at": "2025-09-08T08:49:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T09:49:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964974298772439355"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/vvv8964/status…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/vvv8964/status/1964896312358531151",
+              "start": 23,
+              "url": "https://t.co/Dz8GXJcji5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964974298772439355",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964896312358531151",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我觉得每天看vvv炫吸大麻我会因为嫉妒而疯掉 https://t.co/Dz8GXJcji5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1964896309724499968",
+            "3_1964896309707677698"
+          ]
+        },
+        "author_id": "1561334508212723713",
+        "conversation_id": "1964893723516608875",
+        "created_at": "2025-09-08T03:39:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T04:39:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964896312358531151"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jrROGkY6NU",
+              "end": 23,
+              "expanded_url": "https://x.com/VVV8964/status/1964896312358531151/photo/1",
+              "media_key": "3_1964896309724499968",
+              "start": 0,
+              "url": "https://t.co/jrROGkY6NU"
+            },
+            {
+              "display_url": "pic.x.com/jrROGkY6NU",
+              "end": 23,
+              "expanded_url": "https://x.com/VVV8964/status/1964896312358531151/photo/1",
+              "media_key": "3_1964896309707677698",
+              "start": 0,
+              "url": "https://t.co/jrROGkY6NU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964896312358531151",
+        "in_reply_to_user_id": "1561334508212723713",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 279,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964893723516608875",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/jrROGkY6NU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849043147487420416/0nrEqJTK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 263,
+          "like_count": 2496,
+          "listed_count": 2,
+          "media_count": 65,
+          "tweet_count": 3678
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-21T12:49:09.000Z",
+        "description": "会好的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/tuzURhZBAP"
+              }
+            ]
+          }
+        },
+        "id": "1561334508212723713",
+        "location": "Edmonton, Alberta",
+        "name": "VVV",
+        "pinned_tweet_id": "1954539599566651501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958781180276613121/M2eTIqFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1111,
+          "following_count": 334,
+          "like_count": 2898,
+          "listed_count": 4,
+          "media_count": 228,
+          "tweet_count": 3906
+        },
+        "url": "https://t.co/tuzURhZBAP",
+        "username": "VVV8964",
+        "verified": false
+      }
+    ]
+  }
+}

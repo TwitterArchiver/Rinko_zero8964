@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2022174034335842304"
+      ],
+      "media_source_tweet_id": [
+        "2022174085489602868"
+      ]
+    },
+    "author_id": "1849043039496617984",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2022257543414972525",
+    "created_at": "2026-02-13T10:32:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T11:32:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022257543414972525"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1962173271866249216",
+          "start": 3,
+          "username": "MuLiMianBao"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QTGFzS15qw",
+          "end": 49,
+          "expanded_url": "https://x.com/MuLiMianBao/status/2022174085489602868/video/1",
+          "media_key": "7_2022174034335842304",
+          "start": 26,
+          "url": "https://t.co/QTGFzS15qw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022257543414972525",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022174085489602868",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MuLiMianBao: 不知道啊 很曼妙 https://t.co/QTGFzS15qw"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2022257543414972525].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2022257543414972525",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2022257543414972525"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7995,
+        "height": 720,
+        "media_key": "7_2022174034335842304",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2022174034335842304/pu/img/tMLvofyCilDpAT_1.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2022174034335842304/pu/vid/avc1/480x270/HT4Bhd_3NdO6XT_C.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2022174034335842304/pu/vid/avc1/640x360/Qn5pzhwljHZ-auDY.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2022174034335842304/pu/vid/avc1/1280x720/UlgfLpXMbaXisrn9.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2022174034335842304/pu/pl/OFcX_vLl8BwgZ2Xj.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2022174034335842304"
+          ]
+        },
+        "author_id": "1962173271866249216",
+        "conversation_id": "2022174085489602868",
+        "created_at": "2026-02-13T05:00:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T06:00:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022174085489602868"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QTGFzS15qw",
+              "end": 32,
+              "expanded_url": "https://x.com/MuLiMianBao/status/2022174085489602868/video/1",
+              "media_key": "7_2022174034335842304",
+              "start": 9,
+              "url": "https://t.co/QTGFzS15qw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022174085489602868",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不知道啊 很曼妙 https://t.co/QTGFzS15qw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "ZA",
+              "full_name": "South Africa",
+              "geo": {
+                "coordinates": [
+                  24.0,
+                  -29.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我思即我在｜我是林子｜如果没有回关请私信提醒我！｜我不吸毒！！！｜性别为无、｜輪郭の定まらない位置にいた人@Psych_Angel_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 53,
+                "username": "Psych_Angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNh89"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "2008491763561099436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 567,
+          "following_count": 525,
+          "like_count": 14199,
+          "listed_count": 1,
+          "media_count": 146,
+          "tweet_count": 7255
+        },
+        "url": "https://t.co/rCvc9RNh89",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-31T15:19:08.000Z",
+        "description": "这里木黎✩*:.˶˃ ᵕ ˂˵ .:*✩\ninfp｜🌈｜绝望猫抓妹｜废话超级多｜同类互fo｜瓦d",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/muli10179",
+                "end": 23,
+                "expanded_url": "https://ngl.link/muli10179",
+                "start": 0,
+                "url": "https://t.co/DgIqLnJFlM"
+              }
+            ]
+          }
+        },
+        "id": "1962173271866249216",
+        "location": "ovo",
+        "name": "MuLi木黎",
+        "pinned_tweet_id": "1978828682643812671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963487597151608832/WyIX0bXp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 212,
+          "like_count": 3619,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 247
+        },
+        "url": "https://t.co/DgIqLnJFlM",
+        "username": "MuLiMianBao",
+        "verified": false
+      }
+    ]
+  }
+}

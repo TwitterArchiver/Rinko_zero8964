@@ -1,0 +1,351 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2006243388438544385"
+      ],
+      "media_source_tweet_id": [
+        "2006379826551328891"
+      ]
+    },
+    "author_id": "1849043039496617984",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for New Years Eve for all years.",
+          "id": "1319305164751163393",
+          "name": "New Years Eve"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for New Years Eve for all years.",
+          "id": "1319305164751163393",
+          "name": "New Years Eve"
+        }
+      }
+    ],
+    "conversation_id": "2006414917822460222",
+    "created_at": "2025-12-31T17:19:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-31T18:19:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006414917822460222"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1619664175957147648",
+          "start": 3,
+          "username": "angelkawaiiko"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/04UEfkD2Ns",
+          "end": 82,
+          "expanded_url": "https://x.com/angelkawaiiko/status/2006379826551328891/photo/1",
+          "media_key": "3_2006243388438544385",
+          "start": 59,
+          "url": "https://t.co/04UEfkD2Ns"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006414917822460222",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 79
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006379826551328891",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @angelkawaiiko: あけおめことよろ！クソゴミカスな嫌な記憶を去年に置いて新しい一年を踏み出すぞ！ https://t.co/04UEfkD2Ns"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 692,
+        "media_key": "3_2006243388438544385",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9ebu3TbAAELhYP.png",
+        "width": 596
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006243388438544385"
+          ],
+          "media_source_tweet_id": [
+            "2006379826551328891"
+          ]
+        },
+        "author_id": "1849043039496617984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          }
+        ],
+        "conversation_id": "2006414917822460222",
+        "created_at": "2025-12-31T17:19:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T18:19:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006414917822460222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1619664175957147648",
+              "start": 3,
+              "username": "angelkawaiiko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/04UEfkD2Ns",
+              "end": 82,
+              "expanded_url": "https://x.com/angelkawaiiko/status/2006379826551328891/photo/1",
+              "media_key": "3_2006243388438544385",
+              "start": 59,
+              "url": "https://t.co/04UEfkD2Ns"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006414917822460222",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 79
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006379826551328891",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @angelkawaiiko: あけおめことよろ！クソゴミカスな嫌な記憶を去年に置いて新しい一年を踏み出すぞ！ https://t.co/04UEfkD2Ns"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006243388438544385"
+          ]
+        },
+        "author_id": "1619664175957147648",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          }
+        ],
+        "conversation_id": "2006379826551328891",
+        "created_at": "2025-12-31T15:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T16:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006379826551328891"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/04UEfkD2Ns",
+              "end": 63,
+              "expanded_url": "https://x.com/angelkawaiiko/status/2006379826551328891/photo/1",
+              "media_key": "3_2006243388438544385",
+              "start": 40,
+              "url": "https://t.co/04UEfkD2Ns"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006379826551328891",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 10512,
+          "like_count": 680,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 79
+        },
+        "reply_settings": "everyone",
+        "text": "あけおめことよろ！クソゴミカスな嫌な記憶を去年に置いて新しい一年を踏み出すぞ！ https://t.co/04UEfkD2Ns"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜如果没有回关请私信提醒我！｜我不吸毒！！！｜小猫我喜欢你超喜欢我爱你@psych_angel_｜性别为无、",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 45,
+                "username": "psych_angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNh89"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1999352315241988490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 489,
+          "following_count": 452,
+          "like_count": 8776,
+          "listed_count": 1,
+          "media_count": 125,
+          "tweet_count": 5888
+        },
+        "url": "https://t.co/rCvc9RNh89",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-29T11:50:22.000Z",
+        "description": "この混沌とした令和のインターネットを照らす一筋の光 電子の海を漂うオタクに笑顔を 未来の平和をお約束 躁鬱だけどまかせとけ インターネット・エンジェルXにもただいま降臨✨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.com/gallery/",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.com/gallery/",
+                "start": 0,
+                "url": "https://t.co/IE4BytTCrO"
+              }
+            ]
+          }
+        },
+        "id": "1619664175957147648",
+        "location": "ただのなりきり垢だから誤フォローに注意してね",
+        "name": "超てんちゃん",
+        "pinned_tweet_id": "1795485623568171269",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796447181987328000/rS6b703p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6543,
+          "following_count": 4,
+          "like_count": 235,
+          "listed_count": 12,
+          "media_count": 37,
+          "tweet_count": 385
+        },
+        "url": "https://t.co/IE4BytTCrO",
+        "username": "angelkawaiiko",
+        "verified": false
+      }
+    ]
+  }
+}

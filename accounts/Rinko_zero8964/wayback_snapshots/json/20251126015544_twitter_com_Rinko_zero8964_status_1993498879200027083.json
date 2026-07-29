@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1993498879200027083",
+    "created_at": "2025-11-26T01:55:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T02:55:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993498879200027083"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1355178308460187653",
+          "start": 3,
+          "username": "CoilofFaraday"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993498879200027083",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993478826287153555",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CoilofFaraday: 有没有谁和waifu比较熟哇🥺\n求助求帮转😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1993498879200027083",
+        "created_at": "2025-11-26T01:55:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T02:55:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993498879200027083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1355178308460187653",
+              "start": 3,
+              "username": "CoilofFaraday"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993498879200027083",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993478826287153555",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CoilofFaraday: 有没有谁和waifu比较熟哇🥺\n求助求帮转😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1355178308460187653",
+        "conversation_id": "1993478826287153555",
+        "created_at": "2025-11-26T00:36:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T01:36:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993478826287153555"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1993478826287153555",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "有没有谁和waifu比较熟哇🥺\n求助求帮转😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜🥺@NashiMoe233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "NashiMoe233"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1967335109767692560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 340,
+          "like_count": 5020,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 4765
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-29T15:37:49.000Z",
+        "description": "no I don’t have a fucking profile 最爱的小豹@yoselindead🐆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 39,
+                "username": "yoselindead"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/coiloffaraday",
+                "end": 23,
+                "expanded_url": "http://www.github.com/coiloffaraday",
+                "start": 0,
+                "url": "https://t.co/dtOyzU5Rv6"
+              }
+            ]
+          }
+        },
+        "id": "1355178308460187653",
+        "location": "Zhejiang",
+        "name": "Faraday",
+        "pinned_tweet_id": "1966875019822477415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991511826216243200/141wtvL1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 414,
+          "following_count": 511,
+          "like_count": 447,
+          "listed_count": 1,
+          "media_count": 82,
+          "tweet_count": 2464
+        },
+        "url": "https://t.co/dtOyzU5Rv6",
+        "username": "CoilofFaraday",
+        "verified": false
+      }
+    ]
+  }
+}

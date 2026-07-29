@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2006381887233933314",
+        "3_2006381887191941120"
+      ],
+      "media_source_tweet_id": [
+        "2006382299907293296",
+        "2006382299907293296"
+      ]
+    },
+    "author_id": "1849043039496617984",
+    "conversation_id": "2006598656515019145",
+    "created_at": "2026-01-01T05:29:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T06:29:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006598656515019145"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1580263959751319554",
+          "start": 3,
+          "username": "kkndjhbh"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6YGWEWOjuM",
+          "end": 121,
+          "expanded_url": "https://x.com/kkndjhbh/status/2006382299907293296/photo/1",
+          "media_key": "3_2006381887233933314",
+          "start": 98,
+          "url": "https://t.co/6YGWEWOjuM"
+        },
+        {
+          "display_url": "pic.x.com/6YGWEWOjuM",
+          "end": 121,
+          "expanded_url": "https://x.com/kkndjhbh/status/2006382299907293296/photo/1",
+          "media_key": "3_2006381887191941120",
+          "start": 98,
+          "url": "https://t.co/6YGWEWOjuM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006598656515019145",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006382299907293296",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kkndjhbh: 新品上架！\n4-ACO-MET\n一个在模拟蘑菇中的母子关系的色胺致幻剂\n1t 268（尝新价格）1t起发包邮\n计量32mg 胶囊状\n用户反馈幻觉比4-ho-met更大 https://t.co/6YGWEWOjuM"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2006598656515019145].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2006598656515019145",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2006598656515019145"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2006381887233933314",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9gZsjhbQAINzN2.jpg",
+        "width": 947
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2006381887191941120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9gZsjXagAAZVya.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006381887233933314",
+            "3_2006381887191941120"
+          ]
+        },
+        "author_id": "1580263959751319554",
+        "conversation_id": "2006382299907293296",
+        "created_at": "2025-12-31T15:09:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T16:08:21.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006381920104669329",
+          "2006382299907293296"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6YGWEWOjuM",
+              "end": 107,
+              "expanded_url": "https://x.com/kkndjhbh/status/2006382299907293296/photo/1",
+              "media_key": "3_2006381887233933314",
+              "start": 84,
+              "url": "https://t.co/6YGWEWOjuM"
+            },
+            {
+              "display_url": "pic.x.com/6YGWEWOjuM",
+              "end": 107,
+              "expanded_url": "https://x.com/kkndjhbh/status/2006382299907293296/photo/1",
+              "media_key": "3_2006381887191941120",
+              "start": 84,
+              "url": "https://t.co/6YGWEWOjuM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006382299907293296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 577,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "新品上架！\n4-ACO-MET\n一个在模拟蘑菇中的母子关系的色胺致幻剂\n1t 268（尝新价格）1t起发包邮\n计量32mg 胶囊状\n用户反馈幻觉比4-ho-met更大 https://t.co/6YGWEWOjuM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜如果没有回关请私信提醒我！｜我不吸毒！！！｜小猫我喜欢你超喜欢我爱你@psych_angel_｜性别为无、",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 45,
+                "username": "psych_angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNh89"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1999352315241988490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 488,
+          "following_count": 450,
+          "like_count": 8875,
+          "listed_count": 1,
+          "media_count": 125,
+          "tweet_count": 5912
+        },
+        "url": "https://t.co/rCvc9RNh89",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-12T18:27:51.000Z",
+        "description": "全网同ID，经过多个大fo推主认证。oder可互fo 业余诗人 瘾君子 双相 轻中度精分 lgbt友好立场，反传统男性主义。不主动建议od。古罗马掌管色胺的执政官。 带领更多人进入美妙世界 不做任何违法列管生意，产品全部合法合规。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%89%B6%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%89%B6%E6%A2%AF",
+                "start": 0,
+                "url": "https://t.co/RIPVCzFX2S"
+              }
+            ]
+          }
+        },
+        "id": "1580263959751319554",
+        "location": "色胺宇宙 提问⬇️",
+        "name": "扶梯",
+        "pinned_tweet_id": "2004487258733498798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001818403577925633/u23NNlI1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 252,
+          "like_count": 2377,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 956
+        },
+        "url": "https://t.co/RIPVCzFX2S",
+        "username": "kkndjhbh",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2005618311799988639",
+    "created_at": "2025-12-30T02:58:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-30T03:58:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005835807941431652"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1580263959751319554",
+          "start": 0,
+          "username": "kkndjhbh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005835807941431652",
+    "in_reply_to_user_id": "1580263959751319554",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005618311799988639",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kkndjhbh 希望可以跨过这些事情得到一个平缓的休息"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 400,
+        "media_key": "3_2005618292749406208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9VjNgZakAAYr_y.jpg",
+        "width": 400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2005618311799988639",
+        "created_at": "2025-12-30T02:58:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T03:58:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005835807941431652"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1580263959751319554",
+              "start": 0,
+              "username": "kkndjhbh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005835807941431652",
+        "in_reply_to_user_id": "1580263959751319554",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005618311799988639",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kkndjhbh 希望可以跨过这些事情得到一个平缓的休息"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005618292749406208"
+          ]
+        },
+        "author_id": "1580263959751319554",
+        "conversation_id": "2005618311799988639",
+        "created_at": "2025-12-29T12:34:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T13:34:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005618311799988639"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SWVvdCqG66",
+              "end": 54,
+              "expanded_url": "https://x.com/kkndjhbh/status/2005618311799988639/photo/1",
+              "media_key": "3_2005618292749406208",
+              "start": 31,
+              "url": "https://t.co/SWVvdCqG66"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005618311799988639",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 154,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近事情好多 压力大如山\n我真希望能有一个药物让我摆脱这一切 https://t.co/SWVvdCqG66"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜如果没有回关请私信提醒我！｜我不吸毒！！！｜小猫我喜欢你超喜欢我爱你@psych_angel_｜性别为无、",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 45,
+                "username": "psych_angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinko_zero",
+                "end": 23,
+                "expanded_url": "http://t.me/Rinko_zero",
+                "start": 0,
+                "url": "https://t.co/rCvc9RNh89"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1999352315241988490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 475,
+          "following_count": 429,
+          "like_count": 8517,
+          "listed_count": 1,
+          "media_count": 121,
+          "tweet_count": 5847
+        },
+        "url": "https://t.co/rCvc9RNh89",
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-12T18:27:51.000Z",
+        "description": "全网同ID，经过多个大fo推主认证。oder可互fo 业余诗人 瘾君子 双相 轻中度精分 lgbt友好立场，反传统男性主义。不主动建议od。古罗马掌管色胺的执政官。 带领更多人进入美妙世界 不做任何违法列管生意，产品全部合法合规。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%89%B6%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%89%B6%E6%A2%AF",
+                "start": 0,
+                "url": "https://t.co/RIPVCzFX2S"
+              }
+            ]
+          }
+        },
+        "id": "1580263959751319554",
+        "location": "色胺宇宙 提问⬇️",
+        "name": "扶梯",
+        "pinned_tweet_id": "2004487258733498798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001818403577925633/u23NNlI1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 231,
+          "like_count": 2091,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 918
+        },
+        "url": "https://t.co/RIPVCzFX2S",
+        "username": "kkndjhbh",
+        "verified": true
+      }
+    ]
+  }
+}

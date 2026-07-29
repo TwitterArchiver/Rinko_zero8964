@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1969990444508729456",
+    "created_at": "2025-09-22T05:04:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-22T06:04:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969991223319679142"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1748235492414607360",
+          "start": 0,
+          "username": "SoYouRmyCurse"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969991223319679142",
+    "in_reply_to_user_id": "1748235492414607360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969990444508729456",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SoYouRmyCurse 证据不拿直接人身攻击，鉴定为没话可辩了，人证出来了急的不会说了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1035,
+        "media_key": "3_1969990433712578560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1bP3KxbIAA9vde.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1969990444508729456",
+        "created_at": "2025-09-22T05:04:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T06:04:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969991223319679142"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1748235492414607360",
+              "start": 0,
+              "username": "SoYouRmyCurse"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969991223319679142",
+        "in_reply_to_user_id": "1748235492414607360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969990444508729456",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SoYouRmyCurse 证据不拿直接人身攻击，鉴定为没话可辩了，人证出来了急的不会说了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969990433712578560"
+          ]
+        },
+        "author_id": "1748235492414607360",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1969990444508729456",
+        "created_at": "2025-09-22T05:01:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T06:01:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969990444508729456"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mLLQOLngyV",
+              "end": 59,
+              "expanded_url": "https://x.com/SoYouRmyCurse/status/1969990444508729456/photo/1",
+              "media_key": "3_1969990433712578560",
+              "start": 36,
+              "url": "https://t.co/mLLQOLngyV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969990444508729456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看到没 堂堂圈内顶尖🔑说不过人就在这纯人身攻击了 我都不知道如何评价了 https://t.co/mLLQOLngyV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 277,
+          "like_count": 3128,
+          "listed_count": 2,
+          "media_count": 74,
+          "tweet_count": 4019
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-19T06:47:13.000Z",
+        "description": "冬椿丨non-binary丨osdd丨drugtwt丨江浙沪可面基丨冬だった醒めないで夢に見た桃源郷はもうそこにある",
+        "id": "1748235492414607360",
+        "location": "我一直在你身边哦",
+        "name": "冬がすぎたら",
+        "pinned_tweet_id": "1969648291513319575",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969266786937032704/TiQGoj3I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1643,
+          "following_count": 38,
+          "like_count": 3599,
+          "listed_count": 5,
+          "media_count": 10,
+          "tweet_count": 142
+        },
+        "username": "SoYouRmyCurse",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1999347277396345336",
+    "created_at": "2025-12-12T05:15:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T06:15:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1999347277396345336"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/pbpp10521715/s…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/pbpp10521715/status/1999172463331324253",
+          "start": 31,
+          "url": "https://t.co/zghJZ3SZk7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999347277396345336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999172463331324253",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "他妈的凭什么，爱礼那么好一个人为什么连让她安宁点都做不到…… https://t.co/zghJZ3SZk7"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1999347277396345336",
+        "created_at": "2025-12-12T05:15:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T06:15:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999347277396345336"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pbpp10521715/s…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/pbpp10521715/status/1999172463331324253",
+              "start": 31,
+              "url": "https://t.co/zghJZ3SZk7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999347277396345336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999172463331324253",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "他妈的凭什么，爱礼那么好一个人为什么连让她安宁点都做不到…… https://t.co/zghJZ3SZk7"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1421301972007849986",
+        "conversation_id": "1999172463331324253",
+        "created_at": "2025-12-11T17:40:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T18:40:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999172463331324253"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1999172463331324253",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 5674,
+          "like_count": 85,
+          "quote_count": 5,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "居然还有后续，爱礼小区的人要集体献祭一只黑狗用狗血洗地辟邪驱魂，爱礼如果活着肯定不希望无辜狗狗为自己毫无意义地死掉，而且根本没有邪何来的辟邪？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子｜🥺@NashiMoe233｜如果没有回关请私信提醒我！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "NashiMoe233"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1967335109767692560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 407,
+          "following_count": 370,
+          "like_count": 5774,
+          "listed_count": 1,
+          "media_count": 96,
+          "tweet_count": 5097
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-31T02:49:51.000Z",
+        "description": "水逆中，随机掉落小白",
+        "id": "1421301972007849986",
+        "location": "Mongolia",
+        "name": "咪咪摸摸",
+        "pinned_tweet_id": "1994214535100866917",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998362527345037312/8maNnLJk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12784,
+          "following_count": 478,
+          "like_count": 23820,
+          "listed_count": 26,
+          "media_count": 818,
+          "tweet_count": 8960
+        },
+        "username": "pbpp10521715",
+        "verified": false
+      }
+    ]
+  }
+}

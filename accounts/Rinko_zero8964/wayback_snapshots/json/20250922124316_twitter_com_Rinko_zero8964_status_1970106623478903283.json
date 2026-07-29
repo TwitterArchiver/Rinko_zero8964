@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "1969767328348082325",
+    "created_at": "2025-09-22T12:43:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-22T13:43:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970106623478903283"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2840236608",
+          "start": 0,
+          "username": "AsabaSeiya451"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970106623478903283",
+    "in_reply_to_user_id": "2840236608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969767328348082325",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AsabaSeiya451 想要凯尔希新皮肤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "1969767328348082325",
+        "created_at": "2025-09-22T12:43:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T13:43:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970106623478903283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2840236608",
+              "start": 0,
+              "username": "AsabaSeiya451"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970106623478903283",
+        "in_reply_to_user_id": "2840236608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969767328348082325",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AsabaSeiya451 想要凯尔希新皮肤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "conversation_id": "1969767328348082325",
+        "created_at": "2025-09-21T14:15:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T15:15:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969767328348082325"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1969767328348082325",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 347,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想要能天使皮膚啊噗嚕派🍎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965923999197921280/V0d6smjx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 277,
+          "like_count": 3178,
+          "listed_count": 2,
+          "media_count": 79,
+          "tweet_count": 4085
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "description": "还叫浅羽星夜/叽翅，可能是 ⭐ 𝚂𝚝𝚊𝚛 𝙽𝚎𝚔𝚘️ 🐈， 漏洞赏金猎人(见习)，可能出没在杭州/深圳/东京/重庆，INFJ，双相重抑躁焦bpdADHD地雷 Warning，@Ganlongyu_ Star # whoami⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ㅤ⠀／dev／null",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 87,
+                "username": "Ganlongyu_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/StarNekOvO",
+                "end": 23,
+                "expanded_url": "https://t.me/StarNekOvO",
+                "start": 0,
+                "url": "https://t.co/nVL53sBJjI"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "location": "幻想郷但有時候在羅德島",
+        "name": "⭐️🌕あさば せいや🪼🐈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962354179005169664/_8eXHFYR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4021,
+          "following_count": 2031,
+          "like_count": 25447,
+          "listed_count": 15,
+          "media_count": 1067,
+          "tweet_count": 8984
+        },
+        "url": "https://t.co/nVL53sBJjI",
+        "username": "AsabaSeiya451",
+        "verified": true
+      }
+    ]
+  }
+}

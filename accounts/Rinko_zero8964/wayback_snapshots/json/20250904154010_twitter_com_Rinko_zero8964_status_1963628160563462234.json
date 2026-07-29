@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1963294466460323842"
+      ],
+      "media_source_tweet_id": [
+        "1963294473322205621"
+      ]
+    },
+    "author_id": "1849043039496617984",
+    "conversation_id": "1963628160563462234",
+    "created_at": "2025-09-04T15:40:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-04T16:40:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963628160563462234"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 93,
+          "start": 86,
+          "tag": "NewPSG"
+        },
+        {
+          "end": 102,
+          "start": 94,
+          "tag": "Newパンスト"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "4733877553",
+          "start": 3,
+          "username": "kmttta"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/34xlPkwoba",
+          "end": 126,
+          "expanded_url": "https://x.com/kmttta/status/1963294473322205621/photo/1",
+          "media_key": "3_1963294466460323842",
+          "start": 103,
+          "url": "https://t.co/34xlPkwoba"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963628160563462234",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3084
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963294473322205621",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kmttta: パンスト9話Bパート(EP20🐊)\n作監で参加させていただきました🤜🤛\nご参加いただいた皆様にたくさん助けていただきまして・・・心から感謝・・・！\n#NewPSG #Newパンスト https://t.co/34xlPkwoba"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1199,
+        "media_key": "3_1963294466460323842",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz8F6k7bkAIKU6N.jpg",
+        "width": 794
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963294466460323842"
+          ],
+          "media_source_tweet_id": [
+            "1963294473322205621"
+          ]
+        },
+        "author_id": "1849043039496617984",
+        "conversation_id": "1963628160563462234",
+        "created_at": "2025-09-04T15:40:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T16:40:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963628160563462234"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 93,
+              "start": 86,
+              "tag": "NewPSG"
+            },
+            {
+              "end": 102,
+              "start": 94,
+              "tag": "Newパンスト"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "4733877553",
+              "start": 3,
+              "username": "kmttta"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/34xlPkwoba",
+              "end": 126,
+              "expanded_url": "https://x.com/kmttta/status/1963294473322205621/photo/1",
+              "media_key": "3_1963294466460323842",
+              "start": 103,
+              "url": "https://t.co/34xlPkwoba"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963628160563462234",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3084
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963294473322205621",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kmttta: パンスト9話Bパート(EP20🐊)\n作監で参加させていただきました🤜🤛\nご参加いただいた皆様にたくさん助けていただきまして・・・心から感謝・・・！\n#NewPSG #Newパンスト https://t.co/34xlPkwoba"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963294466460323842"
+          ]
+        },
+        "author_id": "4733877553",
+        "conversation_id": "1963294473322205621",
+        "created_at": "2025-09-03T17:34:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T18:34:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963294473322205621"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 81,
+              "start": 74,
+              "tag": "NewPSG"
+            },
+            {
+              "end": 90,
+              "start": 82,
+              "tag": "Newパンスト"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/34xlPkwoba",
+              "end": 114,
+              "expanded_url": "https://x.com/kmttta/status/1963294473322205621/photo/1",
+              "media_key": "3_1963294466460323842",
+              "start": 91,
+              "url": "https://t.co/34xlPkwoba"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963294473322205621",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1905,
+          "impression_count": 422443,
+          "like_count": 19352,
+          "quote_count": 66,
+          "reply_count": 12,
+          "retweet_count": 3084
+        },
+        "reply_settings": "everyone",
+        "text": "パンスト9話Bパート(EP20🐊)\n作監で参加させていただきました🤜🤛\nご参加いただいた皆様にたくさん助けていただきまして・・・心から感謝・・・！\n#NewPSG #Newパンスト https://t.co/34xlPkwoba"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思即我在｜我是林子",
+        "id": "1849043039496617984",
+        "location": "宛平南路600号",
+        "name": "Rinko",
+        "pinned_tweet_id": "1948885822239084580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849043147487420416/0nrEqJTK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295,
+          "following_count": 259,
+          "like_count": 2389,
+          "listed_count": 2,
+          "media_count": 64,
+          "tweet_count": 3576
+        },
+        "username": "Rinko_zero8964",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-09T15:03:49.000Z",
+        "description": "雑多お絵かき／※リクエストは受け付けておりません。／無断転載禁止／Unauthorized reproduction prohibited ／禁止私自转载／무단 전재 금지",
+        "id": "4733877553",
+        "location": "福岡",
+        "name": "あべさん(困)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/832205434127736833/JgW-8zrf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10687,
+          "following_count": 0,
+          "like_count": 127,
+          "listed_count": 118,
+          "media_count": 116,
+          "tweet_count": 289
+        },
+        "username": "kmttta",
+        "verified": false
+      }
+    ]
+  }
+}
