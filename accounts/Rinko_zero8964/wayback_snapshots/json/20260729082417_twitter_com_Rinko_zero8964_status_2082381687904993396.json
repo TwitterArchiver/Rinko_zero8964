@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082381677440225280",
+        "3_2082381677440184320"
+      ]
+    },
+    "author_id": "1849043039496617984",
+    "conversation_id": "2082381687904993396",
+    "created_at": "2026-07-29T08:24:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T09:24:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082381687904993396"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/TilG1f52eT",
+          "end": 26,
+          "expanded_url": "https://x.com/Rinko_zero8964/status/2082381687904993396/photo/1",
+          "media_key": "3_2082381677440225280",
+          "start": 3,
+          "url": "https://t.co/TilG1f52eT"
+        },
+        {
+          "display_url": "pic.x.com/TilG1f52eT",
+          "end": 26,
+          "expanded_url": "https://x.com/Rinko_zero8964/status/2082381687904993396/photo/1",
+          "media_key": "3_2082381677440184320",
+          "start": 3,
+          "url": "https://t.co/TilG1f52eT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082381687904993396",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "人？ https://t.co/TilG1f52eT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082381677440225280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOYbGkqbUAAv_Yw.jpg",
+        "width": 1066
+      },
+      {
+        "height": 1850,
+        "media_key": "3_2082381677440184320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOYbGkqasAAjGhn.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082381677440225280",
+            "3_2082381677440184320"
+          ]
+        },
+        "author_id": "1849043039496617984",
+        "conversation_id": "2082381687904993396",
+        "created_at": "2026-07-29T08:24:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T09:24:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082381687904993396"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TilG1f52eT",
+              "end": 26,
+              "expanded_url": "https://x.com/Rinko_zero8964/status/2082381687904993396/photo/1",
+              "media_key": "3_2082381677440225280",
+              "start": 3,
+              "url": "https://t.co/TilG1f52eT"
+            },
+            {
+              "display_url": "pic.x.com/TilG1f52eT",
+              "end": 26,
+              "expanded_url": "https://x.com/Rinko_zero8964/status/2082381687904993396/photo/1",
+              "media_key": "3_2082381677440184320",
+              "start": 3,
+              "url": "https://t.co/TilG1f52eT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082381687904993396",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "人？ https://t.co/TilG1f52eT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思う、ゆえに我あり｜ 我是林子｜性别为无、｜寒くなってきたね……もう少しだけ、いい？｜intp-t｜ASD/OCD/焦虑障碍｜🧬今日也想成为biohacker｜好妈妈们@Misaki11137 @loveforeversfy|bro @BelovedUren8964｜vico酱@vicoOci_Olvidar",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 85,
+                "username": "Misaki11137"
+              },
+              {
+                "end": 113,
+                "start": 98,
+                "username": "loveforeversfy"
+              },
+              {
+                "end": 134,
+                "start": 118,
+                "username": "BelovedUren8964"
+              },
+              {
+                "end": 156,
+                "start": 140,
+                "username": "vicoOci_Olvidar"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wakaba_rinko",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wakaba_rinko",
+                "start": 0,
+                "url": "https://t.co/zWqK1n9RJg"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "location": "Ask me any u want→",
+        "name": "Rinko",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 746,
+          "following_count": 696,
+          "like_count": 17509,
+          "listed_count": 1,
+          "media_count": 186,
+          "tweet_count": 8629
+        },
+        "url": "https://t.co/zWqK1n9RJg",
+        "username": "Rinko_zero8964",
+        "verified": false
+      }
+    ]
+  }
+}
