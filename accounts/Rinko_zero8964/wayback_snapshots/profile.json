@@ -1,7 +1,7 @@
 {
   "name": "Rinko",
   "username": "@Rinko_zero8964",
-  "bio": "我思う、ゆえに我あり｜ 我是林子｜性别为无、｜寒くなってきたね……もう少しだけ、いい？｜intp-t｜ASD/OCD/焦虑障碍｜🧬今日也想成为biohacker｜好妈妈们@Misaki11137 @loveforeversfy|bro @BelovedUren8964｜vico酱@vicoOci_Olvidar",
+  "bio": "我思う、ゆえに我あり｜ 我是林子｜性別為無、｜寒くなってきたね……もう少しだけ、いい？｜intp-t｜ASD/OCD/焦虑障碍｜好妈妈们@Misaki11137 @loveforeversfy|bro @BelovedUren8964｜vico酱@vicoOci_Olvidar｜宝宝@PP_Konig",
   "location": "Ask me any u want→",
   "link": "https://ngl.link/wakaba_rinko",
   "avatar": "avatar/avatar.jpg",
@@ -10,24 +10,29 @@
   "bio_entities": {
     "mentions": [
       {
-        "end": 97,
-        "start": 85,
+        "end": 80,
+        "start": 68,
         "username": "Misaki11137"
       },
       {
-        "end": 113,
-        "start": 98,
+        "end": 96,
+        "start": 81,
         "username": "loveforeversfy"
       },
       {
-        "end": 134,
-        "start": 118,
+        "end": 117,
+        "start": 101,
         "username": "BelovedUren8964"
       },
       {
-        "end": 156,
-        "start": 140,
+        "end": 139,
+        "start": 123,
         "username": "vicoOci_Olvidar"
+      },
+      {
+        "end": 151,
+        "start": 142,
+        "username": "PP_Konig"
       }
     ]
   },
