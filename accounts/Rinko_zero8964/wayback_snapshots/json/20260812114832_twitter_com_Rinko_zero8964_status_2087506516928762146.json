@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2083133026352120136",
+    "created_at": "2026-08-12T11:48:32.000Z",
+    "display_text_range": [
+      29,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T12:48:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087506516928762146"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1926833599380115456",
+          "start": 0,
+          "username": "Oksana222RC"
+        },
+        {
+          "end": 28,
+          "id": "1993150970705199108",
+          "start": 13,
+          "username": "Nana_naiiiiiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087506516928762146",
+    "in_reply_to_user_id": "1926833599380115456",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083133026352120136",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Oksana222RC @Nana_naiiiiiii 晚安……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2083133026352120136",
+        "created_at": "2026-08-12T11:48:32.000Z",
+        "display_text_range": [
+          29,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T12:48:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087506516928762146"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1926833599380115456",
+              "start": 0,
+              "username": "Oksana222RC"
+            },
+            {
+              "end": 28,
+              "id": "1993150970705199108",
+              "start": 13,
+              "username": "Nana_naiiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087506516928762146",
+        "in_reply_to_user_id": "1926833599380115456",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083133026352120136",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oksana222RC @Nana_naiiiiiii 晚安……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1926833599380115456",
+        "conversation_id": "2083133026352120136",
+        "created_at": "2026-07-31T10:09:50.000Z",
+        "display_text_range": [
+          0,
+          118
+        ],
+        "edit_controls": {
+          "editable_until": "2026-07-31T11:09:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083133026352120136"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 21,
+              "id": "1993150970705199108",
+              "start": 6,
+              "username": "Nana_naiiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083133026352120136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 101802,
+          "like_count": 240,
+          "quote_count": 22,
+          "reply_count": 69,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "讣告：奈奈（@Nana_naiiiiiii ）已于7月31日00:00左右自杀，宣布死亡。享年17岁。\n\n人世有别，山海长隔。自此以后，风月仍旧，人却不再。唯愿她此去安然，归于更辽阔的宁静；也愿留下的人，在漫长的时间里，学会与思念相处。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思う、ゆえに我あり｜ 我是林子｜性别为无、｜寒くなってきたね……もう少しだけ、いい？｜intp-t｜ASD/OCD/焦虑障碍｜🧬今日也想成为biohacker｜好妈妈们@Misaki11137 @loveforeversfy|bro @BelovedUren8964｜vico酱@vicoOci_Olvidar",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 85,
+                "username": "Misaki11137"
+              },
+              {
+                "end": 113,
+                "start": 98,
+                "username": "loveforeversfy"
+              },
+              {
+                "end": 134,
+                "start": 118,
+                "username": "BelovedUren8964"
+              },
+              {
+                "end": 156,
+                "start": 140,
+                "username": "vicoOci_Olvidar"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wakaba_rinko",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wakaba_rinko",
+                "start": 0,
+                "url": "https://t.co/zWqK1n9RJg"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "is_identity_verified": false,
+        "location": "Ask me any u want→",
+        "most_recent_tweet_id": "2087506516928762146",
+        "name": "Rinko",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1849043039496617984/1757547793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 742,
+          "following_count": 692,
+          "like_count": 17489,
+          "listed_count": 1,
+          "media_count": 186,
+          "tweet_count": 8626
+        },
+        "url": "https://t.co/zWqK1n9RJg",
+        "username": "Rinko_zero8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-26T02:51:52.000Z",
+        "description": "是的我是Oksana💊。\n逃避追杀于是创立第二人格。\n合法非列管手搓美妙物质在售中！\n又炸了的大号：@jinggebiezhuaw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "jinggebiezhuaw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Oksana_132435",
+                "end": 23,
+                "expanded_url": "https://t.me/Oksana_132435",
+                "start": 0,
+                "url": "https://t.co/IFUNqxLmpa"
+              }
+            ]
+          }
+        },
+        "id": "1926833599380115456",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086466202487210102",
+        "name": "Oksana的神秘实验室（2.0）",
+        "pinned_tweet_id": "2081270223311872053",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1926833599380115456/1784115800",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057888157048406016/ecYmVfoo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 523,
+          "following_count": 38,
+          "like_count": 96,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 49
+        },
+        "url": "https://t.co/IFUNqxLmpa",
+        "username": "Oksana222RC",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "description": "对不起\n我爱你",
+        "id": "1993150970705199108",
+        "is_identity_verified": false,
+        "location": "Shibuya-ku, Tokyo",
+        "most_recent_tweet_id": "2083509798104887575",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1993150970705199108/1776585751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2308,
+          "following_count": 317,
+          "like_count": 24674,
+          "listed_count": 5,
+          "media_count": 165,
+          "tweet_count": 1893
+        },
+        "url": "",
+        "username": "Nana_naiiiiiii",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
