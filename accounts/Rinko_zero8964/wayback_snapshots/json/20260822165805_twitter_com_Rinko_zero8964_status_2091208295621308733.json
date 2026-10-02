@@ -1,0 +1,380 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2091208295621308733",
+    "created_at": "2026-08-22T16:58:05.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T17:58:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091208295621308733"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1771182467128635392",
+          "start": 3,
+          "username": "PP_Konig"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091208295621308733",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091178185270632648",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PP_Konig: 饭钱住宿费 生活打点 情绪价值 我对你和你对象 蹭我的药我的🥥 你对象来整我 然后你就杀我没有道歉  告诉你小时候的事 你和我哭 我记得你住院照顾我 我一直在想它相处给他买了他喜欢的和画画纸笔我也没有不尊重过它 你们就这样好笑 如果朋友没告诉我 那我…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2091178175154003968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQVbeIQaoAAIgXA.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2091178175149813760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQVbeIPasAAKUMh.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2091178175149858817",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQVbeIPbYAEdOCQ.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2091178175158169600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQVbeIRaMAAwwPY.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2091208295621308733",
+        "created_at": "2026-08-22T16:58:05.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T17:58:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091208295621308733"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1771182467128635392",
+              "start": 3,
+              "username": "PP_Konig"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091208295621308733",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091178185270632648",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PP_Konig: 饭钱住宿费 生活打点 情绪价值 我对你和你对象 蹭我的药我的🥥 你对象来整我 然后你就杀我没有道歉  告诉你小时候的事 你和我哭 我记得你住院照顾我 我一直在想它相处给他买了他喜欢的和画画纸笔我也没有不尊重过它 你们就这样好笑 如果朋友没告诉我 那我…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091178175154003968",
+            "3_2091178175149813760",
+            "3_2091178175149858817",
+            "3_2091178175158169600"
+          ]
+        },
+        "author_id": "1771182467128635392",
+        "conversation_id": "2091178185270632648",
+        "created_at": "2026-08-22T14:58:26.000Z",
+        "display_text_range": [
+          0,
+          158
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T15:58:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091178185270632648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 141,
+              "id": "1853293374889136128",
+              "start": 130,
+              "username": "gimanother"
+            },
+            {
+              "end": 158,
+              "id": "1951181920022437889",
+              "start": 142,
+              "username": "blackdoginmyhed"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/59SEEVkiam",
+              "end": 182,
+              "expanded_url": "https://x.com/PP_Konig/status/2091178185270632648/photo/1",
+              "media_key": "3_2091178175154003968",
+              "start": 159,
+              "url": "https://t.co/59SEEVkiam"
+            },
+            {
+              "display_url": "pic.x.com/59SEEVkiam",
+              "end": 182,
+              "expanded_url": "https://x.com/PP_Konig/status/2091178185270632648/photo/1",
+              "media_key": "3_2091178175149813760",
+              "start": 159,
+              "url": "https://t.co/59SEEVkiam"
+            },
+            {
+              "display_url": "pic.x.com/59SEEVkiam",
+              "end": 182,
+              "expanded_url": "https://x.com/PP_Konig/status/2091178185270632648/photo/1",
+              "media_key": "3_2091178175149858817",
+              "start": 159,
+              "url": "https://t.co/59SEEVkiam"
+            },
+            {
+              "display_url": "pic.x.com/59SEEVkiam",
+              "end": 182,
+              "expanded_url": "https://x.com/PP_Konig/status/2091178185270632648/photo/1",
+              "media_key": "3_2091178175158169600",
+              "start": 159,
+              "url": "https://t.co/59SEEVkiam"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091178185270632648",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091178175154003968"
+          },
+          {
+            "media_key": "3_2091178175149813760"
+          },
+          {
+            "media_key": "3_2091178175149858817"
+          },
+          {
+            "media_key": "3_2091178175158169600"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 146,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "饭钱住宿费 生活打点 情绪价值 我对你和你对象 蹭我的药我的🥥 你对象来整我 然后你就杀我没有道歉  告诉你小时候的事 你和我哭 我记得你住院照顾我 我一直在想它相处给他买了他喜欢的和画画纸笔我也没有不尊重过它 你们就这样好笑 如果朋友没告诉我 那我都不知道 @gimanother @blackdoginmyhed https://t.co/59SEEVkiam"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思う、ゆえに我あり｜ 我是林子｜性別為無、｜寒くなってきたね……もう少しだけ、いい？｜intp-t｜ASD/OCD/焦虑障碍｜好妈妈们@Misakinae37 @loveforeversfy|bro @BelovedUren8964｜vico酱@vicoOci_Olvidar｜宝宝@PP_Konig",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 68,
+                "username": "Misakinae37"
+              },
+              {
+                "end": 96,
+                "start": 81,
+                "username": "loveforeversfy"
+              },
+              {
+                "end": 117,
+                "start": 101,
+                "username": "BelovedUren8964"
+              },
+              {
+                "end": 139,
+                "start": 123,
+                "username": "vicoOci_Olvidar"
+              },
+              {
+                "end": 151,
+                "start": 142,
+                "username": "PP_Konig"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wakaba_rinko",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wakaba_rinko",
+                "start": 0,
+                "url": "https://t.co/zWqK1n9jTI"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "is_identity_verified": false,
+        "location": "Ask me any u want→",
+        "most_recent_tweet_id": "2091208295621308733",
+        "name": "Rinko",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1849043039496617984/1757547793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 741,
+          "following_count": 701,
+          "like_count": 17508,
+          "listed_count": 1,
+          "media_count": 187,
+          "tweet_count": 8636
+        },
+        "url": "https://t.co/zWqK1n9jTI",
+        "username": "Rinko_zero8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-22T14:29:56.000Z",
+        "description": "they 立场温和 有些绝望 喜欢游戏 动画片 饲养照顾宠物 烹饪拍摄 药物知识 自我治疗精神病中 随你喜好 叫我盐 肉鸦 都可以 妹妹@Rinko_zero8964女儿@Ace_purin好ro友@qngshu988723424",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 68,
+                "username": "Rinko_zero8964"
+              },
+              {
+                "end": 95,
+                "start": 85,
+                "username": "Ace_purin"
+              },
+              {
+                "end": 115,
+                "start": 99,
+                "username": "qngshu988723424"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+cLa7Bq6d2Hw0Z…",
+                "end": 23,
+                "expanded_url": "https://t.me/+cLa7Bq6d2Hw0ZGZl",
+                "start": 0,
+                "url": "https://t.co/wDoKzriQ9u"
+              }
+            ]
+          }
+        },
+        "id": "1771182467128635392",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091206885756330067",
+        "name": "鹽momiji🐦‍⬛",
+        "pinned_tweet_id": "2082970433289408754",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1771182467128635392/1756391074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091083541866336257/TSlO_YLF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 225,
+          "like_count": 1437,
+          "listed_count": 1,
+          "media_count": 269,
+          "tweet_count": 3301
+        },
+        "url": "https://t.co/wDoKzriQ9u",
+        "username": "PP_Konig",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849043039496617984",
+    "conversation_id": "2100847932794912969",
+    "created_at": "2026-09-18T07:22:33.000Z",
+    "display_text_range": [
+      0,
+      9
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T08:22:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100847932794912969"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/misakinae37/st…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/misakinae37/status/2100761655416377528",
+          "start": 10,
+          "url": "https://t.co/0gkln2biRW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100847932794912969",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100761655416377528",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "偷我生活来的这个人 https://t.co/0gkln2biRW"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849043039496617984",
+        "conversation_id": "2100847932794912969",
+        "created_at": "2026-09-18T07:22:33.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T08:22:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100847932794912969"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/misakinae37/st…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/misakinae37/status/2100761655416377528",
+              "start": 10,
+              "url": "https://t.co/0gkln2biRW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100847932794912969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100761655416377528",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "偷我生活来的这个人 https://t.co/0gkln2biRW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2083292041057120256",
+        "conversation_id": "2100761655416377528",
+        "created_at": "2026-09-18T01:39:43.000Z",
+        "display_text_range": [
+          0,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T02:39:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100761655416377528"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100761655416377528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1729,
+          "like_count": 36,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "怎么会有大学室友不抽烟不喝酒不od不打游戏甚至也不怎么吃饭每天就在那聊天玩啊，这生活是不是有点太无聊了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思う、ゆえに我あり｜ 我是林子｜性別為無、｜寒くなってきたね……もう少しだけ、いい？｜intp-t｜ASD/OCD/焦虑障碍｜好妈妈们@Misakinae37 @loveforeversfy|bro @BelovedUren8964｜vico酱@vicoOci_Olvidar｜宝宝@PP_Konig",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 68,
+                "username": "Misakinae37"
+              },
+              {
+                "end": 96,
+                "start": 81,
+                "username": "loveforeversfy"
+              },
+              {
+                "end": 117,
+                "start": 101,
+                "username": "BelovedUren8964"
+              },
+              {
+                "end": 139,
+                "start": 123,
+                "username": "vicoOci_Olvidar"
+              },
+              {
+                "end": 151,
+                "start": 142,
+                "username": "PP_Konig"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wakaba_rinko",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wakaba_rinko",
+                "start": 0,
+                "url": "https://t.co/zWqK1n9jTI"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "is_identity_verified": false,
+        "location": "Ask me any u want→",
+        "most_recent_tweet_id": "2100847932794912969",
+        "name": "Rinko",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1849043039496617984/1757547793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 766,
+          "following_count": 708,
+          "like_count": 17607,
+          "listed_count": 1,
+          "media_count": 191,
+          "tweet_count": 8676
+        },
+        "url": "https://t.co/zWqK1n9jTI",
+        "username": "Rinko_zero8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-31T20:45:50.000Z",
+        "description": "我就是我呀，一条区区",
+        "id": "2083292041057120256",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100845512664707076",
+        "name": "三崎南枳",
+        "pinned_tweet_id": "2086697575399473286",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083293219786559488/D_PmG2-k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 250,
+          "like_count": 2286,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 511
+        },
+        "url": "",
+        "username": "misakinae37",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,371 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2101816344178049024"
+      ],
+      "media_source_tweet_id": [
+        "2101816373982691423"
+      ]
+    },
+    "author_id": "1849043039496617984",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2102046963286130783",
+    "created_at": "2026-09-21T14:47:04.000Z",
+    "display_text_range": [
+      0,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T15:47:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102046963286130783"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1947084615279124484",
+          "start": 3,
+          "username": "L337Lolz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KvxKggvmOL",
+          "end": 42,
+          "expanded_url": "https://x.com/L337Lolz/status/2101816373982691423/video/1",
+          "media_key": "13_2101816344178049024",
+          "start": 19,
+          "url": "https://t.co/KvxKggvmOL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102046963286130783",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "13_2101816344178049024"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6866
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101816373982691423",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @L337Lolz: 🤣🤣🤣🔥 https://t.co/KvxKggvmOL"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 66130,
+        "height": 1022,
+        "media_key": "13_2101816344178049024",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2101816344178049024/img/1TmOVeYMT91IZDCm.jpg",
+        "public_metrics": {
+          "view_count": 1070980
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101816344178049024/vid/avc1/320x566/2peoA_aR0gs37ZGb.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101816344178049024/vid/avc1/480x850/eThIeMjNVf2uaeAo.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101816344178049024/vid/avc1/576x1022/mgrOgFuye28wqT3N.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2101816344178049024/pl/SvwZ_WUXEMVVZ03X.m3u8?v=502"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2101816344178049024"
+          ],
+          "media_source_tweet_id": [
+            "2101816373982691423"
+          ]
+        },
+        "author_id": "1849043039496617984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2102046963286130783",
+        "created_at": "2026-09-21T14:47:04.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T15:47:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102046963286130783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1947084615279124484",
+              "start": 3,
+              "username": "L337Lolz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KvxKggvmOL",
+              "end": 42,
+              "expanded_url": "https://x.com/L337Lolz/status/2101816373982691423/video/1",
+              "media_key": "13_2101816344178049024",
+              "start": 19,
+              "url": "https://t.co/KvxKggvmOL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102046963286130783",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "13_2101816344178049024"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6866
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101816373982691423",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @L337Lolz: 🤣🤣🤣🔥 https://t.co/KvxKggvmOL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2101816344178049024"
+          ]
+        },
+        "author_id": "1947084615279124484",
+        "conversation_id": "2101816373982691423",
+        "created_at": "2026-09-20T23:30:48.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T00:30:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101816373982691423"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KvxKggvmOL",
+              "end": 28,
+              "expanded_url": "https://x.com/L337Lolz/status/2101816373982691423/video/1",
+              "media_key": "13_2101816344178049024",
+              "start": 5,
+              "url": "https://t.co/KvxKggvmOL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101816373982691423",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "13_2101816344178049024"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12855,
+          "impression_count": 2199458,
+          "like_count": 52667,
+          "quote_count": 436,
+          "reply_count": 324,
+          "retweet_count": 6866
+        },
+        "reply_settings": "everyone",
+        "text": "🤣🤣🤣🔥 https://t.co/KvxKggvmOL"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-23T10:59:58.000Z",
+        "description": "我思う、ゆえに我あり｜ 我是林子｜性別為無、｜寒くなってきたね……もう少しだけ、いい？｜intp-t｜ASD/OCD/焦虑障碍｜好妈妈们@Misakinae37 @loveforeversfy|bro @BelovedUren8964｜vico酱@vicoOci_Olvidar｜宝宝@PP_Konig",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 68,
+                "username": "Misakinae37"
+              },
+              {
+                "end": 96,
+                "start": 81,
+                "username": "loveforeversfy"
+              },
+              {
+                "end": 117,
+                "start": 101,
+                "username": "BelovedUren8964"
+              },
+              {
+                "end": 139,
+                "start": 123,
+                "username": "vicoOci_Olvidar"
+              },
+              {
+                "end": 151,
+                "start": 142,
+                "username": "PP_Konig"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wakaba_rinko",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wakaba_rinko",
+                "start": 0,
+                "url": "https://t.co/zWqK1n9jTI"
+              }
+            ]
+          }
+        },
+        "id": "1849043039496617984",
+        "is_identity_verified": false,
+        "location": "Ask me any u want→",
+        "most_recent_tweet_id": "2102046963286130783",
+        "name": "Rinko",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1849043039496617984/1757547793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 784,
+          "following_count": 739,
+          "like_count": 17770,
+          "listed_count": 1,
+          "media_count": 196,
+          "tweet_count": 8729
+        },
+        "url": "https://t.co/zWqK1n9jTI",
+        "username": "Rinko_zero8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-21T00:02:25.000Z",
+        "description": "Fluent in Emoji | Shitposter | Pepe’s parole officer | Your timeline’s designated villain | Disrupter of System’s | Followed by “My Alt”",
+        "id": "1947084615279124484",
+        "is_identity_verified": false,
+        "location": "Rtardia",
+        "most_recent_tweet_id": "2102035465306046484",
+        "name": "TehLolz",
+        "pinned_tweet_id": "2101816373982691423",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1947084615279124484/1789504298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083936661595893760/o2nVHJyU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1273,
+          "following_count": 509,
+          "like_count": 27403,
+          "listed_count": 4,
+          "media_count": 3229,
+          "tweet_count": 17826
+        },
+        "url": "",
+        "username": "L337Lolz",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
